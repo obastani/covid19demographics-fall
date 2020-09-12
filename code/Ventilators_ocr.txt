@@ -1,0 +1,17 @@
+Ventilators Currently in Hospitals
+
+3,500
+3,000
+2,500
+2,000
+
+3,404
+1,500
+1,000
+
+ae 7a
+0
+
+Total number of ventilators in reporting hospitals
+
+m Patients currently on a ventilator (not COVID-19 specific)

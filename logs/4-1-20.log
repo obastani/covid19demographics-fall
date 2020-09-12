@@ -1,0 +1,61 @@
+Running AR: Success!
+Running CA: Success!
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=1078053222972-c6ntsosqqbc7epbkt42jvj9mhslr248i.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+Running CO: Success!
+Running CT: Success!
+Running DC: Success!
+Running DE: Success!
+Running FL: Success!
+Running GA: Failure!
+Out of bounds nanosecond timestamp: 20-04-01 00:00:00
+Running GU: Success!
+Running IA: Success!
+Running ID: Failure!
+list index out of range
+Running IN: Success!
+Running LA: Success!
+Running MA: Success!
+Running MD: Failure!
+Out of bounds nanosecond timestamp: 20-04-01 00:00:00
+Running ME: Success!
+Running MI: Failure!
+Out of bounds nanosecond timestamp: 20-04-01 00:00:00
+Running MO: Success!
+Running MS: Failure!
+
+Running MT: Success!
+Running NC: Failure!
+invalid literal for int() with base 10: ''
+Running ND: Success!
+Running NV: Success!
+Running OH: Success!
+Running OK: Failure!
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)>
+Running OR: Success!
+Running PA: Failure!
+Out of bounds nanosecond timestamp: 20-04-01 00:00:00
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=1078053222972-c6ntsosqqbc7epbkt42jvj9mhslr248i.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+Running RI: Success!
+Running SC: Failure!
+
+Running SD: Success!
+Running TN: Success!
+Running VA: Failure!
+Multiple report dates in VA
+Running WA: Failure!
+'results'
+curl https://www.dhs.wisconsin.gov/sites/default/files/styles/large/public/covid-19-age-chart.png?itok=husFVYO1 > ../WI/raw/age_2020-04-01_20:08:56.594468.png
+curl https://www.dhs.wisconsin.gov/sites/default/files/styles/large/public/covid-19-gender-chart.png?itok=jlPjRKqa > ../WI/raw/gender_2020-04-01_20:08:56.594468.png
+Running WI: Success!
+Running WY: Failure!
+Message: 
+
+Failed states: GA, ID, MD, MI, MS, NC, OK, PA, SC, VA, WA, WY

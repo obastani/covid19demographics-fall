@@ -1,0 +1,3809 @@
+Column Name,Scrape Time,State,Value
+# Cases Age [0-19],April 15,MO,112
+# Cases Age [20-24],April 15,MO,311
+# Cases Age [25-29],April 15,MO,333
+# Cases Age [30-34],April 15,MO,313
+# Cases Age [35-39],April 15,MO,304
+# Cases Age [40-44],April 15,MO,363
+# Cases Age [45-49],April 15,MO,431
+# Cases Age [50-54],April 15,MO,480
+# Cases Age [55-59],April 15,MO,510
+# Cases Age [60-64],April 15,MO,489
+# Cases Age [65-69],April 15,MO,385
+# Cases Age [70-74],April 15,MO,274.0
+# Cases Age [75-79],April 15,MO,215.0
+# Cases Age [80+],April 15,MO,370.0
+# Cases Age [Unknown],April 15,MO,nan
+# Cases Age [0-19],April 14,MO,109
+# Cases Age [20-24],April 14,MO,295
+# Cases Age [25-29],April 14,MO,317
+# Cases Age [30-34],April 14,MO,300
+# Cases Age [35-39],April 14,MO,294
+# Cases Age [40-44],April 14,MO,349
+# Cases Age [45-49],April 14,MO,411
+# Cases Age [50-54],April 14,MO,468
+# Cases Age [55-59],April 14,MO,493
+# Cases Age [60-64],April 14,MO,467
+# Cases Age [65-69],April 14,MO,365
+# Cases Age [70-74],April 14,MO,269.0
+# Cases Age [75-79],April 14,MO,203.0
+# Cases Age [80+],April 14,MO,342.0
+# Cases Age [Unknown],April 14,MO,4.0
+# Cases Age [0-19],April 13,MO,100
+# Cases Age [20-24],April 13,MO,281
+# Cases Age [25-29],April 13,MO,301
+# Cases Age [30-34],April 13,MO,280
+# Cases Age [35-39],April 13,MO,280
+# Cases Age [40-44],April 13,MO,328
+# Cases Age [45-49],April 13,MO,382
+# Cases Age [50-54],April 13,MO,439
+# Cases Age [55-59],April 13,MO,459
+# Cases Age [60-64],April 13,MO,445
+# Cases Age [65-69],April 13,MO,346
+# Cases Age [70-74],April 13,MO,257.0
+# Cases Age [75-79],April 13,MO,185.0
+# Cases Age [80+],April 13,MO,301.0
+# Cases Age [Unknown],April 13,MO,4.0
+# Cases Age [0-19],April 12,MO,95
+# Cases Age [20-24],April 12,MO,269
+# Cases Age [25-29],April 12,MO,290
+# Cases Age [30-34],April 12,MO,262
+# Cases Age [35-39],April 12,MO,264
+# Cases Age [40-44],April 12,MO,309
+# Cases Age [45-49],April 12,MO,368
+# Cases Age [50-54],April 12,MO,419
+# Cases Age [55-59],April 12,MO,450
+# Cases Age [60-64],April 12,MO,417
+# Cases Age [65-69],April 12,MO,328
+# Cases Age [70-74],April 12,MO,243.0
+# Cases Age [75-79],April 12,MO,169.0
+# Cases Age [80+],April 12,MO,274.0
+# Cases Age [Unknown],April 12,MO,3.0
+# Cases Age [0-19],April 11,MO,94
+# Cases Age [20-24],April 11,MO,265
+# Cases Age [25-29],April 11,MO,279
+# Cases Age [30-34],April 11,MO,255
+# Cases Age [35-39],April 11,MO,256
+# Cases Age [40-44],April 11,MO,301
+# Cases Age [45-49],April 11,MO,356
+# Cases Age [50-54],April 11,MO,406
+# Cases Age [55-59],April 11,MO,440
+# Cases Age [60-64],April 11,MO,398
+# Cases Age [65-69],April 11,MO,317
+# Cases Age [70-74],April 11,MO,234.0
+# Cases Age [75-79],April 11,MO,161.0
+# Cases Age [80+],April 11,MO,259.0
+# Cases Age [Unknown],April 11,MO,3.0
+# Cases Age [0-19],April 10,MO,87
+# Cases Age [20-24],April 10,MO,253
+# Cases Age [25-29],April 10,MO,265
+# Cases Age [30-34],April 10,MO,241
+# Cases Age [35-39],April 10,MO,235
+# Cases Age [40-44],April 10,MO,284
+# Cases Age [45-49],April 10,MO,329
+# Cases Age [50-54],April 10,MO,383
+# Cases Age [55-59],April 10,MO,416
+# Cases Age [60-64],April 10,MO,379
+# Cases Age [65-69],April 10,MO,306
+# Cases Age [70-74],April 10,MO,223.0
+# Cases Age [75-79],April 10,MO,150.0
+# Cases Age [80+],April 10,MO,245.0
+# Cases Age [Unknown],April 10,MO,3.0
+# Cases Age [0-19],April 9,MO,81
+# Cases Age [20-24],April 9,MO,230
+# Cases Age [25-29],April 9,MO,244
+# Cases Age [30-34],April 9,MO,224
+# Cases Age [35-39],April 9,MO,223
+# Cases Age [40-44],April 9,MO,263
+# Cases Age [45-49],April 9,MO,301
+# Cases Age [50-54],April 9,MO,358
+# Cases Age [55-59],April 9,MO,386
+# Cases Age [60-64],April 9,MO,360
+# Cases Age [65-69],April 9,MO,283
+# Cases Age [70-74],April 9,MO,212.0
+# Cases Age [75-79],April 9,MO,139.0
+# Cases Age [80+],April 9,MO,232.0
+# Cases Age [Unknown],April 9,MO,3.0
+# Cases Age [0-19],April 8,MO,82
+# Cases Age [20-24],April 8,MO,225
+# Cases Age [25-29],April 8,MO,229
+# Cases Age [30-34],April 8,MO,208
+# Cases Age [35-39],April 8,MO,207
+# Cases Age [40-44],April 8,MO,249
+# Cases Age [45-49],April 8,MO,283
+# Cases Age [50-54],April 8,MO,343
+# Cases Age [55-59],April 8,MO,363
+# Cases Age [60-64],April 8,MO,334
+# Cases Age [65-69],April 8,MO,262
+# Cases Age [70-74],April 8,MO,202.0
+# Cases Age [75-79],April 8,MO,132.0
+# Cases Age [80+],April 8,MO,205.0
+# Cases Age [Unknown],April 8,MO,3.0
+# Cases Age [0-19],April 7,MO,76
+# Cases Age [20-24],April 7,MO,212
+# Cases Age [25-29],April 7,MO,211
+# Cases Age [30-34],April 7,MO,193
+# Cases Age [35-39],April 7,MO,191
+# Cases Age [40-44],April 7,MO,233
+# Cases Age [45-49],April 7,MO,260
+# Cases Age [50-54],April 7,MO,322
+# Cases Age [55-59],April 7,MO,337
+# Cases Age [60-64],April 7,MO,307
+# Cases Age [65-69],April 7,MO,237
+# Cases Age [70-74],April 7,MO,173.0
+# Cases Age [75-79],April 7,MO,113.0
+# Cases Age [80+],April 7,MO,169.0
+# Cases Age [Unknown],April 7,MO,3.0
+# Cases Age [0-19],April 6,MO,63
+# Cases Age [20-24],April 6,MO,201
+# Cases Age [25-29],April 6,MO,183
+# Cases Age [30-34],April 6,MO,175
+# Cases Age [35-39],April 6,MO,171
+# Cases Age [40-44],April 6,MO,212
+# Cases Age [45-49],April 6,MO,230
+# Cases Age [50-54],April 6,MO,285
+# Cases Age [55-59],April 6,MO,302
+# Cases Age [60-64],April 6,MO,277
+# Cases Age [65-69],April 6,MO,215
+# Cases Age [70-74],April 6,MO,153.0
+# Cases Age [75-79],April 6,MO,103.0
+# Cases Age [80+],April 6,MO,149.0
+# Cases Age [Unknown],April 6,MO,3.0
+# Cases Age [0-19],April 5,MO,56
+# Cases Age [20-24],April 5,MO,186
+# Cases Age [25-29],April 5,MO,163
+# Cases Age [30-34],April 5,MO,159
+# Cases Age [35-39],April 5,MO,149
+# Cases Age [40-44],April 5,MO,178
+# Cases Age [45-49],April 5,MO,199
+# Cases Age [50-54],April 5,MO,243
+# Cases Age [55-59],April 5,MO,259
+# Cases Age [60-64],April 5,MO,230
+# Cases Age [65-69],April 5,MO,183
+# Cases Age [70-74],April 5,MO,137.0
+# Cases Age [75-79],April 5,MO,87.0
+# Cases Age [80+],April 5,MO,134.0
+# Cases Age [Unknown],April 5,MO,4.0
+# Cases Age [0-19],April 4,MO,54
+# Cases Age [20-24],April 4,MO,179
+# Cases Age [25-29],April 4,MO,158
+# Cases Age [30-34],April 4,MO,150
+# Cases Age [35-39],April 4,MO,148
+# Cases Age [40-44],April 4,MO,174
+# Cases Age [45-49],April 4,MO,193
+# Cases Age [50-54],April 4,MO,240
+# Cases Age [55-59],April 4,MO,252
+# Cases Age [60-64],April 4,MO,222
+# Cases Age [65-69],April 4,MO,180
+# Cases Age [70-74],April 4,MO,129.0
+# Cases Age [75-79],April 4,MO,85.0
+# Cases Age [80+],April 4,MO,125.0
+# Cases Age [Unknown],April 4,MO,2.0
+# Cases Age [0-19],April 3,MO,53
+# Cases Age [20-24],April 3,MO,167
+# Cases Age [25-29],April 3,MO,141
+# Cases Age [30-34],April 3,MO,144
+# Cases Age [35-39],April 3,MO,134
+# Cases Age [40-44],April 3,MO,164
+# Cases Age [45-49],April 3,MO,179
+# Cases Age [50-54],April 3,MO,224
+# Cases Age [55-59],April 3,MO,226
+# Cases Age [60-64],April 3,MO,203
+# Cases Age [65-69],April 3,MO,167
+# Cases Age [70-74],April 3,MO,120.0
+# Cases Age [75-79],April 3,MO,75.0
+# Cases Age [80+],April 3,MO,116.0
+# Cases Age [Unknown],April 3,MO,0.0
+# Cases Age [0-19],April 2,MO,50
+# Cases Age [20-24],April 2,MO,154
+# Cases Age [25-29],April 2,MO,124
+# Cases Age [30-34],April 2,MO,123
+# Cases Age [35-39],April 2,MO,113
+# Cases Age [40-44],April 2,MO,141
+# Cases Age [45-49],April 2,MO,157
+# Cases Age [50-54],April 2,MO,191
+# Cases Age [55-59],April 2,MO,185
+# Cases Age [60-64],April 2,MO,179
+# Cases Age [65-69],April 2,MO,144
+# Cases Age [70-74],April 2,MO,109.0
+# Cases Age [75-79],April 2,MO,62.0
+# Cases Age [80+],April 2,MO,101.0
+# Cases Age [Unknown],April 2,MO,0.0
+# Cases Age [0-19],April 1,MO,47
+# Cases Age [20-24],April 1,MO,139
+# Cases Age [25-29],April 1,MO,106
+# Cases Age [30-34],April 1,MO,101
+# Cases Age [35-39],April 1,MO,103
+# Cases Age [40-44],April 1,MO,120
+# Cases Age [45-49],April 1,MO,137
+# Cases Age [50-54],April 1,MO,172
+# Cases Age [55-59],April 1,MO,163
+# Cases Age [60-64],April 1,MO,152
+# Cases Age [65-69],April 1,MO,114
+# Cases Age [70-74],April 1,MO,93.0
+# Cases Age [75-79],April 1,MO,47.0
+# Cases Age [80+],April 1,MO,87.0
+# Cases Age [Unknown],April 1,MO,0.0
+# Cases Age [0-19],March 31,MO,43
+# Cases Age [20-24],March 31,MO,124
+# Cases Age [25-29],March 31,MO,88
+# Cases Age [30-34],March 31,MO,82
+# Cases Age [35-39],March 31,MO,88
+# Cases Age [40-44],March 31,MO,98
+# Cases Age [45-49],March 31,MO,119
+# Cases Age [50-54],March 31,MO,141
+# Cases Age [55-59],March 31,MO,147
+# Cases Age [60-64],March 31,MO,125
+# Cases Age [65-69],March 31,MO,87
+# Cases Age [70-74],March 31,MO,74.0
+# Cases Age [75-79],March 31,MO,40.0
+# Cases Age [80+],March 31,MO,71.0
+# Cases Age [Unknown],March 31,MO,0.0
+# Cases Age [0-19],March 29,MO,26
+# Cases Age [20-24],March 29,MO,91
+# Cases Age [25-29],March 29,MO,74
+# Cases Age [30-34],March 29,MO,65
+# Cases Age [35-39],March 29,MO,69
+# Cases Age [40-44],March 29,MO,71
+# Cases Age [45-49],March 29,MO,65
+# Cases Age [50-54],March 29,MO,104
+# Cases Age [55-59],March 29,MO,91
+# Cases Age [60-64],March 29,MO,85
+# Cases Age [65-69],March 29,MO,47
+# Cases Age [70-74],March 29,MO,45.0
+# Cases Age [75-79],March 29,MO,29.0
+# Cases Age [80+],March 29,MO,40.0
+# Cases Age [Unknown],March 29,MO,1.0
+# Cases Age [0-19],March 28,MO,21
+# Cases Age [20-24],March 28,MO,89
+# Cases Age [25-29],March 28,MO,66
+# Cases Age [30-34],March 28,MO,60
+# Cases Age [35-39],March 28,MO,64
+# Cases Age [40-44],March 28,MO,67
+# Cases Age [45-49],March 28,MO,59
+# Cases Age [50-54],March 28,MO,95
+# Cases Age [55-59],March 28,MO,85
+# Cases Age [60-64],March 28,MO,79
+# Cases Age [65-69],March 28,MO,43
+# Cases Age [70-74],March 28,MO,43.0
+# Cases Age [75-79],March 28,MO,29.0
+# Cases Age [80+],March 28,MO,38.0
+# Cases Age [Unknown],March 28,MO,0.0
+# Cases Age [0-19],April 16,MO,122
+# Cases Age [20-24],April 16,MO,324
+# Cases Age [25-29],April 16,MO,347
+# Cases Age [30-34],April 16,MO,325
+# Cases Age [35-39],April 16,MO,319
+# Cases Age [40-44],April 16,MO,376
+# Cases Age [45-49],April 16,MO,444
+# Cases Age [50-54],April 16,MO,499
+# Cases Age [55-59],April 16,MO,531
+# Cases Age [60-64],April 16,MO,504
+# Cases Age [65-69],April 16,MO,397
+# Cases Age [70-74],April 16,MO,288.0
+# Cases Age [75-79],April 16,MO,220.0
+# Cases Age [80+],April 16,MO,411.0
+# Cases Age [Unknown],April 16,MO,4.0
+# Cases Age [0-19],April 17,MO,129
+# Cases Age [20-24],April 17,MO,332
+# Cases Age [25-29],April 17,MO,356
+# Cases Age [30-34],April 17,MO,337
+# Cases Age [35-39],April 17,MO,337
+# Cases Age [40-44],April 17,MO,386
+# Cases Age [45-49],April 17,MO,457
+# Cases Age [50-54],April 17,MO,507
+# Cases Age [55-59],April 17,MO,545
+# Cases Age [60-64],April 17,MO,520
+# Cases Age [65-69],April 17,MO,409
+# Cases Age [70-74],April 17,MO,297.0
+# Cases Age [75-79],April 17,MO,228.0
+# Cases Age [80+],April 17,MO,439.0
+# Cases Age [Unknown],April 17,MO,4.0
+# Cases Age [0-19],April 18,MO,132
+# Cases Age [20-24],April 18,MO,344
+# Cases Age [25-29],April 18,MO,377
+# Cases Age [30-34],April 18,MO,351
+# Cases Age [35-39],April 18,MO,350
+# Cases Age [40-44],April 18,MO,395
+# Cases Age [45-49],April 18,MO,472
+# Cases Age [50-54],April 18,MO,526
+# Cases Age [55-59],April 18,MO,562
+# Cases Age [60-64],April 18,MO,544
+# Cases Age [65-69],April 18,MO,420
+# Cases Age [70-74],April 18,MO,322.0
+# Cases Age [75-79],April 18,MO,241.0
+# Cases Age [80+],April 18,MO,476.0
+# Cases Age [Unknown],April 18,MO,5.0
+# Cases Age [0-19],April 19,MO,135
+# Cases Age [20-24],April 19,MO,348
+# Cases Age [25-29],April 19,MO,391
+# Cases Age [30-34],April 19,MO,363
+# Cases Age [35-39],April 19,MO,367
+# Cases Age [40-44],April 19,MO,405
+# Cases Age [45-49],April 19,MO,484
+# Cases Age [50-54],April 19,MO,528
+# Cases Age [55-59],April 19,MO,577
+# Cases Age [60-64],April 19,MO,553
+# Cases Age [65-69],April 19,MO,427
+# Cases Age [70-74],April 19,MO,327.0
+# Cases Age [75-79],April 19,MO,256.0
+# Cases Age [80+],April 19,MO,496.0
+# Cases Age [Unknown],April 19,MO,10.0
+# Cases Age [0-19],April 20,MO,141
+# Cases Age [20-24],April 20,MO,351
+# Cases Age [25-29],April 20,MO,398
+# Cases Age [30-34],April 20,MO,370
+# Cases Age [35-39],April 20,MO,373
+# Cases Age [40-44],April 20,MO,419
+# Cases Age [45-49],April 20,MO,498
+# Cases Age [50-54],April 20,MO,542
+# Cases Age [55-59],April 20,MO,589
+# Cases Age [60-64],April 20,MO,564
+# Cases Age [65-69],April 20,MO,439
+# Cases Age [70-74],April 20,MO,331.0
+# Cases Age [75-79],April 20,MO,268.0
+# Cases Age [80+],April 20,MO,518.0
+# Cases Age [Unknown],April 20,MO,6.0
+# Cases Age [0-19],April 21,MO,150
+# Cases Age [20-24],April 21,MO,356
+# Cases Age [25-29],April 21,MO,406
+# Cases Age [30-34],April 21,MO,379
+# Cases Age [35-39],April 21,MO,384
+# Cases Age [40-44],April 21,MO,424
+# Cases Age [45-49],April 21,MO,507
+# Cases Age [50-54],April 21,MO,554
+# Cases Age [55-59],April 21,MO,602
+# Cases Age [60-64],April 21,MO,564
+# Cases Age [65-69],April 21,MO,444
+# Cases Age [70-74],April 21,MO,342.0
+# Cases Age [75-79],April 21,MO,276.0
+# Cases Age [80+],April 21,MO,536.0
+# Cases Age [Unknown],April 21,MO,7.0
+# Cases Age [0-19],April 22,MO,155
+# Cases Age [20-24],April 22,MO,365
+# Cases Age [25-29],April 22,MO,414
+# Cases Age [30-34],April 22,MO,389
+# Cases Age [35-39],April 22,MO,402
+# Cases Age [40-44],April 22,MO,431
+# Cases Age [45-49],April 22,MO,528
+# Cases Age [50-54],April 22,MO,567
+# Cases Age [55-59],April 22,MO,619
+# Cases Age [60-64],April 22,MO,597
+# Cases Age [65-69],April 22,MO,458
+# Cases Age [70-74],April 22,MO,355.0
+# Cases Age [75-79],April 22,MO,284.0
+# Cases Age [80+],April 22,MO,565.0
+# Cases Age [Unknown],April 22,MO,8.0
+# Cases Age [0-19],April 23,MO,164
+# Cases Age [20-24],April 23,MO,376
+# Cases Age [25-29],April 23,MO,437
+# Cases Age [30-34],April 23,MO,400
+# Cases Age [35-39],April 23,MO,411
+# Cases Age [40-44],April 23,MO,443
+# Cases Age [45-49],April 23,MO,541
+# Cases Age [50-54],April 23,MO,586
+# Cases Age [55-59],April 23,MO,632
+# Cases Age [60-64],April 23,MO,612
+# Cases Age [65-69],April 23,MO,469
+# Cases Age [70-74],April 23,MO,362.0
+# Cases Age [75-79],April 23,MO,294.0
+# Cases Age [80+],April 23,MO,584.0
+# Cases Age [Unknown],April 23,MO,10.0
+# Cases Age [0-19],April 24,MO,173
+# Cases Age [20-24],April 24,MO,393
+# Cases Age [25-29],April 24,MO,464
+# Cases Age [30-34],April 24,MO,420
+# Cases Age [35-39],April 24,MO,428
+# Cases Age [40-44],April 24,MO,463
+# Cases Age [45-49],April 24,MO,564
+# Cases Age [50-54],April 24,MO,614
+# Cases Age [55-59],April 24,MO,653
+# Cases Age [60-64],April 24,MO,640
+# Cases Age [65-69],April 24,MO,481
+# Cases Age [70-74],April 24,MO,378.0
+# Cases Age [75-79],April 24,MO,309.0
+# Cases Age [80+],April 24,MO,635.0
+# Cases Age [Unknown],April 24,MO,10.0
+# Cases Age [0-19],April 25,MO,180
+# Cases Age [20-24],April 25,MO,398
+# Cases Age [25-29],April 25,MO,471
+# Cases Age [30-34],April 25,MO,426
+# Cases Age [35-39],April 25,MO,437
+# Cases Age [40-44],April 25,MO,481
+# Cases Age [45-49],April 25,MO,582
+# Cases Age [50-54],April 25,MO,628
+# Cases Age [55-59],April 25,MO,672
+# Cases Age [60-64],April 25,MO,660
+# Cases Age [65-69],April 25,MO,492
+# Cases Age [70-74],April 25,MO,396.0
+# Cases Age [75-79],April 25,MO,320.0
+# Cases Age [80+],April 25,MO,674.0
+# Cases Age [Unknown],April 25,MO,9.0
+# Cases Age [0-19],April 26,MO,185
+# Cases Age [20-24],April 26,MO,406
+# Cases Age [25-29],April 26,MO,481
+# Cases Age [30-34],April 26,MO,436
+# Cases Age [35-39],April 26,MO,451
+# Cases Age [40-44],April 26,MO,491
+# Cases Age [45-49],April 26,MO,599
+# Cases Age [50-54],April 26,MO,644
+# Cases Age [55-59],April 26,MO,685
+# Cases Age [60-64],April 26,MO,674
+# Cases Age [65-69],April 26,MO,506
+# Cases Age [70-74],April 26,MO,403.0
+# Cases Age [75-79],April 26,MO,329.0
+# Cases Age [80+],April 26,MO,698.0
+# Cases Age [Unknown],April 26,MO,9.0
+# Cases Age [0-19],April 27,MO,194
+# Cases Age [20-24],April 27,MO,414
+# Cases Age [25-29],April 27,MO,494
+# Cases Age [30-34],April 27,MO,450
+# Cases Age [35-39],April 27,MO,454
+# Cases Age [40-44],April 27,MO,496
+# Cases Age [45-49],April 27,MO,609
+# Cases Age [50-54],April 27,MO,654
+# Cases Age [55-59],April 27,MO,700
+# Cases Age [60-64],April 27,MO,686
+# Cases Age [65-69],April 27,MO,514
+# Cases Age [70-74],April 27,MO,416.0
+# Cases Age [75-79],April 27,MO,338.0
+# Cases Age [80+],April 27,MO,743.0
+# Cases Age [Unknown],April 27,MO,9.0
+# Cases Age [0-19],April 28,MO,197
+# Cases Age [20-24],April 28,MO,419
+# Cases Age [25-29],April 28,MO,502
+# Cases Age [30-34],April 28,MO,461
+# Cases Age [35-39],April 28,MO,460
+# Cases Age [40-44],April 28,MO,503
+# Cases Age [45-49],April 28,MO,622
+# Cases Age [50-54],April 28,MO,666
+# Cases Age [55-59],April 28,MO,713
+# Cases Age [60-64],April 28,MO,697
+# Cases Age [65-69],April 28,MO,524
+# Cases Age [70-74],April 28,MO,421.0
+# Cases Age [75-79],April 28,MO,344.0
+# Cases Age [80+],April 28,MO,764.0
+# Cases Age [Unknown],April 28,MO,10.0
+# Cases Age [0-19],April 29,MO,202
+# Cases Age [20-24],April 29,MO,429
+# Cases Age [25-29],April 29,MO,512
+# Cases Age [30-34],April 29,MO,470
+# Cases Age [35-39],April 29,MO,467
+# Cases Age [40-44],April 29,MO,510
+# Cases Age [45-49],April 29,MO,635
+# Cases Age [50-54],April 29,MO,671
+# Cases Age [55-59],April 29,MO,725
+# Cases Age [60-64],April 29,MO,701
+# Cases Age [65-69],April 29,MO,536
+# Cases Age [70-74],April 29,MO,427.0
+# Cases Age [75-79],April 29,MO,348.0
+# Cases Age [80+],April 29,MO,781.0
+# Cases Age [Unknown],April 29,MO,11.0
+# Cases Age [0-19],May 1,MO,219
+# Cases Age [20-24],May 1,MO,456
+# Cases Age [25-29],May 1,MO,540
+# Cases Age [30-34],May 1,MO,512
+# Cases Age [35-39],May 1,MO,496
+# Cases Age [40-44],May 1,MO,531
+# Cases Age [45-49],May 1,MO,667
+# Cases Age [50-54],May 1,MO,699
+# Cases Age [55-59],May 1,MO,759
+# Cases Age [60-64],May 1,MO,732
+# Cases Age [65-69],May 1,MO,562
+# Cases Age [70-74],May 1,MO,439.0
+# Cases Age [75-79],May 1,MO,361.0
+# Cases Age [80+],May 1,MO,853.0
+# Cases Age [Unknown],May 1,MO,9.0
+# Cases Age [0-19],May 2,MO,230
+# Cases Age [20-24],May 2,MO,470
+# Cases Age [25-29],May 2,MO,556
+# Cases Age [30-34],May 2,MO,532
+# Cases Age [35-39],May 2,MO,513
+# Cases Age [40-44],May 2,MO,557
+# Cases Age [45-49],May 2,MO,691
+# Cases Age [50-54],May 2,MO,724
+# Cases Age [55-59],May 2,MO,787
+# Cases Age [60-64],May 2,MO,760
+# Cases Age [65-69],May 2,MO,592
+# Cases Age [70-74],May 2,MO,460.0
+# Cases Age [75-79],May 2,MO,367.0
+# Cases Age [80+],May 2,MO,907.0
+# Cases Age [Unknown],May 2,MO,8.0
+# Cases Age [0-19],Adair,MO,Jefferson
+# Cases Age [20-24],Adair,MO,Moniteau
+# Cases Age [25-29],Adair,MO,Pemiscot
+# Cases Age [30-34],Adair,MO,Platte
+# Cases Age [35-39],Adair,MO,Scott
+# Cases Age [40-44],Adair,MO,St. Charles(9)
+# Cases Age [45-49],Adair,MO,St. LouisCity(12)
+# Cases Age [50-54],Adair,MO,St. LouisCounty(46)
+# Cases Age [55-59],Adair,MO,nan
+# Cases Age [60-64],Adair,MO,nan
+# Cases Age [65-69],Adair,MO,nan
+# Cases Age [70-74],Adair,MO,nan
+# Cases Age [75-79],Adair,MO,nan
+# Cases Age [80+],Adair,MO,nan
+# Cases Age [Unknown],Adair,MO,nan
+# Cases Age [0-19],May 3,MO,241
+# Cases Age [20-24],May 3,MO,484
+# Cases Age [25-29],May 3,MO,569
+# Cases Age [30-34],May 3,MO,552
+# Cases Age [35-39],May 3,MO,530
+# Cases Age [40-44],May 3,MO,573
+# Cases Age [45-49],May 3,MO,703
+# Cases Age [50-54],May 3,MO,742
+# Cases Age [55-59],May 3,MO,813
+# Cases Age [60-64],May 3,MO,785
+# Cases Age [65-69],May 3,MO,604
+# Cases Age [70-74],May 3,MO,475.0
+# Cases Age [75-79],May 3,MO,376.0
+# Cases Age [80+],May 3,MO,931.0
+# Cases Age [Unknown],May 3,MO,8.0
+# Cases Age [0-19],May 4,MO,256
+# Cases Age [20-24],May 4,MO,509
+# Cases Age [25-29],May 4,MO,596
+# Cases Age [30-34],May 4,MO,589
+# Cases Age [35-39],May 4,MO,570
+# Cases Age [40-44],May 4,MO,602
+# Cases Age [45-49],May 4,MO,735
+# Cases Age [50-54],May 4,MO,774
+# Cases Age [55-59],May 4,MO,848
+# Cases Age [60-64],May 4,MO,817
+# Cases Age [65-69],May 4,MO,621
+# Cases Age [70-74],May 4,MO,489.0
+# Cases Age [75-79],May 4,MO,385.0
+# Cases Age [80+],May 4,MO,952.0
+# Cases Age [Unknown],May 4,MO,11.0
+# Cases Age [0-19],May 5,MO,263
+# Cases Age [20-24],May 5,MO,520
+# Cases Age [25-29],May 5,MO,614
+# Cases Age [30-34],May 5,MO,605
+# Cases Age [35-39],May 5,MO,584
+# Cases Age [40-44],May 5,MO,619
+# Cases Age [45-49],May 5,MO,748
+# Cases Age [50-54],May 5,MO,782
+# Cases Age [55-59],May 5,MO,856
+# Cases Age [60-64],May 5,MO,825
+# Cases Age [65-69],May 5,MO,633
+# Cases Age [70-74],May 5,MO,495.0
+# Cases Age [75-79],May 5,MO,391.0
+# Cases Age [80+],May 5,MO,971.0
+# Cases Age [Unknown],May 5,MO,10.0
+# Cases Age [0-19],May 6,MO,277
+# Cases Age [20-24],May 6,MO,529
+# Cases Age [25-29],May 6,MO,619
+# Cases Age [30-34],May 6,MO,621
+# Cases Age [35-39],May 6,MO,590
+# Cases Age [40-44],May 6,MO,635
+# Cases Age [45-49],May 6,MO,765
+# Cases Age [50-54],May 6,MO,796
+# Cases Age [55-59],May 6,MO,875
+# Cases Age [60-64],May 6,MO,846
+# Cases Age [65-69],May 6,MO,645
+# Cases Age [70-74],May 6,MO,513.0
+# Cases Age [75-79],May 6,MO,394.0
+# Cases Age [80+],May 6,MO,989.0
+# Cases Age [Unknown],May 6,MO,8.0
+# Cases Age [0-19],May 7,MO,285
+# Cases Age [20-24],May 7,MO,542
+# Cases Age [25-29],May 7,MO,639
+# Cases Age [30-34],May 7,MO,634
+# Cases Age [35-39],May 7,MO,603
+# Cases Age [40-44],May 7,MO,649
+# Cases Age [45-49],May 7,MO,776
+# Cases Age [50-54],May 7,MO,809
+# Cases Age [55-59],May 7,MO,891
+# Cases Age [60-64],May 7,MO,858
+# Cases Age [65-69],May 7,MO,670
+# Cases Age [70-74],May 7,MO,527.0
+# Cases Age [75-79],May 7,MO,410.0
+# Cases Age [80+],May 7,MO,1040.0
+# Cases Age [Unknown],May 7,MO,8.0
+# Cases Age [0-19],May 8,MO,289
+# Cases Age [20-24],May 8,MO,553
+# Cases Age [25-29],May 8,MO,650
+# Cases Age [30-34],May 8,MO,645
+# Cases Age [35-39],May 8,MO,618
+# Cases Age [40-44],May 8,MO,662
+# Cases Age [45-49],May 8,MO,786
+# Cases Age [50-54],May 8,MO,816
+# Cases Age [55-59],May 8,MO,896
+# Cases Age [60-64],May 8,MO,871
+# Cases Age [65-69],May 8,MO,677
+# Cases Age [70-74],May 8,MO,533.0
+# Cases Age [75-79],May 8,MO,420.0
+# Cases Age [80+],May 8,MO,1066.0
+# Cases Age [Unknown],May 8,MO,7.0
+# Cases Age [0-19],May 9,MO,304
+# Cases Age [20-24],May 9,MO,566
+# Cases Age [25-29],May 9,MO,663
+# Cases Age [30-34],May 9,MO,664
+# Cases Age [35-39],May 9,MO,638
+# Cases Age [40-44],May 9,MO,683
+# Cases Age [45-49],May 9,MO,797
+# Cases Age [50-54],May 9,MO,823
+# Cases Age [55-59],May 9,MO,912
+# Cases Age [60-64],May 9,MO,878
+# Cases Age [65-69],May 9,MO,687
+# Cases Age [70-74],May 9,MO,539.0
+# Cases Age [75-79],May 9,MO,424.0
+# Cases Age [80+],May 9,MO,1080.0
+# Cases Age [Unknown],May 9,MO,8.0
+# Cases Age [0-19],May 10,MO,nan
+# Cases Age [20-24],May 10,MO,nan
+# Cases Age [25-29],May 10,MO,nan
+# Cases Age [30-34],May 10,MO,nan
+# Cases Age [35-39],May 10,MO,nan
+# Cases Age [40-44],May 10,MO,nan
+# Cases Age [45-49],May 10,MO,nan
+# Cases Age [50-54],May 10,MO,nan
+# Cases Age [55-59],May 10,MO,nan
+# Cases Age [60-64],May 10,MO,nan
+# Cases Age [65-69],May 10,MO,nan
+# Cases Age [70-74],May 10,MO,nan
+# Cases Age [75-79],May 10,MO,nan
+# Cases Age [80+],May 10,MO,nan
+# Cases Age [Unknown],May 10,MO,nan
+# Cases Age [0-19],nan,MO,nan
+# Cases Age [20-24],nan,MO,nan
+# Cases Age [25-29],nan,MO,nan
+# Cases Age [30-34],nan,MO,nan
+# Cases Age [35-39],nan,MO,nan
+# Cases Age [40-44],nan,MO,nan
+# Cases Age [45-49],nan,MO,nan
+# Cases Age [50-54],nan,MO,nan
+# Cases Age [55-59],nan,MO,nan
+# Cases Age [60-64],nan,MO,nan
+# Cases Age [65-69],nan,MO,nan
+# Cases Age [70-74],nan,MO,nan
+# Cases Age [75-79],nan,MO,nan
+# Cases Age [80+],nan,MO,nan
+# Cases Age [Unknown],nan,MO,nan
+# Cases Age [0-19],2020-08-11 08:19:36 PM,MO,1367
+# Cases Age [20-24],2020-08-11 08:19:36 PM,MO,1773
+# Cases Age [25-29],2020-08-11 08:19:36 PM,MO,1643
+# Cases Age [30-34],2020-08-11 08:19:36 PM,MO,1560
+# Cases Age [35-39],2020-08-11 08:19:36 PM,MO,1675
+# Cases Age [40-44],2020-08-11 08:19:36 PM,MO,1546
+# Cases Age [45-49],2020-08-11 08:19:36 PM,MO,1445
+# Cases Age [50-54],2020-08-11 08:19:36 PM,MO,1600
+# Cases Age [55-59],2020-08-11 08:19:36 PM,MO,1578
+# Cases Age [60-64],2020-08-11 08:19:36 PM,MO,1084
+# Cases Age [65-69],2020-08-11 08:19:36 PM,MO,1472
+# Cases Age [70-74],2020-08-11 08:19:36 PM,MO,719
+# Cases Age [75-79],2020-08-11 08:19:36 PM,MO,890
+# Cases Age [80+],2020-08-11 08:19:36 PM,MO,1892
+# Cases Age [0-19],2020-08-12 08:30:10 PM,MO,1367
+# Cases Age [20-24],2020-08-12 08:30:10 PM,MO,1773
+# Cases Age [25-29],2020-08-12 08:30:10 PM,MO,1643
+# Cases Age [30-34],2020-08-12 08:30:10 PM,MO,1560
+# Cases Age [35-39],2020-08-12 08:30:10 PM,MO,1675
+# Cases Age [40-44],2020-08-12 08:30:10 PM,MO,1546
+# Cases Age [45-49],2020-08-12 08:30:10 PM,MO,1445
+# Cases Age [50-54],2020-08-12 08:30:10 PM,MO,1600
+# Cases Age [55-59],2020-08-12 08:30:10 PM,MO,1578
+# Cases Age [60-64],2020-08-12 08:30:10 PM,MO,1084
+# Cases Age [65-69],2020-08-12 08:30:10 PM,MO,1472
+# Cases Age [70-74],2020-08-12 08:30:10 PM,MO,719
+# Cases Age [75-79],2020-08-12 08:30:10 PM,MO,890
+# Cases Age [80+],2020-08-12 08:30:10 PM,MO,1892
+# Cases Age [0-19],2020-08-13 08:28:27 PM,MO,1367
+# Cases Age [20-24],2020-08-13 08:28:27 PM,MO,1773
+# Cases Age [25-29],2020-08-13 08:28:27 PM,MO,1643
+# Cases Age [30-34],2020-08-13 08:28:27 PM,MO,1560
+# Cases Age [35-39],2020-08-13 08:28:27 PM,MO,1675
+# Cases Age [40-44],2020-08-13 08:28:27 PM,MO,1546
+# Cases Age [45-49],2020-08-13 08:28:27 PM,MO,1445
+# Cases Age [50-54],2020-08-13 08:28:27 PM,MO,1600
+# Cases Age [55-59],2020-08-13 08:28:27 PM,MO,1578
+# Cases Age [60-64],2020-08-13 08:28:27 PM,MO,1084
+# Cases Age [65-69],2020-08-13 08:28:27 PM,MO,1472
+# Cases Age [70-74],2020-08-13 08:28:27 PM,MO,719
+# Cases Age [75-79],2020-08-13 08:28:27 PM,MO,890
+# Cases Age [80+],2020-08-13 08:28:27 PM,MO,1892
+# Cases Age [0-19],2020-08-14 08:06:19 PM,MO,1367
+# Cases Age [20-24],2020-08-14 08:06:19 PM,MO,1773
+# Cases Age [25-29],2020-08-14 08:06:19 PM,MO,1643
+# Cases Age [30-34],2020-08-14 08:06:19 PM,MO,1560
+# Cases Age [35-39],2020-08-14 08:06:19 PM,MO,1675
+# Cases Age [40-44],2020-08-14 08:06:19 PM,MO,1546
+# Cases Age [45-49],2020-08-14 08:06:19 PM,MO,1445
+# Cases Age [50-54],2020-08-14 08:06:19 PM,MO,1600
+# Cases Age [55-59],2020-08-14 08:06:19 PM,MO,1578
+# Cases Age [60-64],2020-08-14 08:06:19 PM,MO,1084
+# Cases Age [65-69],2020-08-14 08:06:19 PM,MO,1472
+# Cases Age [70-74],2020-08-14 08:06:19 PM,MO,719
+# Cases Age [75-79],2020-08-14 08:06:19 PM,MO,890
+# Cases Age [80+],2020-08-14 08:06:19 PM,MO,1892
+# Cases Age [0-19],2020-08-15 08:07:05 PM,MO,1367
+# Cases Age [20-24],2020-08-15 08:07:05 PM,MO,1773
+# Cases Age [25-29],2020-08-15 08:07:05 PM,MO,1643
+# Cases Age [30-34],2020-08-15 08:07:05 PM,MO,1560
+# Cases Age [35-39],2020-08-15 08:07:05 PM,MO,1675
+# Cases Age [40-44],2020-08-15 08:07:05 PM,MO,1546
+# Cases Age [45-49],2020-08-15 08:07:05 PM,MO,1445
+# Cases Age [50-54],2020-08-15 08:07:05 PM,MO,1600
+# Cases Age [55-59],2020-08-15 08:07:05 PM,MO,1578
+# Cases Age [60-64],2020-08-15 08:07:05 PM,MO,1084
+# Cases Age [65-69],2020-08-15 08:07:05 PM,MO,1472
+# Cases Age [70-74],2020-08-15 08:07:05 PM,MO,719
+# Cases Age [75-79],2020-08-15 08:07:05 PM,MO,890
+# Cases Age [80+],2020-08-15 08:07:05 PM,MO,1892
+# Cases Age [0-19],2020-08-16 08:15:30 PM,MO,1367
+# Cases Age [20-24],2020-08-16 08:15:30 PM,MO,1773
+# Cases Age [25-29],2020-08-16 08:15:30 PM,MO,1643
+# Cases Age [30-34],2020-08-16 08:15:30 PM,MO,1560
+# Cases Age [35-39],2020-08-16 08:15:30 PM,MO,1675
+# Cases Age [40-44],2020-08-16 08:15:30 PM,MO,1546
+# Cases Age [45-49],2020-08-16 08:15:30 PM,MO,1445
+# Cases Age [50-54],2020-08-16 08:15:30 PM,MO,1600
+# Cases Age [55-59],2020-08-16 08:15:30 PM,MO,1578
+# Cases Age [60-64],2020-08-16 08:15:30 PM,MO,1084
+# Cases Age [65-69],2020-08-16 08:15:30 PM,MO,1472
+# Cases Age [70-74],2020-08-16 08:15:30 PM,MO,719
+# Cases Age [75-79],2020-08-16 08:15:30 PM,MO,890
+# Cases Age [80+],2020-08-16 08:15:30 PM,MO,1892
+# Cases Age [0-19],2020-08-17 07:50:46 PM,MO,1367
+# Cases Age [20-24],2020-08-17 07:50:46 PM,MO,1773
+# Cases Age [25-29],2020-08-17 07:50:46 PM,MO,1643
+# Cases Age [30-34],2020-08-17 07:50:46 PM,MO,1560
+# Cases Age [35-39],2020-08-17 07:50:46 PM,MO,1675
+# Cases Age [40-44],2020-08-17 07:50:46 PM,MO,1546
+# Cases Age [45-49],2020-08-17 07:50:46 PM,MO,1445
+# Cases Age [50-54],2020-08-17 07:50:46 PM,MO,1600
+# Cases Age [55-59],2020-08-17 07:50:46 PM,MO,1578
+# Cases Age [60-64],2020-08-17 07:50:46 PM,MO,1084
+# Cases Age [65-69],2020-08-17 07:50:46 PM,MO,1472
+# Cases Age [70-74],2020-08-17 07:50:46 PM,MO,719
+# Cases Age [75-79],2020-08-17 07:50:46 PM,MO,890
+# Cases Age [80+],2020-08-17 07:50:46 PM,MO,1892
+# Cases Age [0-19],2020-08-18 07:56:47 PM,MO,1367
+# Cases Age [20-24],2020-08-18 07:56:47 PM,MO,1773
+# Cases Age [25-29],2020-08-18 07:56:47 PM,MO,1643
+# Cases Age [30-34],2020-08-18 07:56:47 PM,MO,1560
+# Cases Age [35-39],2020-08-18 07:56:47 PM,MO,1675
+# Cases Age [40-44],2020-08-18 07:56:47 PM,MO,1546
+# Cases Age [45-49],2020-08-18 07:56:47 PM,MO,1445
+# Cases Age [50-54],2020-08-18 07:56:47 PM,MO,1600
+# Cases Age [55-59],2020-08-18 07:56:47 PM,MO,1578
+# Cases Age [60-64],2020-08-18 07:56:47 PM,MO,1084
+# Cases Age [65-69],2020-08-18 07:56:47 PM,MO,1472
+# Cases Age [70-74],2020-08-18 07:56:47 PM,MO,719
+# Cases Age [75-79],2020-08-18 07:56:47 PM,MO,890
+# Cases Age [80+],2020-08-18 07:56:47 PM,MO,1892
+# Cases Age [0-19],2020-08-19 08:12:53 PM,MO,1367
+# Cases Age [20-24],2020-08-19 08:12:53 PM,MO,1773
+# Cases Age [25-29],2020-08-19 08:12:53 PM,MO,1643
+# Cases Age [30-34],2020-08-19 08:12:53 PM,MO,1560
+# Cases Age [35-39],2020-08-19 08:12:53 PM,MO,1675
+# Cases Age [40-44],2020-08-19 08:12:53 PM,MO,1546
+# Cases Age [45-49],2020-08-19 08:12:53 PM,MO,1445
+# Cases Age [50-54],2020-08-19 08:12:53 PM,MO,1600
+# Cases Age [55-59],2020-08-19 08:12:53 PM,MO,1578
+# Cases Age [60-64],2020-08-19 08:12:53 PM,MO,1084
+# Cases Age [65-69],2020-08-19 08:12:53 PM,MO,1472
+# Cases Age [70-74],2020-08-19 08:12:53 PM,MO,719
+# Cases Age [75-79],2020-08-19 08:12:53 PM,MO,890
+# Cases Age [80+],2020-08-19 08:12:53 PM,MO,1892
+# Cases Age [0-19],2020-08-20 08:11:28 PM,MO,1367
+# Cases Age [20-24],2020-08-20 08:11:28 PM,MO,1773
+# Cases Age [25-29],2020-08-20 08:11:28 PM,MO,1643
+# Cases Age [30-34],2020-08-20 08:11:28 PM,MO,1560
+# Cases Age [35-39],2020-08-20 08:11:28 PM,MO,1675
+# Cases Age [40-44],2020-08-20 08:11:28 PM,MO,1546
+# Cases Age [45-49],2020-08-20 08:11:28 PM,MO,1445
+# Cases Age [50-54],2020-08-20 08:11:28 PM,MO,1600
+# Cases Age [55-59],2020-08-20 08:11:28 PM,MO,1578
+# Cases Age [60-64],2020-08-20 08:11:28 PM,MO,1084
+# Cases Age [65-69],2020-08-20 08:11:28 PM,MO,1472
+# Cases Age [70-74],2020-08-20 08:11:28 PM,MO,719
+# Cases Age [75-79],2020-08-20 08:11:28 PM,MO,890
+# Cases Age [80+],2020-08-20 08:11:28 PM,MO,1892
+# Cases Age [0-19],2020-08-21 09:59:19 PM,MO,1367
+# Cases Age [20-24],2020-08-21 09:59:19 PM,MO,1773
+# Cases Age [25-29],2020-08-21 09:59:19 PM,MO,1643
+# Cases Age [30-34],2020-08-21 09:59:19 PM,MO,1560
+# Cases Age [35-39],2020-08-21 09:59:19 PM,MO,1675
+# Cases Age [40-44],2020-08-21 09:59:19 PM,MO,1546
+# Cases Age [45-49],2020-08-21 09:59:19 PM,MO,1445
+# Cases Age [50-54],2020-08-21 09:59:19 PM,MO,1600
+# Cases Age [55-59],2020-08-21 09:59:19 PM,MO,1578
+# Cases Age [60-64],2020-08-21 09:59:19 PM,MO,1084
+# Cases Age [65-69],2020-08-21 09:59:19 PM,MO,1472
+# Cases Age [70-74],2020-08-21 09:59:19 PM,MO,719
+# Cases Age [75-79],2020-08-21 09:59:19 PM,MO,890
+# Cases Age [80+],2020-08-21 09:59:19 PM,MO,1892
+# Cases Age [0-19],2020-08-22 07:11:05 PM,MO,1367
+# Cases Age [20-24],2020-08-22 07:11:05 PM,MO,1773
+# Cases Age [25-29],2020-08-22 07:11:05 PM,MO,1643
+# Cases Age [30-34],2020-08-22 07:11:05 PM,MO,1560
+# Cases Age [35-39],2020-08-22 07:11:05 PM,MO,1675
+# Cases Age [40-44],2020-08-22 07:11:05 PM,MO,1546
+# Cases Age [45-49],2020-08-22 07:11:05 PM,MO,1445
+# Cases Age [50-54],2020-08-22 07:11:05 PM,MO,1600
+# Cases Age [55-59],2020-08-22 07:11:05 PM,MO,1578
+# Cases Age [60-64],2020-08-22 07:11:05 PM,MO,1084
+# Cases Age [65-69],2020-08-22 07:11:05 PM,MO,1472
+# Cases Age [70-74],2020-08-22 07:11:05 PM,MO,719
+# Cases Age [75-79],2020-08-22 07:11:05 PM,MO,890
+# Cases Age [80+],2020-08-22 07:11:05 PM,MO,1892
+# Cases Age [0-19],2020-08-23 08:06:43 PM,MO,1367
+# Cases Age [20-24],2020-08-23 08:06:43 PM,MO,1773
+# Cases Age [25-29],2020-08-23 08:06:43 PM,MO,1643
+# Cases Age [30-34],2020-08-23 08:06:43 PM,MO,1560
+# Cases Age [35-39],2020-08-23 08:06:43 PM,MO,1675
+# Cases Age [40-44],2020-08-23 08:06:43 PM,MO,1546
+# Cases Age [45-49],2020-08-23 08:06:43 PM,MO,1445
+# Cases Age [50-54],2020-08-23 08:06:43 PM,MO,1600
+# Cases Age [55-59],2020-08-23 08:06:43 PM,MO,1578
+# Cases Age [60-64],2020-08-23 08:06:43 PM,MO,1084
+# Cases Age [65-69],2020-08-23 08:06:43 PM,MO,1472
+# Cases Age [70-74],2020-08-23 08:06:43 PM,MO,719
+# Cases Age [75-79],2020-08-23 08:06:43 PM,MO,890
+# Cases Age [80+],2020-08-23 08:06:43 PM,MO,1892
+# Cases Age [0-19],15-Apr,MO,112
+# Cases Age [20-24],15-Apr,MO,311
+# Cases Age [25-29],15-Apr,MO,333
+# Cases Age [30-34],15-Apr,MO,313
+# Cases Age [35-39],15-Apr,MO,304
+# Cases Age [40-44],15-Apr,MO,363
+# Cases Age [45-49],15-Apr,MO,431
+# Cases Age [50-54],15-Apr,MO,480
+# Cases Age [55-59],15-Apr,MO,510
+# Cases Age [60-64],15-Apr,MO,489
+# Cases Age [65-69],15-Apr,MO,385
+# Cases Age [70-74],15-Apr,MO,274
+# Cases Age [75-79],15-Apr,MO,215.0
+# Cases Age [80+],15-Apr,MO,370.0
+# Cases Age [Unknown],15-Apr,MO,nan
+# Cases Age [0-19],14-Apr,MO,109
+# Cases Age [20-24],14-Apr,MO,295
+# Cases Age [25-29],14-Apr,MO,317
+# Cases Age [30-34],14-Apr,MO,300
+# Cases Age [35-39],14-Apr,MO,294
+# Cases Age [40-44],14-Apr,MO,349
+# Cases Age [45-49],14-Apr,MO,411
+# Cases Age [50-54],14-Apr,MO,468
+# Cases Age [55-59],14-Apr,MO,493
+# Cases Age [60-64],14-Apr,MO,467
+# Cases Age [65-69],14-Apr,MO,365
+# Cases Age [70-74],14-Apr,MO,269
+# Cases Age [75-79],14-Apr,MO,203.0
+# Cases Age [80+],14-Apr,MO,342.0
+# Cases Age [Unknown],14-Apr,MO,4.0
+# Cases Age [0-19],13-Apr,MO,100
+# Cases Age [20-24],13-Apr,MO,281
+# Cases Age [25-29],13-Apr,MO,301
+# Cases Age [30-34],13-Apr,MO,280
+# Cases Age [35-39],13-Apr,MO,280
+# Cases Age [40-44],13-Apr,MO,328
+# Cases Age [45-49],13-Apr,MO,382
+# Cases Age [50-54],13-Apr,MO,439
+# Cases Age [55-59],13-Apr,MO,459
+# Cases Age [60-64],13-Apr,MO,445
+# Cases Age [65-69],13-Apr,MO,346
+# Cases Age [70-74],13-Apr,MO,257
+# Cases Age [75-79],13-Apr,MO,185.0
+# Cases Age [80+],13-Apr,MO,301.0
+# Cases Age [Unknown],13-Apr,MO,4.0
+# Cases Age [0-19],12-Apr,MO,95
+# Cases Age [20-24],12-Apr,MO,269
+# Cases Age [25-29],12-Apr,MO,290
+# Cases Age [30-34],12-Apr,MO,262
+# Cases Age [35-39],12-Apr,MO,264
+# Cases Age [40-44],12-Apr,MO,309
+# Cases Age [45-49],12-Apr,MO,368
+# Cases Age [50-54],12-Apr,MO,419
+# Cases Age [55-59],12-Apr,MO,450
+# Cases Age [60-64],12-Apr,MO,417
+# Cases Age [65-69],12-Apr,MO,328
+# Cases Age [70-74],12-Apr,MO,243
+# Cases Age [75-79],12-Apr,MO,169.0
+# Cases Age [80+],12-Apr,MO,274.0
+# Cases Age [Unknown],12-Apr,MO,3.0
+# Cases Age [0-19],11-Apr,MO,94
+# Cases Age [20-24],11-Apr,MO,265
+# Cases Age [25-29],11-Apr,MO,279
+# Cases Age [30-34],11-Apr,MO,255
+# Cases Age [35-39],11-Apr,MO,256
+# Cases Age [40-44],11-Apr,MO,301
+# Cases Age [45-49],11-Apr,MO,356
+# Cases Age [50-54],11-Apr,MO,406
+# Cases Age [55-59],11-Apr,MO,440
+# Cases Age [60-64],11-Apr,MO,398
+# Cases Age [65-69],11-Apr,MO,317
+# Cases Age [70-74],11-Apr,MO,234
+# Cases Age [75-79],11-Apr,MO,161.0
+# Cases Age [80+],11-Apr,MO,259.0
+# Cases Age [Unknown],11-Apr,MO,3.0
+# Cases Age [0-19],10-Apr,MO,87
+# Cases Age [20-24],10-Apr,MO,253
+# Cases Age [25-29],10-Apr,MO,265
+# Cases Age [30-34],10-Apr,MO,241
+# Cases Age [35-39],10-Apr,MO,235
+# Cases Age [40-44],10-Apr,MO,284
+# Cases Age [45-49],10-Apr,MO,329
+# Cases Age [50-54],10-Apr,MO,383
+# Cases Age [55-59],10-Apr,MO,416
+# Cases Age [60-64],10-Apr,MO,379
+# Cases Age [65-69],10-Apr,MO,306
+# Cases Age [70-74],10-Apr,MO,223
+# Cases Age [75-79],10-Apr,MO,150.0
+# Cases Age [80+],10-Apr,MO,245.0
+# Cases Age [Unknown],10-Apr,MO,3.0
+# Cases Age [0-19],9-Apr,MO,81
+# Cases Age [20-24],9-Apr,MO,230
+# Cases Age [25-29],9-Apr,MO,244
+# Cases Age [30-34],9-Apr,MO,224
+# Cases Age [35-39],9-Apr,MO,223
+# Cases Age [40-44],9-Apr,MO,263
+# Cases Age [45-49],9-Apr,MO,301
+# Cases Age [50-54],9-Apr,MO,358
+# Cases Age [55-59],9-Apr,MO,386
+# Cases Age [60-64],9-Apr,MO,360
+# Cases Age [65-69],9-Apr,MO,283
+# Cases Age [70-74],9-Apr,MO,212
+# Cases Age [75-79],9-Apr,MO,139.0
+# Cases Age [80+],9-Apr,MO,232.0
+# Cases Age [Unknown],9-Apr,MO,3.0
+# Cases Age [0-19],8-Apr,MO,82
+# Cases Age [20-24],8-Apr,MO,225
+# Cases Age [25-29],8-Apr,MO,229
+# Cases Age [30-34],8-Apr,MO,208
+# Cases Age [35-39],8-Apr,MO,207
+# Cases Age [40-44],8-Apr,MO,249
+# Cases Age [45-49],8-Apr,MO,283
+# Cases Age [50-54],8-Apr,MO,343
+# Cases Age [55-59],8-Apr,MO,363
+# Cases Age [60-64],8-Apr,MO,334
+# Cases Age [65-69],8-Apr,MO,262
+# Cases Age [70-74],8-Apr,MO,202
+# Cases Age [75-79],8-Apr,MO,132.0
+# Cases Age [80+],8-Apr,MO,205.0
+# Cases Age [Unknown],8-Apr,MO,3.0
+# Cases Age [0-19],7-Apr,MO,76
+# Cases Age [20-24],7-Apr,MO,212
+# Cases Age [25-29],7-Apr,MO,211
+# Cases Age [30-34],7-Apr,MO,193
+# Cases Age [35-39],7-Apr,MO,191
+# Cases Age [40-44],7-Apr,MO,233
+# Cases Age [45-49],7-Apr,MO,260
+# Cases Age [50-54],7-Apr,MO,322
+# Cases Age [55-59],7-Apr,MO,337
+# Cases Age [60-64],7-Apr,MO,307
+# Cases Age [65-69],7-Apr,MO,237
+# Cases Age [70-74],7-Apr,MO,173
+# Cases Age [75-79],7-Apr,MO,113.0
+# Cases Age [80+],7-Apr,MO,169.0
+# Cases Age [Unknown],7-Apr,MO,3.0
+# Cases Age [0-19],6-Apr,MO,63
+# Cases Age [20-24],6-Apr,MO,201
+# Cases Age [25-29],6-Apr,MO,183
+# Cases Age [30-34],6-Apr,MO,175
+# Cases Age [35-39],6-Apr,MO,171
+# Cases Age [40-44],6-Apr,MO,212
+# Cases Age [45-49],6-Apr,MO,230
+# Cases Age [50-54],6-Apr,MO,285
+# Cases Age [55-59],6-Apr,MO,302
+# Cases Age [60-64],6-Apr,MO,277
+# Cases Age [65-69],6-Apr,MO,215
+# Cases Age [70-74],6-Apr,MO,153
+# Cases Age [75-79],6-Apr,MO,103.0
+# Cases Age [80+],6-Apr,MO,149.0
+# Cases Age [Unknown],6-Apr,MO,3.0
+# Cases Age [0-19],5-Apr,MO,56
+# Cases Age [20-24],5-Apr,MO,186
+# Cases Age [25-29],5-Apr,MO,163
+# Cases Age [30-34],5-Apr,MO,159
+# Cases Age [35-39],5-Apr,MO,149
+# Cases Age [40-44],5-Apr,MO,178
+# Cases Age [45-49],5-Apr,MO,199
+# Cases Age [50-54],5-Apr,MO,243
+# Cases Age [55-59],5-Apr,MO,259
+# Cases Age [60-64],5-Apr,MO,230
+# Cases Age [65-69],5-Apr,MO,183
+# Cases Age [70-74],5-Apr,MO,137
+# Cases Age [75-79],5-Apr,MO,87.0
+# Cases Age [80+],5-Apr,MO,134.0
+# Cases Age [Unknown],5-Apr,MO,4.0
+# Cases Age [0-19],4-Apr,MO,54
+# Cases Age [20-24],4-Apr,MO,179
+# Cases Age [25-29],4-Apr,MO,158
+# Cases Age [30-34],4-Apr,MO,150
+# Cases Age [35-39],4-Apr,MO,148
+# Cases Age [40-44],4-Apr,MO,174
+# Cases Age [45-49],4-Apr,MO,193
+# Cases Age [50-54],4-Apr,MO,240
+# Cases Age [55-59],4-Apr,MO,252
+# Cases Age [60-64],4-Apr,MO,222
+# Cases Age [65-69],4-Apr,MO,180
+# Cases Age [70-74],4-Apr,MO,129
+# Cases Age [75-79],4-Apr,MO,85.0
+# Cases Age [80+],4-Apr,MO,125.0
+# Cases Age [Unknown],4-Apr,MO,2.0
+# Cases Age [0-19],3-Apr,MO,53
+# Cases Age [20-24],3-Apr,MO,167
+# Cases Age [25-29],3-Apr,MO,141
+# Cases Age [30-34],3-Apr,MO,144
+# Cases Age [35-39],3-Apr,MO,134
+# Cases Age [40-44],3-Apr,MO,164
+# Cases Age [45-49],3-Apr,MO,179
+# Cases Age [50-54],3-Apr,MO,224
+# Cases Age [55-59],3-Apr,MO,226
+# Cases Age [60-64],3-Apr,MO,203
+# Cases Age [65-69],3-Apr,MO,167
+# Cases Age [70-74],3-Apr,MO,120
+# Cases Age [75-79],3-Apr,MO,75.0
+# Cases Age [80+],3-Apr,MO,116.0
+# Cases Age [Unknown],3-Apr,MO,0.0
+# Cases Age [0-19],2-Apr,MO,50
+# Cases Age [20-24],2-Apr,MO,154
+# Cases Age [25-29],2-Apr,MO,124
+# Cases Age [30-34],2-Apr,MO,123
+# Cases Age [35-39],2-Apr,MO,113
+# Cases Age [40-44],2-Apr,MO,141
+# Cases Age [45-49],2-Apr,MO,157
+# Cases Age [50-54],2-Apr,MO,191
+# Cases Age [55-59],2-Apr,MO,185
+# Cases Age [60-64],2-Apr,MO,179
+# Cases Age [65-69],2-Apr,MO,144
+# Cases Age [70-74],2-Apr,MO,109
+# Cases Age [75-79],2-Apr,MO,62.0
+# Cases Age [80+],2-Apr,MO,101.0
+# Cases Age [Unknown],2-Apr,MO,0.0
+# Cases Age [0-19],1-Apr,MO,47
+# Cases Age [20-24],1-Apr,MO,139
+# Cases Age [25-29],1-Apr,MO,106
+# Cases Age [30-34],1-Apr,MO,101
+# Cases Age [35-39],1-Apr,MO,103
+# Cases Age [40-44],1-Apr,MO,120
+# Cases Age [45-49],1-Apr,MO,137
+# Cases Age [50-54],1-Apr,MO,172
+# Cases Age [55-59],1-Apr,MO,163
+# Cases Age [60-64],1-Apr,MO,152
+# Cases Age [65-69],1-Apr,MO,114
+# Cases Age [70-74],1-Apr,MO,93
+# Cases Age [75-79],1-Apr,MO,47.0
+# Cases Age [80+],1-Apr,MO,87.0
+# Cases Age [Unknown],1-Apr,MO,0.0
+# Cases Age [0-19],31-Mar,MO,43
+# Cases Age [20-24],31-Mar,MO,124
+# Cases Age [25-29],31-Mar,MO,88
+# Cases Age [30-34],31-Mar,MO,82
+# Cases Age [35-39],31-Mar,MO,88
+# Cases Age [40-44],31-Mar,MO,98
+# Cases Age [45-49],31-Mar,MO,119
+# Cases Age [50-54],31-Mar,MO,141
+# Cases Age [55-59],31-Mar,MO,147
+# Cases Age [60-64],31-Mar,MO,125
+# Cases Age [65-69],31-Mar,MO,87
+# Cases Age [70-74],31-Mar,MO,74
+# Cases Age [75-79],31-Mar,MO,40.0
+# Cases Age [80+],31-Mar,MO,71.0
+# Cases Age [Unknown],31-Mar,MO,0.0
+# Cases Age [0-19],29-Mar,MO,26
+# Cases Age [20-24],29-Mar,MO,91
+# Cases Age [25-29],29-Mar,MO,74
+# Cases Age [30-34],29-Mar,MO,65
+# Cases Age [35-39],29-Mar,MO,69
+# Cases Age [40-44],29-Mar,MO,71
+# Cases Age [45-49],29-Mar,MO,65
+# Cases Age [50-54],29-Mar,MO,104
+# Cases Age [55-59],29-Mar,MO,91
+# Cases Age [60-64],29-Mar,MO,85
+# Cases Age [65-69],29-Mar,MO,47
+# Cases Age [70-74],29-Mar,MO,45
+# Cases Age [75-79],29-Mar,MO,29.0
+# Cases Age [80+],29-Mar,MO,40.0
+# Cases Age [Unknown],29-Mar,MO,1.0
+# Cases Age [0-19],28-Mar,MO,21
+# Cases Age [20-24],28-Mar,MO,89
+# Cases Age [25-29],28-Mar,MO,66
+# Cases Age [30-34],28-Mar,MO,60
+# Cases Age [35-39],28-Mar,MO,64
+# Cases Age [40-44],28-Mar,MO,67
+# Cases Age [45-49],28-Mar,MO,59
+# Cases Age [50-54],28-Mar,MO,95
+# Cases Age [55-59],28-Mar,MO,85
+# Cases Age [60-64],28-Mar,MO,79
+# Cases Age [65-69],28-Mar,MO,43
+# Cases Age [70-74],28-Mar,MO,43
+# Cases Age [75-79],28-Mar,MO,29.0
+# Cases Age [80+],28-Mar,MO,38.0
+# Cases Age [Unknown],28-Mar,MO,0.0
+# Cases Age [0-19],16-Apr,MO,122
+# Cases Age [20-24],16-Apr,MO,324
+# Cases Age [25-29],16-Apr,MO,347
+# Cases Age [30-34],16-Apr,MO,325
+# Cases Age [35-39],16-Apr,MO,319
+# Cases Age [40-44],16-Apr,MO,376
+# Cases Age [45-49],16-Apr,MO,444
+# Cases Age [50-54],16-Apr,MO,499
+# Cases Age [55-59],16-Apr,MO,531
+# Cases Age [60-64],16-Apr,MO,504
+# Cases Age [65-69],16-Apr,MO,397
+# Cases Age [70-74],16-Apr,MO,288
+# Cases Age [75-79],16-Apr,MO,220.0
+# Cases Age [80+],16-Apr,MO,411.0
+# Cases Age [Unknown],16-Apr,MO,4.0
+# Cases Age [0-19],17-Apr,MO,129
+# Cases Age [20-24],17-Apr,MO,332
+# Cases Age [25-29],17-Apr,MO,356
+# Cases Age [30-34],17-Apr,MO,337
+# Cases Age [35-39],17-Apr,MO,337
+# Cases Age [40-44],17-Apr,MO,386
+# Cases Age [45-49],17-Apr,MO,457
+# Cases Age [50-54],17-Apr,MO,507
+# Cases Age [55-59],17-Apr,MO,545
+# Cases Age [60-64],17-Apr,MO,520
+# Cases Age [65-69],17-Apr,MO,409
+# Cases Age [70-74],17-Apr,MO,297
+# Cases Age [75-79],17-Apr,MO,228.0
+# Cases Age [80+],17-Apr,MO,439.0
+# Cases Age [Unknown],17-Apr,MO,4.0
+# Cases Age [0-19],18-Apr,MO,132
+# Cases Age [20-24],18-Apr,MO,344
+# Cases Age [25-29],18-Apr,MO,377
+# Cases Age [30-34],18-Apr,MO,351
+# Cases Age [35-39],18-Apr,MO,350
+# Cases Age [40-44],18-Apr,MO,395
+# Cases Age [45-49],18-Apr,MO,472
+# Cases Age [50-54],18-Apr,MO,526
+# Cases Age [55-59],18-Apr,MO,562
+# Cases Age [60-64],18-Apr,MO,544
+# Cases Age [65-69],18-Apr,MO,420
+# Cases Age [70-74],18-Apr,MO,322
+# Cases Age [75-79],18-Apr,MO,241.0
+# Cases Age [80+],18-Apr,MO,476.0
+# Cases Age [Unknown],18-Apr,MO,5.0
+# Cases Age [0-19],19-Apr,MO,135
+# Cases Age [20-24],19-Apr,MO,348
+# Cases Age [25-29],19-Apr,MO,391
+# Cases Age [30-34],19-Apr,MO,363
+# Cases Age [35-39],19-Apr,MO,367
+# Cases Age [40-44],19-Apr,MO,405
+# Cases Age [45-49],19-Apr,MO,484
+# Cases Age [50-54],19-Apr,MO,528
+# Cases Age [55-59],19-Apr,MO,577
+# Cases Age [60-64],19-Apr,MO,553
+# Cases Age [65-69],19-Apr,MO,427
+# Cases Age [70-74],19-Apr,MO,327
+# Cases Age [75-79],19-Apr,MO,256.0
+# Cases Age [80+],19-Apr,MO,496.0
+# Cases Age [Unknown],19-Apr,MO,10.0
+# Cases Age [0-19],20-Apr,MO,141
+# Cases Age [20-24],20-Apr,MO,351
+# Cases Age [25-29],20-Apr,MO,398
+# Cases Age [30-34],20-Apr,MO,370
+# Cases Age [35-39],20-Apr,MO,373
+# Cases Age [40-44],20-Apr,MO,419
+# Cases Age [45-49],20-Apr,MO,498
+# Cases Age [50-54],20-Apr,MO,542
+# Cases Age [55-59],20-Apr,MO,589
+# Cases Age [60-64],20-Apr,MO,564
+# Cases Age [65-69],20-Apr,MO,439
+# Cases Age [70-74],20-Apr,MO,331
+# Cases Age [75-79],20-Apr,MO,268.0
+# Cases Age [80+],20-Apr,MO,518.0
+# Cases Age [Unknown],20-Apr,MO,6.0
+# Cases Age [0-19],21-Apr,MO,150
+# Cases Age [20-24],21-Apr,MO,356
+# Cases Age [25-29],21-Apr,MO,406
+# Cases Age [30-34],21-Apr,MO,379
+# Cases Age [35-39],21-Apr,MO,384
+# Cases Age [40-44],21-Apr,MO,424
+# Cases Age [45-49],21-Apr,MO,507
+# Cases Age [50-54],21-Apr,MO,554
+# Cases Age [55-59],21-Apr,MO,602
+# Cases Age [60-64],21-Apr,MO,564
+# Cases Age [65-69],21-Apr,MO,444
+# Cases Age [70-74],21-Apr,MO,342
+# Cases Age [75-79],21-Apr,MO,276.0
+# Cases Age [80+],21-Apr,MO,536.0
+# Cases Age [Unknown],21-Apr,MO,7.0
+# Cases Age [0-19],22-Apr,MO,155
+# Cases Age [20-24],22-Apr,MO,365
+# Cases Age [25-29],22-Apr,MO,414
+# Cases Age [30-34],22-Apr,MO,389
+# Cases Age [35-39],22-Apr,MO,402
+# Cases Age [40-44],22-Apr,MO,431
+# Cases Age [45-49],22-Apr,MO,528
+# Cases Age [50-54],22-Apr,MO,567
+# Cases Age [55-59],22-Apr,MO,619
+# Cases Age [60-64],22-Apr,MO,597
+# Cases Age [65-69],22-Apr,MO,458
+# Cases Age [70-74],22-Apr,MO,355
+# Cases Age [75-79],22-Apr,MO,284.0
+# Cases Age [80+],22-Apr,MO,565.0
+# Cases Age [Unknown],22-Apr,MO,8.0
+# Cases Age [0-19],23-Apr,MO,164
+# Cases Age [20-24],23-Apr,MO,376
+# Cases Age [25-29],23-Apr,MO,437
+# Cases Age [30-34],23-Apr,MO,400
+# Cases Age [35-39],23-Apr,MO,411
+# Cases Age [40-44],23-Apr,MO,443
+# Cases Age [45-49],23-Apr,MO,541
+# Cases Age [50-54],23-Apr,MO,586
+# Cases Age [55-59],23-Apr,MO,632
+# Cases Age [60-64],23-Apr,MO,612
+# Cases Age [65-69],23-Apr,MO,469
+# Cases Age [70-74],23-Apr,MO,362
+# Cases Age [75-79],23-Apr,MO,294.0
+# Cases Age [80+],23-Apr,MO,584.0
+# Cases Age [Unknown],23-Apr,MO,10.0
+# Cases Age [0-19],24-Apr,MO,173
+# Cases Age [20-24],24-Apr,MO,393
+# Cases Age [25-29],24-Apr,MO,464
+# Cases Age [30-34],24-Apr,MO,420
+# Cases Age [35-39],24-Apr,MO,428
+# Cases Age [40-44],24-Apr,MO,463
+# Cases Age [45-49],24-Apr,MO,564
+# Cases Age [50-54],24-Apr,MO,614
+# Cases Age [55-59],24-Apr,MO,653
+# Cases Age [60-64],24-Apr,MO,640
+# Cases Age [65-69],24-Apr,MO,481
+# Cases Age [70-74],24-Apr,MO,378
+# Cases Age [75-79],24-Apr,MO,309.0
+# Cases Age [80+],24-Apr,MO,635.0
+# Cases Age [Unknown],24-Apr,MO,10.0
+# Cases Age [0-19],25-Apr,MO,180
+# Cases Age [20-24],25-Apr,MO,398
+# Cases Age [25-29],25-Apr,MO,471
+# Cases Age [30-34],25-Apr,MO,426
+# Cases Age [35-39],25-Apr,MO,437
+# Cases Age [40-44],25-Apr,MO,481
+# Cases Age [45-49],25-Apr,MO,582
+# Cases Age [50-54],25-Apr,MO,628
+# Cases Age [55-59],25-Apr,MO,672
+# Cases Age [60-64],25-Apr,MO,660
+# Cases Age [65-69],25-Apr,MO,492
+# Cases Age [70-74],25-Apr,MO,396
+# Cases Age [75-79],25-Apr,MO,320.0
+# Cases Age [80+],25-Apr,MO,674.0
+# Cases Age [Unknown],25-Apr,MO,9.0
+# Cases Age [0-19],26-Apr,MO,185
+# Cases Age [20-24],26-Apr,MO,406
+# Cases Age [25-29],26-Apr,MO,481
+# Cases Age [30-34],26-Apr,MO,436
+# Cases Age [35-39],26-Apr,MO,451
+# Cases Age [40-44],26-Apr,MO,491
+# Cases Age [45-49],26-Apr,MO,599
+# Cases Age [50-54],26-Apr,MO,644
+# Cases Age [55-59],26-Apr,MO,685
+# Cases Age [60-64],26-Apr,MO,674
+# Cases Age [65-69],26-Apr,MO,506
+# Cases Age [70-74],26-Apr,MO,403
+# Cases Age [75-79],26-Apr,MO,329.0
+# Cases Age [80+],26-Apr,MO,698.0
+# Cases Age [Unknown],26-Apr,MO,9.0
+# Cases Age [0-19],27-Apr,MO,194
+# Cases Age [20-24],27-Apr,MO,414
+# Cases Age [25-29],27-Apr,MO,494
+# Cases Age [30-34],27-Apr,MO,450
+# Cases Age [35-39],27-Apr,MO,454
+# Cases Age [40-44],27-Apr,MO,496
+# Cases Age [45-49],27-Apr,MO,609
+# Cases Age [50-54],27-Apr,MO,654
+# Cases Age [55-59],27-Apr,MO,700
+# Cases Age [60-64],27-Apr,MO,686
+# Cases Age [65-69],27-Apr,MO,514
+# Cases Age [70-74],27-Apr,MO,416
+# Cases Age [75-79],27-Apr,MO,338.0
+# Cases Age [80+],27-Apr,MO,743.0
+# Cases Age [Unknown],27-Apr,MO,9.0
+# Cases Age [0-19],28-Apr,MO,197
+# Cases Age [20-24],28-Apr,MO,419
+# Cases Age [25-29],28-Apr,MO,502
+# Cases Age [30-34],28-Apr,MO,461
+# Cases Age [35-39],28-Apr,MO,460
+# Cases Age [40-44],28-Apr,MO,503
+# Cases Age [45-49],28-Apr,MO,622
+# Cases Age [50-54],28-Apr,MO,666
+# Cases Age [55-59],28-Apr,MO,713
+# Cases Age [60-64],28-Apr,MO,697
+# Cases Age [65-69],28-Apr,MO,524
+# Cases Age [70-74],28-Apr,MO,421
+# Cases Age [75-79],28-Apr,MO,344.0
+# Cases Age [80+],28-Apr,MO,764.0
+# Cases Age [Unknown],28-Apr,MO,10.0
+# Cases Age [0-19],29-Apr,MO,202
+# Cases Age [20-24],29-Apr,MO,429
+# Cases Age [25-29],29-Apr,MO,512
+# Cases Age [30-34],29-Apr,MO,470
+# Cases Age [35-39],29-Apr,MO,467
+# Cases Age [40-44],29-Apr,MO,510
+# Cases Age [45-49],29-Apr,MO,635
+# Cases Age [50-54],29-Apr,MO,671
+# Cases Age [55-59],29-Apr,MO,725
+# Cases Age [60-64],29-Apr,MO,701
+# Cases Age [65-69],29-Apr,MO,536
+# Cases Age [70-74],29-Apr,MO,427
+# Cases Age [75-79],29-Apr,MO,348.0
+# Cases Age [80+],29-Apr,MO,781.0
+# Cases Age [Unknown],29-Apr,MO,11.0
+# Cases Age [0-19],1-May,MO,219
+# Cases Age [20-24],1-May,MO,456
+# Cases Age [25-29],1-May,MO,540
+# Cases Age [30-34],1-May,MO,512
+# Cases Age [35-39],1-May,MO,496
+# Cases Age [40-44],1-May,MO,531
+# Cases Age [45-49],1-May,MO,667
+# Cases Age [50-54],1-May,MO,699
+# Cases Age [55-59],1-May,MO,759
+# Cases Age [60-64],1-May,MO,732
+# Cases Age [65-69],1-May,MO,562
+# Cases Age [70-74],1-May,MO,439
+# Cases Age [75-79],1-May,MO,361.0
+# Cases Age [80+],1-May,MO,853.0
+# Cases Age [Unknown],1-May,MO,9.0
+# Cases Age [0-19],2-May,MO,230
+# Cases Age [20-24],2-May,MO,470
+# Cases Age [25-29],2-May,MO,556
+# Cases Age [30-34],2-May,MO,532
+# Cases Age [35-39],2-May,MO,513
+# Cases Age [40-44],2-May,MO,557
+# Cases Age [45-49],2-May,MO,691
+# Cases Age [50-54],2-May,MO,724
+# Cases Age [55-59],2-May,MO,787
+# Cases Age [60-64],2-May,MO,760
+# Cases Age [65-69],2-May,MO,592
+# Cases Age [70-74],2-May,MO,460
+# Cases Age [75-79],2-May,MO,367.0
+# Cases Age [80+],2-May,MO,907.0
+# Cases Age [Unknown],2-May,MO,8.0
+# Cases Age [0-19],Adair,MO,Jefferson
+# Cases Age [20-24],Adair,MO,Moniteau
+# Cases Age [25-29],Adair,MO,Pemiscot
+# Cases Age [30-34],Adair,MO,Platte
+# Cases Age [35-39],Adair,MO,Scott
+# Cases Age [40-44],Adair,MO,St. Charles(9)
+# Cases Age [45-49],Adair,MO,St. LouisCity(12)
+# Cases Age [50-54],Adair,MO,St. LouisCounty(46)
+# Cases Age [55-59],Adair,MO,nan
+# Cases Age [60-64],Adair,MO,nan
+# Cases Age [65-69],Adair,MO,nan
+# Cases Age [70-74],Adair,MO,nan
+# Cases Age [75-79],Adair,MO,nan
+# Cases Age [80+],Adair,MO,nan
+# Cases Age [Unknown],Adair,MO,nan
+# Cases Age [0-19],3-May,MO,241
+# Cases Age [20-24],3-May,MO,484
+# Cases Age [25-29],3-May,MO,569
+# Cases Age [30-34],3-May,MO,552
+# Cases Age [35-39],3-May,MO,530
+# Cases Age [40-44],3-May,MO,573
+# Cases Age [45-49],3-May,MO,703
+# Cases Age [50-54],3-May,MO,742
+# Cases Age [55-59],3-May,MO,813
+# Cases Age [60-64],3-May,MO,785
+# Cases Age [65-69],3-May,MO,604
+# Cases Age [70-74],3-May,MO,475
+# Cases Age [75-79],3-May,MO,376.0
+# Cases Age [80+],3-May,MO,931.0
+# Cases Age [Unknown],3-May,MO,8.0
+# Cases Age [0-19],4-May,MO,256
+# Cases Age [20-24],4-May,MO,509
+# Cases Age [25-29],4-May,MO,596
+# Cases Age [30-34],4-May,MO,589
+# Cases Age [35-39],4-May,MO,570
+# Cases Age [40-44],4-May,MO,602
+# Cases Age [45-49],4-May,MO,735
+# Cases Age [50-54],4-May,MO,774
+# Cases Age [55-59],4-May,MO,848
+# Cases Age [60-64],4-May,MO,817
+# Cases Age [65-69],4-May,MO,621
+# Cases Age [70-74],4-May,MO,489
+# Cases Age [75-79],4-May,MO,385.0
+# Cases Age [80+],4-May,MO,952.0
+# Cases Age [Unknown],4-May,MO,11.0
+# Cases Age [0-19],5-May,MO,263
+# Cases Age [20-24],5-May,MO,520
+# Cases Age [25-29],5-May,MO,614
+# Cases Age [30-34],5-May,MO,605
+# Cases Age [35-39],5-May,MO,584
+# Cases Age [40-44],5-May,MO,619
+# Cases Age [45-49],5-May,MO,748
+# Cases Age [50-54],5-May,MO,782
+# Cases Age [55-59],5-May,MO,856
+# Cases Age [60-64],5-May,MO,825
+# Cases Age [65-69],5-May,MO,633
+# Cases Age [70-74],5-May,MO,495
+# Cases Age [75-79],5-May,MO,391.0
+# Cases Age [80+],5-May,MO,971.0
+# Cases Age [Unknown],5-May,MO,10.0
+# Cases Age [0-19],6-May,MO,277
+# Cases Age [20-24],6-May,MO,529
+# Cases Age [25-29],6-May,MO,619
+# Cases Age [30-34],6-May,MO,621
+# Cases Age [35-39],6-May,MO,590
+# Cases Age [40-44],6-May,MO,635
+# Cases Age [45-49],6-May,MO,765
+# Cases Age [50-54],6-May,MO,796
+# Cases Age [55-59],6-May,MO,875
+# Cases Age [60-64],6-May,MO,846
+# Cases Age [65-69],6-May,MO,645
+# Cases Age [70-74],6-May,MO,513
+# Cases Age [75-79],6-May,MO,394.0
+# Cases Age [80+],6-May,MO,989.0
+# Cases Age [Unknown],6-May,MO,8.0
+# Cases Age [0-19],7-May,MO,285
+# Cases Age [20-24],7-May,MO,542
+# Cases Age [25-29],7-May,MO,639
+# Cases Age [30-34],7-May,MO,634
+# Cases Age [35-39],7-May,MO,603
+# Cases Age [40-44],7-May,MO,649
+# Cases Age [45-49],7-May,MO,776
+# Cases Age [50-54],7-May,MO,809
+# Cases Age [55-59],7-May,MO,891
+# Cases Age [60-64],7-May,MO,858
+# Cases Age [65-69],7-May,MO,670
+# Cases Age [70-74],7-May,MO,527
+# Cases Age [75-79],7-May,MO,410.0
+# Cases Age [80+],7-May,MO,1040.0
+# Cases Age [Unknown],7-May,MO,8.0
+# Cases Age [0-19],8-May,MO,289
+# Cases Age [20-24],8-May,MO,553
+# Cases Age [25-29],8-May,MO,650
+# Cases Age [30-34],8-May,MO,645
+# Cases Age [35-39],8-May,MO,618
+# Cases Age [40-44],8-May,MO,662
+# Cases Age [45-49],8-May,MO,786
+# Cases Age [50-54],8-May,MO,816
+# Cases Age [55-59],8-May,MO,896
+# Cases Age [60-64],8-May,MO,871
+# Cases Age [65-69],8-May,MO,677
+# Cases Age [70-74],8-May,MO,533
+# Cases Age [75-79],8-May,MO,420.0
+# Cases Age [80+],8-May,MO,1066.0
+# Cases Age [Unknown],8-May,MO,7.0
+# Cases Age [0-19],10-May,MO,315
+# Cases Age [20-24],10-May,MO,580
+# Cases Age [25-29],10-May,MO,672
+# Cases Age [30-34],10-May,MO,675
+# Cases Age [35-39],10-May,MO,652
+# Cases Age [40-44],10-May,MO,693
+# Cases Age [45-49],10-May,MO,807
+# Cases Age [50-54],10-May,MO,843
+# Cases Age [55-59],10-May,MO,926
+# Cases Age [60-64],10-May,MO,890
+# Cases Age [65-69],10-May,MO,692
+# Cases Age [70-74],10-May,MO,556
+# Cases Age [75-79],10-May,MO,430.0
+# Cases Age [80+],10-May,MO,1104.0
+# Cases Age [Unknown],10-May,MO,9.0
+# Cases Age [0-19],11-May,MO,318
+# Cases Age [20-24],11-May,MO,584
+# Cases Age [25-29],11-May,MO,682
+# Cases Age [30-34],11-May,MO,680
+# Cases Age [35-39],11-May,MO,661
+# Cases Age [40-44],11-May,MO,702
+# Cases Age [45-49],11-May,MO,812
+# Cases Age [50-54],11-May,MO,846
+# Cases Age [55-59],11-May,MO,932
+# Cases Age [60-64],11-May,MO,894
+# Cases Age [65-69],11-May,MO,692
+# Cases Age [70-74],11-May,MO,559
+# Cases Age [75-79],11-May,MO,433.0
+# Cases Age [80+],11-May,MO,1115.0
+# Cases Age [Unknown],11-May,MO,8.0
+# Cases Age [0-19],May 12,MO,322
+# Cases Age [20-24],May 12,MO,593
+# Cases Age [25-29],May 12,MO,688
+# Cases Age [30-34],May 12,MO,689
+# Cases Age [35-39],May 12,MO,669
+# Cases Age [40-44],May 12,MO,710
+# Cases Age [45-49],May 12,MO,817
+# Cases Age [50-54],May 12,MO,857
+# Cases Age [55-59],May 12,MO,939
+# Cases Age [60-64],May 12,MO,897
+# Cases Age [65-69],May 12,MO,696
+# Cases Age [70-74],May 12,MO,559
+# Cases Age [75-79],May 12,MO,437.0
+# Cases Age [80+],May 12,MO,1124.0
+# Cases Age [Unknown],May 12,MO,9.0
+# Cases Age [0-19],May 13,MO,331
+# Cases Age [20-24],May 13,MO,597
+# Cases Age [25-29],May 13,MO,695
+# Cases Age [30-34],May 13,MO,693
+# Cases Age [35-39],May 13,MO,678
+# Cases Age [40-44],May 13,MO,720
+# Cases Age [45-49],May 13,MO,828
+# Cases Age [50-54],May 13,MO,865
+# Cases Age [55-59],May 13,MO,945
+# Cases Age [60-64],May 13,MO,911
+# Cases Age [65-69],May 13,MO,708
+# Cases Age [70-74],May 13,MO,570
+# Cases Age [75-79],May 13,MO,444.0
+# Cases Age [80+],May 13,MO,1148.0
+# Cases Age [Unknown],May 13,MO,9.0
+# Cases Age [0-19],May 14,MO,334
+# Cases Age [20-24],May 14,MO,610
+# Cases Age [25-29],May 14,MO,713
+# Cases Age [30-34],May 14,MO,702
+# Cases Age [35-39],May 14,MO,691
+# Cases Age [40-44],May 14,MO,732
+# Cases Age [45-49],May 14,MO,842
+# Cases Age [50-54],May 14,MO,884
+# Cases Age [55-59],May 14,MO,965
+# Cases Age [60-64],May 14,MO,917
+# Cases Age [65-69],May 14,MO,712
+# Cases Age [70-74],May 14,MO,578
+# Cases Age [75-79],May 14,MO,450.0
+# Cases Age [80+],May 14,MO,1178.0
+# Cases Age [Unknown],May 14,MO,9.0
+# Cases Age [0-19],May 15,MO,344
+# Cases Age [20-24],May 15,MO,613
+# Cases Age [25-29],May 15,MO,726
+# Cases Age [30-34],May 15,MO,709
+# Cases Age [35-39],May 15,MO,704
+# Cases Age [40-44],May 15,MO,743
+# Cases Age [45-49],May 15,MO,848
+# Cases Age [50-54],May 15,MO,892
+# Cases Age [55-59],May 15,MO,972
+# Cases Age [60-64],May 15,MO,931
+# Cases Age [65-69],May 15,MO,720
+# Cases Age [70-74],May 15,MO,582
+# Cases Age [75-79],May 15,MO,458.0
+# Cases Age [80+],May 15,MO,1205.0
+# Cases Age [Unknown],May 15,MO,9.0
+# Cases Age [0-19],May 16,MO,352
+# Cases Age [20-24],May 16,MO,627
+# Cases Age [25-29],May 16,MO,742
+# Cases Age [30-34],May 16,MO,717
+# Cases Age [35-39],May 16,MO,718
+# Cases Age [40-44],May 16,MO,763
+# Cases Age [45-49],May 16,MO,871
+# Cases Age [50-54],May 16,MO,905
+# Cases Age [55-59],May 16,MO,990
+# Cases Age [60-64],May 16,MO,941
+# Cases Age [65-69],May 16,MO,736
+# Cases Age [70-74],May 16,MO,596
+# Cases Age [75-79],May 16,MO,464.0
+# Cases Age [80+],May 16,MO,1244.0
+# Cases Age [Unknown],May 16,MO,9.0
+# Cases Age [0-19],May 17,MO,365
+# Cases Age [20-24],May 17,MO,639
+# Cases Age [25-29],May 17,MO,756
+# Cases Age [30-34],May 17,MO,734
+# Cases Age [35-39],May 17,MO,720
+# Cases Age [40-44],May 17,MO,766
+# Cases Age [45-49],May 17,MO,875
+# Cases Age [50-54],May 17,MO,915
+# Cases Age [55-59],May 17,MO,995
+# Cases Age [60-64],May 17,MO,946
+# Cases Age [65-69],May 17,MO,738
+# Cases Age [70-74],May 17,MO,598
+# Cases Age [75-79],May 17,MO,472.0
+# Cases Age [80+],May 17,MO,1262.0
+# Cases Age [Unknown],May 17,MO,8.0
+# Cases Age [0-19],May 18,MO,376
+# Cases Age [20-24],May 18,MO,649
+# Cases Age [25-29],May 18,MO,771
+# Cases Age [30-34],May 18,MO,745
+# Cases Age [35-39],May 18,MO,730
+# Cases Age [40-44],May 18,MO,777
+# Cases Age [45-49],May 18,MO,889
+# Cases Age [50-54],May 18,MO,929
+# Cases Age [55-59],May 18,MO,1008
+# Cases Age [60-64],May 18,MO,960
+# Cases Age [65-69],May 18,MO,743
+# Cases Age [70-74],May 18,MO,607
+# Cases Age [75-79],May 18,MO,481.0
+# Cases Age [80+],May 18,MO,1272.0
+# Cases Age [Unknown],May 18,MO,8.0
+# Cases Age [0-19],May 19,MO,384
+# Cases Age [20-24],May 19,MO,658
+# Cases Age [25-29],May 19,MO,786
+# Cases Age [30-34],May 19,MO,759
+# Cases Age [35-39],May 19,MO,739
+# Cases Age [40-44],May 19,MO,785
+# Cases Age [45-49],May 19,MO,897
+# Cases Age [50-54],May 19,MO,944
+# Cases Age [55-59],May 19,MO,1017
+# Cases Age [60-64],May 19,MO,968
+# Cases Age [65-69],May 19,MO,748
+# Cases Age [70-74],May 19,MO,613
+# Cases Age [75-79],May 19,MO,490.0
+# Cases Age [80+],May 19,MO,1284.0
+# Cases Age [Unknown],May 19,MO,8.0
+# Cases Age [0-19],2020-05-24 06:35:42 PM,MO,453
+# Cases Age [20-24],2020-05-24 06:35:42 PM,MO,898
+# Cases Age [25-29],2020-05-24 06:35:42 PM,MO,721
+# Cases Age [30-34],2020-05-24 06:35:42 PM,MO,807
+# Cases Age [35-39],2020-05-24 06:35:42 PM,MO,837
+# Cases Age [40-44],2020-05-24 06:35:42 PM,MO,961
+# Cases Age [45-49],2020-05-24 06:35:42 PM,MO,830
+# Cases Age [50-54],2020-05-24 06:35:42 PM,MO,1043
+# Cases Age [55-59],2020-05-24 06:35:42 PM,MO,993
+# Cases Age [60-64],2020-05-24 06:35:42 PM,MO,1072
+# Cases Age [65-69],2020-05-24 06:35:42 PM,MO,800
+# Cases Age [70-74],2020-05-24 06:35:42 PM,MO,511
+# Cases Age [75-79],2020-05-24 06:35:42 PM,MO,653
+# Cases Age [80+],2020-05-24 06:35:42 PM,MO,1399
+# Cases Age [0-19],2020-05-25 08:50:59 PM,MO,465
+# Cases Age [20-24],2020-05-25 08:50:59 PM,MO,917
+# Cases Age [25-29],2020-05-25 08:50:59 PM,MO,737
+# Cases Age [30-34],2020-05-25 08:50:59 PM,MO,824
+# Cases Age [35-39],2020-05-25 08:50:59 PM,MO,856
+# Cases Age [40-44],2020-05-25 08:50:59 PM,MO,970
+# Cases Age [45-49],2020-05-25 08:50:59 PM,MO,842
+# Cases Age [50-54],2020-05-25 08:50:59 PM,MO,1054
+# Cases Age [55-59],2020-05-25 08:50:59 PM,MO,1009
+# Cases Age [60-64],2020-05-25 08:50:59 PM,MO,1082
+# Cases Age [65-69],2020-05-25 08:50:59 PM,MO,803
+# Cases Age [70-74],2020-05-25 08:50:59 PM,MO,518
+# Cases Age [75-79],2020-05-25 08:50:59 PM,MO,660
+# Cases Age [80+],2020-05-25 08:50:59 PM,MO,1420
+# Cases Age [0-19],2020-05-26 09:05:17 PM,MO,474
+# Cases Age [20-24],2020-05-26 09:05:17 PM,MO,923
+# Cases Age [25-29],2020-05-26 09:05:17 PM,MO,749
+# Cases Age [30-34],2020-05-26 09:05:17 PM,MO,835
+# Cases Age [35-39],2020-05-26 09:05:17 PM,MO,872
+# Cases Age [40-44],2020-05-26 09:05:17 PM,MO,984
+# Cases Age [45-49],2020-05-26 09:05:17 PM,MO,854
+# Cases Age [50-54],2020-05-26 09:05:17 PM,MO,1091
+# Cases Age [55-59],2020-05-26 09:05:17 PM,MO,1020
+# Cases Age [60-64],2020-05-26 09:05:17 PM,MO,807
+# Cases Age [65-69],2020-05-26 09:05:17 PM,MO,1058
+# Cases Age [70-74],2020-05-26 09:05:17 PM,MO,520
+# Cases Age [75-79],2020-05-26 09:05:17 PM,MO,666
+# Cases Age [80+],2020-05-26 09:05:17 PM,MO,1429
+# Cases Age [0-19],2020-05-27 08:41:02 PM,MO,481
+# Cases Age [20-24],2020-05-27 08:41:02 PM,MO,948
+# Cases Age [25-29],2020-05-27 08:41:02 PM,MO,773
+# Cases Age [30-34],2020-05-27 08:41:02 PM,MO,856
+# Cases Age [35-39],2020-05-27 08:41:02 PM,MO,881
+# Cases Age [40-44],2020-05-27 08:41:02 PM,MO,995
+# Cases Age [45-49],2020-05-27 08:41:02 PM,MO,871
+# Cases Age [50-54],2020-05-27 08:41:02 PM,MO,1104
+# Cases Age [55-59],2020-05-27 08:41:02 PM,MO,1037
+# Cases Age [60-64],2020-05-27 08:41:02 PM,MO,815
+# Cases Age [65-69],2020-05-27 08:41:02 PM,MO,1063
+# Cases Age [70-74],2020-05-27 08:41:02 PM,MO,526
+# Cases Age [75-79],2020-05-27 08:41:02 PM,MO,676
+# Cases Age [80+],2020-05-27 08:41:02 PM,MO,1426
+# Cases Age [0-19],2020-05-28 08:14:00 PM,MO,499
+# Cases Age [20-24],2020-05-28 08:14:00 PM,MO,962
+# Cases Age [25-29],2020-05-28 08:14:00 PM,MO,787
+# Cases Age [30-34],2020-05-28 08:14:00 PM,MO,866
+# Cases Age [35-39],2020-05-28 08:14:00 PM,MO,899
+# Cases Age [40-44],2020-05-28 08:14:00 PM,MO,1006
+# Cases Age [45-49],2020-05-28 08:14:00 PM,MO,881
+# Cases Age [50-54],2020-05-28 08:14:00 PM,MO,1074
+# Cases Age [55-59],2020-05-28 08:14:00 PM,MO,1052
+# Cases Age [60-64],2020-05-28 08:14:00 PM,MO,1119
+# Cases Age [65-69],2020-05-28 08:14:00 PM,MO,824
+# Cases Age [70-74],2020-05-28 08:14:00 PM,MO,533
+# Cases Age [75-79],2020-05-28 08:14:00 PM,MO,685
+# Cases Age [80+],2020-05-28 08:14:00 PM,MO,1474
+# Cases Age [0-19],2020-05-29 08:00:11 PM,MO,511
+# Cases Age [20-24],2020-05-29 08:00:11 PM,MO,972
+# Cases Age [25-29],2020-05-29 08:00:11 PM,MO,796
+# Cases Age [30-34],2020-05-29 08:00:11 PM,MO,875
+# Cases Age [35-39],2020-05-29 08:00:11 PM,MO,909
+# Cases Age [40-44],2020-05-29 08:00:11 PM,MO,1013
+# Cases Age [45-49],2020-05-29 08:00:11 PM,MO,886
+# Cases Age [50-54],2020-05-29 08:00:11 PM,MO,1084
+# Cases Age [55-59],2020-05-29 08:00:11 PM,MO,1058
+# Cases Age [60-64],2020-05-29 08:00:11 PM,MO,1129
+# Cases Age [65-69],2020-05-29 08:00:11 PM,MO,827
+# Cases Age [70-74],2020-05-29 08:00:11 PM,MO,538
+# Cases Age [75-79],2020-05-29 08:00:11 PM,MO,691
+# Cases Age [80+],2020-05-29 08:00:11 PM,MO,1495
+# Cases Age [0-19],2020-05-30 07:52:38 PM,MO,525
+# Cases Age [20-24],2020-05-30 07:52:38 PM,MO,979
+# Cases Age [25-29],2020-05-30 07:52:38 PM,MO,810
+# Cases Age [30-34],2020-05-30 07:52:38 PM,MO,890
+# Cases Age [35-39],2020-05-30 07:52:38 PM,MO,925
+# Cases Age [40-44],2020-05-30 07:52:38 PM,MO,1031
+# Cases Age [45-49],2020-05-30 07:52:38 PM,MO,897
+# Cases Age [50-54],2020-05-30 07:52:38 PM,MO,1098
+# Cases Age [55-59],2020-05-30 07:52:38 PM,MO,1067
+# Cases Age [60-64],2020-05-30 07:52:38 PM,MO,1144
+# Cases Age [65-69],2020-05-30 07:52:38 PM,MO,835
+# Cases Age [70-74],2020-05-30 07:52:38 PM,MO,543
+# Cases Age [75-79],2020-05-30 07:52:38 PM,MO,698
+# Cases Age [80+],2020-05-30 07:52:38 PM,MO,1509
+# Cases Age [0-19],2020-05-31 08:12:27 PM,MO,546
+# Cases Age [20-24],2020-05-31 08:12:27 PM,MO,1001
+# Cases Age [25-29],2020-05-31 08:12:27 PM,MO,824
+# Cases Age [30-34],2020-05-31 08:12:27 PM,MO,904
+# Cases Age [35-39],2020-05-31 08:12:27 PM,MO,939
+# Cases Age [40-44],2020-05-31 08:12:27 PM,MO,1047
+# Cases Age [45-49],2020-05-31 08:12:27 PM,MO,912
+# Cases Age [50-54],2020-05-31 08:12:27 PM,MO,1107
+# Cases Age [55-59],2020-05-31 08:12:27 PM,MO,1077
+# Cases Age [60-64],2020-05-31 08:12:27 PM,MO,1158
+# Cases Age [65-69],2020-05-31 08:12:27 PM,MO,846
+# Cases Age [70-74],2020-05-31 08:12:27 PM,MO,549
+# Cases Age [75-79],2020-05-31 08:12:27 PM,MO,702
+# Cases Age [80+],2020-05-31 08:12:27 PM,MO,1525
+# Cases Age [0-19],2020-06-01 08:06:57 PM,MO,559
+# Cases Age [20-24],2020-06-01 08:06:57 PM,MO,1025
+# Cases Age [25-29],2020-06-01 08:06:57 PM,MO,838
+# Cases Age [30-34],2020-06-01 08:06:57 PM,MO,921
+# Cases Age [35-39],2020-06-01 08:06:57 PM,MO,958
+# Cases Age [40-44],2020-06-01 08:06:57 PM,MO,1060
+# Cases Age [45-49],2020-06-01 08:06:57 PM,MO,925
+# Cases Age [50-54],2020-06-01 08:06:57 PM,MO,1171
+# Cases Age [55-59],2020-06-01 08:06:57 PM,MO,1095
+# Cases Age [60-64],2020-06-01 08:06:57 PM,MO,854
+# Cases Age [65-69],2020-06-01 08:06:57 PM,MO,1119
+# Cases Age [70-74],2020-06-01 08:06:57 PM,MO,550
+# Cases Age [75-79],2020-06-01 08:06:57 PM,MO,708
+# Cases Age [80+],2020-06-01 08:06:57 PM,MO,1534
+# Cases Age [0-19],2020-06-02 08:17:22 PM,MO,581
+# Cases Age [20-24],2020-06-02 08:17:22 PM,MO,1045
+# Cases Age [25-29],2020-06-02 08:17:22 PM,MO,872
+# Cases Age [30-34],2020-06-02 08:17:22 PM,MO,941
+# Cases Age [35-39],2020-06-02 08:17:22 PM,MO,977
+# Cases Age [40-44],2020-06-02 08:17:22 PM,MO,1085
+# Cases Age [45-49],2020-06-02 08:17:22 PM,MO,945
+# Cases Age [50-54],2020-06-02 08:17:22 PM,MO,1186
+# Cases Age [55-59],2020-06-02 08:17:22 PM,MO,1121
+# Cases Age [60-64],2020-06-02 08:17:22 PM,MO,863
+# Cases Age [65-69],2020-06-02 08:17:22 PM,MO,1129
+# Cases Age [70-74],2020-06-02 08:17:22 PM,MO,554
+# Cases Age [75-79],2020-06-02 08:17:22 PM,MO,718
+# Cases Age [80+],2020-06-02 08:17:22 PM,MO,1548
+# Cases Age [0-19],2020-06-03 07:56:10 PM,MO,599
+# Cases Age [20-24],2020-06-03 07:56:10 PM,MO,1064
+# Cases Age [25-29],2020-06-03 07:56:10 PM,MO,882
+# Cases Age [30-34],2020-06-03 07:56:10 PM,MO,959
+# Cases Age [35-39],2020-06-03 07:56:10 PM,MO,992
+# Cases Age [40-44],2020-06-03 07:56:10 PM,MO,1103
+# Cases Age [45-49],2020-06-03 07:56:10 PM,MO,958
+# Cases Age [50-54],2020-06-03 07:56:10 PM,MO,1204
+# Cases Age [55-59],2020-06-03 07:56:10 PM,MO,1137
+# Cases Age [60-64],2020-06-03 07:56:10 PM,MO,879
+# Cases Age [65-69],2020-06-03 07:56:10 PM,MO,1151
+# Cases Age [70-74],2020-06-03 07:56:10 PM,MO,555
+# Cases Age [75-79],2020-06-03 07:56:10 PM,MO,720
+# Cases Age [80+],2020-06-03 07:56:10 PM,MO,1554
+# Cases Age [0-19],2020-06-04 08:28:27 PM,MO,628
+# Cases Age [20-24],2020-06-04 08:28:27 PM,MO,1104
+# Cases Age [25-29],2020-06-04 08:28:27 PM,MO,914
+# Cases Age [30-34],2020-06-04 08:28:27 PM,MO,983
+# Cases Age [35-39],2020-06-04 08:28:27 PM,MO,1017
+# Cases Age [40-44],2020-06-04 08:28:27 PM,MO,1130
+# Cases Age [45-49],2020-06-04 08:28:27 PM,MO,975
+# Cases Age [50-54],2020-06-04 08:28:27 PM,MO,1229
+# Cases Age [55-59],2020-06-04 08:28:27 PM,MO,1157
+# Cases Age [60-64],2020-06-04 08:28:27 PM,MO,884
+# Cases Age [65-69],2020-06-04 08:28:27 PM,MO,1171
+# Cases Age [70-74],2020-06-04 08:28:27 PM,MO,563
+# Cases Age [75-79],2020-06-04 08:28:27 PM,MO,722
+# Cases Age [80+],2020-06-04 08:28:27 PM,MO,1570
+# Cases Age [0-19],2020-06-05 08:15:49 PM,MO,628
+# Cases Age [20-24],2020-06-05 08:15:49 PM,MO,1104
+# Cases Age [25-29],2020-06-05 08:15:49 PM,MO,914
+# Cases Age [30-34],2020-06-05 08:15:49 PM,MO,983
+# Cases Age [35-39],2020-06-05 08:15:49 PM,MO,1017
+# Cases Age [40-44],2020-06-05 08:15:49 PM,MO,1130
+# Cases Age [45-49],2020-06-05 08:15:49 PM,MO,975
+# Cases Age [50-54],2020-06-05 08:15:49 PM,MO,1229
+# Cases Age [55-59],2020-06-05 08:15:49 PM,MO,1157
+# Cases Age [60-64],2020-06-05 08:15:49 PM,MO,884
+# Cases Age [65-69],2020-06-05 08:15:49 PM,MO,1171
+# Cases Age [70-74],2020-06-05 08:15:49 PM,MO,563
+# Cases Age [75-79],2020-06-05 08:15:49 PM,MO,722
+# Cases Age [80+],2020-06-05 08:15:49 PM,MO,1570
+# Cases Age [0-19],2020-06-06 08:34:34 PM,MO,662
+# Cases Age [20-24],2020-06-06 08:34:34 PM,MO,1134
+# Cases Age [25-29],2020-06-06 08:34:34 PM,MO,958
+# Cases Age [30-34],2020-06-06 08:34:34 PM,MO,1016
+# Cases Age [35-39],2020-06-06 08:34:34 PM,MO,1054
+# Cases Age [40-44],2020-06-06 08:34:34 PM,MO,1161
+# Cases Age [45-49],2020-06-06 08:34:34 PM,MO,994
+# Cases Age [50-54],2020-06-06 08:34:34 PM,MO,1251
+# Cases Age [55-59],2020-06-06 08:34:34 PM,MO,1183
+# Cases Age [60-64],2020-06-06 08:34:34 PM,MO,905
+# Cases Age [65-69],2020-06-06 08:34:34 PM,MO,1182
+# Cases Age [70-74],2020-06-06 08:34:34 PM,MO,579
+# Cases Age [75-79],2020-06-06 08:34:34 PM,MO,742
+# Cases Age [80+],2020-06-06 08:34:34 PM,MO,1612
+# Cases Age [0-19],2020-06-07 08:32:37 PM,MO,671
+# Cases Age [20-24],2020-06-07 08:32:37 PM,MO,1150
+# Cases Age [25-29],2020-06-07 08:32:37 PM,MO,972
+# Cases Age [30-34],2020-06-07 08:32:37 PM,MO,1028
+# Cases Age [35-39],2020-06-07 08:32:37 PM,MO,1059
+# Cases Age [40-44],2020-06-07 08:32:37 PM,MO,1199
+# Cases Age [45-49],2020-06-07 08:32:37 PM,MO,999
+# Cases Age [50-54],2020-06-07 08:32:37 PM,MO,1260
+# Cases Age [55-59],2020-06-07 08:32:37 PM,MO,1260
+# Cases Age [60-64],2020-06-07 08:32:37 PM,MO,910
+# Cases Age [65-69],2020-06-07 08:32:37 PM,MO,1186
+# Cases Age [70-74],2020-06-07 08:32:37 PM,MO,580
+# Cases Age [75-79],2020-06-07 08:32:37 PM,MO,744
+# Cases Age [80+],2020-06-07 08:32:37 PM,MO,1622
+# Cases Age [0-19],2020-06-08 08:30:16 PM,MO,702
+# Cases Age [20-24],2020-06-08 08:30:16 PM,MO,1167
+# Cases Age [25-29],2020-06-08 08:30:16 PM,MO,993
+# Cases Age [30-34],2020-06-08 08:30:16 PM,MO,1045
+# Cases Age [35-39],2020-06-08 08:30:16 PM,MO,1085
+# Cases Age [40-44],2020-06-08 08:30:16 PM,MO,1177
+# Cases Age [45-49],2020-06-08 08:30:16 PM,MO,1014
+# Cases Age [50-54],2020-06-08 08:30:16 PM,MO,1267
+# Cases Age [55-59],2020-06-08 08:30:16 PM,MO,1210
+# Cases Age [60-64],2020-06-08 08:30:16 PM,MO,914
+# Cases Age [65-69],2020-06-08 08:30:16 PM,MO,1194
+# Cases Age [70-74],2020-06-08 08:30:16 PM,MO,584
+# Cases Age [75-79],2020-06-08 08:30:16 PM,MO,748
+# Cases Age [80+],2020-06-08 08:30:16 PM,MO,1625
+# Cases Age [0-19],2020-06-09 08:32:14 PM,MO,726
+# Cases Age [20-24],2020-06-09 08:32:14 PM,MO,1186
+# Cases Age [25-29],2020-06-09 08:32:14 PM,MO,1010
+# Cases Age [30-34],2020-06-09 08:32:14 PM,MO,1064
+# Cases Age [35-39],2020-06-09 08:32:14 PM,MO,1108
+# Cases Age [40-44],2020-06-09 08:32:14 PM,MO,1191
+# Cases Age [45-49],2020-06-09 08:32:14 PM,MO,1030
+# Cases Age [50-54],2020-06-09 08:32:14 PM,MO,1280
+# Cases Age [55-59],2020-06-09 08:32:14 PM,MO,1217
+# Cases Age [60-64],2020-06-09 08:32:14 PM,MO,917
+# Cases Age [65-69],2020-06-09 08:32:14 PM,MO,1206
+# Cases Age [70-74],2020-06-09 08:32:14 PM,MO,586
+# Cases Age [75-79],2020-06-09 08:32:14 PM,MO,751
+# Cases Age [80+],2020-06-09 08:32:14 PM,MO,1631
+# Cases Age [0-19],2020-06-10 08:36:21 PM,MO,773
+# Cases Age [20-24],2020-06-10 08:36:21 PM,MO,1224
+# Cases Age [25-29],2020-06-10 08:36:21 PM,MO,1059
+# Cases Age [30-34],2020-06-10 08:36:21 PM,MO,1083
+# Cases Age [35-39],2020-06-10 08:36:21 PM,MO,1132
+# Cases Age [40-44],2020-06-10 08:36:21 PM,MO,1199
+# Cases Age [45-49],2020-06-10 08:36:21 PM,MO,1047
+# Cases Age [50-54],2020-06-10 08:36:21 PM,MO,1287
+# Cases Age [55-59],2020-06-10 08:36:21 PM,MO,1231
+# Cases Age [60-64],2020-06-10 08:36:21 PM,MO,922
+# Cases Age [65-69],2020-06-10 08:36:21 PM,MO,1220
+# Cases Age [70-74],2020-06-10 08:36:21 PM,MO,596
+# Cases Age [75-79],2020-06-10 08:36:21 PM,MO,757
+# Cases Age [80+],2020-06-10 08:36:21 PM,MO,1647
+# Cases Age [0-19],2020-06-11 08:30:37 PM,MO,793
+# Cases Age [20-24],2020-06-11 08:30:37 PM,MO,1252
+# Cases Age [25-29],2020-06-11 08:30:37 PM,MO,1081
+# Cases Age [30-34],2020-06-11 08:30:37 PM,MO,1102
+# Cases Age [35-39],2020-06-11 08:30:37 PM,MO,1146
+# Cases Age [40-44],2020-06-11 08:30:37 PM,MO,1215
+# Cases Age [45-49],2020-06-11 08:30:37 PM,MO,1066
+# Cases Age [50-54],2020-06-11 08:30:37 PM,MO,1299
+# Cases Age [55-59],2020-06-11 08:30:37 PM,MO,1243
+# Cases Age [60-64],2020-06-11 08:30:37 PM,MO,928
+# Cases Age [65-69],2020-06-11 08:30:37 PM,MO,1231
+# Cases Age [70-74],2020-06-11 08:30:37 PM,MO,603
+# Cases Age [75-79],2020-06-11 08:30:37 PM,MO,763
+# Cases Age [80+],2020-06-11 08:30:37 PM,MO,1658
+# Cases Age [0-19],2020-06-12 08:26:44 PM,MO,818
+# Cases Age [20-24],2020-06-12 08:26:44 PM,MO,1267
+# Cases Age [25-29],2020-06-12 08:26:44 PM,MO,1098
+# Cases Age [30-34],2020-06-12 08:26:44 PM,MO,1122
+# Cases Age [35-39],2020-06-12 08:26:44 PM,MO,1165
+# Cases Age [40-44],2020-06-12 08:26:44 PM,MO,1227
+# Cases Age [45-49],2020-06-12 08:26:44 PM,MO,1081
+# Cases Age [50-54],2020-06-12 08:26:44 PM,MO,1310
+# Cases Age [55-59],2020-06-12 08:26:44 PM,MO,1257
+# Cases Age [60-64],2020-06-12 08:26:44 PM,MO,935
+# Cases Age [65-69],2020-06-12 08:26:44 PM,MO,1239
+# Cases Age [70-74],2020-06-12 08:26:44 PM,MO,615
+# Cases Age [75-79],2020-06-12 08:26:44 PM,MO,765
+# Cases Age [80+],2020-06-12 08:26:44 PM,MO,1676
+# Cases Age [0-19],2020-06-13 08:43:46 PM,MO,839
+# Cases Age [20-24],2020-06-13 08:43:46 PM,MO,1283
+# Cases Age [25-29],2020-06-13 08:43:46 PM,MO,1128
+# Cases Age [30-34],2020-06-13 08:43:46 PM,MO,1129
+# Cases Age [35-39],2020-06-13 08:43:46 PM,MO,1190
+# Cases Age [40-44],2020-06-13 08:43:46 PM,MO,1247
+# Cases Age [45-49],2020-06-13 08:43:46 PM,MO,1094
+# Cases Age [50-54],2020-06-13 08:43:46 PM,MO,1325
+# Cases Age [55-59],2020-06-13 08:43:46 PM,MO,1276
+# Cases Age [60-64],2020-06-13 08:43:46 PM,MO,949
+# Cases Age [65-69],2020-06-13 08:43:46 PM,MO,1248
+# Cases Age [70-74],2020-06-13 08:43:46 PM,MO,621
+# Cases Age [75-79],2020-06-13 08:43:46 PM,MO,775
+# Cases Age [80+],2020-06-13 08:43:46 PM,MO,1696
+# Cases Age [0-19],2020-06-14 08:03:15 PM,MO,839
+# Cases Age [20-24],2020-06-14 08:03:15 PM,MO,1283
+# Cases Age [25-29],2020-06-14 08:03:15 PM,MO,1128
+# Cases Age [30-34],2020-06-14 08:03:15 PM,MO,1129
+# Cases Age [35-39],2020-06-14 08:03:15 PM,MO,1190
+# Cases Age [40-44],2020-06-14 08:03:15 PM,MO,1247
+# Cases Age [45-49],2020-06-14 08:03:15 PM,MO,1094
+# Cases Age [50-54],2020-06-14 08:03:15 PM,MO,1325
+# Cases Age [55-59],2020-06-14 08:03:15 PM,MO,1276
+# Cases Age [60-64],2020-06-14 08:03:15 PM,MO,949
+# Cases Age [65-69],2020-06-14 08:03:15 PM,MO,1248
+# Cases Age [70-74],2020-06-14 08:03:15 PM,MO,621
+# Cases Age [75-79],2020-06-14 08:03:15 PM,MO,775
+# Cases Age [80+],2020-06-14 08:03:15 PM,MO,1696
+# Cases Age [0-19],2020-06-15 08:27:36 PM,MO,879
+# Cases Age [20-24],2020-06-15 08:27:36 PM,MO,1325
+# Cases Age [25-29],2020-06-15 08:27:36 PM,MO,1173
+# Cases Age [30-34],2020-06-15 08:27:36 PM,MO,1154
+# Cases Age [35-39],2020-06-15 08:27:36 PM,MO,1213
+# Cases Age [40-44],2020-06-15 08:27:36 PM,MO,1271
+# Cases Age [45-49],2020-06-15 08:27:36 PM,MO,1126
+# Cases Age [50-54],2020-06-15 08:27:36 PM,MO,1349
+# Cases Age [55-59],2020-06-15 08:27:36 PM,MO,1310
+# Cases Age [60-64],2020-06-15 08:27:36 PM,MO,967
+# Cases Age [65-69],2020-06-15 08:27:36 PM,MO,1265
+# Cases Age [70-74],2020-06-15 08:27:36 PM,MO,627
+# Cases Age [75-79],2020-06-15 08:27:36 PM,MO,786
+# Cases Age [80+],2020-06-15 08:27:36 PM,MO,1734
+# Cases Age [0-19],2020-06-16 08:29:26 PM,MO,879
+# Cases Age [20-24],2020-06-16 08:29:26 PM,MO,1325
+# Cases Age [25-29],2020-06-16 08:29:26 PM,MO,1173
+# Cases Age [30-34],2020-06-16 08:29:26 PM,MO,1154
+# Cases Age [35-39],2020-06-16 08:29:26 PM,MO,1213
+# Cases Age [40-44],2020-06-16 08:29:26 PM,MO,1271
+# Cases Age [45-49],2020-06-16 08:29:26 PM,MO,1126
+# Cases Age [50-54],2020-06-16 08:29:26 PM,MO,1349
+# Cases Age [55-59],2020-06-16 08:29:26 PM,MO,1310
+# Cases Age [60-64],2020-06-16 08:29:26 PM,MO,967
+# Cases Age [65-69],2020-06-16 08:29:26 PM,MO,1265
+# Cases Age [70-74],2020-06-16 08:29:26 PM,MO,627
+# Cases Age [75-79],2020-06-16 08:29:26 PM,MO,786
+# Cases Age [80+],2020-06-16 08:29:26 PM,MO,1734
+# Cases Age [0-19],2020-06-17 08:34:20 PM,MO,919
+# Cases Age [20-24],2020-06-17 08:34:20 PM,MO,1382
+# Cases Age [25-29],2020-06-17 08:34:20 PM,MO,1230
+# Cases Age [30-34],2020-06-17 08:34:20 PM,MO,1196
+# Cases Age [35-39],2020-06-17 08:34:20 PM,MO,1256
+# Cases Age [40-44],2020-06-17 08:34:20 PM,MO,1295
+# Cases Age [45-49],2020-06-17 08:34:20 PM,MO,1161
+# Cases Age [50-54],2020-06-17 08:34:20 PM,MO,1380
+# Cases Age [55-59],2020-06-17 08:34:20 PM,MO,1338
+# Cases Age [60-64],2020-06-17 08:34:20 PM,MO,979
+# Cases Age [65-69],2020-06-17 08:34:20 PM,MO,1296
+# Cases Age [70-74],2020-06-17 08:34:20 PM,MO,632
+# Cases Age [75-79],2020-06-17 08:34:20 PM,MO,799
+# Cases Age [80+],2020-06-17 08:34:20 PM,MO,1751
+# Cases Age [0-19],2020-06-18 09:07:13 PM,MO,945
+# Cases Age [20-24],2020-06-18 09:07:13 PM,MO,1414
+# Cases Age [25-29],2020-06-18 09:07:13 PM,MO,1259
+# Cases Age [30-34],2020-06-18 09:07:13 PM,MO,1224
+# Cases Age [35-39],2020-06-18 09:07:13 PM,MO,1288
+# Cases Age [40-44],2020-06-18 09:07:13 PM,MO,1313
+# Cases Age [45-49],2020-06-18 09:07:13 PM,MO,1177
+# Cases Age [50-54],2020-06-18 09:07:13 PM,MO,1408
+# Cases Age [55-59],2020-06-18 09:07:13 PM,MO,1358
+# Cases Age [60-64],2020-06-18 09:07:13 PM,MO,986
+# Cases Age [65-69],2020-06-18 09:07:13 PM,MO,1307
+# Cases Age [70-74],2020-06-18 09:07:13 PM,MO,642
+# Cases Age [75-79],2020-06-18 09:07:13 PM,MO,808
+# Cases Age [80+],2020-06-18 09:07:13 PM,MO,1768
+# Cases Age [0-19],2020-06-19 07:47:38 PM,MO,975
+# Cases Age [20-24],2020-06-19 07:47:38 PM,MO,1435
+# Cases Age [25-29],2020-06-19 07:47:38 PM,MO,1295
+# Cases Age [30-34],2020-06-19 07:47:38 PM,MO,1252
+# Cases Age [35-39],2020-06-19 07:47:38 PM,MO,1321
+# Cases Age [40-44],2020-06-19 07:47:38 PM,MO,1336
+# Cases Age [45-49],2020-06-19 07:47:38 PM,MO,1199
+# Cases Age [50-54],2020-06-19 07:47:38 PM,MO,1428
+# Cases Age [55-59],2020-06-19 07:47:38 PM,MO,1378
+# Cases Age [60-64],2020-06-19 07:47:38 PM,MO,999
+# Cases Age [65-69],2020-06-19 07:47:38 PM,MO,1320
+# Cases Age [70-74],2020-06-19 07:47:38 PM,MO,653
+# Cases Age [75-79],2020-06-19 07:47:38 PM,MO,815
+# Cases Age [80+],2020-06-19 07:47:38 PM,MO,1783
+# Cases Age [0-19],2020-06-20 09:23:00 PM,MO,1046
+# Cases Age [20-24],2020-06-20 09:23:00 PM,MO,1481
+# Cases Age [25-29],2020-06-20 09:23:00 PM,MO,1331
+# Cases Age [30-34],2020-06-20 09:23:00 PM,MO,1289
+# Cases Age [35-39],2020-06-20 09:23:00 PM,MO,1369
+# Cases Age [40-44],2020-06-20 09:23:00 PM,MO,1364
+# Cases Age [45-49],2020-06-20 09:23:00 PM,MO,1231
+# Cases Age [50-54],2020-06-20 09:23:00 PM,MO,1444
+# Cases Age [55-59],2020-06-20 09:23:00 PM,MO,1403
+# Cases Age [60-64],2020-06-20 09:23:00 PM,MO,1010
+# Cases Age [65-69],2020-06-20 09:23:00 PM,MO,1336
+# Cases Age [70-74],2020-06-20 09:23:00 PM,MO,660
+# Cases Age [75-79],2020-06-20 09:23:00 PM,MO,822
+# Cases Age [80+],2020-06-20 09:23:00 PM,MO,1793
+# Cases Age [0-19],2020-06-21 08:56:45 PM,MO,1066
+# Cases Age [20-24],2020-06-21 08:56:45 PM,MO,1538
+# Cases Age [25-29],2020-06-21 08:56:45 PM,MO,1375
+# Cases Age [30-34],2020-06-21 08:56:45 PM,MO,1344
+# Cases Age [35-39],2020-06-21 08:56:45 PM,MO,1432
+# Cases Age [40-44],2020-06-21 08:56:45 PM,MO,1396
+# Cases Age [45-49],2020-06-21 08:56:45 PM,MO,1266
+# Cases Age [50-54],2020-06-21 08:56:45 PM,MO,1471
+# Cases Age [55-59],2020-06-21 08:56:45 PM,MO,1436
+# Cases Age [60-64],2020-06-21 08:56:45 PM,MO,1017
+# Cases Age [65-69],2020-06-21 08:56:45 PM,MO,1352
+# Cases Age [70-74],2020-06-21 08:56:45 PM,MO,667
+# Cases Age [75-79],2020-06-21 08:56:45 PM,MO,830
+# Cases Age [80+],2020-06-21 08:56:45 PM,MO,1800
+# Cases Age [0-19],2020-06-22 07:57:19 PM,MO,1087
+# Cases Age [20-24],2020-06-22 07:57:19 PM,MO,1552
+# Cases Age [25-29],2020-06-22 07:57:19 PM,MO,1390
+# Cases Age [30-34],2020-06-22 07:57:19 PM,MO,1360
+# Cases Age [35-39],2020-06-22 07:57:19 PM,MO,1445
+# Cases Age [40-44],2020-06-22 07:57:19 PM,MO,1404
+# Cases Age [45-49],2020-06-22 07:57:19 PM,MO,1274
+# Cases Age [50-54],2020-06-22 07:57:19 PM,MO,1479
+# Cases Age [55-59],2020-06-22 07:57:19 PM,MO,1445
+# Cases Age [60-64],2020-06-22 07:57:19 PM,MO,1020
+# Cases Age [65-69],2020-06-22 07:57:19 PM,MO,1364
+# Cases Age [70-74],2020-06-22 07:57:19 PM,MO,672
+# Cases Age [75-79],2020-06-22 07:57:19 PM,MO,831
+# Cases Age [80+],2020-06-22 07:57:19 PM,MO,1807
+# Cases Age [0-19],2020-06-23 07:23:22 PM,MO,1150
+# Cases Age [20-24],2020-06-23 07:23:22 PM,MO,1601
+# Cases Age [25-29],2020-06-23 07:23:22 PM,MO,1435
+# Cases Age [30-34],2020-06-23 07:23:22 PM,MO,1399
+# Cases Age [35-39],2020-06-23 07:23:22 PM,MO,1490
+# Cases Age [40-44],2020-06-23 07:23:22 PM,MO,1439
+# Cases Age [45-49],2020-06-23 07:23:22 PM,MO,1304
+# Cases Age [50-54],2020-06-23 07:23:22 PM,MO,1509
+# Cases Age [55-59],2020-06-23 07:23:22 PM,MO,1468
+# Cases Age [60-64],2020-06-23 07:23:22 PM,MO,1030
+# Cases Age [65-69],2020-06-23 07:23:22 PM,MO,1386
+# Cases Age [70-74],2020-06-23 07:23:22 PM,MO,683
+# Cases Age [75-79],2020-06-23 07:23:22 PM,MO,848
+# Cases Age [80+],2020-06-23 07:23:22 PM,MO,1822
+# Cases Age [0-19],2020-06-24 09:20:17 PM,MO,1182
+# Cases Age [20-24],2020-06-24 09:20:17 PM,MO,1622
+# Cases Age [25-29],2020-06-24 09:20:17 PM,MO,1467
+# Cases Age [30-34],2020-06-24 09:20:17 PM,MO,1441
+# Cases Age [35-39],2020-06-24 09:20:17 PM,MO,1518
+# Cases Age [40-44],2020-06-24 09:20:17 PM,MO,1453
+# Cases Age [45-49],2020-06-24 09:20:17 PM,MO,1321
+# Cases Age [50-54],2020-06-24 09:20:17 PM,MO,1526
+# Cases Age [55-59],2020-06-24 09:20:17 PM,MO,1486
+# Cases Age [60-64],2020-06-24 09:20:17 PM,MO,1043
+# Cases Age [65-69],2020-06-24 09:20:17 PM,MO,1402
+# Cases Age [70-74],2020-06-24 09:20:17 PM,MO,690
+# Cases Age [75-79],2020-06-24 09:20:17 PM,MO,856
+# Cases Age [80+],2020-06-24 09:20:17 PM,MO,1846
+# Cases Age [0-19],2020-06-25 08:01:45 PM,MO,1182
+# Cases Age [20-24],2020-06-25 08:01:45 PM,MO,1622
+# Cases Age [25-29],2020-06-25 08:01:45 PM,MO,1467
+# Cases Age [30-34],2020-06-25 08:01:45 PM,MO,1441
+# Cases Age [35-39],2020-06-25 08:01:45 PM,MO,1518
+# Cases Age [40-44],2020-06-25 08:01:45 PM,MO,1453
+# Cases Age [45-49],2020-06-25 08:01:45 PM,MO,1321
+# Cases Age [50-54],2020-06-25 08:01:45 PM,MO,1526
+# Cases Age [55-59],2020-06-25 08:01:45 PM,MO,1486
+# Cases Age [60-64],2020-06-25 08:01:45 PM,MO,1043
+# Cases Age [65-69],2020-06-25 08:01:45 PM,MO,1402
+# Cases Age [70-74],2020-06-25 08:01:45 PM,MO,690
+# Cases Age [75-79],2020-06-25 08:01:45 PM,MO,856
+# Cases Age [80+],2020-06-25 08:01:45 PM,MO,1846
+# Cases Age [0-19],2020-06-26 08:12:48 PM,MO,1313
+# Cases Age [20-24],2020-06-26 08:12:48 PM,MO,1739
+# Cases Age [25-29],2020-06-26 08:12:48 PM,MO,1603
+# Cases Age [30-34],2020-06-26 08:12:48 PM,MO,1525
+# Cases Age [35-39],2020-06-26 08:12:48 PM,MO,1635
+# Cases Age [40-44],2020-06-26 08:12:48 PM,MO,1526
+# Cases Age [45-49],2020-06-26 08:12:48 PM,MO,1419
+# Cases Age [50-54],2020-06-26 08:12:48 PM,MO,1581
+# Cases Age [55-59],2020-06-26 08:12:48 PM,MO,1553
+# Cases Age [60-64],2020-06-26 08:12:48 PM,MO,1076
+# Cases Age [65-69],2020-06-26 08:12:48 PM,MO,1452
+# Cases Age [70-74],2020-06-26 08:12:48 PM,MO,712
+# Cases Age [75-79],2020-06-26 08:12:48 PM,MO,882
+# Cases Age [80+],2020-06-26 08:12:48 PM,MO,1882
+# Cases Age [0-19],2020-06-27 09:30:05 PM,MO,1367
+# Cases Age [20-24],2020-06-27 09:30:05 PM,MO,1773
+# Cases Age [25-29],2020-06-27 09:30:05 PM,MO,1643
+# Cases Age [30-34],2020-06-27 09:30:05 PM,MO,1560
+# Cases Age [35-39],2020-06-27 09:30:05 PM,MO,1675
+# Cases Age [40-44],2020-06-27 09:30:05 PM,MO,1546
+# Cases Age [45-49],2020-06-27 09:30:05 PM,MO,1445
+# Cases Age [50-54],2020-06-27 09:30:05 PM,MO,1600
+# Cases Age [55-59],2020-06-27 09:30:05 PM,MO,1578
+# Cases Age [60-64],2020-06-27 09:30:05 PM,MO,1084
+# Cases Age [65-69],2020-06-27 09:30:05 PM,MO,1472
+# Cases Age [70-74],2020-06-27 09:30:05 PM,MO,719
+# Cases Age [75-79],2020-06-27 09:30:05 PM,MO,890
+# Cases Age [80+],2020-06-27 09:30:05 PM,MO,1892
+# Cases Age [0-19],2020-06-28 08:04:36 PM,MO,1367
+# Cases Age [20-24],2020-06-28 08:04:36 PM,MO,1773
+# Cases Age [25-29],2020-06-28 08:04:36 PM,MO,1643
+# Cases Age [30-34],2020-06-28 08:04:36 PM,MO,1560
+# Cases Age [35-39],2020-06-28 08:04:36 PM,MO,1675
+# Cases Age [40-44],2020-06-28 08:04:36 PM,MO,1546
+# Cases Age [45-49],2020-06-28 08:04:36 PM,MO,1445
+# Cases Age [50-54],2020-06-28 08:04:36 PM,MO,1600
+# Cases Age [55-59],2020-06-28 08:04:36 PM,MO,1578
+# Cases Age [60-64],2020-06-28 08:04:36 PM,MO,1084
+# Cases Age [65-69],2020-06-28 08:04:36 PM,MO,1472
+# Cases Age [70-74],2020-06-28 08:04:36 PM,MO,719
+# Cases Age [75-79],2020-06-28 08:04:36 PM,MO,890
+# Cases Age [80+],2020-06-28 08:04:36 PM,MO,1892
+# Cases Age [0-19],2020-06-29 10:54:36 PM,MO,1367
+# Cases Age [20-24],2020-06-29 10:54:36 PM,MO,1773
+# Cases Age [25-29],2020-06-29 10:54:36 PM,MO,1643
+# Cases Age [30-34],2020-06-29 10:54:36 PM,MO,1560
+# Cases Age [35-39],2020-06-29 10:54:36 PM,MO,1675
+# Cases Age [40-44],2020-06-29 10:54:36 PM,MO,1546
+# Cases Age [45-49],2020-06-29 10:54:36 PM,MO,1445
+# Cases Age [50-54],2020-06-29 10:54:36 PM,MO,1600
+# Cases Age [55-59],2020-06-29 10:54:36 PM,MO,1578
+# Cases Age [60-64],2020-06-29 10:54:36 PM,MO,1084
+# Cases Age [65-69],2020-06-29 10:54:36 PM,MO,1472
+# Cases Age [70-74],2020-06-29 10:54:36 PM,MO,719
+# Cases Age [75-79],2020-06-29 10:54:36 PM,MO,890
+# Cases Age [80+],2020-06-29 10:54:36 PM,MO,1892
+# Cases Age [0-19],2020-06-30 08:14:02 PM,MO,1367
+# Cases Age [20-24],2020-06-30 08:14:02 PM,MO,1773
+# Cases Age [25-29],2020-06-30 08:14:02 PM,MO,1643
+# Cases Age [30-34],2020-06-30 08:14:02 PM,MO,1560
+# Cases Age [35-39],2020-06-30 08:14:02 PM,MO,1675
+# Cases Age [40-44],2020-06-30 08:14:02 PM,MO,1546
+# Cases Age [45-49],2020-06-30 08:14:02 PM,MO,1445
+# Cases Age [50-54],2020-06-30 08:14:02 PM,MO,1600
+# Cases Age [55-59],2020-06-30 08:14:02 PM,MO,1578
+# Cases Age [60-64],2020-06-30 08:14:02 PM,MO,1084
+# Cases Age [65-69],2020-06-30 08:14:02 PM,MO,1472
+# Cases Age [70-74],2020-06-30 08:14:02 PM,MO,719
+# Cases Age [75-79],2020-06-30 08:14:02 PM,MO,890
+# Cases Age [80+],2020-06-30 08:14:02 PM,MO,1892
+# Cases Age [0-19],2020-07-01 08:10:42 PM,MO,1367
+# Cases Age [20-24],2020-07-01 08:10:42 PM,MO,1773
+# Cases Age [25-29],2020-07-01 08:10:42 PM,MO,1643
+# Cases Age [30-34],2020-07-01 08:10:42 PM,MO,1560
+# Cases Age [35-39],2020-07-01 08:10:42 PM,MO,1675
+# Cases Age [40-44],2020-07-01 08:10:42 PM,MO,1546
+# Cases Age [45-49],2020-07-01 08:10:42 PM,MO,1445
+# Cases Age [50-54],2020-07-01 08:10:42 PM,MO,1600
+# Cases Age [55-59],2020-07-01 08:10:42 PM,MO,1578
+# Cases Age [60-64],2020-07-01 08:10:42 PM,MO,1084
+# Cases Age [65-69],2020-07-01 08:10:42 PM,MO,1472
+# Cases Age [70-74],2020-07-01 08:10:42 PM,MO,719
+# Cases Age [75-79],2020-07-01 08:10:42 PM,MO,890
+# Cases Age [80+],2020-07-01 08:10:42 PM,MO,1892
+# Cases Age [0-19],2020-07-02 10:43:45 PM,MO,1367
+# Cases Age [20-24],2020-07-02 10:43:45 PM,MO,1773
+# Cases Age [25-29],2020-07-02 10:43:45 PM,MO,1643
+# Cases Age [30-34],2020-07-02 10:43:45 PM,MO,1560
+# Cases Age [35-39],2020-07-02 10:43:45 PM,MO,1675
+# Cases Age [40-44],2020-07-02 10:43:45 PM,MO,1546
+# Cases Age [45-49],2020-07-02 10:43:45 PM,MO,1445
+# Cases Age [50-54],2020-07-02 10:43:45 PM,MO,1600
+# Cases Age [55-59],2020-07-02 10:43:45 PM,MO,1578
+# Cases Age [60-64],2020-07-02 10:43:45 PM,MO,1084
+# Cases Age [65-69],2020-07-02 10:43:45 PM,MO,1472
+# Cases Age [70-74],2020-07-02 10:43:45 PM,MO,719
+# Cases Age [75-79],2020-07-02 10:43:45 PM,MO,890
+# Cases Age [80+],2020-07-02 10:43:45 PM,MO,1892
+# Cases Age [0-19],2020-07-03 11:05:14 PM,MO,1367
+# Cases Age [20-24],2020-07-03 11:05:14 PM,MO,1773
+# Cases Age [25-29],2020-07-03 11:05:14 PM,MO,1643
+# Cases Age [30-34],2020-07-03 11:05:14 PM,MO,1560
+# Cases Age [35-39],2020-07-03 11:05:14 PM,MO,1675
+# Cases Age [40-44],2020-07-03 11:05:14 PM,MO,1546
+# Cases Age [45-49],2020-07-03 11:05:14 PM,MO,1445
+# Cases Age [50-54],2020-07-03 11:05:14 PM,MO,1600
+# Cases Age [55-59],2020-07-03 11:05:14 PM,MO,1578
+# Cases Age [60-64],2020-07-03 11:05:14 PM,MO,1084
+# Cases Age [65-69],2020-07-03 11:05:14 PM,MO,1472
+# Cases Age [70-74],2020-07-03 11:05:14 PM,MO,719
+# Cases Age [75-79],2020-07-03 11:05:14 PM,MO,890
+# Cases Age [80+],2020-07-03 11:05:14 PM,MO,1892
+# Cases Age [0-19],2020-07-04 03:31:38 PM,MO,1367
+# Cases Age [20-24],2020-07-04 03:31:38 PM,MO,1773
+# Cases Age [25-29],2020-07-04 03:31:38 PM,MO,1643
+# Cases Age [30-34],2020-07-04 03:31:38 PM,MO,1560
+# Cases Age [35-39],2020-07-04 03:31:38 PM,MO,1675
+# Cases Age [40-44],2020-07-04 03:31:38 PM,MO,1546
+# Cases Age [45-49],2020-07-04 03:31:38 PM,MO,1445
+# Cases Age [50-54],2020-07-04 03:31:38 PM,MO,1600
+# Cases Age [55-59],2020-07-04 03:31:38 PM,MO,1578
+# Cases Age [60-64],2020-07-04 03:31:38 PM,MO,1084
+# Cases Age [65-69],2020-07-04 03:31:38 PM,MO,1472
+# Cases Age [70-74],2020-07-04 03:31:38 PM,MO,719
+# Cases Age [75-79],2020-07-04 03:31:38 PM,MO,890
+# Cases Age [80+],2020-07-04 03:31:38 PM,MO,1892
+# Cases Age [0-19],2020-07-05 08:08:42 PM,MO,1367
+# Cases Age [20-24],2020-07-05 08:08:42 PM,MO,1773
+# Cases Age [25-29],2020-07-05 08:08:42 PM,MO,1643
+# Cases Age [30-34],2020-07-05 08:08:42 PM,MO,1560
+# Cases Age [35-39],2020-07-05 08:08:42 PM,MO,1675
+# Cases Age [40-44],2020-07-05 08:08:42 PM,MO,1546
+# Cases Age [45-49],2020-07-05 08:08:42 PM,MO,1445
+# Cases Age [50-54],2020-07-05 08:08:42 PM,MO,1600
+# Cases Age [55-59],2020-07-05 08:08:42 PM,MO,1578
+# Cases Age [60-64],2020-07-05 08:08:42 PM,MO,1084
+# Cases Age [65-69],2020-07-05 08:08:42 PM,MO,1472
+# Cases Age [70-74],2020-07-05 08:08:42 PM,MO,719
+# Cases Age [75-79],2020-07-05 08:08:42 PM,MO,890
+# Cases Age [80+],2020-07-05 08:08:42 PM,MO,1892
+# Cases Age [0-19],2020-07-06 08:24:57 PM,MO,1367
+# Cases Age [20-24],2020-07-06 08:24:57 PM,MO,1773
+# Cases Age [25-29],2020-07-06 08:24:57 PM,MO,1643
+# Cases Age [30-34],2020-07-06 08:24:57 PM,MO,1560
+# Cases Age [35-39],2020-07-06 08:24:57 PM,MO,1675
+# Cases Age [40-44],2020-07-06 08:24:57 PM,MO,1546
+# Cases Age [45-49],2020-07-06 08:24:57 PM,MO,1445
+# Cases Age [50-54],2020-07-06 08:24:57 PM,MO,1600
+# Cases Age [55-59],2020-07-06 08:24:57 PM,MO,1578
+# Cases Age [60-64],2020-07-06 08:24:57 PM,MO,1084
+# Cases Age [65-69],2020-07-06 08:24:57 PM,MO,1472
+# Cases Age [70-74],2020-07-06 08:24:57 PM,MO,719
+# Cases Age [75-79],2020-07-06 08:24:57 PM,MO,890
+# Cases Age [80+],2020-07-06 08:24:57 PM,MO,1892
+# Cases Age [0-19],2020-07-07 08:04:46 PM,MO,1367
+# Cases Age [20-24],2020-07-07 08:04:46 PM,MO,1773
+# Cases Age [25-29],2020-07-07 08:04:46 PM,MO,1643
+# Cases Age [30-34],2020-07-07 08:04:46 PM,MO,1560
+# Cases Age [35-39],2020-07-07 08:04:46 PM,MO,1675
+# Cases Age [40-44],2020-07-07 08:04:46 PM,MO,1546
+# Cases Age [45-49],2020-07-07 08:04:46 PM,MO,1445
+# Cases Age [50-54],2020-07-07 08:04:46 PM,MO,1600
+# Cases Age [55-59],2020-07-07 08:04:46 PM,MO,1578
+# Cases Age [60-64],2020-07-07 08:04:46 PM,MO,1084
+# Cases Age [65-69],2020-07-07 08:04:46 PM,MO,1472
+# Cases Age [70-74],2020-07-07 08:04:46 PM,MO,719
+# Cases Age [75-79],2020-07-07 08:04:46 PM,MO,890
+# Cases Age [80+],2020-07-07 08:04:46 PM,MO,1892
+# Cases Age [0-19],2020-07-08 08:37:29 PM,MO,1367
+# Cases Age [20-24],2020-07-08 08:37:29 PM,MO,1773
+# Cases Age [25-29],2020-07-08 08:37:29 PM,MO,1643
+# Cases Age [30-34],2020-07-08 08:37:29 PM,MO,1560
+# Cases Age [35-39],2020-07-08 08:37:29 PM,MO,1675
+# Cases Age [40-44],2020-07-08 08:37:29 PM,MO,1546
+# Cases Age [45-49],2020-07-08 08:37:29 PM,MO,1445
+# Cases Age [50-54],2020-07-08 08:37:29 PM,MO,1600
+# Cases Age [55-59],2020-07-08 08:37:29 PM,MO,1578
+# Cases Age [60-64],2020-07-08 08:37:29 PM,MO,1084
+# Cases Age [65-69],2020-07-08 08:37:29 PM,MO,1472
+# Cases Age [70-74],2020-07-08 08:37:29 PM,MO,719
+# Cases Age [75-79],2020-07-08 08:37:29 PM,MO,890
+# Cases Age [80+],2020-07-08 08:37:29 PM,MO,1892
+# Cases Age [0-19],2020-07-09 08:18:00 PM,MO,1367
+# Cases Age [20-24],2020-07-09 08:18:00 PM,MO,1773
+# Cases Age [25-29],2020-07-09 08:18:00 PM,MO,1643
+# Cases Age [30-34],2020-07-09 08:18:00 PM,MO,1560
+# Cases Age [35-39],2020-07-09 08:18:00 PM,MO,1675
+# Cases Age [40-44],2020-07-09 08:18:00 PM,MO,1546
+# Cases Age [45-49],2020-07-09 08:18:00 PM,MO,1445
+# Cases Age [50-54],2020-07-09 08:18:00 PM,MO,1600
+# Cases Age [55-59],2020-07-09 08:18:00 PM,MO,1578
+# Cases Age [60-64],2020-07-09 08:18:00 PM,MO,1084
+# Cases Age [65-69],2020-07-09 08:18:00 PM,MO,1472
+# Cases Age [70-74],2020-07-09 08:18:00 PM,MO,719
+# Cases Age [75-79],2020-07-09 08:18:00 PM,MO,890
+# Cases Age [80+],2020-07-09 08:18:00 PM,MO,1892
+# Cases Age [0-19],2020-07-10 08:20:15 PM,MO,1367
+# Cases Age [20-24],2020-07-10 08:20:15 PM,MO,1773
+# Cases Age [25-29],2020-07-10 08:20:15 PM,MO,1643
+# Cases Age [30-34],2020-07-10 08:20:15 PM,MO,1560
+# Cases Age [35-39],2020-07-10 08:20:15 PM,MO,1675
+# Cases Age [40-44],2020-07-10 08:20:15 PM,MO,1546
+# Cases Age [45-49],2020-07-10 08:20:15 PM,MO,1445
+# Cases Age [50-54],2020-07-10 08:20:15 PM,MO,1600
+# Cases Age [55-59],2020-07-10 08:20:15 PM,MO,1578
+# Cases Age [60-64],2020-07-10 08:20:15 PM,MO,1084
+# Cases Age [65-69],2020-07-10 08:20:15 PM,MO,1472
+# Cases Age [70-74],2020-07-10 08:20:15 PM,MO,719
+# Cases Age [75-79],2020-07-10 08:20:15 PM,MO,890
+# Cases Age [80+],2020-07-10 08:20:15 PM,MO,1892
+# Cases Age [0-19],2020-07-11 08:19:35 PM,MO,1367
+# Cases Age [20-24],2020-07-11 08:19:35 PM,MO,1773
+# Cases Age [25-29],2020-07-11 08:19:35 PM,MO,1643
+# Cases Age [30-34],2020-07-11 08:19:35 PM,MO,1560
+# Cases Age [35-39],2020-07-11 08:19:35 PM,MO,1675
+# Cases Age [40-44],2020-07-11 08:19:35 PM,MO,1546
+# Cases Age [45-49],2020-07-11 08:19:35 PM,MO,1445
+# Cases Age [50-54],2020-07-11 08:19:35 PM,MO,1600
+# Cases Age [55-59],2020-07-11 08:19:35 PM,MO,1578
+# Cases Age [60-64],2020-07-11 08:19:35 PM,MO,1084
+# Cases Age [65-69],2020-07-11 08:19:35 PM,MO,1472
+# Cases Age [70-74],2020-07-11 08:19:35 PM,MO,719
+# Cases Age [75-79],2020-07-11 08:19:35 PM,MO,890
+# Cases Age [80+],2020-07-11 08:19:35 PM,MO,1892
+# Cases Age [0-19],2020-07-12 08:39:14 PM,MO,1367
+# Cases Age [20-24],2020-07-12 08:39:14 PM,MO,1773
+# Cases Age [25-29],2020-07-12 08:39:14 PM,MO,1643
+# Cases Age [30-34],2020-07-12 08:39:14 PM,MO,1560
+# Cases Age [35-39],2020-07-12 08:39:14 PM,MO,1675
+# Cases Age [40-44],2020-07-12 08:39:14 PM,MO,1546
+# Cases Age [45-49],2020-07-12 08:39:14 PM,MO,1445
+# Cases Age [50-54],2020-07-12 08:39:14 PM,MO,1600
+# Cases Age [55-59],2020-07-12 08:39:14 PM,MO,1578
+# Cases Age [60-64],2020-07-12 08:39:14 PM,MO,1084
+# Cases Age [65-69],2020-07-12 08:39:14 PM,MO,1472
+# Cases Age [70-74],2020-07-12 08:39:14 PM,MO,719
+# Cases Age [75-79],2020-07-12 08:39:14 PM,MO,890
+# Cases Age [80+],2020-07-12 08:39:14 PM,MO,1892
+# Cases Age [0-19],2020-07-13 08:14:51 PM,MO,1367
+# Cases Age [20-24],2020-07-13 08:14:51 PM,MO,1773
+# Cases Age [25-29],2020-07-13 08:14:51 PM,MO,1643
+# Cases Age [30-34],2020-07-13 08:14:51 PM,MO,1560
+# Cases Age [35-39],2020-07-13 08:14:51 PM,MO,1675
+# Cases Age [40-44],2020-07-13 08:14:51 PM,MO,1546
+# Cases Age [45-49],2020-07-13 08:14:51 PM,MO,1445
+# Cases Age [50-54],2020-07-13 08:14:51 PM,MO,1600
+# Cases Age [55-59],2020-07-13 08:14:51 PM,MO,1578
+# Cases Age [60-64],2020-07-13 08:14:51 PM,MO,1084
+# Cases Age [65-69],2020-07-13 08:14:51 PM,MO,1472
+# Cases Age [70-74],2020-07-13 08:14:51 PM,MO,719
+# Cases Age [75-79],2020-07-13 08:14:51 PM,MO,890
+# Cases Age [80+],2020-07-13 08:14:51 PM,MO,1892
+# Cases Age [0-19],2020-07-14 08:10:33 PM,MO,1367
+# Cases Age [20-24],2020-07-14 08:10:33 PM,MO,1773
+# Cases Age [25-29],2020-07-14 08:10:33 PM,MO,1643
+# Cases Age [30-34],2020-07-14 08:10:33 PM,MO,1560
+# Cases Age [35-39],2020-07-14 08:10:33 PM,MO,1675
+# Cases Age [40-44],2020-07-14 08:10:33 PM,MO,1546
+# Cases Age [45-49],2020-07-14 08:10:33 PM,MO,1445
+# Cases Age [50-54],2020-07-14 08:10:33 PM,MO,1600
+# Cases Age [55-59],2020-07-14 08:10:33 PM,MO,1578
+# Cases Age [60-64],2020-07-14 08:10:33 PM,MO,1084
+# Cases Age [65-69],2020-07-14 08:10:33 PM,MO,1472
+# Cases Age [70-74],2020-07-14 08:10:33 PM,MO,719
+# Cases Age [75-79],2020-07-14 08:10:33 PM,MO,890
+# Cases Age [80+],2020-07-14 08:10:33 PM,MO,1892
+# Cases Age [0-19],2020-07-15 08:14:16 PM,MO,1367
+# Cases Age [20-24],2020-07-15 08:14:16 PM,MO,1773
+# Cases Age [25-29],2020-07-15 08:14:16 PM,MO,1643
+# Cases Age [30-34],2020-07-15 08:14:16 PM,MO,1560
+# Cases Age [35-39],2020-07-15 08:14:16 PM,MO,1675
+# Cases Age [40-44],2020-07-15 08:14:16 PM,MO,1546
+# Cases Age [45-49],2020-07-15 08:14:16 PM,MO,1445
+# Cases Age [50-54],2020-07-15 08:14:16 PM,MO,1600
+# Cases Age [55-59],2020-07-15 08:14:16 PM,MO,1578
+# Cases Age [60-64],2020-07-15 08:14:16 PM,MO,1084
+# Cases Age [65-69],2020-07-15 08:14:16 PM,MO,1472
+# Cases Age [70-74],2020-07-15 08:14:16 PM,MO,719
+# Cases Age [75-79],2020-07-15 08:14:16 PM,MO,890
+# Cases Age [80+],2020-07-15 08:14:16 PM,MO,1892
+# Cases Age [0-19],2020-07-16 08:16:56 PM,MO,1367
+# Cases Age [20-24],2020-07-16 08:16:56 PM,MO,1773
+# Cases Age [25-29],2020-07-16 08:16:56 PM,MO,1643
+# Cases Age [30-34],2020-07-16 08:16:56 PM,MO,1560
+# Cases Age [35-39],2020-07-16 08:16:56 PM,MO,1675
+# Cases Age [40-44],2020-07-16 08:16:56 PM,MO,1546
+# Cases Age [45-49],2020-07-16 08:16:56 PM,MO,1445
+# Cases Age [50-54],2020-07-16 08:16:56 PM,MO,1600
+# Cases Age [55-59],2020-07-16 08:16:56 PM,MO,1578
+# Cases Age [60-64],2020-07-16 08:16:56 PM,MO,1084
+# Cases Age [65-69],2020-07-16 08:16:56 PM,MO,1472
+# Cases Age [70-74],2020-07-16 08:16:56 PM,MO,719
+# Cases Age [75-79],2020-07-16 08:16:56 PM,MO,890
+# Cases Age [80+],2020-07-16 08:16:56 PM,MO,1892
+# Cases Age [0-19],2020-07-17 08:13:22 PM,MO,1367
+# Cases Age [20-24],2020-07-17 08:13:22 PM,MO,1773
+# Cases Age [25-29],2020-07-17 08:13:22 PM,MO,1643
+# Cases Age [30-34],2020-07-17 08:13:22 PM,MO,1560
+# Cases Age [35-39],2020-07-17 08:13:22 PM,MO,1675
+# Cases Age [40-44],2020-07-17 08:13:22 PM,MO,1546
+# Cases Age [45-49],2020-07-17 08:13:22 PM,MO,1445
+# Cases Age [50-54],2020-07-17 08:13:22 PM,MO,1600
+# Cases Age [55-59],2020-07-17 08:13:22 PM,MO,1578
+# Cases Age [60-64],2020-07-17 08:13:22 PM,MO,1084
+# Cases Age [65-69],2020-07-17 08:13:22 PM,MO,1472
+# Cases Age [70-74],2020-07-17 08:13:22 PM,MO,719
+# Cases Age [75-79],2020-07-17 08:13:22 PM,MO,890
+# Cases Age [80+],2020-07-17 08:13:22 PM,MO,1892
+# Cases Age [0-19],2020-07-18 08:22:41 PM,MO,1367
+# Cases Age [20-24],2020-07-18 08:22:41 PM,MO,1773
+# Cases Age [25-29],2020-07-18 08:22:41 PM,MO,1643
+# Cases Age [30-34],2020-07-18 08:22:41 PM,MO,1560
+# Cases Age [35-39],2020-07-18 08:22:41 PM,MO,1675
+# Cases Age [40-44],2020-07-18 08:22:41 PM,MO,1546
+# Cases Age [45-49],2020-07-18 08:22:41 PM,MO,1445
+# Cases Age [50-54],2020-07-18 08:22:41 PM,MO,1600
+# Cases Age [55-59],2020-07-18 08:22:41 PM,MO,1578
+# Cases Age [60-64],2020-07-18 08:22:41 PM,MO,1084
+# Cases Age [65-69],2020-07-18 08:22:41 PM,MO,1472
+# Cases Age [70-74],2020-07-18 08:22:41 PM,MO,719
+# Cases Age [75-79],2020-07-18 08:22:41 PM,MO,890
+# Cases Age [80+],2020-07-18 08:22:41 PM,MO,1892
+# Cases Age [0-19],2020-07-19 08:10:45 PM,MO,1367
+# Cases Age [20-24],2020-07-19 08:10:45 PM,MO,1773
+# Cases Age [25-29],2020-07-19 08:10:45 PM,MO,1643
+# Cases Age [30-34],2020-07-19 08:10:45 PM,MO,1560
+# Cases Age [35-39],2020-07-19 08:10:45 PM,MO,1675
+# Cases Age [40-44],2020-07-19 08:10:45 PM,MO,1546
+# Cases Age [45-49],2020-07-19 08:10:45 PM,MO,1445
+# Cases Age [50-54],2020-07-19 08:10:45 PM,MO,1600
+# Cases Age [55-59],2020-07-19 08:10:45 PM,MO,1578
+# Cases Age [60-64],2020-07-19 08:10:45 PM,MO,1084
+# Cases Age [65-69],2020-07-19 08:10:45 PM,MO,1472
+# Cases Age [70-74],2020-07-19 08:10:45 PM,MO,719
+# Cases Age [75-79],2020-07-19 08:10:45 PM,MO,890
+# Cases Age [80+],2020-07-19 08:10:45 PM,MO,1892
+# Cases Age [0-19],2020-07-20 08:27:31 PM,MO,1367
+# Cases Age [20-24],2020-07-20 08:27:31 PM,MO,1773
+# Cases Age [25-29],2020-07-20 08:27:31 PM,MO,1643
+# Cases Age [30-34],2020-07-20 08:27:31 PM,MO,1560
+# Cases Age [35-39],2020-07-20 08:27:31 PM,MO,1675
+# Cases Age [40-44],2020-07-20 08:27:31 PM,MO,1546
+# Cases Age [45-49],2020-07-20 08:27:31 PM,MO,1445
+# Cases Age [50-54],2020-07-20 08:27:31 PM,MO,1600
+# Cases Age [55-59],2020-07-20 08:27:31 PM,MO,1578
+# Cases Age [60-64],2020-07-20 08:27:31 PM,MO,1084
+# Cases Age [65-69],2020-07-20 08:27:31 PM,MO,1472
+# Cases Age [70-74],2020-07-20 08:27:31 PM,MO,719
+# Cases Age [75-79],2020-07-20 08:27:31 PM,MO,890
+# Cases Age [80+],2020-07-20 08:27:31 PM,MO,1892
+# Cases Age [0-19],2020-07-21 10:09:44 PM,MO,1367
+# Cases Age [20-24],2020-07-21 10:09:44 PM,MO,1773
+# Cases Age [25-29],2020-07-21 10:09:44 PM,MO,1643
+# Cases Age [30-34],2020-07-21 10:09:44 PM,MO,1560
+# Cases Age [35-39],2020-07-21 10:09:44 PM,MO,1675
+# Cases Age [40-44],2020-07-21 10:09:44 PM,MO,1546
+# Cases Age [45-49],2020-07-21 10:09:44 PM,MO,1445
+# Cases Age [50-54],2020-07-21 10:09:44 PM,MO,1600
+# Cases Age [55-59],2020-07-21 10:09:44 PM,MO,1578
+# Cases Age [60-64],2020-07-21 10:09:44 PM,MO,1084
+# Cases Age [65-69],2020-07-21 10:09:44 PM,MO,1472
+# Cases Age [70-74],2020-07-21 10:09:44 PM,MO,719
+# Cases Age [75-79],2020-07-21 10:09:44 PM,MO,890
+# Cases Age [80+],2020-07-21 10:09:44 PM,MO,1892
+# Cases Age [0-19],2020-07-22 09:52:55 PM,MO,1367
+# Cases Age [20-24],2020-07-22 09:52:55 PM,MO,1773
+# Cases Age [25-29],2020-07-22 09:52:55 PM,MO,1643
+# Cases Age [30-34],2020-07-22 09:52:55 PM,MO,1560
+# Cases Age [35-39],2020-07-22 09:52:55 PM,MO,1675
+# Cases Age [40-44],2020-07-22 09:52:55 PM,MO,1546
+# Cases Age [45-49],2020-07-22 09:52:55 PM,MO,1445
+# Cases Age [50-54],2020-07-22 09:52:55 PM,MO,1600
+# Cases Age [55-59],2020-07-22 09:52:55 PM,MO,1578
+# Cases Age [60-64],2020-07-22 09:52:55 PM,MO,1084
+# Cases Age [65-69],2020-07-22 09:52:55 PM,MO,1472
+# Cases Age [70-74],2020-07-22 09:52:55 PM,MO,719
+# Cases Age [75-79],2020-07-22 09:52:55 PM,MO,890
+# Cases Age [80+],2020-07-22 09:52:55 PM,MO,1892
+# Cases Age [0-19],2020-07-23 08:10:06 PM,MO,1367
+# Cases Age [20-24],2020-07-23 08:10:06 PM,MO,1773
+# Cases Age [25-29],2020-07-23 08:10:06 PM,MO,1643
+# Cases Age [30-34],2020-07-23 08:10:06 PM,MO,1560
+# Cases Age [35-39],2020-07-23 08:10:06 PM,MO,1675
+# Cases Age [40-44],2020-07-23 08:10:06 PM,MO,1546
+# Cases Age [45-49],2020-07-23 08:10:06 PM,MO,1445
+# Cases Age [50-54],2020-07-23 08:10:06 PM,MO,1600
+# Cases Age [55-59],2020-07-23 08:10:06 PM,MO,1578
+# Cases Age [60-64],2020-07-23 08:10:06 PM,MO,1084
+# Cases Age [65-69],2020-07-23 08:10:06 PM,MO,1472
+# Cases Age [70-74],2020-07-23 08:10:06 PM,MO,719
+# Cases Age [75-79],2020-07-23 08:10:06 PM,MO,890
+# Cases Age [80+],2020-07-23 08:10:06 PM,MO,1892
+# Cases Age [0-19],2020-07-24 08:14:16 PM,MO,1367
+# Cases Age [20-24],2020-07-24 08:14:16 PM,MO,1773
+# Cases Age [25-29],2020-07-24 08:14:16 PM,MO,1643
+# Cases Age [30-34],2020-07-24 08:14:16 PM,MO,1560
+# Cases Age [35-39],2020-07-24 08:14:16 PM,MO,1675
+# Cases Age [40-44],2020-07-24 08:14:16 PM,MO,1546
+# Cases Age [45-49],2020-07-24 08:14:16 PM,MO,1445
+# Cases Age [50-54],2020-07-24 08:14:16 PM,MO,1600
+# Cases Age [55-59],2020-07-24 08:14:16 PM,MO,1578
+# Cases Age [60-64],2020-07-24 08:14:16 PM,MO,1084
+# Cases Age [65-69],2020-07-24 08:14:16 PM,MO,1472
+# Cases Age [70-74],2020-07-24 08:14:16 PM,MO,719
+# Cases Age [75-79],2020-07-24 08:14:16 PM,MO,890
+# Cases Age [80+],2020-07-24 08:14:16 PM,MO,1892
+# Cases Age [0-19],2020-07-25 08:11:29 PM,MO,1367
+# Cases Age [20-24],2020-07-25 08:11:29 PM,MO,1773
+# Cases Age [25-29],2020-07-25 08:11:29 PM,MO,1643
+# Cases Age [30-34],2020-07-25 08:11:29 PM,MO,1560
+# Cases Age [35-39],2020-07-25 08:11:29 PM,MO,1675
+# Cases Age [40-44],2020-07-25 08:11:29 PM,MO,1546
+# Cases Age [45-49],2020-07-25 08:11:29 PM,MO,1445
+# Cases Age [50-54],2020-07-25 08:11:29 PM,MO,1600
+# Cases Age [55-59],2020-07-25 08:11:29 PM,MO,1578
+# Cases Age [60-64],2020-07-25 08:11:29 PM,MO,1084
+# Cases Age [65-69],2020-07-25 08:11:29 PM,MO,1472
+# Cases Age [70-74],2020-07-25 08:11:29 PM,MO,719
+# Cases Age [75-79],2020-07-25 08:11:29 PM,MO,890
+# Cases Age [80+],2020-07-25 08:11:29 PM,MO,1892
+# Cases Age [0-19],2020-07-26 08:12:57 PM,MO,1367
+# Cases Age [20-24],2020-07-26 08:12:57 PM,MO,1773
+# Cases Age [25-29],2020-07-26 08:12:57 PM,MO,1643
+# Cases Age [30-34],2020-07-26 08:12:57 PM,MO,1560
+# Cases Age [35-39],2020-07-26 08:12:57 PM,MO,1675
+# Cases Age [40-44],2020-07-26 08:12:57 PM,MO,1546
+# Cases Age [45-49],2020-07-26 08:12:57 PM,MO,1445
+# Cases Age [50-54],2020-07-26 08:12:57 PM,MO,1600
+# Cases Age [55-59],2020-07-26 08:12:57 PM,MO,1578
+# Cases Age [60-64],2020-07-26 08:12:57 PM,MO,1084
+# Cases Age [65-69],2020-07-26 08:12:57 PM,MO,1472
+# Cases Age [70-74],2020-07-26 08:12:57 PM,MO,719
+# Cases Age [75-79],2020-07-26 08:12:57 PM,MO,890
+# Cases Age [80+],2020-07-26 08:12:57 PM,MO,1892
+# Cases Age [0-19],2020-07-27 08:05:40 PM,MO,1367
+# Cases Age [20-24],2020-07-27 08:05:40 PM,MO,1773
+# Cases Age [25-29],2020-07-27 08:05:40 PM,MO,1643
+# Cases Age [30-34],2020-07-27 08:05:40 PM,MO,1560
+# Cases Age [35-39],2020-07-27 08:05:40 PM,MO,1675
+# Cases Age [40-44],2020-07-27 08:05:40 PM,MO,1546
+# Cases Age [45-49],2020-07-27 08:05:40 PM,MO,1445
+# Cases Age [50-54],2020-07-27 08:05:40 PM,MO,1600
+# Cases Age [55-59],2020-07-27 08:05:40 PM,MO,1578
+# Cases Age [60-64],2020-07-27 08:05:40 PM,MO,1084
+# Cases Age [65-69],2020-07-27 08:05:40 PM,MO,1472
+# Cases Age [70-74],2020-07-27 08:05:40 PM,MO,719
+# Cases Age [75-79],2020-07-27 08:05:40 PM,MO,890
+# Cases Age [80+],2020-07-27 08:05:40 PM,MO,1892
+# Cases Age [0-19],2020-07-28 08:11:01 PM,MO,1367
+# Cases Age [20-24],2020-07-28 08:11:01 PM,MO,1773
+# Cases Age [25-29],2020-07-28 08:11:01 PM,MO,1643
+# Cases Age [30-34],2020-07-28 08:11:01 PM,MO,1560
+# Cases Age [35-39],2020-07-28 08:11:01 PM,MO,1675
+# Cases Age [40-44],2020-07-28 08:11:01 PM,MO,1546
+# Cases Age [45-49],2020-07-28 08:11:01 PM,MO,1445
+# Cases Age [50-54],2020-07-28 08:11:01 PM,MO,1600
+# Cases Age [55-59],2020-07-28 08:11:01 PM,MO,1578
+# Cases Age [60-64],2020-07-28 08:11:01 PM,MO,1084
+# Cases Age [65-69],2020-07-28 08:11:01 PM,MO,1472
+# Cases Age [70-74],2020-07-28 08:11:01 PM,MO,719
+# Cases Age [75-79],2020-07-28 08:11:01 PM,MO,890
+# Cases Age [80+],2020-07-28 08:11:01 PM,MO,1892
+# Cases Age [0-19],2020-07-29 08:20:23 PM,MO,1367
+# Cases Age [20-24],2020-07-29 08:20:23 PM,MO,1773
+# Cases Age [25-29],2020-07-29 08:20:23 PM,MO,1643
+# Cases Age [30-34],2020-07-29 08:20:23 PM,MO,1560
+# Cases Age [35-39],2020-07-29 08:20:23 PM,MO,1675
+# Cases Age [40-44],2020-07-29 08:20:23 PM,MO,1546
+# Cases Age [45-49],2020-07-29 08:20:23 PM,MO,1445
+# Cases Age [50-54],2020-07-29 08:20:23 PM,MO,1600
+# Cases Age [55-59],2020-07-29 08:20:23 PM,MO,1578
+# Cases Age [60-64],2020-07-29 08:20:23 PM,MO,1084
+# Cases Age [65-69],2020-07-29 08:20:23 PM,MO,1472
+# Cases Age [70-74],2020-07-29 08:20:23 PM,MO,719
+# Cases Age [75-79],2020-07-29 08:20:23 PM,MO,890
+# Cases Age [80+],2020-07-29 08:20:23 PM,MO,1892
+# Cases Age [0-19],2020-07-30 08:39:45 PM,MO,1367
+# Cases Age [20-24],2020-07-30 08:39:45 PM,MO,1773
+# Cases Age [25-29],2020-07-30 08:39:45 PM,MO,1643
+# Cases Age [30-34],2020-07-30 08:39:45 PM,MO,1560
+# Cases Age [35-39],2020-07-30 08:39:45 PM,MO,1675
+# Cases Age [40-44],2020-07-30 08:39:45 PM,MO,1546
+# Cases Age [45-49],2020-07-30 08:39:45 PM,MO,1445
+# Cases Age [50-54],2020-07-30 08:39:45 PM,MO,1600
+# Cases Age [55-59],2020-07-30 08:39:45 PM,MO,1578
+# Cases Age [60-64],2020-07-30 08:39:45 PM,MO,1084
+# Cases Age [65-69],2020-07-30 08:39:45 PM,MO,1472
+# Cases Age [70-74],2020-07-30 08:39:45 PM,MO,719
+# Cases Age [75-79],2020-07-30 08:39:45 PM,MO,890
+# Cases Age [80+],2020-07-30 08:39:45 PM,MO,1892
+# Cases Age [0-19],2020-07-31 08:07:21 PM,MO,1367
+# Cases Age [20-24],2020-07-31 08:07:21 PM,MO,1773
+# Cases Age [25-29],2020-07-31 08:07:21 PM,MO,1643
+# Cases Age [30-34],2020-07-31 08:07:21 PM,MO,1560
+# Cases Age [35-39],2020-07-31 08:07:21 PM,MO,1675
+# Cases Age [40-44],2020-07-31 08:07:21 PM,MO,1546
+# Cases Age [45-49],2020-07-31 08:07:21 PM,MO,1445
+# Cases Age [50-54],2020-07-31 08:07:21 PM,MO,1600
+# Cases Age [55-59],2020-07-31 08:07:21 PM,MO,1578
+# Cases Age [60-64],2020-07-31 08:07:21 PM,MO,1084
+# Cases Age [65-69],2020-07-31 08:07:21 PM,MO,1472
+# Cases Age [70-74],2020-07-31 08:07:21 PM,MO,719
+# Cases Age [75-79],2020-07-31 08:07:21 PM,MO,890
+# Cases Age [80+],2020-07-31 08:07:21 PM,MO,1892
+# Cases Age [0-19],2020-08-01 08:14:42 PM,MO,1367
+# Cases Age [20-24],2020-08-01 08:14:42 PM,MO,1773
+# Cases Age [25-29],2020-08-01 08:14:42 PM,MO,1643
+# Cases Age [30-34],2020-08-01 08:14:42 PM,MO,1560
+# Cases Age [35-39],2020-08-01 08:14:42 PM,MO,1675
+# Cases Age [40-44],2020-08-01 08:14:42 PM,MO,1546
+# Cases Age [45-49],2020-08-01 08:14:42 PM,MO,1445
+# Cases Age [50-54],2020-08-01 08:14:42 PM,MO,1600
+# Cases Age [55-59],2020-08-01 08:14:42 PM,MO,1578
+# Cases Age [60-64],2020-08-01 08:14:42 PM,MO,1084
+# Cases Age [65-69],2020-08-01 08:14:42 PM,MO,1472
+# Cases Age [70-74],2020-08-01 08:14:42 PM,MO,719
+# Cases Age [75-79],2020-08-01 08:14:42 PM,MO,890
+# Cases Age [80+],2020-08-01 08:14:42 PM,MO,1892
+# Cases Age [0-19],2020-08-02 08:26:44 PM,MO,1367
+# Cases Age [20-24],2020-08-02 08:26:44 PM,MO,1773
+# Cases Age [25-29],2020-08-02 08:26:44 PM,MO,1643
+# Cases Age [30-34],2020-08-02 08:26:44 PM,MO,1560
+# Cases Age [35-39],2020-08-02 08:26:44 PM,MO,1675
+# Cases Age [40-44],2020-08-02 08:26:44 PM,MO,1546
+# Cases Age [45-49],2020-08-02 08:26:44 PM,MO,1445
+# Cases Age [50-54],2020-08-02 08:26:44 PM,MO,1600
+# Cases Age [55-59],2020-08-02 08:26:44 PM,MO,1578
+# Cases Age [60-64],2020-08-02 08:26:44 PM,MO,1084
+# Cases Age [65-69],2020-08-02 08:26:44 PM,MO,1472
+# Cases Age [70-74],2020-08-02 08:26:44 PM,MO,719
+# Cases Age [75-79],2020-08-02 08:26:44 PM,MO,890
+# Cases Age [80+],2020-08-02 08:26:44 PM,MO,1892
+# Cases Age [0-19],2020-08-03 08:16:27 PM,MO,1367
+# Cases Age [20-24],2020-08-03 08:16:27 PM,MO,1773
+# Cases Age [25-29],2020-08-03 08:16:27 PM,MO,1643
+# Cases Age [30-34],2020-08-03 08:16:27 PM,MO,1560
+# Cases Age [35-39],2020-08-03 08:16:27 PM,MO,1675
+# Cases Age [40-44],2020-08-03 08:16:27 PM,MO,1546
+# Cases Age [45-49],2020-08-03 08:16:27 PM,MO,1445
+# Cases Age [50-54],2020-08-03 08:16:27 PM,MO,1600
+# Cases Age [55-59],2020-08-03 08:16:27 PM,MO,1578
+# Cases Age [60-64],2020-08-03 08:16:27 PM,MO,1084
+# Cases Age [65-69],2020-08-03 08:16:27 PM,MO,1472
+# Cases Age [70-74],2020-08-03 08:16:27 PM,MO,719
+# Cases Age [75-79],2020-08-03 08:16:27 PM,MO,890
+# Cases Age [80+],2020-08-03 08:16:27 PM,MO,1892
+# Cases Age [0-19],2020-08-04 08:02:21 PM,MO,1367
+# Cases Age [20-24],2020-08-04 08:02:21 PM,MO,1773
+# Cases Age [25-29],2020-08-04 08:02:21 PM,MO,1643
+# Cases Age [30-34],2020-08-04 08:02:21 PM,MO,1560
+# Cases Age [35-39],2020-08-04 08:02:21 PM,MO,1675
+# Cases Age [40-44],2020-08-04 08:02:21 PM,MO,1546
+# Cases Age [45-49],2020-08-04 08:02:21 PM,MO,1445
+# Cases Age [50-54],2020-08-04 08:02:21 PM,MO,1600
+# Cases Age [55-59],2020-08-04 08:02:21 PM,MO,1578
+# Cases Age [60-64],2020-08-04 08:02:21 PM,MO,1084
+# Cases Age [65-69],2020-08-04 08:02:21 PM,MO,1472
+# Cases Age [70-74],2020-08-04 08:02:21 PM,MO,719
+# Cases Age [75-79],2020-08-04 08:02:21 PM,MO,890
+# Cases Age [80+],2020-08-04 08:02:21 PM,MO,1892
+# Cases Age [0-19],2020-08-05 08:08:15 PM,MO,1367
+# Cases Age [20-24],2020-08-05 08:08:15 PM,MO,1773
+# Cases Age [25-29],2020-08-05 08:08:15 PM,MO,1643
+# Cases Age [30-34],2020-08-05 08:08:15 PM,MO,1560
+# Cases Age [35-39],2020-08-05 08:08:15 PM,MO,1675
+# Cases Age [40-44],2020-08-05 08:08:15 PM,MO,1546
+# Cases Age [45-49],2020-08-05 08:08:15 PM,MO,1445
+# Cases Age [50-54],2020-08-05 08:08:15 PM,MO,1600
+# Cases Age [55-59],2020-08-05 08:08:15 PM,MO,1578
+# Cases Age [60-64],2020-08-05 08:08:15 PM,MO,1084
+# Cases Age [65-69],2020-08-05 08:08:15 PM,MO,1472
+# Cases Age [70-74],2020-08-05 08:08:15 PM,MO,719
+# Cases Age [75-79],2020-08-05 08:08:15 PM,MO,890
+# Cases Age [80+],2020-08-05 08:08:15 PM,MO,1892
+# Cases Age [0-19],2020-08-06 08:03:14 PM,MO,1367
+# Cases Age [20-24],2020-08-06 08:03:14 PM,MO,1773
+# Cases Age [25-29],2020-08-06 08:03:14 PM,MO,1643
+# Cases Age [30-34],2020-08-06 08:03:14 PM,MO,1560
+# Cases Age [35-39],2020-08-06 08:03:14 PM,MO,1675
+# Cases Age [40-44],2020-08-06 08:03:14 PM,MO,1546
+# Cases Age [45-49],2020-08-06 08:03:14 PM,MO,1445
+# Cases Age [50-54],2020-08-06 08:03:14 PM,MO,1600
+# Cases Age [55-59],2020-08-06 08:03:14 PM,MO,1578
+# Cases Age [60-64],2020-08-06 08:03:14 PM,MO,1084
+# Cases Age [65-69],2020-08-06 08:03:14 PM,MO,1472
+# Cases Age [70-74],2020-08-06 08:03:14 PM,MO,719
+# Cases Age [75-79],2020-08-06 08:03:14 PM,MO,890
+# Cases Age [80+],2020-08-06 08:03:14 PM,MO,1892
+# Cases Age [0-19],2020-08-07 08:05:22 PM,MO,1367
+# Cases Age [20-24],2020-08-07 08:05:22 PM,MO,1773
+# Cases Age [25-29],2020-08-07 08:05:22 PM,MO,1643
+# Cases Age [30-34],2020-08-07 08:05:22 PM,MO,1560
+# Cases Age [35-39],2020-08-07 08:05:22 PM,MO,1675
+# Cases Age [40-44],2020-08-07 08:05:22 PM,MO,1546
+# Cases Age [45-49],2020-08-07 08:05:22 PM,MO,1445
+# Cases Age [50-54],2020-08-07 08:05:22 PM,MO,1600
+# Cases Age [55-59],2020-08-07 08:05:22 PM,MO,1578
+# Cases Age [60-64],2020-08-07 08:05:22 PM,MO,1084
+# Cases Age [65-69],2020-08-07 08:05:22 PM,MO,1472
+# Cases Age [70-74],2020-08-07 08:05:22 PM,MO,719
+# Cases Age [75-79],2020-08-07 08:05:22 PM,MO,890
+# Cases Age [80+],2020-08-07 08:05:22 PM,MO,1892
+# Cases Age [0-19],2020-08-08 08:02:52 PM,MO,1367
+# Cases Age [20-24],2020-08-08 08:02:52 PM,MO,1773
+# Cases Age [25-29],2020-08-08 08:02:52 PM,MO,1643
+# Cases Age [30-34],2020-08-08 08:02:52 PM,MO,1560
+# Cases Age [35-39],2020-08-08 08:02:52 PM,MO,1675
+# Cases Age [40-44],2020-08-08 08:02:52 PM,MO,1546
+# Cases Age [45-49],2020-08-08 08:02:52 PM,MO,1445
+# Cases Age [50-54],2020-08-08 08:02:52 PM,MO,1600
+# Cases Age [55-59],2020-08-08 08:02:52 PM,MO,1578
+# Cases Age [60-64],2020-08-08 08:02:52 PM,MO,1084
+# Cases Age [65-69],2020-08-08 08:02:52 PM,MO,1472
+# Cases Age [70-74],2020-08-08 08:02:52 PM,MO,719
+# Cases Age [75-79],2020-08-08 08:02:52 PM,MO,890
+# Cases Age [80+],2020-08-08 08:02:52 PM,MO,1892
+# Cases Age [0-19],2020-08-09 08:28:20 PM,MO,1367
+# Cases Age [20-24],2020-08-09 08:28:20 PM,MO,1773
+# Cases Age [25-29],2020-08-09 08:28:20 PM,MO,1643
+# Cases Age [30-34],2020-08-09 08:28:20 PM,MO,1560
+# Cases Age [35-39],2020-08-09 08:28:20 PM,MO,1675
+# Cases Age [40-44],2020-08-09 08:28:20 PM,MO,1546
+# Cases Age [45-49],2020-08-09 08:28:20 PM,MO,1445
+# Cases Age [50-54],2020-08-09 08:28:20 PM,MO,1600
+# Cases Age [55-59],2020-08-09 08:28:20 PM,MO,1578
+# Cases Age [60-64],2020-08-09 08:28:20 PM,MO,1084
+# Cases Age [65-69],2020-08-09 08:28:20 PM,MO,1472
+# Cases Age [70-74],2020-08-09 08:28:20 PM,MO,719
+# Cases Age [75-79],2020-08-09 08:28:20 PM,MO,890
+# Cases Age [80+],2020-08-09 08:28:20 PM,MO,1892
+# Cases Age [0-19],2020-08-10 08:19:54 PM,MO,1367
+# Cases Age [20-24],2020-08-10 08:19:54 PM,MO,1773
+# Cases Age [25-29],2020-08-10 08:19:54 PM,MO,1643
+# Cases Age [30-34],2020-08-10 08:19:54 PM,MO,1560
+# Cases Age [35-39],2020-08-10 08:19:54 PM,MO,1675
+# Cases Age [40-44],2020-08-10 08:19:54 PM,MO,1546
+# Cases Age [45-49],2020-08-10 08:19:54 PM,MO,1445
+# Cases Age [50-54],2020-08-10 08:19:54 PM,MO,1600
+# Cases Age [55-59],2020-08-10 08:19:54 PM,MO,1578
+# Cases Age [60-64],2020-08-10 08:19:54 PM,MO,1084
+# Cases Age [65-69],2020-08-10 08:19:54 PM,MO,1472
+# Cases Age [70-74],2020-08-10 08:19:54 PM,MO,719
+# Cases Age [75-79],2020-08-10 08:19:54 PM,MO,890
+# Cases Age [80+],2020-08-10 08:19:54 PM,MO,1892
+# Cases Age [0-19],15-Apr,MO,112
+# Cases Age [20-24],15-Apr,MO,311
+# Cases Age [25-29],15-Apr,MO,333
+# Cases Age [30-34],15-Apr,MO,313
+# Cases Age [35-39],15-Apr,MO,304
+# Cases Age [40-44],15-Apr,MO,363
+# Cases Age [45-49],15-Apr,MO,431
+# Cases Age [50-54],15-Apr,MO,480
+# Cases Age [55-59],15-Apr,MO,510
+# Cases Age [60-64],15-Apr,MO,489
+# Cases Age [65-69],15-Apr,MO,385
+# Cases Age [70-74],15-Apr,MO,274
+# Cases Age [75-79],15-Apr,MO,215
+# Cases Age [80+],15-Apr,MO,370
+# Cases Age [Unknown],15-Apr,MO,nan
+# Cases Age [0-19],14-Apr,MO,109
+# Cases Age [20-24],14-Apr,MO,295
+# Cases Age [25-29],14-Apr,MO,317
+# Cases Age [30-34],14-Apr,MO,300
+# Cases Age [35-39],14-Apr,MO,294
+# Cases Age [40-44],14-Apr,MO,349
+# Cases Age [45-49],14-Apr,MO,411
+# Cases Age [50-54],14-Apr,MO,468
+# Cases Age [55-59],14-Apr,MO,493
+# Cases Age [60-64],14-Apr,MO,467
+# Cases Age [65-69],14-Apr,MO,365
+# Cases Age [70-74],14-Apr,MO,269
+# Cases Age [75-79],14-Apr,MO,203
+# Cases Age [80+],14-Apr,MO,342
+# Cases Age [Unknown],14-Apr,MO,4.0
+# Cases Age [0-19],13-Apr,MO,100
+# Cases Age [20-24],13-Apr,MO,281
+# Cases Age [25-29],13-Apr,MO,301
+# Cases Age [30-34],13-Apr,MO,280
+# Cases Age [35-39],13-Apr,MO,280
+# Cases Age [40-44],13-Apr,MO,328
+# Cases Age [45-49],13-Apr,MO,382
+# Cases Age [50-54],13-Apr,MO,439
+# Cases Age [55-59],13-Apr,MO,459
+# Cases Age [60-64],13-Apr,MO,445
+# Cases Age [65-69],13-Apr,MO,346
+# Cases Age [70-74],13-Apr,MO,257
+# Cases Age [75-79],13-Apr,MO,185
+# Cases Age [80+],13-Apr,MO,301
+# Cases Age [Unknown],13-Apr,MO,4.0
+# Cases Age [0-19],12-Apr,MO,95
+# Cases Age [20-24],12-Apr,MO,269
+# Cases Age [25-29],12-Apr,MO,290
+# Cases Age [30-34],12-Apr,MO,262
+# Cases Age [35-39],12-Apr,MO,264
+# Cases Age [40-44],12-Apr,MO,309
+# Cases Age [45-49],12-Apr,MO,368
+# Cases Age [50-54],12-Apr,MO,419
+# Cases Age [55-59],12-Apr,MO,450
+# Cases Age [60-64],12-Apr,MO,417
+# Cases Age [65-69],12-Apr,MO,328
+# Cases Age [70-74],12-Apr,MO,243
+# Cases Age [75-79],12-Apr,MO,169
+# Cases Age [80+],12-Apr,MO,274
+# Cases Age [Unknown],12-Apr,MO,3.0
+# Cases Age [0-19],11-Apr,MO,94
+# Cases Age [20-24],11-Apr,MO,265
+# Cases Age [25-29],11-Apr,MO,279
+# Cases Age [30-34],11-Apr,MO,255
+# Cases Age [35-39],11-Apr,MO,256
+# Cases Age [40-44],11-Apr,MO,301
+# Cases Age [45-49],11-Apr,MO,356
+# Cases Age [50-54],11-Apr,MO,406
+# Cases Age [55-59],11-Apr,MO,440
+# Cases Age [60-64],11-Apr,MO,398
+# Cases Age [65-69],11-Apr,MO,317
+# Cases Age [70-74],11-Apr,MO,234
+# Cases Age [75-79],11-Apr,MO,161
+# Cases Age [80+],11-Apr,MO,259
+# Cases Age [Unknown],11-Apr,MO,3.0
+# Cases Age [0-19],10-Apr,MO,87
+# Cases Age [20-24],10-Apr,MO,253
+# Cases Age [25-29],10-Apr,MO,265
+# Cases Age [30-34],10-Apr,MO,241
+# Cases Age [35-39],10-Apr,MO,235
+# Cases Age [40-44],10-Apr,MO,284
+# Cases Age [45-49],10-Apr,MO,329
+# Cases Age [50-54],10-Apr,MO,383
+# Cases Age [55-59],10-Apr,MO,416
+# Cases Age [60-64],10-Apr,MO,379
+# Cases Age [65-69],10-Apr,MO,306
+# Cases Age [70-74],10-Apr,MO,223
+# Cases Age [75-79],10-Apr,MO,150
+# Cases Age [80+],10-Apr,MO,245
+# Cases Age [Unknown],10-Apr,MO,3.0
+# Cases Age [0-19],9-Apr,MO,81
+# Cases Age [20-24],9-Apr,MO,230
+# Cases Age [25-29],9-Apr,MO,244
+# Cases Age [30-34],9-Apr,MO,224
+# Cases Age [35-39],9-Apr,MO,223
+# Cases Age [40-44],9-Apr,MO,263
+# Cases Age [45-49],9-Apr,MO,301
+# Cases Age [50-54],9-Apr,MO,358
+# Cases Age [55-59],9-Apr,MO,386
+# Cases Age [60-64],9-Apr,MO,360
+# Cases Age [65-69],9-Apr,MO,283
+# Cases Age [70-74],9-Apr,MO,212
+# Cases Age [75-79],9-Apr,MO,139
+# Cases Age [80+],9-Apr,MO,232
+# Cases Age [Unknown],9-Apr,MO,3.0
+# Cases Age [0-19],8-Apr,MO,82
+# Cases Age [20-24],8-Apr,MO,225
+# Cases Age [25-29],8-Apr,MO,229
+# Cases Age [30-34],8-Apr,MO,208
+# Cases Age [35-39],8-Apr,MO,207
+# Cases Age [40-44],8-Apr,MO,249
+# Cases Age [45-49],8-Apr,MO,283
+# Cases Age [50-54],8-Apr,MO,343
+# Cases Age [55-59],8-Apr,MO,363
+# Cases Age [60-64],8-Apr,MO,334
+# Cases Age [65-69],8-Apr,MO,262
+# Cases Age [70-74],8-Apr,MO,202
+# Cases Age [75-79],8-Apr,MO,132
+# Cases Age [80+],8-Apr,MO,205
+# Cases Age [Unknown],8-Apr,MO,3.0
+# Cases Age [0-19],7-Apr,MO,76
+# Cases Age [20-24],7-Apr,MO,212
+# Cases Age [25-29],7-Apr,MO,211
+# Cases Age [30-34],7-Apr,MO,193
+# Cases Age [35-39],7-Apr,MO,191
+# Cases Age [40-44],7-Apr,MO,233
+# Cases Age [45-49],7-Apr,MO,260
+# Cases Age [50-54],7-Apr,MO,322
+# Cases Age [55-59],7-Apr,MO,337
+# Cases Age [60-64],7-Apr,MO,307
+# Cases Age [65-69],7-Apr,MO,237
+# Cases Age [70-74],7-Apr,MO,173
+# Cases Age [75-79],7-Apr,MO,113
+# Cases Age [80+],7-Apr,MO,169
+# Cases Age [Unknown],7-Apr,MO,3.0
+# Cases Age [0-19],6-Apr,MO,63
+# Cases Age [20-24],6-Apr,MO,201
+# Cases Age [25-29],6-Apr,MO,183
+# Cases Age [30-34],6-Apr,MO,175
+# Cases Age [35-39],6-Apr,MO,171
+# Cases Age [40-44],6-Apr,MO,212
+# Cases Age [45-49],6-Apr,MO,230
+# Cases Age [50-54],6-Apr,MO,285
+# Cases Age [55-59],6-Apr,MO,302
+# Cases Age [60-64],6-Apr,MO,277
+# Cases Age [65-69],6-Apr,MO,215
+# Cases Age [70-74],6-Apr,MO,153
+# Cases Age [75-79],6-Apr,MO,103
+# Cases Age [80+],6-Apr,MO,149
+# Cases Age [Unknown],6-Apr,MO,3.0
+# Cases Age [0-19],5-Apr,MO,56
+# Cases Age [20-24],5-Apr,MO,186
+# Cases Age [25-29],5-Apr,MO,163
+# Cases Age [30-34],5-Apr,MO,159
+# Cases Age [35-39],5-Apr,MO,149
+# Cases Age [40-44],5-Apr,MO,178
+# Cases Age [45-49],5-Apr,MO,199
+# Cases Age [50-54],5-Apr,MO,243
+# Cases Age [55-59],5-Apr,MO,259
+# Cases Age [60-64],5-Apr,MO,230
+# Cases Age [65-69],5-Apr,MO,183
+# Cases Age [70-74],5-Apr,MO,137
+# Cases Age [75-79],5-Apr,MO,87
+# Cases Age [80+],5-Apr,MO,134
+# Cases Age [Unknown],5-Apr,MO,4.0
+# Cases Age [0-19],4-Apr,MO,54
+# Cases Age [20-24],4-Apr,MO,179
+# Cases Age [25-29],4-Apr,MO,158
+# Cases Age [30-34],4-Apr,MO,150
+# Cases Age [35-39],4-Apr,MO,148
+# Cases Age [40-44],4-Apr,MO,174
+# Cases Age [45-49],4-Apr,MO,193
+# Cases Age [50-54],4-Apr,MO,240
+# Cases Age [55-59],4-Apr,MO,252
+# Cases Age [60-64],4-Apr,MO,222
+# Cases Age [65-69],4-Apr,MO,180
+# Cases Age [70-74],4-Apr,MO,129
+# Cases Age [75-79],4-Apr,MO,85
+# Cases Age [80+],4-Apr,MO,125
+# Cases Age [Unknown],4-Apr,MO,2.0
+# Cases Age [0-19],3-Apr,MO,53
+# Cases Age [20-24],3-Apr,MO,167
+# Cases Age [25-29],3-Apr,MO,141
+# Cases Age [30-34],3-Apr,MO,144
+# Cases Age [35-39],3-Apr,MO,134
+# Cases Age [40-44],3-Apr,MO,164
+# Cases Age [45-49],3-Apr,MO,179
+# Cases Age [50-54],3-Apr,MO,224
+# Cases Age [55-59],3-Apr,MO,226
+# Cases Age [60-64],3-Apr,MO,203
+# Cases Age [65-69],3-Apr,MO,167
+# Cases Age [70-74],3-Apr,MO,120
+# Cases Age [75-79],3-Apr,MO,75
+# Cases Age [80+],3-Apr,MO,116
+# Cases Age [Unknown],3-Apr,MO,0.0
+# Cases Age [0-19],2-Apr,MO,50
+# Cases Age [20-24],2-Apr,MO,154
+# Cases Age [25-29],2-Apr,MO,124
+# Cases Age [30-34],2-Apr,MO,123
+# Cases Age [35-39],2-Apr,MO,113
+# Cases Age [40-44],2-Apr,MO,141
+# Cases Age [45-49],2-Apr,MO,157
+# Cases Age [50-54],2-Apr,MO,191
+# Cases Age [55-59],2-Apr,MO,185
+# Cases Age [60-64],2-Apr,MO,179
+# Cases Age [65-69],2-Apr,MO,144
+# Cases Age [70-74],2-Apr,MO,109
+# Cases Age [75-79],2-Apr,MO,62
+# Cases Age [80+],2-Apr,MO,101
+# Cases Age [Unknown],2-Apr,MO,0.0
+# Cases Age [0-19],1-Apr,MO,47
+# Cases Age [20-24],1-Apr,MO,139
+# Cases Age [25-29],1-Apr,MO,106
+# Cases Age [30-34],1-Apr,MO,101
+# Cases Age [35-39],1-Apr,MO,103
+# Cases Age [40-44],1-Apr,MO,120
+# Cases Age [45-49],1-Apr,MO,137
+# Cases Age [50-54],1-Apr,MO,172
+# Cases Age [55-59],1-Apr,MO,163
+# Cases Age [60-64],1-Apr,MO,152
+# Cases Age [65-69],1-Apr,MO,114
+# Cases Age [70-74],1-Apr,MO,93
+# Cases Age [75-79],1-Apr,MO,47
+# Cases Age [80+],1-Apr,MO,87
+# Cases Age [Unknown],1-Apr,MO,0.0
+# Cases Age [0-19],31-Mar,MO,43
+# Cases Age [20-24],31-Mar,MO,124
+# Cases Age [25-29],31-Mar,MO,88
+# Cases Age [30-34],31-Mar,MO,82
+# Cases Age [35-39],31-Mar,MO,88
+# Cases Age [40-44],31-Mar,MO,98
+# Cases Age [45-49],31-Mar,MO,119
+# Cases Age [50-54],31-Mar,MO,141
+# Cases Age [55-59],31-Mar,MO,147
+# Cases Age [60-64],31-Mar,MO,125
+# Cases Age [65-69],31-Mar,MO,87
+# Cases Age [70-74],31-Mar,MO,74
+# Cases Age [75-79],31-Mar,MO,40
+# Cases Age [80+],31-Mar,MO,71
+# Cases Age [Unknown],31-Mar,MO,0.0
+# Cases Age [0-19],29-Mar,MO,26
+# Cases Age [20-24],29-Mar,MO,91
+# Cases Age [25-29],29-Mar,MO,74
+# Cases Age [30-34],29-Mar,MO,65
+# Cases Age [35-39],29-Mar,MO,69
+# Cases Age [40-44],29-Mar,MO,71
+# Cases Age [45-49],29-Mar,MO,65
+# Cases Age [50-54],29-Mar,MO,104
+# Cases Age [55-59],29-Mar,MO,91
+# Cases Age [60-64],29-Mar,MO,85
+# Cases Age [65-69],29-Mar,MO,47
+# Cases Age [70-74],29-Mar,MO,45
+# Cases Age [75-79],29-Mar,MO,29
+# Cases Age [80+],29-Mar,MO,40
+# Cases Age [Unknown],29-Mar,MO,1.0
+# Cases Age [0-19],28-Mar,MO,21
+# Cases Age [20-24],28-Mar,MO,89
+# Cases Age [25-29],28-Mar,MO,66
+# Cases Age [30-34],28-Mar,MO,60
+# Cases Age [35-39],28-Mar,MO,64
+# Cases Age [40-44],28-Mar,MO,67
+# Cases Age [45-49],28-Mar,MO,59
+# Cases Age [50-54],28-Mar,MO,95
+# Cases Age [55-59],28-Mar,MO,85
+# Cases Age [60-64],28-Mar,MO,79
+# Cases Age [65-69],28-Mar,MO,43
+# Cases Age [70-74],28-Mar,MO,43
+# Cases Age [75-79],28-Mar,MO,29
+# Cases Age [80+],28-Mar,MO,38
+# Cases Age [Unknown],28-Mar,MO,0.0
+# Cases Age [0-19],15-Apr,MO,112
+# Cases Age [20-24],15-Apr,MO,311
+# Cases Age [25-29],15-Apr,MO,333
+# Cases Age [30-34],15-Apr,MO,313
+# Cases Age [35-39],15-Apr,MO,304
+# Cases Age [40-44],15-Apr,MO,363
+# Cases Age [45-49],15-Apr,MO,431
+# Cases Age [50-54],15-Apr,MO,480
+# Cases Age [55-59],15-Apr,MO,510
+# Cases Age [60-64],15-Apr,MO,489
+# Cases Age [65-69],15-Apr,MO,385
+# Cases Age [70-74],15-Apr,MO,274
+# Cases Age [75-79],15-Apr,MO,215.0
+# Cases Age [80+],15-Apr,MO,370.0
+# Cases Age [Unknown],15-Apr,MO,nan
+# Cases Age [0-19],14-Apr,MO,109
+# Cases Age [20-24],14-Apr,MO,295
+# Cases Age [25-29],14-Apr,MO,317
+# Cases Age [30-34],14-Apr,MO,300
+# Cases Age [35-39],14-Apr,MO,294
+# Cases Age [40-44],14-Apr,MO,349
+# Cases Age [45-49],14-Apr,MO,411
+# Cases Age [50-54],14-Apr,MO,468
+# Cases Age [55-59],14-Apr,MO,493
+# Cases Age [60-64],14-Apr,MO,467
+# Cases Age [65-69],14-Apr,MO,365
+# Cases Age [70-74],14-Apr,MO,269
+# Cases Age [75-79],14-Apr,MO,203.0
+# Cases Age [80+],14-Apr,MO,342.0
+# Cases Age [Unknown],14-Apr,MO,4.0
+# Cases Age [0-19],13-Apr,MO,100
+# Cases Age [20-24],13-Apr,MO,281
+# Cases Age [25-29],13-Apr,MO,301
+# Cases Age [30-34],13-Apr,MO,280
+# Cases Age [35-39],13-Apr,MO,280
+# Cases Age [40-44],13-Apr,MO,328
+# Cases Age [45-49],13-Apr,MO,382
+# Cases Age [50-54],13-Apr,MO,439
+# Cases Age [55-59],13-Apr,MO,459
+# Cases Age [60-64],13-Apr,MO,445
+# Cases Age [65-69],13-Apr,MO,346
+# Cases Age [70-74],13-Apr,MO,257
+# Cases Age [75-79],13-Apr,MO,185.0
+# Cases Age [80+],13-Apr,MO,301.0
+# Cases Age [Unknown],13-Apr,MO,4.0
+# Cases Age [0-19],12-Apr,MO,95
+# Cases Age [20-24],12-Apr,MO,269
+# Cases Age [25-29],12-Apr,MO,290
+# Cases Age [30-34],12-Apr,MO,262
+# Cases Age [35-39],12-Apr,MO,264
+# Cases Age [40-44],12-Apr,MO,309
+# Cases Age [45-49],12-Apr,MO,368
+# Cases Age [50-54],12-Apr,MO,419
+# Cases Age [55-59],12-Apr,MO,450
+# Cases Age [60-64],12-Apr,MO,417
+# Cases Age [65-69],12-Apr,MO,328
+# Cases Age [70-74],12-Apr,MO,243
+# Cases Age [75-79],12-Apr,MO,169.0
+# Cases Age [80+],12-Apr,MO,274.0
+# Cases Age [Unknown],12-Apr,MO,3.0
+# Cases Age [0-19],11-Apr,MO,94
+# Cases Age [20-24],11-Apr,MO,265
+# Cases Age [25-29],11-Apr,MO,279
+# Cases Age [30-34],11-Apr,MO,255
+# Cases Age [35-39],11-Apr,MO,256
+# Cases Age [40-44],11-Apr,MO,301
+# Cases Age [45-49],11-Apr,MO,356
+# Cases Age [50-54],11-Apr,MO,406
+# Cases Age [55-59],11-Apr,MO,440
+# Cases Age [60-64],11-Apr,MO,398
+# Cases Age [65-69],11-Apr,MO,317
+# Cases Age [70-74],11-Apr,MO,234
+# Cases Age [75-79],11-Apr,MO,161.0
+# Cases Age [80+],11-Apr,MO,259.0
+# Cases Age [Unknown],11-Apr,MO,3.0
+# Cases Age [0-19],10-Apr,MO,87
+# Cases Age [20-24],10-Apr,MO,253
+# Cases Age [25-29],10-Apr,MO,265
+# Cases Age [30-34],10-Apr,MO,241
+# Cases Age [35-39],10-Apr,MO,235
+# Cases Age [40-44],10-Apr,MO,284
+# Cases Age [45-49],10-Apr,MO,329
+# Cases Age [50-54],10-Apr,MO,383
+# Cases Age [55-59],10-Apr,MO,416
+# Cases Age [60-64],10-Apr,MO,379
+# Cases Age [65-69],10-Apr,MO,306
+# Cases Age [70-74],10-Apr,MO,223
+# Cases Age [75-79],10-Apr,MO,150.0
+# Cases Age [80+],10-Apr,MO,245.0
+# Cases Age [Unknown],10-Apr,MO,3.0
+# Cases Age [0-19],9-Apr,MO,81
+# Cases Age [20-24],9-Apr,MO,230
+# Cases Age [25-29],9-Apr,MO,244
+# Cases Age [30-34],9-Apr,MO,224
+# Cases Age [35-39],9-Apr,MO,223
+# Cases Age [40-44],9-Apr,MO,263
+# Cases Age [45-49],9-Apr,MO,301
+# Cases Age [50-54],9-Apr,MO,358
+# Cases Age [55-59],9-Apr,MO,386
+# Cases Age [60-64],9-Apr,MO,360
+# Cases Age [65-69],9-Apr,MO,283
+# Cases Age [70-74],9-Apr,MO,212
+# Cases Age [75-79],9-Apr,MO,139.0
+# Cases Age [80+],9-Apr,MO,232.0
+# Cases Age [Unknown],9-Apr,MO,3.0
+# Cases Age [0-19],8-Apr,MO,82
+# Cases Age [20-24],8-Apr,MO,225
+# Cases Age [25-29],8-Apr,MO,229
+# Cases Age [30-34],8-Apr,MO,208
+# Cases Age [35-39],8-Apr,MO,207
+# Cases Age [40-44],8-Apr,MO,249
+# Cases Age [45-49],8-Apr,MO,283
+# Cases Age [50-54],8-Apr,MO,343
+# Cases Age [55-59],8-Apr,MO,363
+# Cases Age [60-64],8-Apr,MO,334
+# Cases Age [65-69],8-Apr,MO,262
+# Cases Age [70-74],8-Apr,MO,202
+# Cases Age [75-79],8-Apr,MO,132.0
+# Cases Age [80+],8-Apr,MO,205.0
+# Cases Age [Unknown],8-Apr,MO,3.0
+# Cases Age [0-19],7-Apr,MO,76
+# Cases Age [20-24],7-Apr,MO,212
+# Cases Age [25-29],7-Apr,MO,211
+# Cases Age [30-34],7-Apr,MO,193
+# Cases Age [35-39],7-Apr,MO,191
+# Cases Age [40-44],7-Apr,MO,233
+# Cases Age [45-49],7-Apr,MO,260
+# Cases Age [50-54],7-Apr,MO,322
+# Cases Age [55-59],7-Apr,MO,337
+# Cases Age [60-64],7-Apr,MO,307
+# Cases Age [65-69],7-Apr,MO,237
+# Cases Age [70-74],7-Apr,MO,173
+# Cases Age [75-79],7-Apr,MO,113.0
+# Cases Age [80+],7-Apr,MO,169.0
+# Cases Age [Unknown],7-Apr,MO,3.0
+# Cases Age [0-19],6-Apr,MO,63
+# Cases Age [20-24],6-Apr,MO,201
+# Cases Age [25-29],6-Apr,MO,183
+# Cases Age [30-34],6-Apr,MO,175
+# Cases Age [35-39],6-Apr,MO,171
+# Cases Age [40-44],6-Apr,MO,212
+# Cases Age [45-49],6-Apr,MO,230
+# Cases Age [50-54],6-Apr,MO,285
+# Cases Age [55-59],6-Apr,MO,302
+# Cases Age [60-64],6-Apr,MO,277
+# Cases Age [65-69],6-Apr,MO,215
+# Cases Age [70-74],6-Apr,MO,153
+# Cases Age [75-79],6-Apr,MO,103.0
+# Cases Age [80+],6-Apr,MO,149.0
+# Cases Age [Unknown],6-Apr,MO,3.0
+# Cases Age [0-19],5-Apr,MO,56
+# Cases Age [20-24],5-Apr,MO,186
+# Cases Age [25-29],5-Apr,MO,163
+# Cases Age [30-34],5-Apr,MO,159
+# Cases Age [35-39],5-Apr,MO,149
+# Cases Age [40-44],5-Apr,MO,178
+# Cases Age [45-49],5-Apr,MO,199
+# Cases Age [50-54],5-Apr,MO,243
+# Cases Age [55-59],5-Apr,MO,259
+# Cases Age [60-64],5-Apr,MO,230
+# Cases Age [65-69],5-Apr,MO,183
+# Cases Age [70-74],5-Apr,MO,137
+# Cases Age [75-79],5-Apr,MO,87.0
+# Cases Age [80+],5-Apr,MO,134.0
+# Cases Age [Unknown],5-Apr,MO,4.0
+# Cases Age [0-19],4-Apr,MO,54
+# Cases Age [20-24],4-Apr,MO,179
+# Cases Age [25-29],4-Apr,MO,158
+# Cases Age [30-34],4-Apr,MO,150
+# Cases Age [35-39],4-Apr,MO,148
+# Cases Age [40-44],4-Apr,MO,174
+# Cases Age [45-49],4-Apr,MO,193
+# Cases Age [50-54],4-Apr,MO,240
+# Cases Age [55-59],4-Apr,MO,252
+# Cases Age [60-64],4-Apr,MO,222
+# Cases Age [65-69],4-Apr,MO,180
+# Cases Age [70-74],4-Apr,MO,129
+# Cases Age [75-79],4-Apr,MO,85.0
+# Cases Age [80+],4-Apr,MO,125.0
+# Cases Age [Unknown],4-Apr,MO,2.0
+# Cases Age [0-19],3-Apr,MO,53
+# Cases Age [20-24],3-Apr,MO,167
+# Cases Age [25-29],3-Apr,MO,141
+# Cases Age [30-34],3-Apr,MO,144
+# Cases Age [35-39],3-Apr,MO,134
+# Cases Age [40-44],3-Apr,MO,164
+# Cases Age [45-49],3-Apr,MO,179
+# Cases Age [50-54],3-Apr,MO,224
+# Cases Age [55-59],3-Apr,MO,226
+# Cases Age [60-64],3-Apr,MO,203
+# Cases Age [65-69],3-Apr,MO,167
+# Cases Age [70-74],3-Apr,MO,120
+# Cases Age [75-79],3-Apr,MO,75.0
+# Cases Age [80+],3-Apr,MO,116.0
+# Cases Age [Unknown],3-Apr,MO,0.0
+# Cases Age [0-19],2-Apr,MO,50
+# Cases Age [20-24],2-Apr,MO,154
+# Cases Age [25-29],2-Apr,MO,124
+# Cases Age [30-34],2-Apr,MO,123
+# Cases Age [35-39],2-Apr,MO,113
+# Cases Age [40-44],2-Apr,MO,141
+# Cases Age [45-49],2-Apr,MO,157
+# Cases Age [50-54],2-Apr,MO,191
+# Cases Age [55-59],2-Apr,MO,185
+# Cases Age [60-64],2-Apr,MO,179
+# Cases Age [65-69],2-Apr,MO,144
+# Cases Age [70-74],2-Apr,MO,109
+# Cases Age [75-79],2-Apr,MO,62.0
+# Cases Age [80+],2-Apr,MO,101.0
+# Cases Age [Unknown],2-Apr,MO,0.0
+# Cases Age [0-19],1-Apr,MO,47
+# Cases Age [20-24],1-Apr,MO,139
+# Cases Age [25-29],1-Apr,MO,106
+# Cases Age [30-34],1-Apr,MO,101
+# Cases Age [35-39],1-Apr,MO,103
+# Cases Age [40-44],1-Apr,MO,120
+# Cases Age [45-49],1-Apr,MO,137
+# Cases Age [50-54],1-Apr,MO,172
+# Cases Age [55-59],1-Apr,MO,163
+# Cases Age [60-64],1-Apr,MO,152
+# Cases Age [65-69],1-Apr,MO,114
+# Cases Age [70-74],1-Apr,MO,93
+# Cases Age [75-79],1-Apr,MO,47.0
+# Cases Age [80+],1-Apr,MO,87.0
+# Cases Age [Unknown],1-Apr,MO,0.0
+# Cases Age [0-19],31-Mar,MO,43
+# Cases Age [20-24],31-Mar,MO,124
+# Cases Age [25-29],31-Mar,MO,88
+# Cases Age [30-34],31-Mar,MO,82
+# Cases Age [35-39],31-Mar,MO,88
+# Cases Age [40-44],31-Mar,MO,98
+# Cases Age [45-49],31-Mar,MO,119
+# Cases Age [50-54],31-Mar,MO,141
+# Cases Age [55-59],31-Mar,MO,147
+# Cases Age [60-64],31-Mar,MO,125
+# Cases Age [65-69],31-Mar,MO,87
+# Cases Age [70-74],31-Mar,MO,74
+# Cases Age [75-79],31-Mar,MO,40.0
+# Cases Age [80+],31-Mar,MO,71.0
+# Cases Age [Unknown],31-Mar,MO,0.0
+# Cases Age [0-19],29-Mar,MO,26
+# Cases Age [20-24],29-Mar,MO,91
+# Cases Age [25-29],29-Mar,MO,74
+# Cases Age [30-34],29-Mar,MO,65
+# Cases Age [35-39],29-Mar,MO,69
+# Cases Age [40-44],29-Mar,MO,71
+# Cases Age [45-49],29-Mar,MO,65
+# Cases Age [50-54],29-Mar,MO,104
+# Cases Age [55-59],29-Mar,MO,91
+# Cases Age [60-64],29-Mar,MO,85
+# Cases Age [65-69],29-Mar,MO,47
+# Cases Age [70-74],29-Mar,MO,45
+# Cases Age [75-79],29-Mar,MO,29.0
+# Cases Age [80+],29-Mar,MO,40.0
+# Cases Age [Unknown],29-Mar,MO,1.0
+# Cases Age [0-19],28-Mar,MO,21
+# Cases Age [20-24],28-Mar,MO,89
+# Cases Age [25-29],28-Mar,MO,66
+# Cases Age [30-34],28-Mar,MO,60
+# Cases Age [35-39],28-Mar,MO,64
+# Cases Age [40-44],28-Mar,MO,67
+# Cases Age [45-49],28-Mar,MO,59
+# Cases Age [50-54],28-Mar,MO,95
+# Cases Age [55-59],28-Mar,MO,85
+# Cases Age [60-64],28-Mar,MO,79
+# Cases Age [65-69],28-Mar,MO,43
+# Cases Age [70-74],28-Mar,MO,43
+# Cases Age [75-79],28-Mar,MO,29.0
+# Cases Age [80+],28-Mar,MO,38.0
+# Cases Age [Unknown],28-Mar,MO,0.0
+# Cases Age [0-19],16-Apr,MO,122
+# Cases Age [20-24],16-Apr,MO,324
+# Cases Age [25-29],16-Apr,MO,347
+# Cases Age [30-34],16-Apr,MO,325
+# Cases Age [35-39],16-Apr,MO,319
+# Cases Age [40-44],16-Apr,MO,376
+# Cases Age [45-49],16-Apr,MO,444
+# Cases Age [50-54],16-Apr,MO,499
+# Cases Age [55-59],16-Apr,MO,531
+# Cases Age [60-64],16-Apr,MO,504
+# Cases Age [65-69],16-Apr,MO,397
+# Cases Age [70-74],16-Apr,MO,288
+# Cases Age [75-79],16-Apr,MO,220.0
+# Cases Age [80+],16-Apr,MO,411.0
+# Cases Age [Unknown],16-Apr,MO,4.0
+# Cases Age [0-19],17-Apr,MO,129
+# Cases Age [20-24],17-Apr,MO,332
+# Cases Age [25-29],17-Apr,MO,356
+# Cases Age [30-34],17-Apr,MO,337
+# Cases Age [35-39],17-Apr,MO,337
+# Cases Age [40-44],17-Apr,MO,386
+# Cases Age [45-49],17-Apr,MO,457
+# Cases Age [50-54],17-Apr,MO,507
+# Cases Age [55-59],17-Apr,MO,545
+# Cases Age [60-64],17-Apr,MO,520
+# Cases Age [65-69],17-Apr,MO,409
+# Cases Age [70-74],17-Apr,MO,297
+# Cases Age [75-79],17-Apr,MO,228.0
+# Cases Age [80+],17-Apr,MO,439.0
+# Cases Age [Unknown],17-Apr,MO,4.0
+# Cases Age [0-19],18-Apr,MO,132
+# Cases Age [20-24],18-Apr,MO,344
+# Cases Age [25-29],18-Apr,MO,377
+# Cases Age [30-34],18-Apr,MO,351
+# Cases Age [35-39],18-Apr,MO,350
+# Cases Age [40-44],18-Apr,MO,395
+# Cases Age [45-49],18-Apr,MO,472
+# Cases Age [50-54],18-Apr,MO,526
+# Cases Age [55-59],18-Apr,MO,562
+# Cases Age [60-64],18-Apr,MO,544
+# Cases Age [65-69],18-Apr,MO,420
+# Cases Age [70-74],18-Apr,MO,322
+# Cases Age [75-79],18-Apr,MO,241.0
+# Cases Age [80+],18-Apr,MO,476.0
+# Cases Age [Unknown],18-Apr,MO,5.0
+# Cases Age [0-19],19-Apr,MO,135
+# Cases Age [20-24],19-Apr,MO,348
+# Cases Age [25-29],19-Apr,MO,391
+# Cases Age [30-34],19-Apr,MO,363
+# Cases Age [35-39],19-Apr,MO,367
+# Cases Age [40-44],19-Apr,MO,405
+# Cases Age [45-49],19-Apr,MO,484
+# Cases Age [50-54],19-Apr,MO,528
+# Cases Age [55-59],19-Apr,MO,577
+# Cases Age [60-64],19-Apr,MO,553
+# Cases Age [65-69],19-Apr,MO,427
+# Cases Age [70-74],19-Apr,MO,327
+# Cases Age [75-79],19-Apr,MO,256.0
+# Cases Age [80+],19-Apr,MO,496.0
+# Cases Age [Unknown],19-Apr,MO,10.0
+# Cases Age [0-19],20-Apr,MO,141
+# Cases Age [20-24],20-Apr,MO,351
+# Cases Age [25-29],20-Apr,MO,398
+# Cases Age [30-34],20-Apr,MO,370
+# Cases Age [35-39],20-Apr,MO,373
+# Cases Age [40-44],20-Apr,MO,419
+# Cases Age [45-49],20-Apr,MO,498
+# Cases Age [50-54],20-Apr,MO,542
+# Cases Age [55-59],20-Apr,MO,589
+# Cases Age [60-64],20-Apr,MO,564
+# Cases Age [65-69],20-Apr,MO,439
+# Cases Age [70-74],20-Apr,MO,331
+# Cases Age [75-79],20-Apr,MO,268.0
+# Cases Age [80+],20-Apr,MO,518.0
+# Cases Age [Unknown],20-Apr,MO,6.0
+# Cases Age [0-19],21-Apr,MO,150
+# Cases Age [20-24],21-Apr,MO,356
+# Cases Age [25-29],21-Apr,MO,406
+# Cases Age [30-34],21-Apr,MO,379
+# Cases Age [35-39],21-Apr,MO,384
+# Cases Age [40-44],21-Apr,MO,424
+# Cases Age [45-49],21-Apr,MO,507
+# Cases Age [50-54],21-Apr,MO,554
+# Cases Age [55-59],21-Apr,MO,602
+# Cases Age [60-64],21-Apr,MO,564
+# Cases Age [65-69],21-Apr,MO,444
+# Cases Age [70-74],21-Apr,MO,342
+# Cases Age [75-79],21-Apr,MO,276.0
+# Cases Age [80+],21-Apr,MO,536.0
+# Cases Age [Unknown],21-Apr,MO,7.0
+# Cases Age [0-19],22-Apr,MO,155
+# Cases Age [20-24],22-Apr,MO,365
+# Cases Age [25-29],22-Apr,MO,414
+# Cases Age [30-34],22-Apr,MO,389
+# Cases Age [35-39],22-Apr,MO,402
+# Cases Age [40-44],22-Apr,MO,431
+# Cases Age [45-49],22-Apr,MO,528
+# Cases Age [50-54],22-Apr,MO,567
+# Cases Age [55-59],22-Apr,MO,619
+# Cases Age [60-64],22-Apr,MO,597
+# Cases Age [65-69],22-Apr,MO,458
+# Cases Age [70-74],22-Apr,MO,355
+# Cases Age [75-79],22-Apr,MO,284.0
+# Cases Age [80+],22-Apr,MO,565.0
+# Cases Age [Unknown],22-Apr,MO,8.0
+# Cases Age [0-19],23-Apr,MO,164
+# Cases Age [20-24],23-Apr,MO,376
+# Cases Age [25-29],23-Apr,MO,437
+# Cases Age [30-34],23-Apr,MO,400
+# Cases Age [35-39],23-Apr,MO,411
+# Cases Age [40-44],23-Apr,MO,443
+# Cases Age [45-49],23-Apr,MO,541
+# Cases Age [50-54],23-Apr,MO,586
+# Cases Age [55-59],23-Apr,MO,632
+# Cases Age [60-64],23-Apr,MO,612
+# Cases Age [65-69],23-Apr,MO,469
+# Cases Age [70-74],23-Apr,MO,362
+# Cases Age [75-79],23-Apr,MO,294.0
+# Cases Age [80+],23-Apr,MO,584.0
+# Cases Age [Unknown],23-Apr,MO,10.0
+# Cases Age [0-19],24-Apr,MO,173
+# Cases Age [20-24],24-Apr,MO,393
+# Cases Age [25-29],24-Apr,MO,464
+# Cases Age [30-34],24-Apr,MO,420
+# Cases Age [35-39],24-Apr,MO,428
+# Cases Age [40-44],24-Apr,MO,463
+# Cases Age [45-49],24-Apr,MO,564
+# Cases Age [50-54],24-Apr,MO,614
+# Cases Age [55-59],24-Apr,MO,653
+# Cases Age [60-64],24-Apr,MO,640
+# Cases Age [65-69],24-Apr,MO,481
+# Cases Age [70-74],24-Apr,MO,378
+# Cases Age [75-79],24-Apr,MO,309.0
+# Cases Age [80+],24-Apr,MO,635.0
+# Cases Age [Unknown],24-Apr,MO,10.0
+# Cases Age [0-19],25-Apr,MO,180
+# Cases Age [20-24],25-Apr,MO,398
+# Cases Age [25-29],25-Apr,MO,471
+# Cases Age [30-34],25-Apr,MO,426
+# Cases Age [35-39],25-Apr,MO,437
+# Cases Age [40-44],25-Apr,MO,481
+# Cases Age [45-49],25-Apr,MO,582
+# Cases Age [50-54],25-Apr,MO,628
+# Cases Age [55-59],25-Apr,MO,672
+# Cases Age [60-64],25-Apr,MO,660
+# Cases Age [65-69],25-Apr,MO,492
+# Cases Age [70-74],25-Apr,MO,396
+# Cases Age [75-79],25-Apr,MO,320.0
+# Cases Age [80+],25-Apr,MO,674.0
+# Cases Age [Unknown],25-Apr,MO,9.0
+# Cases Age [0-19],26-Apr,MO,185
+# Cases Age [20-24],26-Apr,MO,406
+# Cases Age [25-29],26-Apr,MO,481
+# Cases Age [30-34],26-Apr,MO,436
+# Cases Age [35-39],26-Apr,MO,451
+# Cases Age [40-44],26-Apr,MO,491
+# Cases Age [45-49],26-Apr,MO,599
+# Cases Age [50-54],26-Apr,MO,644
+# Cases Age [55-59],26-Apr,MO,685
+# Cases Age [60-64],26-Apr,MO,674
+# Cases Age [65-69],26-Apr,MO,506
+# Cases Age [70-74],26-Apr,MO,403
+# Cases Age [75-79],26-Apr,MO,329.0
+# Cases Age [80+],26-Apr,MO,698.0
+# Cases Age [Unknown],26-Apr,MO,9.0
+# Cases Age [0-19],27-Apr,MO,194
+# Cases Age [20-24],27-Apr,MO,414
+# Cases Age [25-29],27-Apr,MO,494
+# Cases Age [30-34],27-Apr,MO,450
+# Cases Age [35-39],27-Apr,MO,454
+# Cases Age [40-44],27-Apr,MO,496
+# Cases Age [45-49],27-Apr,MO,609
+# Cases Age [50-54],27-Apr,MO,654
+# Cases Age [55-59],27-Apr,MO,700
+# Cases Age [60-64],27-Apr,MO,686
+# Cases Age [65-69],27-Apr,MO,514
+# Cases Age [70-74],27-Apr,MO,416
+# Cases Age [75-79],27-Apr,MO,338.0
+# Cases Age [80+],27-Apr,MO,743.0
+# Cases Age [Unknown],27-Apr,MO,9.0
+# Cases Age [0-19],28-Apr,MO,197
+# Cases Age [20-24],28-Apr,MO,419
+# Cases Age [25-29],28-Apr,MO,502
+# Cases Age [30-34],28-Apr,MO,461
+# Cases Age [35-39],28-Apr,MO,460
+# Cases Age [40-44],28-Apr,MO,503
+# Cases Age [45-49],28-Apr,MO,622
+# Cases Age [50-54],28-Apr,MO,666
+# Cases Age [55-59],28-Apr,MO,713
+# Cases Age [60-64],28-Apr,MO,697
+# Cases Age [65-69],28-Apr,MO,524
+# Cases Age [70-74],28-Apr,MO,421
+# Cases Age [75-79],28-Apr,MO,344.0
+# Cases Age [80+],28-Apr,MO,764.0
+# Cases Age [Unknown],28-Apr,MO,10.0
+# Cases Age [0-19],29-Apr,MO,202
+# Cases Age [20-24],29-Apr,MO,429
+# Cases Age [25-29],29-Apr,MO,512
+# Cases Age [30-34],29-Apr,MO,470
+# Cases Age [35-39],29-Apr,MO,467
+# Cases Age [40-44],29-Apr,MO,510
+# Cases Age [45-49],29-Apr,MO,635
+# Cases Age [50-54],29-Apr,MO,671
+# Cases Age [55-59],29-Apr,MO,725
+# Cases Age [60-64],29-Apr,MO,701
+# Cases Age [65-69],29-Apr,MO,536
+# Cases Age [70-74],29-Apr,MO,427
+# Cases Age [75-79],29-Apr,MO,348.0
+# Cases Age [80+],29-Apr,MO,781.0
+# Cases Age [Unknown],29-Apr,MO,11.0
+# Cases Age [0-19],1-May,MO,219
+# Cases Age [20-24],1-May,MO,456
+# Cases Age [25-29],1-May,MO,540
+# Cases Age [30-34],1-May,MO,512
+# Cases Age [35-39],1-May,MO,496
+# Cases Age [40-44],1-May,MO,531
+# Cases Age [45-49],1-May,MO,667
+# Cases Age [50-54],1-May,MO,699
+# Cases Age [55-59],1-May,MO,759
+# Cases Age [60-64],1-May,MO,732
+# Cases Age [65-69],1-May,MO,562
+# Cases Age [70-74],1-May,MO,439
+# Cases Age [75-79],1-May,MO,361.0
+# Cases Age [80+],1-May,MO,853.0
+# Cases Age [Unknown],1-May,MO,9.0
+# Cases Age [0-19],2-May,MO,230
+# Cases Age [20-24],2-May,MO,470
+# Cases Age [25-29],2-May,MO,556
+# Cases Age [30-34],2-May,MO,532
+# Cases Age [35-39],2-May,MO,513
+# Cases Age [40-44],2-May,MO,557
+# Cases Age [45-49],2-May,MO,691
+# Cases Age [50-54],2-May,MO,724
+# Cases Age [55-59],2-May,MO,787
+# Cases Age [60-64],2-May,MO,760
+# Cases Age [65-69],2-May,MO,592
+# Cases Age [70-74],2-May,MO,460
+# Cases Age [75-79],2-May,MO,367.0
+# Cases Age [80+],2-May,MO,907.0
+# Cases Age [Unknown],2-May,MO,8.0
+# Cases Age [0-19],Adair,MO,Jefferson
+# Cases Age [20-24],Adair,MO,Moniteau
+# Cases Age [25-29],Adair,MO,Pemiscot
+# Cases Age [30-34],Adair,MO,Platte
+# Cases Age [35-39],Adair,MO,Scott
+# Cases Age [40-44],Adair,MO,St. Charles(9)
+# Cases Age [45-49],Adair,MO,St. LouisCity(12)
+# Cases Age [50-54],Adair,MO,St. LouisCounty(46)
+# Cases Age [55-59],Adair,MO,nan
+# Cases Age [60-64],Adair,MO,nan
+# Cases Age [65-69],Adair,MO,nan
+# Cases Age [70-74],Adair,MO,nan
+# Cases Age [75-79],Adair,MO,nan
+# Cases Age [80+],Adair,MO,nan
+# Cases Age [Unknown],Adair,MO,nan
+# Cases Age [0-19],3-May,MO,241
+# Cases Age [20-24],3-May,MO,484
+# Cases Age [25-29],3-May,MO,569
+# Cases Age [30-34],3-May,MO,552
+# Cases Age [35-39],3-May,MO,530
+# Cases Age [40-44],3-May,MO,573
+# Cases Age [45-49],3-May,MO,703
+# Cases Age [50-54],3-May,MO,742
+# Cases Age [55-59],3-May,MO,813
+# Cases Age [60-64],3-May,MO,785
+# Cases Age [65-69],3-May,MO,604
+# Cases Age [70-74],3-May,MO,475
+# Cases Age [75-79],3-May,MO,376.0
+# Cases Age [80+],3-May,MO,931.0
+# Cases Age [Unknown],3-May,MO,8.0
+# Cases Age [0-19],4-May,MO,256
+# Cases Age [20-24],4-May,MO,509
+# Cases Age [25-29],4-May,MO,596
+# Cases Age [30-34],4-May,MO,589
+# Cases Age [35-39],4-May,MO,570
+# Cases Age [40-44],4-May,MO,602
+# Cases Age [45-49],4-May,MO,735
+# Cases Age [50-54],4-May,MO,774
+# Cases Age [55-59],4-May,MO,848
+# Cases Age [60-64],4-May,MO,817
+# Cases Age [65-69],4-May,MO,621
+# Cases Age [70-74],4-May,MO,489
+# Cases Age [75-79],4-May,MO,385.0
+# Cases Age [80+],4-May,MO,952.0
+# Cases Age [Unknown],4-May,MO,11.0
+# Cases Age [0-19],5-May,MO,263
+# Cases Age [20-24],5-May,MO,520
+# Cases Age [25-29],5-May,MO,614
+# Cases Age [30-34],5-May,MO,605
+# Cases Age [35-39],5-May,MO,584
+# Cases Age [40-44],5-May,MO,619
+# Cases Age [45-49],5-May,MO,748
+# Cases Age [50-54],5-May,MO,782
+# Cases Age [55-59],5-May,MO,856
+# Cases Age [60-64],5-May,MO,825
+# Cases Age [65-69],5-May,MO,633
+# Cases Age [70-74],5-May,MO,495
+# Cases Age [75-79],5-May,MO,391.0
+# Cases Age [80+],5-May,MO,971.0
+# Cases Age [Unknown],5-May,MO,10.0
+# Cases Age [0-19],6-May,MO,277
+# Cases Age [20-24],6-May,MO,529
+# Cases Age [25-29],6-May,MO,619
+# Cases Age [30-34],6-May,MO,621
+# Cases Age [35-39],6-May,MO,590
+# Cases Age [40-44],6-May,MO,635
+# Cases Age [45-49],6-May,MO,765
+# Cases Age [50-54],6-May,MO,796
+# Cases Age [55-59],6-May,MO,875
+# Cases Age [60-64],6-May,MO,846
+# Cases Age [65-69],6-May,MO,645
+# Cases Age [70-74],6-May,MO,513
+# Cases Age [75-79],6-May,MO,394.0
+# Cases Age [80+],6-May,MO,989.0
+# Cases Age [Unknown],6-May,MO,8.0
+# Cases Age [0-19],7-May,MO,285
+# Cases Age [20-24],7-May,MO,542
+# Cases Age [25-29],7-May,MO,639
+# Cases Age [30-34],7-May,MO,634
+# Cases Age [35-39],7-May,MO,603
+# Cases Age [40-44],7-May,MO,649
+# Cases Age [45-49],7-May,MO,776
+# Cases Age [50-54],7-May,MO,809
+# Cases Age [55-59],7-May,MO,891
+# Cases Age [60-64],7-May,MO,858
+# Cases Age [65-69],7-May,MO,670
+# Cases Age [70-74],7-May,MO,527
+# Cases Age [75-79],7-May,MO,410.0
+# Cases Age [80+],7-May,MO,1040.0
+# Cases Age [Unknown],7-May,MO,8.0
+# Cases Age [0-19],8-May,MO,289
+# Cases Age [20-24],8-May,MO,553
+# Cases Age [25-29],8-May,MO,650
+# Cases Age [30-34],8-May,MO,645
+# Cases Age [35-39],8-May,MO,618
+# Cases Age [40-44],8-May,MO,662
+# Cases Age [45-49],8-May,MO,786
+# Cases Age [50-54],8-May,MO,816
+# Cases Age [55-59],8-May,MO,896
+# Cases Age [60-64],8-May,MO,871
+# Cases Age [65-69],8-May,MO,677
+# Cases Age [70-74],8-May,MO,533
+# Cases Age [75-79],8-May,MO,420.0
+# Cases Age [80+],8-May,MO,1066.0
+# Cases Age [Unknown],8-May,MO,7.0
+# Cases Age [0-19],10-May,MO,315
+# Cases Age [20-24],10-May,MO,580
+# Cases Age [25-29],10-May,MO,672
+# Cases Age [30-34],10-May,MO,675
+# Cases Age [35-39],10-May,MO,652
+# Cases Age [40-44],10-May,MO,693
+# Cases Age [45-49],10-May,MO,807
+# Cases Age [50-54],10-May,MO,843
+# Cases Age [55-59],10-May,MO,926
+# Cases Age [60-64],10-May,MO,890
+# Cases Age [65-69],10-May,MO,692
+# Cases Age [70-74],10-May,MO,556
+# Cases Age [75-79],10-May,MO,430.0
+# Cases Age [80+],10-May,MO,1104.0
+# Cases Age [Unknown],10-May,MO,9.0
+# Cases Age [0-19],11-May,MO,318
+# Cases Age [20-24],11-May,MO,584
+# Cases Age [25-29],11-May,MO,682
+# Cases Age [30-34],11-May,MO,680
+# Cases Age [35-39],11-May,MO,661
+# Cases Age [40-44],11-May,MO,702
+# Cases Age [45-49],11-May,MO,812
+# Cases Age [50-54],11-May,MO,846
+# Cases Age [55-59],11-May,MO,932
+# Cases Age [60-64],11-May,MO,894
+# Cases Age [65-69],11-May,MO,692
+# Cases Age [70-74],11-May,MO,559
+# Cases Age [75-79],11-May,MO,433.0
+# Cases Age [80+],11-May,MO,1115.0
+# Cases Age [Unknown],11-May,MO,8.0
+# Cases Age [0-19],May 12,MO,322
+# Cases Age [20-24],May 12,MO,593
+# Cases Age [25-29],May 12,MO,688
+# Cases Age [30-34],May 12,MO,689
+# Cases Age [35-39],May 12,MO,669
+# Cases Age [40-44],May 12,MO,710
+# Cases Age [45-49],May 12,MO,817
+# Cases Age [50-54],May 12,MO,857
+# Cases Age [55-59],May 12,MO,939
+# Cases Age [60-64],May 12,MO,897
+# Cases Age [65-69],May 12,MO,696
+# Cases Age [70-74],May 12,MO,559
+# Cases Age [75-79],May 12,MO,437.0
+# Cases Age [80+],May 12,MO,1124.0
+# Cases Age [Unknown],May 12,MO,9.0
+# Cases Age [0-19],May 13,MO,331
+# Cases Age [20-24],May 13,MO,597
+# Cases Age [25-29],May 13,MO,695
+# Cases Age [30-34],May 13,MO,693
+# Cases Age [35-39],May 13,MO,678
+# Cases Age [40-44],May 13,MO,720
+# Cases Age [45-49],May 13,MO,828
+# Cases Age [50-54],May 13,MO,865
+# Cases Age [55-59],May 13,MO,945
+# Cases Age [60-64],May 13,MO,911
+# Cases Age [65-69],May 13,MO,708
+# Cases Age [70-74],May 13,MO,570
+# Cases Age [75-79],May 13,MO,444.0
+# Cases Age [80+],May 13,MO,1148.0
+# Cases Age [Unknown],May 13,MO,9.0
+# Cases Age [0-19],May 14,MO,334
+# Cases Age [20-24],May 14,MO,610
+# Cases Age [25-29],May 14,MO,713
+# Cases Age [30-34],May 14,MO,702
+# Cases Age [35-39],May 14,MO,691
+# Cases Age [40-44],May 14,MO,732
+# Cases Age [45-49],May 14,MO,842
+# Cases Age [50-54],May 14,MO,884
+# Cases Age [55-59],May 14,MO,965
+# Cases Age [60-64],May 14,MO,917
+# Cases Age [65-69],May 14,MO,712
+# Cases Age [70-74],May 14,MO,578
+# Cases Age [75-79],May 14,MO,450.0
+# Cases Age [80+],May 14,MO,1178.0
+# Cases Age [Unknown],May 14,MO,9.0
+# Cases Age [0-19],May 15,MO,344
+# Cases Age [20-24],May 15,MO,613
+# Cases Age [25-29],May 15,MO,726
+# Cases Age [30-34],May 15,MO,709
+# Cases Age [35-39],May 15,MO,704
+# Cases Age [40-44],May 15,MO,743
+# Cases Age [45-49],May 15,MO,848
+# Cases Age [50-54],May 15,MO,892
+# Cases Age [55-59],May 15,MO,972
+# Cases Age [60-64],May 15,MO,931
+# Cases Age [65-69],May 15,MO,720
+# Cases Age [70-74],May 15,MO,582
+# Cases Age [75-79],May 15,MO,458.0
+# Cases Age [80+],May 15,MO,1205.0
+# Cases Age [Unknown],May 15,MO,9.0
+# Cases Age [0-19],May 16,MO,352
+# Cases Age [20-24],May 16,MO,627
+# Cases Age [25-29],May 16,MO,742
+# Cases Age [30-34],May 16,MO,717
+# Cases Age [35-39],May 16,MO,718
+# Cases Age [40-44],May 16,MO,763
+# Cases Age [45-49],May 16,MO,871
+# Cases Age [50-54],May 16,MO,905
+# Cases Age [55-59],May 16,MO,990
+# Cases Age [60-64],May 16,MO,941
+# Cases Age [65-69],May 16,MO,736
+# Cases Age [70-74],May 16,MO,596
+# Cases Age [75-79],May 16,MO,464.0
+# Cases Age [80+],May 16,MO,1244.0
+# Cases Age [Unknown],May 16,MO,9.0
+# Cases Age [0-19],May 17,MO,365
+# Cases Age [20-24],May 17,MO,639
+# Cases Age [25-29],May 17,MO,756
+# Cases Age [30-34],May 17,MO,734
+# Cases Age [35-39],May 17,MO,720
+# Cases Age [40-44],May 17,MO,766
+# Cases Age [45-49],May 17,MO,875
+# Cases Age [50-54],May 17,MO,915
+# Cases Age [55-59],May 17,MO,995
+# Cases Age [60-64],May 17,MO,946
+# Cases Age [65-69],May 17,MO,738
+# Cases Age [70-74],May 17,MO,598
+# Cases Age [75-79],May 17,MO,472.0
+# Cases Age [80+],May 17,MO,1262.0
+# Cases Age [Unknown],May 17,MO,8.0
+# Cases Age [0-19],May 18,MO,376
+# Cases Age [20-24],May 18,MO,649
+# Cases Age [25-29],May 18,MO,771
+# Cases Age [30-34],May 18,MO,745
+# Cases Age [35-39],May 18,MO,730
+# Cases Age [40-44],May 18,MO,777
+# Cases Age [45-49],May 18,MO,889
+# Cases Age [50-54],May 18,MO,929
+# Cases Age [55-59],May 18,MO,1008
+# Cases Age [60-64],May 18,MO,960
+# Cases Age [65-69],May 18,MO,743
+# Cases Age [70-74],May 18,MO,607
+# Cases Age [75-79],May 18,MO,481.0
+# Cases Age [80+],May 18,MO,1272.0
+# Cases Age [Unknown],May 18,MO,8.0
+# Cases Age [0-19],May 19,MO,384
+# Cases Age [20-24],May 19,MO,658
+# Cases Age [25-29],May 19,MO,786
+# Cases Age [30-34],May 19,MO,759
+# Cases Age [35-39],May 19,MO,739
+# Cases Age [40-44],May 19,MO,785
+# Cases Age [45-49],May 19,MO,897
+# Cases Age [50-54],May 19,MO,944
+# Cases Age [55-59],May 19,MO,1017
+# Cases Age [60-64],May 19,MO,968
+# Cases Age [65-69],May 19,MO,748
+# Cases Age [70-74],May 19,MO,613
+# Cases Age [75-79],May 19,MO,490.0
+# Cases Age [80+],May 19,MO,1284.0
+# Cases Age [Unknown],May 19,MO,8.0
+# Cases Age [0-19],May 20,MO,401
+# Cases Age [20-24],May 20,MO,679
+# Cases Age [25-29],May 20,MO,820
+# Cases Age [30-34],May 20,MO,778
+# Cases Age [35-39],May 20,MO,759
+# Cases Age [40-44],May 20,MO,800
+# Cases Age [45-49],May 20,MO,911
+# Cases Age [50-54],May 20,MO,960
+# Cases Age [55-59],May 20,MO,1031
+# Cases Age [60-64],May 20,MO,993
+# Cases Age [65-69],May 20,MO,766
+# Cases Age [70-74],May 20,MO,621
+# Cases Age [75-79],May 20,MO,495.0
+# Cases Age [80+],May 20,MO,1316.0
+# Cases Age [Unknown],May 20,MO,nan
+# Cases Age [0-19],nan,MO,nan
+# Cases Age [20-24],nan,MO,nan
+# Cases Age [25-29],nan,MO,nan
+# Cases Age [30-34],nan,MO,nan
+# Cases Age [35-39],nan,MO,nan
+# Cases Age [40-44],nan,MO,nan
+# Cases Age [45-49],nan,MO,nan
+# Cases Age [50-54],nan,MO,nan
+# Cases Age [55-59],nan,MO,nan
+# Cases Age [60-64],nan,MO,nan
+# Cases Age [65-69],nan,MO,nan
+# Cases Age [70-74],nan,MO,nan
+# Cases Age [75-79],nan,MO,nan
+# Cases Age [80+],nan,MO,nan
+# Cases Age [Unknown],nan,MO,nan
+# Cases Age [0-19],May 22,MO,426
+# Cases Age [20-24],May 22,MO,695
+# Cases Age [25-29],May 22,MO,849
+# Cases Age [30-34],May 22,MO,797
+# Cases Age [35-39],May 22,MO,778
+# Cases Age [40-44],May 22,MO,808
+# Cases Age [45-49],May 22,MO,930
+# Cases Age [50-54],May 22,MO,971
+# Cases Age [55-59],May 22,MO,1045
+# Cases Age [60-64],May 22,MO,1013
+# Cases Age [65-69],May 22,MO,772
+# Cases Age [70-74],May 22,MO,630
+# Cases Age [75-79],May 22,MO,496.0
+# Cases Age [80+],May 22,MO,1340.0
+# Cases Age [Unknown],May 22,MO,nan
+# Cases Age [0-19],May 23,MO,441
+# Cases Age [20-24],May 23,MO,711
+# Cases Age [25-29],May 23,MO,868
+# Cases Age [30-34],May 23,MO,817
+# Cases Age [35-39],May 23,MO,792
+# Cases Age [40-44],May 23,MO,813
+# Cases Age [45-49],May 23,MO,942
+# Cases Age [50-54],May 23,MO,979
+# Cases Age [55-59],May 23,MO,1056
+# Cases Age [60-64],May 23,MO,1027
+# Cases Age [65-69],May 23,MO,782
+# Cases Age [70-74],May 23,MO,641
+# Cases Age [75-79],May 23,MO,503.0
+# Cases Age [80+],May 23,MO,1371.0
+# Cases Age [Unknown],May 23,MO,nan

@@ -1,0 +1,2725 @@
+,0,File
+Total Hospitalized,False,../../../covid19-data/AR/data/data.csv
+Total Cases: On Ventilator,False,../../../covid19-data/AR/data/data.csv
+Total Nursing Home Residents,False,../../../covid19-data/AR/data/data.csv
+% Total Cases: Male,False,../../../covid19-data/AR/data/data.csv
+% Total Cases: Female,False,../../../covid19-data/AR/data/data.csv
+# Cases Age [0-18],False,../../../covid19-data/AR/data/data.csv
+# Cases Age [19-64],False,../../../covid19-data/AR/data/data.csv
+# Cases Age [65+],False,../../../covid19-data/AR/data/data.csv
+Scrape Time,False,../../../covid19-data/AR/data/data.csv
+# Cases Age [0-17],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Age [18-49],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Age [50-64],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Age [65+],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Age [Unknown],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Scrape Time,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Total Cases,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Total Deaths,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Total Tested,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+% Total Cases: Female,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+% Total Cases: Male,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+% Total Cases: Unknown Sex,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Age [0-17],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [18-49],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [50-64],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [65+],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [Unknown],False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Scrape Time,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Deaths,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Tested,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+% Total Cases: Female,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+% Total Cases: Male,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+% Total Cases: Unknown Sex,False,../../../covid19-data/CA/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [0-17],False,../../../covid19-data/CA/data/data.csv
+# Cases Age [18-49],False,../../../covid19-data/CA/data/data.csv
+# Cases Age [50-64],False,../../../covid19-data/CA/data/data.csv
+# Cases Age [65+],False,../../../covid19-data/CA/data/data.csv
+# Cases Age [Unknown],False,../../../covid19-data/CA/data/data.csv
+Scrape Time,False,../../../covid19-data/CA/data/data.csv
+Total Cases,False,../../../covid19-data/CA/data/data.csv
+Total Deaths,False,../../../covid19-data/CA/data/data.csv
+Total Tested,False,../../../covid19-data/CA/data/data.csv
+% Total Cases: Female,True,../../../covid19-data/CA/data/data.csv
+% Total Cases: Male,True,../../../covid19-data/CA/data/data.csv
+% Total Cases: Unknown Sex,True,../../../covid19-data/CA/data/data.csv
+State Name,False,../../../covid19-data/CA/data/data_combined.csv
+State,False,../../../covid19-data/CA/data/data_combined.csv
+Report Date,False,../../../covid19-data/CA/data/data_combined.csv
+Report Time,False,../../../covid19-data/CA/data/data_combined.csv
+Timezone,False,../../../covid19-data/CA/data/data_combined.csv
+Total Deaths,True,../../../covid19-data/CA/data/data_combined.csv
+Total Cases,False,../../../covid19-data/CA/data/data_combined.csv
+Total Cases: Female,True,../../../covid19-data/CA/data/data_combined.csv
+Total Cases: Male,True,../../../covid19-data/CA/data/data_combined.csv
+Total Cases: Unknown Sex,True,../../../covid19-data/CA/data/data_combined.csv
+# Cases Age [0-17],True,../../../covid19-data/CA/data/data_combined.csv
+# Cases Age [18-49],True,../../../covid19-data/CA/data/data_combined.csv
+# Cases Age [50-64],True,../../../covid19-data/CA/data/data_combined.csv
+# Cases Age [18-64],True,../../../covid19-data/CA/data/data_combined.csv
+# Cases Age [65+],True,../../../covid19-data/CA/data/data_combined.csv
+# Cases Age [Unknown],True,../../../covid19-data/CA/data/data_combined.csv
+Total Tested,True,../../../covid19-data/CA/data/data_combined.csv
+Link,False,../../../covid19-data/CA/data/data_combined.csv
+Scrape Time,False,../../../covid19-data/CA/data/data_combined.csv
+State Name,False,../../../covid19-data/CA/data/data_depricated.csv
+State,False,../../../covid19-data/CA/data/data_depricated.csv
+Report Date,False,../../../covid19-data/CA/data/data_depricated.csv
+Report Time,False,../../../covid19-data/CA/data/data_depricated.csv
+Timezone,False,../../../covid19-data/CA/data/data_depricated.csv
+Total Deaths,False,../../../covid19-data/CA/data/data_depricated.csv
+Total Cases,False,../../../covid19-data/CA/data/data_depricated.csv
+Total Cases: Female,False,../../../covid19-data/CA/data/data_depricated.csv
+Total Cases: Male,False,../../../covid19-data/CA/data/data_depricated.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/CA/data/data_depricated.csv
+# Cases Age [0-17],False,../../../covid19-data/CA/data/data_depricated.csv
+# Cases Age [18-49],False,../../../covid19-data/CA/data/data_depricated.csv
+# Cases Age [50-64],False,../../../covid19-data/CA/data/data_depricated.csv
+# Cases Age [18-64],False,../../../covid19-data/CA/data/data_depricated.csv
+# Cases Age [65+],False,../../../covid19-data/CA/data/data_depricated.csv
+# Cases Age [Unknown],False,../../../covid19-data/CA/data/data_depricated.csv
+Total Tested,False,../../../covid19-data/CA/data/data_depricated.csv
+Total Tested: With Results,False,../../../covid19-data/CA/data/data_depricated.csv
+Total Tested: Pending Results,False,../../../covid19-data/CA/data/data_depricated.csv
+Link,False,../../../covid19-data/CA/data/data_depricated.csv
+Scrape Time,False,../../../covid19-data/CA/data/data_depricated.csv
+State Name,False,../../../covid19-data/CA/data/data_historic.csv
+State,False,../../../covid19-data/CA/data/data_historic.csv
+Report Date,False,../../../covid19-data/CA/data/data_historic.csv
+Report Time,False,../../../covid19-data/CA/data/data_historic.csv
+Timezone,False,../../../covid19-data/CA/data/data_historic.csv
+Total Deaths,True,../../../covid19-data/CA/data/data_historic.csv
+Total Cases,False,../../../covid19-data/CA/data/data_historic.csv
+Total Cases: Female,True,../../../covid19-data/CA/data/data_historic.csv
+Total Cases: Male,True,../../../covid19-data/CA/data/data_historic.csv
+Total Cases: Unknown Sex,True,../../../covid19-data/CA/data/data_historic.csv
+# Cases Age [0-17],True,../../../covid19-data/CA/data/data_historic.csv
+# Cases Age [18-49],True,../../../covid19-data/CA/data/data_historic.csv
+# Cases Age [50-64],True,../../../covid19-data/CA/data/data_historic.csv
+# Cases Age [18-64],True,../../../covid19-data/CA/data/data_historic.csv
+# Cases Age [65+],True,../../../covid19-data/CA/data/data_historic.csv
+# Cases Age [Unknown],True,../../../covid19-data/CA/data/data_historic.csv
+Total Tested,True,../../../covid19-data/CA/data/data_historic.csv
+Link,False,../../../covid19-data/CA/data/data_historic.csv
+Scrape Time,False,../../../covid19-data/CA/data/data_historic.csv
+# Cases Age [0-17],False,../../../covid19-data/CA/data/data_new.csv
+# Cases Age [18-49],False,../../../covid19-data/CA/data/data_new.csv
+# Cases Age [50-64],False,../../../covid19-data/CA/data/data_new.csv
+# Cases Age [65+],False,../../../covid19-data/CA/data/data_new.csv
+# Cases Age [Unknown],False,../../../covid19-data/CA/data/data_new.csv
+Scrape Time,False,../../../covid19-data/CA/data/data_new.csv
+Total Cases,False,../../../covid19-data/CA/data/data_new.csv
+Total Deaths,False,../../../covid19-data/CA/data/data_new.csv
+Total Tested,False,../../../covid19-data/CA/data/data_new.csv
+% Total Cases: Female,False,../../../covid19-data/CA/data/data_new.csv
+% Total Cases: Male,False,../../../covid19-data/CA/data/data_new.csv
+% Total Cases: Unknown Sex,False,../../../covid19-data/CA/data/data_new.csv
+# Cases Age [0-17],False,../../../covid19-data/CA/data/data_preserved.csv
+# Cases Age [18-49],False,../../../covid19-data/CA/data/data_preserved.csv
+# Cases Age [50-64],False,../../../covid19-data/CA/data/data_preserved.csv
+# Cases Age [65+],False,../../../covid19-data/CA/data/data_preserved.csv
+# Cases Age [Unknown],False,../../../covid19-data/CA/data/data_preserved.csv
+Scrape Time,False,../../../covid19-data/CA/data/data_preserved.csv
+Total Cases,False,../../../covid19-data/CA/data/data_preserved.csv
+Total Deaths,False,../../../covid19-data/CA/data/data_preserved.csv
+Total Tested,False,../../../covid19-data/CA/data/data_preserved.csv
+% Total Cases: Female,False,../../../covid19-data/CA/data/data_preserved.csv
+% Total Cases: Male,False,../../../covid19-data/CA/data/data_preserved.csv
+% Total Cases: Unknown Sex,False,../../../covid19-data/CA/data/data_preserved.csv
+Scrape Time,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Total Cases: Patients in ICU (Confirmed),False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Total Cases: Confirmed,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Responding Beds: Not In Use,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Responding Beds: In Use,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+% Responding Facilities: In Use,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Responding Facilities: In Use,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Total Cases: Patients in ICU (Suspected),False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Total Cases: Suspected,True,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Scrape Time,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases: Patients in ICU (Confirmed),False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases: Confirmed,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Responding Beds: Not In Use,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Responding Beds: In Use,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+% Responding Facilities: In Use,True,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Responding Facilities: In Use,True,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases: Patients in ICU (Suspected),False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases: Suspected,False,../../../covid19-data/CA/data/hospital_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Scrape Time,False,../../../covid19-data/CA/data/hospital_data.csv
+Total Cases: Patients in ICU (Confirmed),False,../../../covid19-data/CA/data/hospital_data.csv
+Total Cases: Confirmed,False,../../../covid19-data/CA/data/hospital_data.csv
+# Responding Beds: Not In Use,False,../../../covid19-data/CA/data/hospital_data.csv
+# Responding Beds: In Use,False,../../../covid19-data/CA/data/hospital_data.csv
+% Responding Facilities: In Use,False,../../../covid19-data/CA/data/hospital_data.csv
+# Responding Facilities: In Use,False,../../../covid19-data/CA/data/hospital_data.csv
+Total Cases: Patients in ICU (Suspected),False,../../../covid19-data/CA/data/hospital_data.csv
+Total Cases: Suspected,False,../../../covid19-data/CA/data/hospital_data.csv
+Scrape Time,False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+Total Cases: Patients in ICU (Confirmed),False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+Total Cases: Confirmed,False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+# Responding Beds: Not In Use,False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+# Responding Beds: In Use,False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+% Responding Facilities: In Use,False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+# Responding Facilities: In Use,False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+Total Cases: Patients in ICU (Suspected),False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+Total Cases: Suspected,False,../../../covid19-data/CA/data/hospital_data_preserved.csv
+# Cases Race/Ethnicity: American Indian,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Race/Ethnicity: Asian,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Race/Ethnicity: Latino,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Race/Ethnicity: Multiracial,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Race/Ethnicity: Native Hawaiian,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+Scrape Time,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-08).csv
+# Cases Race/Ethnicity: American Indian,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Race/Ethnicity: Asian,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Race/Ethnicity: Latino,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Race/Ethnicity: Multiracial,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Race/Ethnicity: Native Hawaiian,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Scrape Time,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/CA/data/race_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Race/Ethnicity: American Indian,False,../../../covid19-data/CA/data/race_data.csv
+# Cases Race/Ethnicity: Asian,False,../../../covid19-data/CA/data/race_data.csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/CA/data/race_data.csv
+# Cases Race/Ethnicity: Latino,False,../../../covid19-data/CA/data/race_data.csv
+# Cases Race/Ethnicity: Multiracial,False,../../../covid19-data/CA/data/race_data.csv
+# Cases Race/Ethnicity: Native Hawaiian,False,../../../covid19-data/CA/data/race_data.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/CA/data/race_data.csv
+Scrape Time,False,../../../covid19-data/CA/data/race_data.csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/CA/data/race_data.csv
+# Cases Race/Ethnicity: American Indian,False,../../../covid19-data/CA/data/race_data_preserved.csv
+# Cases Race/Ethnicity: Asian,False,../../../covid19-data/CA/data/race_data_preserved.csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/CA/data/race_data_preserved.csv
+# Cases Race/Ethnicity: Latino,False,../../../covid19-data/CA/data/race_data_preserved.csv
+# Cases Race/Ethnicity: Multiracial,False,../../../covid19-data/CA/data/race_data_preserved.csv
+# Cases Race/Ethnicity: Native Hawaiian,False,../../../covid19-data/CA/data/race_data_preserved.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/CA/data/race_data_preserved.csv
+Scrape Time,False,../../../covid19-data/CA/data/race_data_preserved.csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/CA/data/race_data_preserved.csv
+# Cases Age [0-9],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [10-19],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [20-29],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [30-39],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [40-49],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [50-59],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [60-69],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [70-79],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [80+],True,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [Unknown],True,../../../covid19-data/CO/data/dataV1.csv
+Total Deaths,False,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [0-9],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [10-19],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [20-29],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [30-39],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [40-49],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [50-59],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [60-69],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [70-79],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [80+],True,../../../covid19-data/CO/data/dataV1.csv
+# Deaths Age [Unknown],True,../../../covid19-data/CO/data/dataV1.csv
+Total Cases: Female,True,../../../covid19-data/CO/data/dataV1.csv
+Total Deaths: Female,True,../../../covid19-data/CO/data/dataV1.csv
+Total Cases: Male,True,../../../covid19-data/CO/data/dataV1.csv
+Total Deaths: Male,True,../../../covid19-data/CO/data/dataV1.csv
+Total Cases: Unknown Sex,True,../../../covid19-data/CO/data/dataV1.csv
+Total Hospitalized,False,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [0-9],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [10-19],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [20-29],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [30-39],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [40-49],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [50-59],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [60-69],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [70-79],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [80+],True,../../../covid19-data/CO/data/dataV1.csv
+# Hospitalized Age [Unknown],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [0-9],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [10-19],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [20-29],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [30-39],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [40-49],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [50-59],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [60-69],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [70-79],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [80+],True,../../../covid19-data/CO/data/dataV1.csv
+# Not Hospitalized Age [Unknown],True,../../../covid19-data/CO/data/dataV1.csv
+# Outbreaks,True,../../../covid19-data/CO/data/dataV1.csv
+Total Tested,False,../../../covid19-data/CO/data/dataV1.csv
+Total Cases,False,../../../covid19-data/CO/data/dataV1.csv
+Report Date,False,../../../covid19-data/CO/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/CO/data/dataV1.csv
+# Cases Age [0-18]: Female ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [0-18]: Male ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [19-30]: Female ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [19-30]: Male ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [31-40]: Female ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [31-40]: Male ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [41-50]: Female ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [41-50]: Male ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [51-60]: Female ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [51-60]: Male ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [61-70]: Female ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [61-70]: Male ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [71-80]: Female ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [71-80]: Male ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [81+]: Female ,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [81+]: Male ,False,../../../covid19-data/DC/data/data.csv
+Scrape Time,False,../../../covid19-data/DC/data/data.csv
+# Cases Age [0-18]: Female ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [19-30]: Female ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [31-40]: Female ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [41-50]: Female ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [51-60]: Female ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [61-70]: Female ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [71-80]: Female ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [81+]: Female ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [0-18]: Male ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [19-30]: Male ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [31-40]: Male ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [41-50]: Male ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [51-60]: Male ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [61-70]: Male ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [71-80]: Male ,False,../../../covid19-data/DC/data/data_v1.csv
+# Cases Age [81+]: Male ,False,../../../covid19-data/DC/data/data_v1.csv
+Scrape Time,False,../../../covid19-data/DC/data/data_v1.csv
+Total Recovered,False,../../../covid19-data/DE/data/data.csv
+# Cases Age [0-4],False,../../../covid19-data/DE/data/data.csv
+# Cases Age [5-17],False,../../../covid19-data/DE/data/data.csv
+# Cases Age [18-49],False,../../../covid19-data/DE/data/data.csv
+# Cases Age [50-64],False,../../../covid19-data/DE/data/data.csv
+# Cases Age [65+],False,../../../covid19-data/DE/data/data.csv
+Total Hospitalized,False,../../../covid19-data/DE/data/data.csv
+Total Cases: Critical Condition,False,../../../covid19-data/DE/data/data.csv
+Total Cases: Male,False,../../../covid19-data/DE/data/data.csv
+Total Cases: Female,False,../../../covid19-data/DE/data/data.csv
+Scrape Time,False,../../../covid19-data/DE/data/data.csv
+Entry Creation Date,False,../../../covid19-data/DE/data/data.csv
+Edit Date,False,../../../covid19-data/DE/data/data.csv
+Report Date,False,../../../covid19-data/DE/data/data.csv
+County Number,False,../../../covid19-data/FL/data/data.csv
+County Name,False,../../../covid19-data/FL/data/data.csv
+PUIsTotal,False,../../../covid19-data/FL/data/data.csv
+# Cases Age [0-4],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [5-14],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [15-24],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [25-34],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [35-44],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [45-54],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [55-64],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [65-74],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [75-84],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [85+],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [Unknown],False,../../../covid19-data/FL/data/data.csv
+PUIAgeRange,False,../../../covid19-data/FL/data/data.csv
+PUIAgeMedian,False,../../../covid19-data/FL/data/data.csv
+PUIFemale,False,../../../covid19-data/FL/data/data.csv
+PUIMale,False,../../../covid19-data/FL/data/data.csv
+PUISexUnkn,False,../../../covid19-data/FL/data/data.csv
+PUIFLRes,False,../../../covid19-data/FL/data/data.csv
+PUINotFLRes,False,../../../covid19-data/FL/data/data.csv
+PUIFLResOut,False,../../../covid19-data/FL/data/data.csv
+PUIContNo,False,../../../covid19-data/FL/data/data.csv
+PUIContUnkn,False,../../../covid19-data/FL/data/data.csv
+PUITravelNo,False,../../../covid19-data/FL/data/data.csv
+PUITravelYes,False,../../../covid19-data/FL/data/data.csv
+Total Tested: Positive,False,../../../covid19-data/FL/data/data.csv
+Total Tested: Negative,False,../../../covid19-data/FL/data/data.csv
+Total Tested: Incoming Tests,False,../../../covid19-data/FL/data/data.csv
+Total Tested: Pending Results,False,../../../covid19-data/FL/data/data.csv
+Total Tested: With Results,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Female,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Male,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/FL/data/data.csv
+Total Cases: All Residents,False,../../../covid19-data/FL/data/data.csv
+# Cases Age [0-4],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [5-14],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [15-24],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [25-34],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [35-44],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [45-54],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [55-64],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [65-74],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [75-84],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [85+],False,../../../covid19-data/FL/data/data.csv
+# Cases Age [Unknown],False,../../../covid19-data/FL/data/data.csv
+Range Age of Cases,True,../../../covid19-data/FL/data/data.csv
+Median Age of Cases,True,../../../covid19-data/FL/data/data.csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/FL/data/data.csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/FL/data/data.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/FL/data/data.csv
+# Cases Race/Ethnicity: Unknown,False,../../../covid19-data/FL/data/data.csv
+# Cases Race/Ethnicity: Hispanic,False,../../../covid19-data/FL/data/data.csv
+# Cases Race/Ethnicity: Non-Hispanic,False,../../../covid19-data/FL/data/data.csv
+# Cases Race/Ethnicity: Hispanic/Unknown,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Yes ED Visit Resident,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Yes ED Visit Non-Resident,False,../../../covid19-data/FL/data/data.csv
+"Total Cases: Hospitalized, FL Residents",False,../../../covid19-data/FL/data/data.csv
+"Total Cases: Hospitalized, FL Non-Residents",False,../../../covid19-data/FL/data/data.csv
+Total Deaths: Non-Florida Resident tested in FL,False,../../../covid19-data/FL/data/data.csv
+Total Deaths: Florida Resident tested in FL,False,../../../covid19-data/FL/data/data.csv
+Total Cases,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Male,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Female,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Florida Resident tested in FL,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Non-Florida Resident in FL,False,../../../covid19-data/FL/data/data.csv
+Total Cases: Florida Resident tested outside FL,False,../../../covid19-data/FL/data/data.csv
+Total Tested: Negative,False,../../../covid19-data/FL/data/data.csv
+"Total Tested: Negative, Non-FL Residents",False,../../../covid19-data/FL/data/data.csv
+Total Tested,False,../../../covid19-data/FL/data/data.csv
+Total Tested: Negative,False,../../../covid19-data/FL/data/data.csv
+Total Tested: Positive,False,../../../covid19-data/FL/data/data.csv
+Total Deaths,False,../../../covid19-data/FL/data/data.csv
+EverMon,False,../../../covid19-data/FL/data/data.csv
+MonNow,False,../../../covid19-data/FL/data/data.csv
+Scrape Time,False,../../../covid19-data/FL/data/data.csv
+County Number,False,../../../covid19-data/FL/data/dataV1.csv
+County Name,False,../../../covid19-data/FL/data/dataV1.csv
+PUIsTotal,False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [0-4],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [5-14],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [15-24],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [25-34],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [35-44],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [45-54],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [55-64],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [65-74],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [75-84],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [85+],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [Unknown],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [0-4],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [5-14],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [15-24],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [25-34],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [35-44],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [45-54],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [55-64],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [65-74],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [75-84],False,../../../covid19-data/FL/data/dataV1.csv
+# Cases Age [85+],False,../../../covid19-data/FL/data/dataV1.csv
+PUIAgeAvrg,False,../../../covid19-data/FL/data/dataV1.csv
+PUIAgeRange,False,../../../covid19-data/FL/data/dataV1.csv
+Average Age of Cases,True,../../../covid19-data/FL/data/dataV1.csv
+Range Age of Cases,True,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: All Residents,False,../../../covid19-data/FL/data/dataV1.csv
+Total Deaths: Non-Florida Resident tested in FL,True,../../../covid19-data/FL/data/dataV1.csv
+PUIFemale,False,../../../covid19-data/FL/data/dataV1.csv
+PUIMale,False,../../../covid19-data/FL/data/dataV1.csv
+PUISexUnkn,False,../../../covid19-data/FL/data/dataV1.csv
+PUIFLRes,False,../../../covid19-data/FL/data/dataV1.csv
+PUINotFLRes,False,../../../covid19-data/FL/data/dataV1.csv
+PUIFLResOut,False,../../../covid19-data/FL/data/dataV1.csv
+PUITravelNo,False,../../../covid19-data/FL/data/dataV1.csv
+PUITravelUnkn,False,../../../covid19-data/FL/data/dataV1.csv
+PUITravelYes,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: No ED Visit,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Unknown ED Visit,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Yes ED Visit,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Not Hospitalized,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Unknown Hospitalized,False,../../../covid19-data/FL/data/dataV1.csv
+Total Hospitalized,False,../../../covid19-data/FL/data/dataV1.csv
+Total Deaths: Florida Resident tested in FL,False,../../../covid19-data/FL/data/dataV1.csv
+PUILab_Yes,False,../../../covid19-data/FL/data/dataV1.csv
+Total Tested: Positive,False,../../../covid19-data/FL/data/dataV1.csv
+Total Tested: Negative,False,../../../covid19-data/FL/data/dataV1.csv
+Total Tested: Incoming Tests,False,../../../covid19-data/FL/data/dataV1.csv
+Total Tested: Pending Results,False,../../../covid19-data/FL/data/dataV1.csv
+PUIContNo,False,../../../covid19-data/FL/data/dataV1.csv
+PUIContUnkn,False,../../../covid19-data/FL/data/dataV1.csv
+PUIContYes,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Male,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Female,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Florida Resident tested in FL,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Non-Florida Resident in FL,False,../../../covid19-data/FL/data/dataV1.csv
+Total Cases: Florida Resident tested outside FL,False,../../../covid19-data/FL/data/dataV1.csv
+Total Tested: Negative,False,../../../covid19-data/FL/data/dataV1.csv
+"Total Tested: Negative, Non-FL Residents",False,../../../covid19-data/FL/data/dataV1.csv
+Total Tested,False,../../../covid19-data/FL/data/dataV1.csv
+Total Tested: Negative,False,../../../covid19-data/FL/data/dataV1.csv
+Total Tested: Positive,False,../../../covid19-data/FL/data/dataV1.csv
+Total Deaths,False,../../../covid19-data/FL/data/dataV1.csv
+EverMon,False,../../../covid19-data/FL/data/dataV1.csv
+MonNow,False,../../../covid19-data/FL/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/FL/data/dataV1.csv
+County Number,True,../../../covid19-data/FL/data/zipdata.csv
+County Name,False,../../../covid19-data/FL/data/zipdata.csv
+Zip Code,True,../../../covid19-data/FL/data/zipdata.csv
+City Name,True,../../../covid19-data/FL/data/zipdata.csv
+Total Cases,True,../../../covid19-data/FL/data/zipdata.csv
+Scrape Time,False,../../../covid19-data/FL/data/zipdata.csv
+State Name,False,../../../covid19-data/GA/data/data.csv
+State,False,../../../covid19-data/GA/data/data.csv
+Report Date,False,../../../covid19-data/GA/data/data.csv
+Total Hospitalized,True,../../../covid19-data/GA/data/data.csv
+Total Deaths,False,../../../covid19-data/GA/data/data.csv
+Total Cases,False,../../../covid19-data/GA/data/data.csv
+Total Tested,True,../../../covid19-data/GA/data/data.csv
+# Cases Age [0-17],False,../../../covid19-data/GA/data/data.csv
+# Cases Age [18-59],False,../../../covid19-data/GA/data/data.csv
+# Cases Age [60+],False,../../../covid19-data/GA/data/data.csv
+# Cases Age [Unknown],False,../../../covid19-data/GA/data/data.csv
+Total Cases: Female,True,../../../covid19-data/GA/data/data.csv
+Total Cases: Unknown Sex,True,../../../covid19-data/GA/data/data.csv
+Total Cases: Male,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: American Indian/Native American ,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: Asian,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: Black Or African American,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: Native Hawaiian/Pacific Islander,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: Other,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: Unknown,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: White,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: Hispanic/Latino,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/Ethnicity: Non-Hispanic/Latino,True,../../../covid19-data/GA/data/data.csv
+# Cases Race/ Ethnicity: Unknown,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: American Indian/Native American,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: Asian,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: Black Or African American,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: Native Hawaiian/Pacific Islander,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: Other,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: Unknown,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: White,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: Hispanic/Latino,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: Non-Hispanic/Latino,True,../../../covid19-data/GA/data/data.csv
+# Deaths Race/Ethnicity: Unknown,True,../../../covid19-data/GA/data/data.csv
+Scrape Time,False,../../../covid19-data/GA/data/data.csv
+State Name,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+State,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+Report Date,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+# Cases Age [0-17],False,../../../covid19-data/GA/data/data_thru_3-30.csv
+# Cases Age [18-59],False,../../../covid19-data/GA/data/data_thru_3-30.csv
+# Cases Age [60+],False,../../../covid19-data/GA/data/data_thru_3-30.csv
+# Cases Age [Unknown],False,../../../covid19-data/GA/data/data_thru_3-30.csv
+Total Cases: Female,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+Total Cases: Male,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+Total Hospitalized,True,../../../covid19-data/GA/data/data_thru_3-30.csv
+Total Deaths,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+Total Cases,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+Total Tested,True,../../../covid19-data/GA/data/data_thru_3-30.csv
+Scrape Time,False,../../../covid19-data/GA/data/data_thru_3-30.csv
+Total Cases,False,../../../covid19-data/IA/data/data.csv
+Total Cases: Male,False,../../../covid19-data/IA/data/data.csv
+Total Cases: Female,False,../../../covid19-data/IA/data/data.csv
+# Cases Age [0-17],False,../../../covid19-data/IA/data/data.csv
+# Cases Age [18-40],False,../../../covid19-data/IA/data/data.csv
+# Cases Age [41-60],False,../../../covid19-data/IA/data/data.csv
+# Cases Age [61-80],False,../../../covid19-data/IA/data/data.csv
+# Cases Age [81+],False,../../../covid19-data/IA/data/data.csv
+Currently Hospitalized,False,../../../covid19-data/IA/data/data.csv
+Total Discharged/Recovering,False,../../../covid19-data/IA/data/data.csv
+Total Deaths,False,../../../covid19-data/IA/data/data.csv
+Scrape Time,False,../../../covid19-data/IA/data/data.csv
+Total Cases,False,../../../covid19-data/IA/data/data_V1.csv
+Total Cases: Male,False,../../../covid19-data/IA/data/data_V1.csv
+Total Cases: Female,False,../../../covid19-data/IA/data/data_V1.csv
+# Cases Age [0-17],False,../../../covid19-data/IA/data/data_V1.csv
+# Cases Age [18-40],False,../../../covid19-data/IA/data/data_V1.csv
+# Cases Age [41-60],False,../../../covid19-data/IA/data/data_V1.csv
+# Cases Age [61-80],False,../../../covid19-data/IA/data/data_V1.csv
+# Cases Age [81+],False,../../../covid19-data/IA/data/data_V1.csv
+Currently Hospitalized,False,../../../covid19-data/IA/data/data_V1.csv
+Never Hospitalized,False,../../../covid19-data/IA/data/data_V1.csv
+Total Discharged/Recovering,False,../../../covid19-data/IA/data/data_V1.csv
+Total Deaths,False,../../../covid19-data/IA/data/data_V1.csv
+Scrape Time,False,../../../covid19-data/IA/data/data_V1.csv
+# Cases HCW,False,../../../covid19-data/ID/data/data.csv
+Total Recovered,False,../../../covid19-data/ID/data/data.csv
+% Deaths Race/Ethnicity: Hispanic,False,../../../covid19-data/ID/data/data.csv
+% Deaths Race/Ethnicity: Non-Hispanic,False,../../../covid19-data/ID/data/data.csv
+% Deaths Race/Ethnicity: Asian,False,../../../covid19-data/ID/data/data.csv
+% Deaths Race/Ethnicity: Black,False,../../../covid19-data/ID/data/data.csv
+% Deaths Race/Ethnicity: White,False,../../../covid19-data/ID/data/data.csv
+"Death Rate per 100,000: Total",False,../../../covid19-data/ID/data/data.csv
+ICU Admissions,False,../../../covid19-data/ID/data/data.csv
+% Cases Age [0-17],False,../../../covid19-data/ID/data/data.csv
+% Cases Age [18-29],False,../../../covid19-data/ID/data/data.csv
+% Cases Age [30-39],False,../../../covid19-data/ID/data/data.csv
+% Cases Age [40-49],False,../../../covid19-data/ID/data/data.csv
+% Cases Age [50-59],False,../../../covid19-data/ID/data/data.csv
+% Cases Age [60-69],False,../../../covid19-data/ID/data/data.csv
+% Cases Age [70-79],False,../../../covid19-data/ID/data/data.csv
+% Cases Age [80+],False,../../../covid19-data/ID/data/data.csv
+% Total Cases: Female,False,../../../covid19-data/ID/data/data.csv
+% Total Cases: Male,False,../../../covid19-data/ID/data/data.csv
+Scrape Time,False,../../../covid19-data/ID/data/data.csv
+Total Cases,False,../../../covid19-data/ID/data/data.csv
+Total Deaths,False,../../../covid19-data/ID/data/data.csv
+Total Hospitalized,False,../../../covid19-data/ID/data/data.csv
+# Cases HCW,False,../../../covid19-data/ID/data/dataV6.csv
+% Deaths Race/Ethnicity: Hispanic,False,../../../covid19-data/ID/data/dataV6.csv
+% Deaths Race/Ethnicity: Non-Hispanic,False,../../../covid19-data/ID/data/dataV6.csv
+% Deaths Race/Ethnicity: Asian,False,../../../covid19-data/ID/data/dataV6.csv
+% Deaths Race/Ethnicity: Black,False,../../../covid19-data/ID/data/dataV6.csv
+% Deaths Race/Ethnicity: White,False,../../../covid19-data/ID/data/dataV6.csv
+ICU Admissions,False,../../../covid19-data/ID/data/dataV6.csv
+% Cases Age [0-17],False,../../../covid19-data/ID/data/dataV6.csv
+% Cases Age [18-29],False,../../../covid19-data/ID/data/dataV6.csv
+% Cases Age [30-39],False,../../../covid19-data/ID/data/dataV6.csv
+% Cases Age [40-49],False,../../../covid19-data/ID/data/dataV6.csv
+% Cases Age [50-59],False,../../../covid19-data/ID/data/dataV6.csv
+% Cases Age [60-69],False,../../../covid19-data/ID/data/dataV6.csv
+% Cases Age [70-79],False,../../../covid19-data/ID/data/dataV6.csv
+% Cases Age [80+],False,../../../covid19-data/ID/data/dataV6.csv
+% Total Cases: Female,False,../../../covid19-data/ID/data/dataV6.csv
+% Total Cases: Male,False,../../../covid19-data/ID/data/dataV6.csv
+Scrape Time,False,../../../covid19-data/ID/data/dataV6.csv
+Total Tested: Commercial Lab,True,../../../covid19-data/ID/data/dataV6.csv
+Total Tested: State Lab,True,../../../covid19-data/ID/data/dataV6.csv
+Total Cases,False,../../../covid19-data/ID/data/dataV6.csv
+Total Deaths,False,../../../covid19-data/ID/data/dataV6.csv
+Total Hospitalized,False,../../../covid19-data/ID/data/dataV6.csv
+Total Tested,True,../../../covid19-data/ID/data/dataV6.csv
+Report Date,False,../../../covid19-data/ID/data/dataV6.csv
+# Cases HCW,False,../../../covid19-data/ID/data/dataV7.csv
+Total Recovered,False,../../../covid19-data/ID/data/dataV7.csv
+% Deaths Race/Ethnicity: Hispanic,False,../../../covid19-data/ID/data/dataV7.csv
+% Deaths Race/Ethnicity: Non-Hispanic,False,../../../covid19-data/ID/data/dataV7.csv
+% Deaths Race/Ethnicity: Asian,False,../../../covid19-data/ID/data/dataV7.csv
+% Deaths Race/Ethnicity: Black,False,../../../covid19-data/ID/data/dataV7.csv
+% Deaths Race/Ethnicity: White,False,../../../covid19-data/ID/data/dataV7.csv
+"Death Rate per 100,000: Total",False,../../../covid19-data/ID/data/dataV7.csv
+ICU Admissions,False,../../../covid19-data/ID/data/dataV7.csv
+% Cases Age [0-17],False,../../../covid19-data/ID/data/dataV7.csv
+% Cases Age [18-29],False,../../../covid19-data/ID/data/dataV7.csv
+% Cases Age [30-39],False,../../../covid19-data/ID/data/dataV7.csv
+% Cases Age [40-49],False,../../../covid19-data/ID/data/dataV7.csv
+% Cases Age [50-59],False,../../../covid19-data/ID/data/dataV7.csv
+% Cases Age [60-69],False,../../../covid19-data/ID/data/dataV7.csv
+% Cases Age [70-79],False,../../../covid19-data/ID/data/dataV7.csv
+% Cases Age [80+],False,../../../covid19-data/ID/data/dataV7.csv
+% Total Cases: Female,False,../../../covid19-data/ID/data/dataV7.csv
+% Total Cases: Male,False,../../../covid19-data/ID/data/dataV7.csv
+Scrape Time,False,../../../covid19-data/ID/data/dataV7.csv
+Total Cases,False,../../../covid19-data/ID/data/dataV7.csv
+Total Deaths,False,../../../covid19-data/ID/data/dataV7.csv
+Total Hospitalized,False,../../../covid19-data/ID/data/dataV7.csv
+Report Date,False,../../../covid19-data/ID/data/dataV7.csv
+# Cases Age [0-17],False,../../../covid19-data/ID/data/data_V1.csv
+# Cases Age [18-49],False,../../../covid19-data/ID/data/data_V1.csv
+# Cases Age [50+],False,../../../covid19-data/ID/data/data_V1.csv
+# Cases Age [Unknown],True,../../../covid19-data/ID/data/data_V1.csv
+Total Cases: Female,False,../../../covid19-data/ID/data/data_V1.csv
+Total Cases: Male,False,../../../covid19-data/ID/data/data_V1.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/ID/data/data_V1.csv
+Total Hospitalized,True,../../../covid19-data/ID/data/data_V1.csv
+Total Not Hospitalized,True,../../../covid19-data/ID/data/data_V1.csv
+Total Unknown Hospitalized,True,../../../covid19-data/ID/data/data_V1.csv
+Scrape Time,False,../../../covid19-data/ID/data/data_V1.csv
+# Cases Age [0-17],False,../../../covid19-data/ID/data/data_V2.csv
+# Cases Age [18-49],False,../../../covid19-data/ID/data/data_V2.csv
+# Cases Age [50+],False,../../../covid19-data/ID/data/data_V2.csv
+# Cases Age [Unknown],False,../../../covid19-data/ID/data/data_V2.csv
+Total Cases: Female,False,../../../covid19-data/ID/data/data_V2.csv
+Total Cases: Male,False,../../../covid19-data/ID/data/data_V2.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/ID/data/data_V2.csv
+Total Hospitalized,False,../../../covid19-data/ID/data/data_V2.csv
+# Cases HCW,False,../../../covid19-data/ID/data/data_V2.csv
+Total ICU Admissions,False,../../../covid19-data/ID/data/data_V2.csv
+Scrape Time,False,../../../covid19-data/ID/data/data_V2.csv
+# Cases Age [0-17],False,../../../covid19-data/ID/data/data_V3.csv
+# Cases Age [18-49],False,../../../covid19-data/ID/data/data_V3.csv
+# Cases Age [50+],False,../../../covid19-data/ID/data/data_V3.csv
+# Cases Age [Unknown],False,../../../covid19-data/ID/data/data_V3.csv
+Total Cases: Female,False,../../../covid19-data/ID/data/data_V3.csv
+Total Cases: Male,False,../../../covid19-data/ID/data/data_V3.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/ID/data/data_V3.csv
+Total Hospitalized,False,../../../covid19-data/ID/data/data_V3.csv
+Total ICU Admissions,False,../../../covid19-data/ID/data/data_V3.csv
+# Cases HCW,False,../../../covid19-data/ID/data/data_V3.csv
+Scrape Time,False,../../../covid19-data/ID/data/data_V3.csv
+# Cases HCW,False,../../../covid19-data/ID/data/data_V4.csv
+ICU Admissions,False,../../../covid19-data/ID/data/data_V4.csv
+% Cases Age [0-17],False,../../../covid19-data/ID/data/data_V4.csv
+% Cases Age [18-49],False,../../../covid19-data/ID/data/data_V4.csv
+% Cases Age [50+],False,../../../covid19-data/ID/data/data_V4.csv
+% Total Cases: Female,False,../../../covid19-data/ID/data/data_V4.csv
+% Total Cases: Male,False,../../../covid19-data/ID/data/data_V4.csv
+Scrape Time,False,../../../covid19-data/ID/data/data_V4.csv
+Total Tested: Commercial Lab,False,../../../covid19-data/ID/data/data_V4.csv
+Total Tested: State Lab,False,../../../covid19-data/ID/data/data_V4.csv
+Total Cases,False,../../../covid19-data/ID/data/data_V4.csv
+Total Deaths,False,../../../covid19-data/ID/data/data_V4.csv
+Total Hospitalized,False,../../../covid19-data/ID/data/data_V4.csv
+Total Tested,False,../../../covid19-data/ID/data/data_V4.csv
+Report Date,False,../../../covid19-data/ID/data/data_V4.csv
+# Cases HCW,False,../../../covid19-data/ID/data/data_V5.csv
+% Deaths Race/Ethnicity: Hispanic,False,../../../covid19-data/ID/data/data_V5.csv
+% Deaths Race/Ethnicity: Non-Hispanic,False,../../../covid19-data/ID/data/data_V5.csv
+% Deaths Race/Ethnicity: Asian,True,../../../covid19-data/ID/data/data_V5.csv
+% Deaths Race/Ethnicity: White,False,../../../covid19-data/ID/data/data_V5.csv
+ICU Admissions,False,../../../covid19-data/ID/data/data_V5.csv
+% Cases Age [0-17],False,../../../covid19-data/ID/data/data_V5.csv
+% Cases Age [18-29],False,../../../covid19-data/ID/data/data_V5.csv
+% Cases Age [30-39],False,../../../covid19-data/ID/data/data_V5.csv
+% Cases Age [40-49],False,../../../covid19-data/ID/data/data_V5.csv
+% Cases Age [50-59],False,../../../covid19-data/ID/data/data_V5.csv
+% Cases Age [60-69],False,../../../covid19-data/ID/data/data_V5.csv
+% Cases Age [70-79],False,../../../covid19-data/ID/data/data_V5.csv
+% Cases Age [80+],False,../../../covid19-data/ID/data/data_V5.csv
+% Total Cases: Female,False,../../../covid19-data/ID/data/data_V5.csv
+% Total Cases: Male,False,../../../covid19-data/ID/data/data_V5.csv
+Scrape Time,False,../../../covid19-data/ID/data/data_V5.csv
+Total Tested: Commercial Lab,True,../../../covid19-data/ID/data/data_V5.csv
+Total Tested: State Lab,True,../../../covid19-data/ID/data/data_V5.csv
+Total Cases,False,../../../covid19-data/ID/data/data_V5.csv
+Total Deaths,True,../../../covid19-data/ID/data/data_V5.csv
+Total Hospitalized,False,../../../covid19-data/ID/data/data_V5.csv
+Total Tested,True,../../../covid19-data/ID/data/data_V5.csv
+Report Date,False,../../../covid19-data/ID/data/data_V5.csv
+State Name,False,../../../covid19-data/IL/data/data.csv
+State,False,../../../covid19-data/IL/data/data.csv
+Report Date,False,../../../covid19-data/IL/data/data.csv
+Total Tested,False,../../../covid19-data/IL/data/data.csv
+Total Cases,False,../../../covid19-data/IL/data/data.csv
+Total Deaths,False,../../../covid19-data/IL/data/data.csv
+Total Cases: Male,False,../../../covid19-data/IL/data/data.csv
+Total Cases: Female,False,../../../covid19-data/IL/data/data.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/IL/data/data.csv
+Total Deaths: Male,False,../../../covid19-data/IL/data/data.csv
+Total Deaths: Female,False,../../../covid19-data/IL/data/data.csv
+Total Deaths: Unknown Sex,False,../../../covid19-data/IL/data/data.csv
+# Cases Age [Unknown],False,../../../covid19-data/IL/data/data.csv
+# Cases Age [0-20],False,../../../covid19-data/IL/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/IL/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/IL/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/IL/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/IL/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/IL/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/IL/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [Unknown],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [0-20],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [20-29],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [30-39],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [40-49],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [50-59],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [60-69],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [70-79],False,../../../covid19-data/IL/data/data.csv
+# Deaths Age [80+],False,../../../covid19-data/IL/data/data.csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/IL/data/data.csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/IL/data/data.csv
+# Cases Race/Ethnicity: Unknown,False,../../../covid19-data/IL/data/data.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/IL/data/data.csv
+# Cases Race/Ethnicity: Asian,False,../../../covid19-data/IL/data/data.csv
+# Cases Race/Ethnicity: Hispanic,False,../../../covid19-data/IL/data/data.csv
+# Cases Race/Ethnicity: NH/PI*,False,../../../covid19-data/IL/data/data.csv
+# Cases Race/Ethnicity: AI/AN**,False,../../../covid19-data/IL/data/data.csv
+# Deaths Race/Ethnicity: White,False,../../../covid19-data/IL/data/data.csv
+# Deaths Race/Ethnicity: Black,False,../../../covid19-data/IL/data/data.csv
+# Deaths Race/Ethnicity: Unknown,False,../../../covid19-data/IL/data/data.csv
+# Deaths Race/Ethnicity: Other,False,../../../covid19-data/IL/data/data.csv
+# Deaths Race/Ethnicity: Asian,False,../../../covid19-data/IL/data/data.csv
+# Deaths Race/Ethnicity: Hispanic,False,../../../covid19-data/IL/data/data.csv
+# Deaths Race/Ethnicity: NH/PI*,False,../../../covid19-data/IL/data/data.csv
+# Deaths Race/Ethnicity: AI/AN**,False,../../../covid19-data/IL/data/data.csv
+Scrape Time,False,../../../covid19-data/IL/data/data.csv
+% Cases Age [0-19],False,../../../covid19-data/IN/data/data.csv
+% Cases Age [20-29],False,../../../covid19-data/IN/data/data.csv
+% Cases Age [30-39],False,../../../covid19-data/IN/data/data.csv
+% Cases Age [40-49],False,../../../covid19-data/IN/data/data.csv
+% Cases Age [50-59],False,../../../covid19-data/IN/data/data.csv
+% Cases Age [60-69],False,../../../covid19-data/IN/data/data.csv
+% Cases Age [70-79],False,../../../covid19-data/IN/data/data.csv
+% Cases Age [80+],False,../../../covid19-data/IN/data/data.csv
+% Total Cases: Female,False,../../../covid19-data/IN/data/data.csv
+% Total Cases: Male,False,../../../covid19-data/IN/data/data.csv
+% Deaths Age [0-19],False,../../../covid19-data/IN/data/data.csv
+% Deaths Age [20-29],False,../../../covid19-data/IN/data/data.csv
+% Deaths Age [30-39],False,../../../covid19-data/IN/data/data.csv
+% Deaths Age [40-49],False,../../../covid19-data/IN/data/data.csv
+% Deaths Age [50-59],False,../../../covid19-data/IN/data/data.csv
+% Deaths Age [60-69],False,../../../covid19-data/IN/data/data.csv
+% Deaths Age [70-79],False,../../../covid19-data/IN/data/data.csv
+% Deaths Age [80+],False,../../../covid19-data/IN/data/data.csv
+% Deaths: Female,False,../../../covid19-data/IN/data/data.csv
+% Deaths: Male,False,../../../covid19-data/IN/data/data.csv
+Scrape Time,False,../../../covid19-data/IN/data/data.csv
+% Cases Age [0-19],False,../../../covid19-data/IN/data/dataV1.csv
+% Cases Age [20-29],False,../../../covid19-data/IN/data/dataV1.csv
+% Cases Age [30-39],False,../../../covid19-data/IN/data/dataV1.csv
+% Cases Age [40-49],False,../../../covid19-data/IN/data/dataV1.csv
+% Cases Age [50-59],False,../../../covid19-data/IN/data/dataV1.csv
+% Cases Age [60-69],False,../../../covid19-data/IN/data/dataV1.csv
+% Cases Age [70-79],False,../../../covid19-data/IN/data/dataV1.csv
+% Cases Age [80+],False,../../../covid19-data/IN/data/dataV1.csv
+% Total Cases: Female,False,../../../covid19-data/IN/data/dataV1.csv
+% Total Cases: Male,False,../../../covid19-data/IN/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/IN/data/dataV1.csv
+Report Date,False,../../../covid19-data/Iceland/data/data.csv
+Total Cases,False,../../../covid19-data/Iceland/data/data.csv
+Total Active Cases,False,../../../covid19-data/Iceland/data/data.csv
+Total Deaths,False,../../../covid19-data/Iceland/data/data.csv
+Non-ICU Beds: In Use (Region 1),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: In Use (Region 2),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: In Use (Region 3),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: In Use (Region 4),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: In Use (Region 5),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: In Use (Region 6),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: In Use (Region 7),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: In Use (Region 8),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: In Use (Region 9),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 1),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 2),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 3),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 4),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 5),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 6),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 7),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 8),False,../../../covid19-data/LA/data/data.csv
+Non-ICU Beds: Available (Region 9),False,../../../covid19-data/LA/data/data.csv
+% Total Cases: Female,False,../../../covid19-data/LA/data/data.csv
+% Total Cases: Male,False,../../../covid19-data/LA/data/data.csv
+% Total Cases: Other Sex,False,../../../covid19-data/LA/data/data.csv
+# Cases Age [0-17],False,../../../covid19-data/LA/data/data.csv
+# Cases Age [18-29],False,../../../covid19-data/LA/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/LA/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/LA/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/LA/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/LA/data/data.csv
+# Cases Age [70+],False,../../../covid19-data/LA/data/data.csv
+Total Tested: Commercial Lab,False,../../../covid19-data/LA/data/data.csv
+# Deaths Age [0-17],False,../../../covid19-data/LA/data/data.csv
+# Deaths Age [18-29],False,../../../covid19-data/LA/data/data.csv
+# Deaths Age [30-39],False,../../../covid19-data/LA/data/data.csv
+# Deaths Age [40-49],False,../../../covid19-data/LA/data/data.csv
+# Deaths Age [50-59],False,../../../covid19-data/LA/data/data.csv
+# Deaths Age [60-69],False,../../../covid19-data/LA/data/data.csv
+# Deaths Age [70+],False,../../../covid19-data/LA/data/data.csv
+Total Hospitalized,False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 1),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 2),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 3),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 4),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 5),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 6),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 7),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 8),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: In Use (Region 9),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 1),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 2),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 3),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 4),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 5),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 6),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 7),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 8),False,../../../covid19-data/LA/data/data.csv
+ICU Beds: Available (Region 9),False,../../../covid19-data/LA/data/data.csv
+Total Cases: On Ventilator,False,../../../covid19-data/LA/data/data.csv
+Scrape Time,False,../../../covid19-data/LA/data/data.csv
+Total Tested: State Lab,False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 1),False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 2),False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 3),False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 4),False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 5),False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 6),False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 7),False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 8),False,../../../covid19-data/LA/data/data.csv
+Ventilators: In Use (Region 9),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 1),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 2),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 3),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 4),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 5),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 6),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 7),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 8),False,../../../covid19-data/LA/data/data.csv
+Ventilators: Available (Region 9),False,../../../covid19-data/LA/data/data.csv
+% Total Cases: Female,False,../../../covid19-data/LA/data/dataV1.csv
+% Total Cases: Male,False,../../../covid19-data/LA/data/dataV1.csv
+% Total Cases: Other Sex,False,../../../covid19-data/LA/data/dataV1.csv
+# Cases Age [0-17],False,../../../covid19-data/LA/data/dataV1.csv
+# Cases Age [18-29],False,../../../covid19-data/LA/data/dataV1.csv
+# Cases Age [30-39],False,../../../covid19-data/LA/data/dataV1.csv
+# Cases Age [40-49],False,../../../covid19-data/LA/data/dataV1.csv
+# Cases Age [50-59],False,../../../covid19-data/LA/data/dataV1.csv
+# Cases Age [60-69],False,../../../covid19-data/LA/data/dataV1.csv
+# Cases Age [70+],False,../../../covid19-data/LA/data/dataV1.csv
+Total Tested: Commercial Lab,False,../../../covid19-data/LA/data/dataV1.csv
+# Deaths Age [0-17],False,../../../covid19-data/LA/data/dataV1.csv
+# Deaths Age [18-29],False,../../../covid19-data/LA/data/dataV1.csv
+# Deaths Age [30-39],False,../../../covid19-data/LA/data/dataV1.csv
+# Deaths Age [40-49],False,../../../covid19-data/LA/data/dataV1.csv
+# Deaths Age [50-59],False,../../../covid19-data/LA/data/dataV1.csv
+# Deaths Age [60-69],False,../../../covid19-data/LA/data/dataV1.csv
+# Deaths Age [70+],False,../../../covid19-data/LA/data/dataV1.csv
+Total Hospitalized,False,../../../covid19-data/LA/data/dataV1.csv
+Total Cases: On Ventilator,False,../../../covid19-data/LA/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/LA/data/dataV1.csv
+Total Tested: State Lab,False,../../../covid19-data/LA/data/dataV1.csv
+# Cases Age [0-19],False,../../../covid19-data/MA/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/MA/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/MA/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/MA/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/MA/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/MA/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/MA/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/MA/data/data.csv
+# Cases Age [Unknown],False,../../../covid19-data/MA/data/data.csv
+Total Cases: Female,False,../../../covid19-data/MA/data/data.csv
+Total Cases: Male,False,../../../covid19-data/MA/data/data.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/MA/data/data.csv
+Report Date,False,../../../covid19-data/MA/data/data.csv
+# Cases Quarantined: Complete,False,../../../covid19-data/MA/data/data.csv
+# Cases Quarantined: Current,False,../../../covid19-data/MA/data/data.csv
+# Cases Quarantined: Ever,False,../../../covid19-data/MA/data/data.csv
+Quarantine Report Date,False,../../../covid19-data/MA/data/data.csv
+Scrape Time,False,../../../covid19-data/MA/data/data.csv
+# Cases Age [0-19],False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Age [20-29],False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Age [30-39],False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Age [40-49],False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Age [50-59],False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Age [60-69],False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Age [70+],False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Age [Unknown],False,../../../covid19-data/MA/data/dataV1.csv
+Total Cases: Female,False,../../../covid19-data/MA/data/dataV1.csv
+Total Cases: Male,False,../../../covid19-data/MA/data/dataV1.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/MA/data/dataV1.csv
+Report Date,False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Quarantined: Complete,False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Quarantined: Current,False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Quarantined: Ever,False,../../../covid19-data/MA/data/dataV1.csv
+Quarantine Report Date,False,../../../covid19-data/MA/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/MA/data/dataV1.csv
+# Cases Age [0-19],False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Age [20-29],False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Age [30-39],False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Age [40-49],False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Age [50-59],False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Age [60-69],False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Age [70-79],False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Age [80+],False,../../../covid19-data/MA/data/dataV2.csv
+Total Cases: Female,False,../../../covid19-data/MA/data/dataV2.csv
+Total Cases: Male,False,../../../covid19-data/MA/data/dataV2.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/MA/data/dataV2.csv
+Report Date,False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Quarantined: Complete,False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Quarantined: Current,False,../../../covid19-data/MA/data/dataV2.csv
+# Cases Quarantined: Ever,False,../../../covid19-data/MA/data/dataV2.csv
+Quarantine Report Date,False,../../../covid19-data/MA/data/dataV2.csv
+Scrape Time,False,../../../covid19-data/MA/data/dataV2.csv
+State Name,False,../../../covid19-data/MD/data/data.csv
+State,False,../../../covid19-data/MD/data/data.csv
+Report Date,False,../../../covid19-data/MD/data/data.csv
+Total Cases,False,../../../covid19-data/MD/data/data.csv
+Total Tested,False,../../../covid19-data/MD/data/data.csv
+Total Hospitalized,False,../../../covid19-data/MD/data/data.csv
+Total Deaths,False,../../../covid19-data/MD/data/data.csv
+# Cases Age [0-9],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [10-19],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/MD/data/data.csv
+# Cases Age [Unknown],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [0-9],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [10-19],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [20-29],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [30-39],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [40-49],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [50-59],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [60-69],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [70-79],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [80+],True,../../../covid19-data/MD/data/data.csv
+# Deaths Age [Unknown],True,../../../covid19-data/MD/data/data.csv
+Total Cases: Female,False,../../../covid19-data/MD/data/data.csv
+Total Cases: Male,False,../../../covid19-data/MD/data/data.csv
+Total Deaths: Female,True,../../../covid19-data/MD/data/data.csv
+Total Deaths: Male,True,../../../covid19-data/MD/data/data.csv
+# Cases Race/Ethnicity: African-American,True,../../../covid19-data/MD/data/data.csv
+# Cases Race/Ethnicity: Asian,True,../../../covid19-data/MD/data/data.csv
+# Cases Race/Ethnicity: White,True,../../../covid19-data/MD/data/data.csv
+# Cases Race/Ethnicity: Hispanic,True,../../../covid19-data/MD/data/data.csv
+# Cases Race/Ethnicity: Other,True,../../../covid19-data/MD/data/data.csv
+# Cases Race/Ethnicity: Unknown,True,../../../covid19-data/MD/data/data.csv
+# Deaths Race/Ethnicity: African-American,True,../../../covid19-data/MD/data/data.csv
+# Deaths Race/Ethnicity: Asian,True,../../../covid19-data/MD/data/data.csv
+# Deaths Race/Ethnicity: White,True,../../../covid19-data/MD/data/data.csv
+# Deaths Race/Ethnicity: Hispanic,True,../../../covid19-data/MD/data/data.csv
+# Deaths Race/Ethnicity: Other,True,../../../covid19-data/MD/data/data.csv
+# Deaths Race/Ethnicity: Unknown,True,../../../covid19-data/MD/data/data.csv
+Scrape Time,False,../../../covid19-data/MD/data/data.csv
+% Cases Age [0-19],False,../../../covid19-data/ME/data/data.csv
+% Cases Age [20-29],False,../../../covid19-data/ME/data/data.csv
+% Cases Age [30-39],False,../../../covid19-data/ME/data/data.csv
+% Cases Age [40-49],False,../../../covid19-data/ME/data/data.csv
+% Cases Age [50-59],False,../../../covid19-data/ME/data/data.csv
+% Cases Age [60-69],False,../../../covid19-data/ME/data/data.csv
+% Cases Age [70-79],False,../../../covid19-data/ME/data/data.csv
+% Cases Age [80+],False,../../../covid19-data/ME/data/data.csv
+% Total Cases: Female,False,../../../covid19-data/ME/data/data.csv
+% Total Cases: Male,False,../../../covid19-data/ME/data/data.csv
+Scrape Time,False,../../../covid19-data/ME/data/data.csv
+State Name,False,../../../covid19-data/MI/data/data.csv
+State,False,../../../covid19-data/MI/data/data.csv
+Report Date,False,../../../covid19-data/MI/data/data.csv
+Total Cases,False,../../../covid19-data/MI/data/data.csv
+Total Deaths,False,../../../covid19-data/MI/data/data.csv
+# Cases Age [0-19],False,../../../covid19-data/MI/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/MI/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/MI/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/MI/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/MI/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/MI/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/MI/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/MI/data/data.csv
+# Cases Age [Unknown],True,../../../covid19-data/MI/data/data.csv
+Total Cases: Male,False,../../../covid19-data/MI/data/data.csv
+Total Cases: Female,False,../../../covid19-data/MI/data/data.csv
+Total Cases: Unknown Sex,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: American Indian/Alaska Native,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: Asian/Pacific Islander,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: Black or African American,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: White,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: Multiple Races,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: Other,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: Unknown,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: American Indian or Alaska Native,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Asian/Pacific Islander,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Black or African American,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Caucasian,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Multiple Races,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Other,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Unknown,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: Hispanic/Latino,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/Ethnicity: Non-Hispanic/Latino,True,../../../covid19-data/MI/data/data.csv
+# Cases Race/ Ethnicity: Unknown,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Hispanic/Latino,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Non-Hispanic Latino,True,../../../covid19-data/MI/data/data.csv
+# Deaths Race/Ethnicity: Unknown,True,../../../covid19-data/MI/data/data.csv
+Scrape Time,False,../../../covid19-data/MI/data/data.csv
+State Name,False,../../../covid19-data/MN/data/data.csv
+State,False,../../../covid19-data/MN/data/data.csv
+Report Date,False,../../../covid19-data/MN/data/data.csv
+Total Cases,False,../../../covid19-data/MN/data/data.csv
+Total Tested,False,../../../covid19-data/MN/data/data.csv
+Total Deaths,False,../../../covid19-data/MN/data/data.csv
+Total Hospitalized,False,../../../covid19-data/MN/data/data.csv
+Total Cases: Female,False,../../../covid19-data/MN/data/data.csv
+Total Cases: Female,False,../../../covid19-data/MN/data/data.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/MN/data/data.csv
+# Cases Age [0-5],False,../../../covid19-data/MN/data/data.csv
+# Cases Age [6-19],False,../../../covid19-data/MN/data/data.csv
+# Cases Age [20-44],True,../../../covid19-data/MN/data/data.csv
+# Cases Age [45-64],True,../../../covid19-data/MN/data/data.csv
+# Cases Age [65+],True,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: Asian,False,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: Native Hawaiian/ Pacific Islander,False,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: American Indian/Alaska Native,False,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: Unknown,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: White,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Black,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Asian,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Native Hawaiian/ Pacific Islander,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: American Indian/ Alaska Native,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Other,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Unknown,False,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: Hispanic,False,../../../covid19-data/MN/data/data.csv
+"Hispanic per 100,000: Cases",False,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: Unknown,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Hispanic,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Non-Hispanic,False,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Unknown,False,../../../covid19-data/MN/data/data.csv
+Scrape Time,False,../../../covid19-data/MN/data/data.csv
+# Cases Age [Unknown],True,../../../covid19-data/MN/data/data.csv
+# Cases Age [20-29],True,../../../covid19-data/MN/data/data.csv
+# Cases Age [30-39],True,../../../covid19-data/MN/data/data.csv
+# Cases Age [40-49],True,../../../covid19-data/MN/data/data.csv
+# Cases Age [50-59],True,../../../covid19-data/MN/data/data.csv
+# Cases Age [60-69],True,../../../covid19-data/MN/data/data.csv
+# Cases Age [70+],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [0-5],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [6-19],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [20-29],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [30-39],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [40-49],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [50-59],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [60-69],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [70+],True,../../../covid19-data/MN/data/data.csv
+# Deaths Age [Unknown],True,../../../covid19-data/MN/data/data.csv
+# Cases Race/Ethnicity: Multiple races,True,../../../covid19-data/MN/data/data.csv
+# Deaths Race/Ethnicity: Multiple races,True,../../../covid19-data/MN/data/data.csv
+Unknown,True,../../../covid19-data/MO/data/age_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Age Category,False,../../../covid19-data/MO/data/age_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases,False,../../../covid19-data/MO/data/age_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Report Date,False,../../../covid19-data/MO/data/age_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Unknown,True,../../../covid19-data/MO/data/age_data.csv
+Age Category,False,../../../covid19-data/MO/data/age_data.csv
+Total Cases,False,../../../covid19-data/MO/data/age_data.csv
+Report Date,False,../../../covid19-data/MO/data/age_data.csv
+Unknown,True,../../../covid19-data/MO/data/age_data_preserved.csv
+Age Category,False,../../../covid19-data/MO/data/age_data_preserved.csv
+Total Cases,False,../../../covid19-data/MO/data/age_data_preserved.csv
+Report Date,False,../../../covid19-data/MO/data/age_data_preserved.csv
+County Name,False,../../../covid19-data/MO/data/county_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+State,False,../../../covid19-data/MO/data/county_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Deaths,True,../../../covid19-data/MO/data/county_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases: Positive,True,../../../covid19-data/MO/data/county_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+State Lab Tested: Positive,True,../../../covid19-data/MO/data/county_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Commercial Lab Tested: Positive,True,../../../covid19-data/MO/data/county_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Scrape Time,True,../../../covid19-data/MO/data/county_data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+County Name,False,../../../covid19-data/MO/data/county_data.csv
+State,False,../../../covid19-data/MO/data/county_data.csv
+Total Deaths,True,../../../covid19-data/MO/data/county_data.csv
+Total Cases: Positive,True,../../../covid19-data/MO/data/county_data.csv
+State Lab Tested: Positive,True,../../../covid19-data/MO/data/county_data.csv
+Commercial Lab Tested: Positive,True,../../../covid19-data/MO/data/county_data.csv
+Scrape Time,True,../../../covid19-data/MO/data/county_data.csv
+County Name,True,../../../covid19-data/MO/data/county_data_preserved.csv
+State,True,../../../covid19-data/MO/data/county_data_preserved.csv
+Total Deaths,True,../../../covid19-data/MO/data/county_data_preserved.csv
+Total Cases: Positive,True,../../../covid19-data/MO/data/county_data_preserved.csv
+State Lab Tested: Positive,True,../../../covid19-data/MO/data/county_data_preserved.csv
+Commercial Lab Tested: Positive,True,../../../covid19-data/MO/data/county_data_preserved.csv
+Scrape Time,True,../../../covid19-data/MO/data/county_data_preserved.csv
+State Name,False,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+State,False,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Report Date,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Report Time,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Deaths,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Tested,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [0-19],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [20-24],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [25-29],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [30-34],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [35-39],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [40-44],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [45-49],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [50-54],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [55-59],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [60-64],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [65-69],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [70-74],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [75-79],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [80+],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Age [Unknown],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Exposed: Travel,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Exposed: Contact,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Exposed: No Known Contact,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Cases Exposed: Unknown,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases: Male,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases: Female,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Total Cases: Unknown Sex,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Link,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+Scrape Time,True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Deaths Age [0-19],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Deaths Age [20-29],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Deaths Age [30-39],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Deaths Age [40-49],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Deaths Age [50-59],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Deaths Age [60-69],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Deaths Age [70-79],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+# Deaths Age [80+],True,../../../covid19-data/MO/data/data (Armin Pourshafeie's conflicted copy 2020-05-11).csv
+State Name,False,../../../covid19-data/MO/data/data.csv
+State,False,../../../covid19-data/MO/data/data.csv
+Report Date,False,../../../covid19-data/MO/data/data.csv
+Report Time,False,../../../covid19-data/MO/data/data.csv
+Total Cases,False,../../../covid19-data/MO/data/data.csv
+Total Deaths,False,../../../covid19-data/MO/data/data.csv
+Total Tested,False,../../../covid19-data/MO/data/data.csv
+# Cases Age [0-19],False,../../../covid19-data/MO/data/data.csv
+# Cases Age [20-24],False,../../../covid19-data/MO/data/data.csv
+# Cases Age [25-29],False,../../../covid19-data/MO/data/data.csv
+# Cases Age [30-34],False,../../../covid19-data/MO/data/data.csv
+# Cases Age [35-39],False,../../../covid19-data/MO/data/data.csv
+# Cases Age [40-44],False,../../../covid19-data/MO/data/data.csv
+# Cases Age [45-49],False,../../../covid19-data/MO/data/data.csv
+# Cases Age [50-54],False,../../../covid19-data/MO/data/data.csv
+# Cases Age [55-59],True,../../../covid19-data/MO/data/data.csv
+# Cases Age [60-64],True,../../../covid19-data/MO/data/data.csv
+# Cases Age [65-69],True,../../../covid19-data/MO/data/data.csv
+# Cases Age [70-74],True,../../../covid19-data/MO/data/data.csv
+# Cases Age [75-79],True,../../../covid19-data/MO/data/data.csv
+# Cases Age [80+],True,../../../covid19-data/MO/data/data.csv
+# Cases Age [Unknown],True,../../../covid19-data/MO/data/data.csv
+# Cases Exposed: Travel,True,../../../covid19-data/MO/data/data.csv
+# Cases Exposed: Contact,True,../../../covid19-data/MO/data/data.csv
+# Cases Exposed: No Known Contact,True,../../../covid19-data/MO/data/data.csv
+# Cases Exposed: Unknown,True,../../../covid19-data/MO/data/data.csv
+Total Cases: Male,True,../../../covid19-data/MO/data/data.csv
+Total Cases: Female,True,../../../covid19-data/MO/data/data.csv
+Total Cases: Unknown Sex,True,../../../covid19-data/MO/data/data.csv
+Link,True,../../../covid19-data/MO/data/data.csv
+Scrape Time,True,../../../covid19-data/MO/data/data.csv
+# Deaths Age [0-19],True,../../../covid19-data/MO/data/data.csv
+# Deaths Age [20-29],True,../../../covid19-data/MO/data/data.csv
+# Deaths Age [30-39],True,../../../covid19-data/MO/data/data.csv
+# Deaths Age [40-49],True,../../../covid19-data/MO/data/data.csv
+# Deaths Age [50-59],True,../../../covid19-data/MO/data/data.csv
+# Deaths Age [60-69],True,../../../covid19-data/MO/data/data.csv
+# Deaths Age [70-79],True,../../../covid19-data/MO/data/data.csv
+# Deaths Age [80+],True,../../../covid19-data/MO/data/data.csv
+State Name,False,../../../covid19-data/MO/data/data_preserved.csv
+State,False,../../../covid19-data/MO/data/data_preserved.csv
+Report Date,False,../../../covid19-data/MO/data/data_preserved.csv
+Report Time,False,../../../covid19-data/MO/data/data_preserved.csv
+Total Cases,False,../../../covid19-data/MO/data/data_preserved.csv
+Total Deaths,False,../../../covid19-data/MO/data/data_preserved.csv
+Total Tested,False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [0-19],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [20-24],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [25-29],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [30-34],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [35-39],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [40-44],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [45-49],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [50-54],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [55-59],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [60-64],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [65-69],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [70-74],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [75-79],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [80+],False,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Age [Unknown],True,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Exposed: Travel,True,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Exposed: Contact,True,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Exposed: No Known Contact,True,../../../covid19-data/MO/data/data_preserved.csv
+# Cases Exposed: Unknown,True,../../../covid19-data/MO/data/data_preserved.csv
+Total Cases: Male,False,../../../covid19-data/MO/data/data_preserved.csv
+Total Cases: Female,False,../../../covid19-data/MO/data/data_preserved.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/MO/data/data_preserved.csv
+Link,False,../../../covid19-data/MO/data/data_preserved.csv
+Scrape Time,False,../../../covid19-data/MO/data/data_preserved.csv
+# Deaths Age [0-19],True,../../../covid19-data/MO/data/data_preserved.csv
+# Deaths Age [20-29],True,../../../covid19-data/MO/data/data_preserved.csv
+# Deaths Age [30-39],True,../../../covid19-data/MO/data/data_preserved.csv
+# Deaths Age [40-49],True,../../../covid19-data/MO/data/data_preserved.csv
+# Deaths Age [50-59],True,../../../covid19-data/MO/data/data_preserved.csv
+# Deaths Age [60-69],True,../../../covid19-data/MO/data/data_preserved.csv
+# Deaths Age [70-79],True,../../../covid19-data/MO/data/data_preserved.csv
+# Deaths Age [80+],True,../../../covid19-data/MO/data/data_preserved.csv
+Case ID,False,../../../covid19-data/MT/data/data_case.csv
+Report Date,False,../../../covid19-data/MT/data/data_case.csv
+County Name,False,../../../covid19-data/MT/data/data_case.csv
+Age Category,False,../../../covid19-data/MT/data/data_case.csv
+Sex Category,False,../../../covid19-data/MT/data/data_case.csv
+Total Hospitalized,False,../../../covid19-data/MT/data/data_case.csv
+Case Status,False,../../../covid19-data/MT/data/data_case.csv
+MT Case (T/F),False,../../../covid19-data/MT/data/data_case.csv
+Scrape Time,False,../../../covid19-data/MT/data/data_case.csv
+County Name,False,../../../covid19-data/MT/data/data_county.csv
+FIPS,False,../../../covid19-data/MT/data/data_county.csv
+Report Date,False,../../../covid19-data/MT/data/data_county.csv
+Total Cases,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [0-9]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [0-9]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [0-9],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [10-19]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [10-19]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [10-19],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [20-29]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [20-29]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [20-29],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [30-39]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [30-39]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [30-39],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [40-49]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [40-49]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [40-49],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [50-59]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [50-59]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [50-59],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [60-69]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [60-69]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [60-69],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [70-79]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [70-79]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [70-79],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [80-89]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [80-89]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [80-89],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [90-99]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [90-99]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [90-99],False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [100+]: Female,False,../../../covid19-data/MT/data/data_county.csv
+# Cases Age [100+]: Male,False,../../../covid19-data/MT/data/data_county.csv
+# Tested Age [100+],False,../../../covid19-data/MT/data/data_county.csv
+Notes,True,../../../covid19-data/MT/data/data_county.csv
+Scrape Time,False,../../../covid19-data/MT/data/data_county.csv
+County Name,False,../../../covid19-data/MT/data/data_countyV1.csv
+FIPS,False,../../../covid19-data/MT/data/data_countyV1.csv
+Report Date,False,../../../covid19-data/MT/data/data_countyV1.csv
+Total Cases,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [0-9]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [0-9]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [0-9],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [10-19]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [10-19]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [10-19],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [20-29]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [20-29]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [20-29],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [30-39]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [30-39]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [30-39],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [40-49]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [40-49]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [40-49],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [50-59]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [50-59]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [50-59],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [60-69]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [60-69]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [60-69],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [70-79]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [70-79]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [70-79],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [80-89]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [80-89]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [80-89],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [90-99]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [90-99]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [90-99],False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [100+]: Female,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Cases Age [100+]: Male,False,../../../covid19-data/MT/data/data_countyV1.csv
+# Tested Age [100+],False,../../../covid19-data/MT/data/data_countyV1.csv
+Notes,True,../../../covid19-data/MT/data/data_countyV1.csv
+Scrape Time,False,../../../covid19-data/MT/data/data_countyV1.csv
+Test Date,False,../../../covid19-data/MT/data/data_state.csv
+Total Tested: Last Day Count,False,../../../covid19-data/MT/data/data_state.csv
+Total Tested,False,../../../covid19-data/MT/data/data_state.csv
+Total Hospitalized,False,../../../covid19-data/MT/data/data_state.csv
+Total Active Hospitalized,False,../../../covid19-data/MT/data/data_state.csv
+Total Deaths,False,../../../covid19-data/MT/data/data_state.csv
+Total Cases,False,../../../covid19-data/MT/data/data_state.csv
+Total Recovered,False,../../../covid19-data/MT/data/data_state.csv
+Scrape Time,False,../../../covid19-data/MT/data/data_state.csv
+Last Day Test Date,False,../../../covid19-data/MT/data/data_stateV1.csv
+Test Date,False,../../../covid19-data/MT/data/data_stateV1.csv
+Total Tested: Last Day Count,False,../../../covid19-data/MT/data/data_stateV1.csv
+Total Tested,False,../../../covid19-data/MT/data/data_stateV1.csv
+Total Hospitalized,False,../../../covid19-data/MT/data/data_stateV1.csv
+Scrape Time,False,../../../covid19-data/MT/data/data_stateV1.csv
+# Cases Age [0-17],False,../../../covid19-data/NC/data/data.csv
+# Cases Age [18-24],False,../../../covid19-data/NC/data/data.csv
+# Cases Age [25-49],False,../../../covid19-data/NC/data/data.csv
+# Cases Age [50-64],False,../../../covid19-data/NC/data/data.csv
+# Cases Age [65+],False,../../../covid19-data/NC/data/data.csv
+% Total Cases: Female,False,../../../covid19-data/NC/data/data.csv
+% Total Cases: Male,False,../../../covid19-data/NC/data/data.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/NC/data/data.csv
+ICU Beds: In Use,False,../../../covid19-data/NC/data/data.csv
+ICU Beds: Available,False,../../../covid19-data/NC/data/data.csv
+Non-ICU Beds: In Use,False,../../../covid19-data/NC/data/data.csv
+Non-ICU Beds: Available,False,../../../covid19-data/NC/data/data.csv
+Scrape Time,False,../../../covid19-data/NC/data/data.csv
+# Cases Age [0-17],False,../../../covid19-data/NC/data/data_V1.csv
+# Cases Age [18-24],False,../../../covid19-data/NC/data/data_V1.csv
+# Cases Age [25-49],False,../../../covid19-data/NC/data/data_V1.csv
+# Cases Age [50-64],False,../../../covid19-data/NC/data/data_V1.csv
+# Cases Age [65+],False,../../../covid19-data/NC/data/data_V1.csv
+% Total Cases: Female,False,../../../covid19-data/NC/data/data_V1.csv
+% Total Cases: Male,False,../../../covid19-data/NC/data/data_V1.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/NC/data/data_V1.csv
+Scrape Time,False,../../../covid19-data/NC/data/data_V1.csv
+Currently Hospitalized,False,../../../covid19-data/ND/data/data.csv
+Total Deaths,False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [0-9],False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [10-19],False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [20-29],False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [30-39],False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [40-49],False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [50-59],False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [60-69],False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [70-79],False,../../../covid19-data/ND/data/data.csv
+# Deaths Age [80+],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [0-9],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [10-19],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [20-29],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [30-39],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [40-49],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [50-59],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [60-69],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [70-79],False,../../../covid19-data/ND/data/data.csv
+# Hospitalized Age [80+],False,../../../covid19-data/ND/data/data.csv
+Report Date,False,../../../covid19-data/ND/data/data.csv
+Total Tested: Negative,False,../../../covid19-data/ND/data/data.csv
+Total Cases: Female,False,../../../covid19-data/ND/data/data.csv
+Total Cases: Male,False,../../../covid19-data/ND/data/data.csv
+Total Positive Cases,False,../../../covid19-data/ND/data/data.csv
+Total Recovered,False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [0-9],False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [10-19],False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [20-29],False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [30-39],False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [40-49],False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [50-59],False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [60-69],False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [70-79],False,../../../covid19-data/ND/data/data.csv
+# Recovered Age [80+],False,../../../covid19-data/ND/data/data.csv
+Scrape Time,False,../../../covid19-data/ND/data/data.csv
+# Cases Exposed: Close Contact,False,../../../covid19-data/ND/data/data.csv
+# Cases Exposed: Community Acquired,False,../../../covid19-data/ND/data/data.csv
+# Cases Exposed: Household Contact,False,../../../covid19-data/ND/data/data.csv
+# Cases Exposed: Possible Travel,False,../../../covid19-data/ND/data/data.csv
+# Cases Exposed: Travel,False,../../../covid19-data/ND/data/data.csv
+# Cases Exposed: Unknown,False,../../../covid19-data/ND/data/data.csv
+# Cases Age [0-9],False,../../../covid19-data/ND/data/data.csv
+# Cases Age [10-19],False,../../../covid19-data/ND/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/ND/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/ND/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/ND/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/ND/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/ND/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/ND/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/ND/data/data.csv
+Total Hospitalized,False,../../../covid19-data/ND/data/data.csv
+Total Tested,False,../../../covid19-data/ND/data/data.csv
+# Cases Age [0-9],False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [10-19],False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [20-29],False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [30-39],False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [40-49],False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [50-59],False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [60-69],False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [70-79],False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [80+],False,../../../covid19-data/ND/data/dataV1.csv
+Total Deaths,False,../../../covid19-data/ND/data/dataV1.csv
+Total Hospitalized,False,../../../covid19-data/ND/data/dataV1.csv
+Report Date,False,../../../covid19-data/ND/data/dataV1.csv
+Total Tested: Negative,False,../../../covid19-data/ND/data/dataV1.csv
+Total Cases: Female,False,../../../covid19-data/ND/data/dataV1.csv
+Total Cases: Male,False,../../../covid19-data/ND/data/dataV1.csv
+Total Positive Cases,False,../../../covid19-data/ND/data/dataV1.csv
+Total Recovered,False,../../../covid19-data/ND/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Exposed: Close Contact,False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Exposed: Community Acquired,False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Exposed: Possible Travel,False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Exposed: Travel,False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Exposed: Unknown,False,../../../covid19-data/ND/data/dataV1.csv
+Total Tested,False,../../../covid19-data/ND/data/dataV1.csv
+# Cases Age [0-9],False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [10-19],False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [20-29],False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [30-39],False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [40-49],False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [50-59],False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [60-69],False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [70-79],False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [80+],False,../../../covid19-data/ND/data/dataV2.csv
+Currently Hospitalized,False,../../../covid19-data/ND/data/dataV2.csv
+Total Deaths,False,../../../covid19-data/ND/data/dataV2.csv
+Report Date,False,../../../covid19-data/ND/data/dataV2.csv
+Total Tested: Negative,False,../../../covid19-data/ND/data/dataV2.csv
+Total Cases: Female,False,../../../covid19-data/ND/data/dataV2.csv
+Total Cases: Male,False,../../../covid19-data/ND/data/dataV2.csv
+Total Positive Cases,False,../../../covid19-data/ND/data/dataV2.csv
+Total Recovered,False,../../../covid19-data/ND/data/dataV2.csv
+Scrape Time,False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Exposed: Close Contact,False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Exposed: Community Acquired,False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Exposed: Possible Travel,False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Exposed: Travel,False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Exposed: Unknown,False,../../../covid19-data/ND/data/dataV2.csv
+Total Hospitalized,False,../../../covid19-data/ND/data/dataV2.csv
+Total Tested,False,../../../covid19-data/ND/data/dataV2.csv
+# Cases Age [0-9],False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Age [10-19],False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Age [20-29],False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Age [30-39],False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Age [40-49],False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Age [50-59],False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Age [60-69],False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Age [70-79],False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Age [80+],False,../../../covid19-data/ND/data/dataV3.csv
+Currently Hospitalized,False,../../../covid19-data/ND/data/dataV3.csv
+Total Deaths,False,../../../covid19-data/ND/data/dataV3.csv
+Report Date,False,../../../covid19-data/ND/data/dataV3.csv
+Total Tested: Negative,False,../../../covid19-data/ND/data/dataV3.csv
+Total Cases: Female,False,../../../covid19-data/ND/data/dataV3.csv
+Total Cases: Male,False,../../../covid19-data/ND/data/dataV3.csv
+Total Positive Cases,False,../../../covid19-data/ND/data/dataV3.csv
+Total Recovered,False,../../../covid19-data/ND/data/dataV3.csv
+Scrape Time,False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Exposed: Close Contact,False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Exposed: Community Acquired,False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Exposed: Household Contact,False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Exposed: Possible Travel,False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Exposed: Travel,False,../../../covid19-data/ND/data/dataV3.csv
+# Cases Exposed: Unknown,False,../../../covid19-data/ND/data/dataV3.csv
+Total Hospitalized,False,../../../covid19-data/ND/data/dataV3.csv
+Total Tested,False,../../../covid19-data/ND/data/dataV3.csv
+Total Deaths,False,../../../covid19-data/NV/data/data.csv
+Lab CPL Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Lab CPL Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Lab CPL Tested: Total People,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Lab CPL,False,../../../covid19-data/NV/data/data.csv
+Lab LabCorp Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Lab LabCorp Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Lab LabCorp Tested: Total People,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Lab LabCorp,False,../../../covid19-data/NV/data/data.csv
+Lab NSPHL Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Lab NSPHL Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Lab NSPHL Tested: Total People,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Lab NSPHL,False,../../../covid19-data/NV/data/data.csv
+Lab Other Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Lab Other Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Lab Other Tested: Total People,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Lab Other,False,../../../covid19-data/NV/data/data.csv
+Lab Quest Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Lab Quest Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Lab Quest Tested: Total People,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Lab Quest,False,../../../covid19-data/NV/data/data.csv
+Lab RRMC Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Lab RRMC Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Lab RRMC Tested: Total People,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Lab RRMC,False,../../../covid19-data/NV/data/data.csv
+Lab SNPHL Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Lab SNPHL Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Lab SNPHL Tested: Total People,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Lab SNPHL,False,../../../covid19-data/NV/data/data.csv
+Lab UMC Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Lab UMC Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Lab UMC Tested: Total People,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Lab UMC,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Negative,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Positive,False,../../../covid19-data/NV/data/data.csv
+Total Tested,False,../../../covid19-data/NV/data/data.csv
+Scrape Time,False,../../../covid19-data/NV/data/data.csv
+# Tests: Female,False,../../../covid19-data/NV/data/data.csv
+Total Tested: Unknown Sex,False,../../../covid19-data/NV/data/data.csv
+# Tests: Male,False,../../../covid19-data/NV/data/data.csv
+Total Tests Performed,False,../../../covid19-data/NV/data/data.csv
+# Tested Age [0-9],False,../../../covid19-data/NV/data/data.csv
+# Tested Age [10-19],False,../../../covid19-data/NV/data/data.csv
+# Tested Age [20-29],False,../../../covid19-data/NV/data/data.csv
+# Tested Age [30-39],False,../../../covid19-data/NV/data/data.csv
+# Tested Age [40-49],False,../../../covid19-data/NV/data/data.csv
+# Tested Age [50-59],False,../../../covid19-data/NV/data/data.csv
+# Tested Age [60-69],False,../../../covid19-data/NV/data/data.csv
+# Tested Age [70+],False,../../../covid19-data/NV/data/data.csv
+# Tested Age [Unknown],False,../../../covid19-data/NV/data/data.csv
+Total Deaths,False,../../../covid19-data/NV/data/data_V1.csv
+Lab CPL Tested: Negative,False,../../../covid19-data/NV/data/data_V1.csv
+Lab CPL Tested: Positive,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Lab CPL,False,../../../covid19-data/NV/data/data_V1.csv
+Lab LabCorp Tested: Negative,False,../../../covid19-data/NV/data/data_V1.csv
+Lab LabCorp Tested: Positive,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Lab LabCorp,False,../../../covid19-data/NV/data/data_V1.csv
+Lab NSPHL Tested: Negative,False,../../../covid19-data/NV/data/data_V1.csv
+Lab NSPHL Tested: Positive,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Lab NSPHL,False,../../../covid19-data/NV/data/data_V1.csv
+Lab Other Tested: Negative,False,../../../covid19-data/NV/data/data_V1.csv
+Lab Other Tested: Positive,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Lab Other,False,../../../covid19-data/NV/data/data_V1.csv
+Lab Quest Tested: Negative,False,../../../covid19-data/NV/data/data_V1.csv
+Lab Quest Tested: Positive,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Lab Quest,False,../../../covid19-data/NV/data/data_V1.csv
+Lab SNPHL Tested: Negative,False,../../../covid19-data/NV/data/data_V1.csv
+Lab SNPHL Tested: Positive,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Lab SNPHL,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Negative,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Positive,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested,False,../../../covid19-data/NV/data/data_V1.csv
+Scrape Time,False,../../../covid19-data/NV/data/data_V1.csv
+# Tests: Female,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tested: Unknown Sex,False,../../../covid19-data/NV/data/data_V1.csv
+# Tests: Male,False,../../../covid19-data/NV/data/data_V1.csv
+Total Tests Performed,False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [0-9],False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [10-19],False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [20-29],False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [30-39],False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [40-49],False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [50-59],False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [60-69],False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [70+],False,../../../covid19-data/NV/data/data_V1.csv
+# Tested Age [Unknown],False,../../../covid19-data/NV/data/data_V1.csv
+Total Deaths,False,../../../covid19-data/NV/data/data_V2.csv
+Lab CPL Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Lab CPL Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Lab CPL,False,../../../covid19-data/NV/data/data_V2.csv
+Lab LabCorp Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Lab LabCorp Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Lab LabCorp,False,../../../covid19-data/NV/data/data_V2.csv
+Lab NSPHL Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Lab NSPHL Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Lab NSPHL,False,../../../covid19-data/NV/data/data_V2.csv
+Lab Other Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Lab Other Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Lab Other,False,../../../covid19-data/NV/data/data_V2.csv
+Lab Quest Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Lab Quest Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Lab Quest,True,../../../covid19-data/NV/data/data_V2.csv
+Lab RRMC Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Lab RRMC Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Lab RRMC,False,../../../covid19-data/NV/data/data_V2.csv
+Lab SNPHL Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Lab SNPHL Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Lab SNPHL,False,../../../covid19-data/NV/data/data_V2.csv
+Lab UMC Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Lab UMC Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Lab UMC,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Negative,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Positive,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested,False,../../../covid19-data/NV/data/data_V2.csv
+Scrape Time,False,../../../covid19-data/NV/data/data_V2.csv
+# Tests: Female,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tested: Unknown Sex,False,../../../covid19-data/NV/data/data_V2.csv
+# Tests: Male,False,../../../covid19-data/NV/data/data_V2.csv
+Total Tests Performed,False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [0-9],False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [10-19],False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [20-29],False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [30-39],False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [40-49],False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [50-59],False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [60-69],False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [70+],False,../../../covid19-data/NV/data/data_V2.csv
+# Tested Age [Unknown],False,../../../covid19-data/NV/data/data_V2.csv
+"Case Rate per 100,000: Age [0-17]",False,../../../covid19-data/NY/data/data.csv
+"Case Rate per 100,000: Age [18-44]",False,../../../covid19-data/NY/data/data.csv
+"Case Rate per 100,000: Age [45-64]",False,../../../covid19-data/NY/data/data.csv
+"Case Rate per 100,000: Age [65-74]",False,../../../covid19-data/NY/data/data.csv
+"Case Rate per 100,000: Age [75+]",False,../../../covid19-data/NY/data/data.csv
+"Case Rate per 100,000: Total",False,../../../covid19-data/NY/data/data.csv
+"Hospitalized Rate per 100,000: Age [0-17]",False,../../../covid19-data/NY/data/data.csv
+"Hospitalized Rate per 100,000: Age [18-44]",False,../../../covid19-data/NY/data/data.csv
+"Hospitalized Rate per 100,000: Age [45-64]",False,../../../covid19-data/NY/data/data.csv
+"Hospitalized Rate per 100,000: Age [65-74]",False,../../../covid19-data/NY/data/data.csv
+"Hospitalized Rate per 100,000: Age [75+]",False,../../../covid19-data/NY/data/data.csv
+"Hospitalized Rate per 100,000: Total",False,../../../covid19-data/NY/data/data.csv
+"Death Rate per 100,000: Age [0-17]",False,../../../covid19-data/NY/data/data.csv
+"Death Rate per 100,000: Age [18-44]",False,../../../covid19-data/NY/data/data.csv
+"Death Rate per 100,000: Age [45-64]",False,../../../covid19-data/NY/data/data.csv
+"Death Rate per 100,000: Age [65-74]",False,../../../covid19-data/NY/data/data.csv
+"Death Rate per 100,000: Age [75+]",False,../../../covid19-data/NY/data/data.csv
+"Death Rate per 100,000: Total",False,../../../covid19-data/NY/data/data.csv
+0_17_CASE_COUNT,False,../../../covid19-data/NY/data/data.csv
+18_44_CASE_COUNT,False,../../../covid19-data/NY/data/data.csv
+45_64_CASE_COUNT,False,../../../covid19-data/NY/data/data.csv
+65_74_CASE_COUNT,False,../../../covid19-data/NY/data/data.csv
+75+_CASE_COUNT,False,../../../covid19-data/NY/data/data.csv
+City_Total_CASE_COUNT,False,../../../covid19-data/NY/data/data.csv
+0_17_HOSP_COUNT,False,../../../covid19-data/NY/data/data.csv
+18_44_HOSP_COUNT,False,../../../covid19-data/NY/data/data.csv
+45_64_HOSP_COUNT,False,../../../covid19-data/NY/data/data.csv
+65_74_HOSP_COUNT,False,../../../covid19-data/NY/data/data.csv
+75+_HOSP_COUNT,False,../../../covid19-data/NY/data/data.csv
+City_Total_HOSP_COUNT,False,../../../covid19-data/NY/data/data.csv
+0_17_DEATH_COUNT,False,../../../covid19-data/NY/data/data.csv
+18_44_DEATH_COUNT,False,../../../covid19-data/NY/data/data.csv
+45_64_DEATH_COUNT,False,../../../covid19-data/NY/data/data.csv
+65_74_DEATH_COUNT,False,../../../covid19-data/NY/data/data.csv
+75+_DEATH_COUNT,False,../../../covid19-data/NY/data/data.csv
+City_Total_DEATH_COUNT,False,../../../covid19-data/NY/data/data.csv
+"Case Rate per 100,000: Female",False,../../../covid19-data/NY/data/data.csv
+"Case Rate per 100,000: Male",False,../../../covid19-data/NY/data/data.csv
+"Hospitalized Rate per 100,000: Female",False,../../../covid19-data/NY/data/data.csv
+"Hospitalized Rate per 100,000: Male",False,../../../covid19-data/NY/data/data.csv
+"Death Rate per 100,000: Female",False,../../../covid19-data/NY/data/data.csv
+"Death Rate per 100,000: Male",False,../../../covid19-data/NY/data/data.csv
+Female_CASE_COUNT,False,../../../covid19-data/NY/data/data.csv
+Male_CASE_COUNT,False,../../../covid19-data/NY/data/data.csv
+Female_HOSP_COUNT,False,../../../covid19-data/NY/data/data.csv
+Male_HOSP_COUNT,False,../../../covid19-data/NY/data/data.csv
+Female_DEATH_COUNT,False,../../../covid19-data/NY/data/data.csv
+Male_DEATH_COUNT,False,../../../covid19-data/NY/data/data.csv
+Total Cases,False,../../../covid19-data/NY/data/data.csv
+Total Hospitalized,False,../../../covid19-data/NY/data/data.csv
+Total Deaths,False,../../../covid19-data/NY/data/data.csv
+Scrape Time,False,../../../covid19-data/NY/data/data.csv
+"Case Rate per 100,000: Age [0-17]",False,../../../covid19-data/NY/data/dataV1.csv
+"Death Rate per 100,000: Age [0-17]",True,../../../covid19-data/NY/data/dataV1.csv
+"Hospitalized Rate per 100,000: Age [0-17]",False,../../../covid19-data/NY/data/dataV1.csv
+"Case Rate per 100,000: Age [18-44]",False,../../../covid19-data/NY/data/dataV1.csv
+"Death Rate per 100,000: Age [18-44]",False,../../../covid19-data/NY/data/dataV1.csv
+"Hospitalized Rate per 100,000: Age [18-44]",False,../../../covid19-data/NY/data/dataV1.csv
+"Case Rate per 100,000: Age [45-64]",False,../../../covid19-data/NY/data/dataV1.csv
+"Death Rate per 100,000: Age [45-64]",False,../../../covid19-data/NY/data/dataV1.csv
+"Hospitalized Rate per 100,000: Age [45-64]",False,../../../covid19-data/NY/data/dataV1.csv
+"Case Rate per 100,000: Age [65-74]",False,../../../covid19-data/NY/data/dataV1.csv
+"Death Rate per 100,000: Age [65-74]",False,../../../covid19-data/NY/data/dataV1.csv
+"Hospitalized Rate per 100,000: Age [65-74]",False,../../../covid19-data/NY/data/dataV1.csv
+"Case Rate per 100,000: Age [75+]",False,../../../covid19-data/NY/data/dataV1.csv
+"Death Rate per 100,000: Age [75+]",False,../../../covid19-data/NY/data/dataV1.csv
+"Hospitalized Rate per 100,000: Age [75+]",False,../../../covid19-data/NY/data/dataV1.csv
+"Case Rate per 100,000: Total",False,../../../covid19-data/NY/data/dataV1.csv
+"Death Rate per 100,000: Total",False,../../../covid19-data/NY/data/dataV1.csv
+"Hospitalized Rate per 100,000: Total",False,../../../covid19-data/NY/data/dataV1.csv
+Total Deaths,True,../../../covid19-data/NY/data/dataV1.csv
+"Case Rate per 100,000: Female",False,../../../covid19-data/NY/data/dataV1.csv
+"Death Rate per 100,000: Female",False,../../../covid19-data/NY/data/dataV1.csv
+"Hospitalized Rate per 100,000: Female",False,../../../covid19-data/NY/data/dataV1.csv
+Total Hospitalized,True,../../../covid19-data/NY/data/dataV1.csv
+"Case Rate per 100,000: Male",False,../../../covid19-data/NY/data/dataV1.csv
+"Death Rate per 100,000: Male",False,../../../covid19-data/NY/data/dataV1.csv
+"Hospitalized Rate per 100,000: Male",False,../../../covid19-data/NY/data/dataV1.csv
+Total New Cases,False,../../../covid19-data/NY/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/NY/data/dataV1.csv
+# Cases Age [0-4],False,../../../covid19-data/OK/data/data.csv
+# Cases Age [5-17],False,../../../covid19-data/OK/data/data.csv
+# Cases Age [18-35],False,../../../covid19-data/OK/data/data.csv
+# Cases Age [36-49],False,../../../covid19-data/OK/data/data.csv
+# Cases Age [50-64],False,../../../covid19-data/OK/data/data.csv
+# Cases Age [65+],False,../../../covid19-data/OK/data/data.csv
+Total Cases: Female,False,../../../covid19-data/OK/data/data.csv
+Total Cases: Male,False,../../../covid19-data/OK/data/data.csv
+Total Cases,False,../../../covid19-data/OK/data/data.csv
+Scrape Time,False,../../../covid19-data/OK/data/data.csv
+# Cases Age [0-9],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [10-19],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/OR/data/data.csv
+# Cases Age [Unknown],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [0-9],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [10-19],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [20-29],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [30-39],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [40-49],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [50-59],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [60-69],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [70-79],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [80+],False,../../../covid19-data/OR/data/data.csv
+# Hospitalized Age [Unknown],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [0-9],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [10-19],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [20-29],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [30-39],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [40-49],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [50-59],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [60-69],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [70-79],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [80+],False,../../../covid19-data/OR/data/data.csv
+# Deaths Age [Unknown],False,../../../covid19-data/OR/data/data.csv
+Total Cases: Female,False,../../../covid19-data/OR/data/data.csv
+Total Cases: Male,False,../../../covid19-data/OR/data/data.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/OR/data/data.csv
+Total Deaths: Female,False,../../../covid19-data/OR/data/data.csv
+Total Deaths: Male,False,../../../covid19-data/OR/data/data.csv
+Total Deaths: Unknown Sex,False,../../../covid19-data/OR/data/data.csv
+Total Hospitalized,False,../../../covid19-data/OR/data/data.csv
+Total Not Hospitalized,False,../../../covid19-data/OR/data/data.csv
+Total Unknown Hospitalized,False,../../../covid19-data/OR/data/data.csv
+ICU Beds: Available Adult Beds,False,../../../covid19-data/OR/data/data.csv
+ICU Beds: Total,False,../../../covid19-data/OR/data/data.csv
+Non-ICU Beds: Available Adult Beds,False,../../../covid19-data/OR/data/data.csv
+Non-ICU Beds: Total Adult Beds,False,../../../covid19-data/OR/data/data.csv
+ICU Beds: Available Pediatric NICU/PICU Beds,False,../../../covid19-data/OR/data/data.csv
+ICU Beds: Total Pediatric NICU/PICU Beds,False,../../../covid19-data/OR/data/data.csv
+Non-ICU Beds: Available Pediatric Beds,False,../../../covid19-data/OR/data/data.csv
+ICU Beds: Total Pediatric NICU/PICU Beds,False,../../../covid19-data/OR/data/data.csv
+Ventilators: Available,False,../../../covid19-data/OR/data/data.csv
+Currently Hospitalized: Confirmed and Suspected Cases,False,../../../covid19-data/OR/data/data.csv
+Total Cases: Patients in ICU (Confirmed and Suspected),False,../../../covid19-data/OR/data/data.csv
+Total Cases: On Ventilator (Confirmed and Suspected),False,../../../covid19-data/OR/data/data.csv
+Currently Hospitalized: Confirmed Cases,False,../../../covid19-data/OR/data/data.csv
+Total Cases: Patients in ICU (Confirmed),False,../../../covid19-data/OR/data/data.csv
+Total Cases: On Ventilator (Confirmed),False,../../../covid19-data/OR/data/data.csv
+Scrape Time,False,../../../covid19-data/OR/data/data.csv
+# Cases Age [0-19],False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [20-29],False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [30-39],False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [40-49],False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [50-59],False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [60-69],False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [70-79],False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [80+],False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [Unknown],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [0-19],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [20-29],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [30-39],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [40-49],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [50-59],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [60-69],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [70-79],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [80+],False,../../../covid19-data/OR/data/data_V1.csv
+# Hospitalized Age [Unknown],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [0-19],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [20-29],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [30-39],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [40-49],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [50-59],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [60-69],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [70-79],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [80+],False,../../../covid19-data/OR/data/data_V1.csv
+# Deaths Age [Unknown],False,../../../covid19-data/OR/data/data_V1.csv
+Total Cases: Female,False,../../../covid19-data/OR/data/data_V1.csv
+Total Cases: Male,False,../../../covid19-data/OR/data/data_V1.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/OR/data/data_V1.csv
+Total Deaths: Female,False,../../../covid19-data/OR/data/data_V1.csv
+Total Deaths: Male,False,../../../covid19-data/OR/data/data_V1.csv
+Total Deaths: Unknown Sex,False,../../../covid19-data/OR/data/data_V1.csv
+Total Hospitalized,False,../../../covid19-data/OR/data/data_V1.csv
+Total Not Hospitalized,False,../../../covid19-data/OR/data/data_V1.csv
+Total Unknown Hospitalized,False,../../../covid19-data/OR/data/data_V1.csv
+ICU Beds: Available Adult Beds,False,../../../covid19-data/OR/data/data_V1.csv
+Non-ICU Beds: Available Adult Beds,False,../../../covid19-data/OR/data/data_V1.csv
+Non-ICU: Available Pediatric Beds,False,../../../covid19-data/OR/data/data_V1.csv
+ICU Beds: Available Pediatric Beds,False,../../../covid19-data/OR/data/data_V1.csv
+Ventilators: Available,False,../../../covid19-data/OR/data/data_V1.csv
+Total New Cases,False,../../../covid19-data/OR/data/data_V1.csv
+Total Cases: On Ventilator (Confirmed),False,../../../covid19-data/OR/data/data_V1.csv
+Scrape Time,False,../../../covid19-data/OR/data/data_V1.csv
+# Cases Age [0-19],False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [20-29],False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [30-39],False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [40-49],False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [50-59],False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [60-69],False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [70-79],False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [80+],False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [Unknown],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [0-19],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [20-29],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [30-39],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [40-49],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [50-59],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [60-69],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [70-79],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [80+],False,../../../covid19-data/OR/data/data_V2.csv
+# Hospitalized Age [Unknown],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [0-19],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [20-29],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [30-39],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [40-49],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [50-59],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [60-69],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [70-79],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [80+],False,../../../covid19-data/OR/data/data_V2.csv
+# Deaths Age [Unknown],False,../../../covid19-data/OR/data/data_V2.csv
+Total Cases: Female,False,../../../covid19-data/OR/data/data_V2.csv
+Total Cases: Male,False,../../../covid19-data/OR/data/data_V2.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/OR/data/data_V2.csv
+Total Deaths: Female,False,../../../covid19-data/OR/data/data_V2.csv
+Total Deaths: Male,False,../../../covid19-data/OR/data/data_V2.csv
+Total Deaths: Unknown Sex,False,../../../covid19-data/OR/data/data_V2.csv
+Total Hospitalized,False,../../../covid19-data/OR/data/data_V2.csv
+Total Not Hospitalized,False,../../../covid19-data/OR/data/data_V2.csv
+Total Unknown Hospitalized,False,../../../covid19-data/OR/data/data_V2.csv
+ICU Beds: Available Adult Beds,True,../../../covid19-data/OR/data/data_V2.csv
+ICU Beds: Total,True,../../../covid19-data/OR/data/data_V2.csv
+Non-ICU Beds: Available Adult Beds,True,../../../covid19-data/OR/data/data_V2.csv
+Non-ICU Beds: Total Adult Beds,True,../../../covid19-data/OR/data/data_V2.csv
+ICU Beds: Available Pediatric NICU/PICU Beds,True,../../../covid19-data/OR/data/data_V2.csv
+ICU Beds: Total Pediatric NICU/PICU Beds,True,../../../covid19-data/OR/data/data_V2.csv
+Non-ICU Beds: Available Pediatric Beds,True,../../../covid19-data/OR/data/data_V2.csv
+ICU Beds: Total Pediatric NICU/PICU Beds,True,../../../covid19-data/OR/data/data_V2.csv
+Ventilators: Available,True,../../../covid19-data/OR/data/data_V2.csv
+Total New Cases,True,../../../covid19-data/OR/data/data_V2.csv
+Total Cases: On Ventilator (Confirmed),True,../../../covid19-data/OR/data/data_V2.csv
+Scrape Time,False,../../../covid19-data/OR/data/data_V2.csv
+# Cases Age [0-19],False,../../../covid19-data/OR/data/data_V3.csv
+# Cases Age [20-29],False,../../../covid19-data/OR/data/data_V3.csv
+# Cases Age [30-39],False,../../../covid19-data/OR/data/data_V3.csv
+# Cases Age [40-49],False,../../../covid19-data/OR/data/data_V3.csv
+# Cases Age [50-59],False,../../../covid19-data/OR/data/data_V3.csv
+# Cases Age [60-69],False,../../../covid19-data/OR/data/data_V3.csv
+# Cases Age [70-79],False,../../../covid19-data/OR/data/data_V3.csv
+# Cases Age [80+],False,../../../covid19-data/OR/data/data_V3.csv
+# Cases Age [Unknown],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [0-19],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [20-29],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [30-39],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [40-49],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [50-59],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [60-69],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [70-79],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [80+],False,../../../covid19-data/OR/data/data_V3.csv
+# Hospitalized Age [Unknown],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [0-19],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [20-29],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [30-39],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [40-49],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [50-59],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [60-69],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [70-79],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [80+],False,../../../covid19-data/OR/data/data_V3.csv
+# Deaths Age [Unknown],False,../../../covid19-data/OR/data/data_V3.csv
+Total Cases: Female,False,../../../covid19-data/OR/data/data_V3.csv
+Total Cases: Male,False,../../../covid19-data/OR/data/data_V3.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/OR/data/data_V3.csv
+Total Deaths: Female,False,../../../covid19-data/OR/data/data_V3.csv
+Total Deaths: Male,False,../../../covid19-data/OR/data/data_V3.csv
+Total Deaths: Unknown Sex,False,../../../covid19-data/OR/data/data_V3.csv
+Total Hospitalized,False,../../../covid19-data/OR/data/data_V3.csv
+Total Not Hospitalized,False,../../../covid19-data/OR/data/data_V3.csv
+Total Unknown Hospitalized,False,../../../covid19-data/OR/data/data_V3.csv
+ICU Beds: Available Adult Beds,False,../../../covid19-data/OR/data/data_V3.csv
+ICU Beds: Total,False,../../../covid19-data/OR/data/data_V3.csv
+Non-ICU Beds: Available Adult Beds,False,../../../covid19-data/OR/data/data_V3.csv
+Non-ICU Beds: Total Adult Beds,False,../../../covid19-data/OR/data/data_V3.csv
+ICU Beds: Available Pediatric NICU/PICU Beds,False,../../../covid19-data/OR/data/data_V3.csv
+ICU Beds: Total Pediatric NICU/PICU Beds,False,../../../covid19-data/OR/data/data_V3.csv
+Non-ICU Beds: Available Pediatric Beds,False,../../../covid19-data/OR/data/data_V3.csv
+ICU Beds: Total Pediatric NICU/PICU Beds,False,../../../covid19-data/OR/data/data_V3.csv
+Ventilators: Available,False,../../../covid19-data/OR/data/data_V3.csv
+Currently Hospitalized: Confirmed and Suspected Cases,False,../../../covid19-data/OR/data/data_V3.csv
+Total Cases: Patients in ICU (Confirmed and Suspected),False,../../../covid19-data/OR/data/data_V3.csv
+Total Cases: On Ventilator (Confirmed and Suspected),False,../../../covid19-data/OR/data/data_V3.csv
+Currently Hospitalized: Confirmed Cases,False,../../../covid19-data/OR/data/data_V3.csv
+Total Cases: Patients in ICU (Confirmed),False,../../../covid19-data/OR/data/data_V3.csv
+Total Cases: On Ventilator (Confirmed),False,../../../covid19-data/OR/data/data_V3.csv
+Scrape Time,False,../../../covid19-data/OR/data/data_V3.csv
+State Name,False,../../../covid19-data/PA/data/data.csv
+State,False,../../../covid19-data/PA/data/data.csv
+Report Date,False,../../../covid19-data/PA/data/data.csv
+Total Cases,False,../../../covid19-data/PA/data/data.csv
+Total Tested,False,../../../covid19-data/PA/data/data.csv
+Total Deaths,False,../../../covid19-data/PA/data/data.csv
+# Cases Age [0-4],False,../../../covid19-data/PA/data/data.csv
+# Cases Age [5-12],False,../../../covid19-data/PA/data/data.csv
+# Cases Age [13-18],False,../../../covid19-data/PA/data/data.csv
+# Cases Age [19-24],False,../../../covid19-data/PA/data/data.csv
+# Cases Age [25-49],False,../../../covid19-data/PA/data/data.csv
+# Cases Age [50-64],False,../../../covid19-data/PA/data/data.csv
+# Cases Age [65+],False,../../../covid19-data/PA/data/data.csv
+Total Cases: Female,True,../../../covid19-data/PA/data/data.csv
+Total Cases: Male,True,../../../covid19-data/PA/data/data.csv
+Total Cases: Other Sex,True,../../../covid19-data/PA/data/data.csv
+Total Cases: Unknown Sex,True,../../../covid19-data/PA/data/data.csv
+# Cases Race/Ethnicity: Black,True,../../../covid19-data/PA/data/data.csv
+# Cases Race/Ethnicity: Asian,True,../../../covid19-data/PA/data/data.csv
+# Cases Race/Ethnicity: White,True,../../../covid19-data/PA/data/data.csv
+# Cases Race/Ethnicity: Other,True,../../../covid19-data/PA/data/data.csv
+# Cases Race/Ethnicity: Unknown,True,../../../covid19-data/PA/data/data.csv
+Total Hospitalized,True,../../../covid19-data/PA/data/data.csv
+# Hospitalized Age [0-29],True,../../../covid19-data/PA/data/data.csv
+# Hospitalized Age [30-49],True,../../../covid19-data/PA/data/data.csv
+# Hospitalized Age [50-64],True,../../../covid19-data/PA/data/data.csv
+# Hospitalized Age [65-79],True,../../../covid19-data/PA/data/data.csv
+# Hospitalized Age [80+],True,../../../covid19-data/PA/data/data.csv
+Scrape Time,False,../../../covid19-data/PA/data/data.csv
+# Cases Age [0-9],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [100+],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [10-19],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [80-89],False,../../../covid19-data/RI/data/data.csv
+# Cases Age [90-99],False,../../../covid19-data/RI/data/data.csv
+Total Cases: Female,False,../../../covid19-data/RI/data/data.csv
+Total Cases: Male,False,../../../covid19-data/RI/data/data.csv
+Total Cases: Other Sex,False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [0-9],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [100+],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [10-19],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [20-29],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [30-39],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [40-49],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [50-59],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [60-69],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [70-79],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [80-89],False,../../../covid19-data/RI/data/data.csv
+# Deaths Age [90-99],False,../../../covid19-data/RI/data/data.csv
+Total Deaths: Female,False,../../../covid19-data/RI/data/data.csv
+Total Deaths: Male,False,../../../covid19-data/RI/data/data.csv
+Total Deaths: Other Sex,False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [0-9],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [100+],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [10-19],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [20-29],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [30-39],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [40-49],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [50-59],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [60-69],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [70-79],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [80-89],False,../../../covid19-data/RI/data/data.csv
+# Hospitalized Age [90-99],False,../../../covid19-data/RI/data/data.csv
+Total Hospitalized: Female,False,../../../covid19-data/RI/data/data.csv
+Total Hospitalized: Male,False,../../../covid19-data/RI/data/data.csv
+Total Hospitalized: Other Sex,False,../../../covid19-data/RI/data/data.csv
+Scrape Time,False,../../../covid19-data/RI/data/data.csv
+# Cases Age [0-19],False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [20-29],False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [30-39],False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [40-49],False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [50-59],False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [60-69],False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [70-79],False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [80-89],False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [90+],False,../../../covid19-data/RI/data/dataV1.csv
+Total Cases: Female,False,../../../covid19-data/RI/data/dataV1.csv
+Total Cases: Male,False,../../../covid19-data/RI/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/RI/data/dataV1.csv
+Report Time: Age Cases,False,../../../covid19-data/RI/data/dataV1.csv
+Report Date Gender,False,../../../covid19-data/RI/data/dataV1.csv
+# Cases Age [0-9],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [100+],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [10-19],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [20-29],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [30-39],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [40-49],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [50-59],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [60-69],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [70-79],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [80-89],False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [90-99],False,../../../covid19-data/RI/data/dataV2.csv
+Total Cases: Female,False,../../../covid19-data/RI/data/dataV2.csv
+Total Cases: Male,False,../../../covid19-data/RI/data/dataV2.csv
+Scrape Time,False,../../../covid19-data/RI/data/dataV2.csv
+Report Time: Age Cases,False,../../../covid19-data/RI/data/dataV2.csv
+Report Date Gender,False,../../../covid19-data/RI/data/dataV2.csv
+# Cases Age [0-9],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [100+],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [10-19],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [20-29],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [30-39],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [40-49],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [50-59],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [60-69],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [70-79],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [80-89],False,../../../covid19-data/RI/data/dataV3.csv
+# Cases Age [90-99],False,../../../covid19-data/RI/data/dataV3.csv
+Total Cases: Female,False,../../../covid19-data/RI/data/dataV3.csv
+Total Cases: Male,False,../../../covid19-data/RI/data/dataV3.csv
+Total Cases: Other Sex,False,../../../covid19-data/RI/data/dataV3.csv
+Scrape Time,False,../../../covid19-data/RI/data/dataV3.csv
+Report Time: Age Cases,False,../../../covid19-data/RI/data/dataV3.csv
+Report Date Gender,False,../../../covid19-data/RI/data/dataV3.csv
+Total Active Cases,False,../../../covid19-data/SD/data/data.csv
+Total Hospitalized,False,../../../covid19-data/SD/data/data.csv
+Total Recovered,False,../../../covid19-data/SD/data/data.csv
+Total Cases: Positive,False,../../../covid19-data/SD/data/data.csv
+Total Cases: Negative,False,../../../covid19-data/SD/data/data.csv
+Total Ever Hospitalized,False,../../../covid19-data/SD/data/data.csv
+Total Deaths,False,../../../covid19-data/SD/data/data.csv
+# Cases Age [0-19],False,../../../covid19-data/SD/data/data.csv
+# Deaths Age [0-19],False,../../../covid19-data/SD/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/SD/data/data.csv
+# Deaths Age [20-29],False,../../../covid19-data/SD/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/SD/data/data.csv
+# Deaths Age [30-39],False,../../../covid19-data/SD/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/SD/data/data.csv
+# Deaths Age [40-49],False,../../../covid19-data/SD/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/SD/data/data.csv
+# Deaths Age [50-59],False,../../../covid19-data/SD/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/SD/data/data.csv
+# Deaths Age [60-69],False,../../../covid19-data/SD/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/SD/data/data.csv
+# Deaths Age [70-79],False,../../../covid19-data/SD/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/SD/data/data.csv
+# Deaths Age [80+],False,../../../covid19-data/SD/data/data.csv
+Total Cases: Female,False,../../../covid19-data/SD/data/data.csv
+Total Deaths: Female,False,../../../covid19-data/SD/data/data.csv
+Total Cases: Male,False,../../../covid19-data/SD/data/data.csv
+Total Deaths: Male,False,../../../covid19-data/SD/data/data.csv
+"# Cases Race/Ethnicity: Asian, Non-Hispanic",False,../../../covid19-data/SD/data/data.csv
+"% Cases Race/Ethnicity: Asian, Non-Hispanic",False,../../../covid19-data/SD/data/data.csv
+"# Cases Race/Ethnicity: Black, Non-Hispanic",False,../../../covid19-data/SD/data/data.csv
+"% Cases Race/Ethnicity: Black, Non-Hispanic",False,../../../covid19-data/SD/data/data.csv
+# Cases Race/Ethnicity: Hispanic,False,../../../covid19-data/SD/data/data.csv
+% Cases Race/Ethnicity: Hispanic,False,../../../covid19-data/SD/data/data.csv
+"# Cases Race/Ethnicity: Native American, Non-Hispanic",False,../../../covid19-data/SD/data/data.csv
+"% Cases Race/Ethnicity: Native American, Non-Hispanic",False,../../../covid19-data/SD/data/data.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/SD/data/data.csv
+% Cases Race/Ethnicity: Other,False,../../../covid19-data/SD/data/data.csv
+"# Cases Race/Ethnicity: White, Non-Hispanic",False,../../../covid19-data/SD/data/data.csv
+"% Cases Race/Ethnicity: White, Non-Hispanic",False,../../../covid19-data/SD/data/data.csv
+Scrape Time,False,../../../covid19-data/SD/data/data.csv
+# Cases Age [0-19],False,../../../covid19-data/SD/data/data_V1.csv
+# Cases Age [20-29],False,../../../covid19-data/SD/data/data_V1.csv
+# Cases Age [30-39],False,../../../covid19-data/SD/data/data_V1.csv
+# Cases Age [40-49],False,../../../covid19-data/SD/data/data_V1.csv
+# Cases Age [50-59],False,../../../covid19-data/SD/data/data_V1.csv
+# Cases Age [60-69],False,../../../covid19-data/SD/data/data_V1.csv
+# Cases Age [70-79],False,../../../covid19-data/SD/data/data_V1.csv
+# Cases Age [80+],False,../../../covid19-data/SD/data/data_V1.csv
+Total Cases: Male,False,../../../covid19-data/SD/data/data_V1.csv
+Total Cases: Female,False,../../../covid19-data/SD/data/data_V1.csv
+Scrape Time,False,../../../covid19-data/SD/data/data_V1.csv
+# Cases Age [0-19],False,../../../covid19-data/SD/data/data_V2.csv
+# Cases Age [20-29],False,../../../covid19-data/SD/data/data_V2.csv
+# Cases Age [30-39],False,../../../covid19-data/SD/data/data_V2.csv
+# Cases Age [40-49],False,../../../covid19-data/SD/data/data_V2.csv
+# Cases Age [50-59],False,../../../covid19-data/SD/data/data_V2.csv
+# Cases Age [60-69],False,../../../covid19-data/SD/data/data_V2.csv
+# Cases Age [70-79],False,../../../covid19-data/SD/data/data_V2.csv
+# Cases Age [80+],False,../../../covid19-data/SD/data/data_V2.csv
+# Deaths Age [0-19],False,../../../covid19-data/SD/data/data_V2.csv
+# Deaths Age [20-29],False,../../../covid19-data/SD/data/data_V2.csv
+# Deaths Age [30-39],False,../../../covid19-data/SD/data/data_V2.csv
+# Deaths Age [40-49],False,../../../covid19-data/SD/data/data_V2.csv
+# Deaths Age [50-59],False,../../../covid19-data/SD/data/data_V2.csv
+# Deaths Age [60-69],False,../../../covid19-data/SD/data/data_V2.csv
+# Deaths Age [70-79],False,../../../covid19-data/SD/data/data_V2.csv
+# Deaths Age [80+],False,../../../covid19-data/SD/data/data_V2.csv
+Total Cases: Male,False,../../../covid19-data/SD/data/data_V2.csv
+Total Cases: Female,False,../../../covid19-data/SD/data/data_V2.csv
+Total Deaths: Female,False,../../../covid19-data/SD/data/data_V2.csv
+Scrape Time,False,../../../covid19-data/SD/data/data_V2.csv
+Total Active Cases,False,../../../covid19-data/SD/data/data_V3.csv
+Total Hospitalized,False,../../../covid19-data/SD/data/data_V3.csv
+Total Recovered,False,../../../covid19-data/SD/data/data_V3.csv
+Total Cases: Positive,False,../../../covid19-data/SD/data/data_V3.csv
+Total Cases: Negative,False,../../../covid19-data/SD/data/data_V3.csv
+Total Ever Hospitalized,False,../../../covid19-data/SD/data/data_V3.csv
+Total Deaths,False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Age [0-19],False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Age [20-29],False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Age [30-39],False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Age [40-49],False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Age [50-59],False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Age [60-69],False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Age [70-79],False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Age [80+],False,../../../covid19-data/SD/data/data_V3.csv
+# Deaths Age [0-19],False,../../../covid19-data/SD/data/data_V3.csv
+# Deaths Age [20-29],False,../../../covid19-data/SD/data/data_V3.csv
+# Deaths Age [30-39],False,../../../covid19-data/SD/data/data_V3.csv
+# Deaths Age [40-49],False,../../../covid19-data/SD/data/data_V3.csv
+# Deaths Age [50-59],False,../../../covid19-data/SD/data/data_V3.csv
+# Deaths Age [60-69],False,../../../covid19-data/SD/data/data_V3.csv
+# Deaths Age [70-79],False,../../../covid19-data/SD/data/data_V3.csv
+# Deaths Age [80+],False,../../../covid19-data/SD/data/data_V3.csv
+Total Cases: Female,False,../../../covid19-data/SD/data/data_V3.csv
+Total Cases: Male,False,../../../covid19-data/SD/data/data_V3.csv
+Total Deaths: Female,False,../../../covid19-data/SD/data/data_V3.csv
+Total Deaths: Male,False,../../../covid19-data/SD/data/data_V3.csv
+"# Cases Race/Ethnicity: Asian, Non-Hispanic",False,../../../covid19-data/SD/data/data_V3.csv
+"# Cases Race/Ethnicity: Black, Non-Hispanic",False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Race/Ethnicity: Hispanic,False,../../../covid19-data/SD/data/data_V3.csv
+"# Cases Race/Ethnicity: Native American, Non-Hispanic",False,../../../covid19-data/SD/data/data_V3.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/SD/data/data_V3.csv
+"# Cases Race/Ethnicity: White, Non-Hispanic",False,../../../covid19-data/SD/data/data_V3.csv
+"% Cases Race/Ethnicity: Asian, Non-Hispanic",False,../../../covid19-data/SD/data/data_V3.csv
+"% Cases Race/Ethnicity: Black, Non-Hispanic",False,../../../covid19-data/SD/data/data_V3.csv
+% Cases Race/Ethnicity: Hispanic,False,../../../covid19-data/SD/data/data_V3.csv
+"% Cases Race/Ethnicity: Native American, Non-Hispanic",False,../../../covid19-data/SD/data/data_V3.csv
+% Cases Race/Ethnicity: Other,False,../../../covid19-data/SD/data/data_V3.csv
+"% Cases Race/Ethnicity: White, Non-Hispanic",False,../../../covid19-data/SD/data/data_V3.csv
+Scrape Time,False,../../../covid19-data/SD/data/data_V3.csv
+Report Date,False,../../../covid19-data/SouthKorea/data/data.csv
+Total Cases,False,../../../covid19-data/SouthKorea/data/data.csv
+Total Active Cases,False,../../../covid19-data/SouthKorea/data/data.csv
+Total Deaths,False,../../../covid19-data/SouthKorea/data/data.csv
+# Cases Age [0-9],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [0-9],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Cases Age [10-19],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [10-19],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Cases Age [20-29],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [20-29],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Cases Age [30-39],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [30-39],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Cases Age [40-49],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [40-49],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Cases Age [50-59],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [50-59],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Cases Age [60-69],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [60-69],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Cases Age [70-79],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [70-79],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Cases Age [80-89],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+# Deaths Age [80+],False,../../../covid19-data/SouthKorea/data/dataV1.csv
+Report Date,False,../../../covid19-data/SouthKorea/data/dataV1.csv
+Total Cases: Female,False,../../../covid19-data/SouthKorea/data/dataV1.csv
+Total Deaths: Female,False,../../../covid19-data/SouthKorea/data/dataV1.csv
+Total Cases: Male,False,../../../covid19-data/SouthKorea/data/dataV1.csv
+Total Deaths: Male,False,../../../covid19-data/SouthKorea/data/dataV1.csv
+Age Category,False,../../../covid19-data/SouthKoreaCensus/data/data.csv
+Male Population,False,../../../covid19-data/SouthKoreaCensus/data/data.csv
+Female Population,False,../../../covid19-data/SouthKoreaCensus/data/data.csv
+# Cases Age [0-10],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [11-20],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [21-30],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [31-40],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [41-50],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [51-60],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [61-70],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [71-80],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/TN/data/data.csv
+# Cases Age [Unknown],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [0-10],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [11-20],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [21-30],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [31-40],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [41-50],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [51-60],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [61-70],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [71-80],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [80+],False,../../../covid19-data/TN/data/data.csv
+# Deaths Age [Unknown],False,../../../covid19-data/TN/data/data.csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/TN/data/data.csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/TN/data/data.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/TN/data/data.csv
+# Cases Race/Ethnicity: Asian,False,../../../covid19-data/TN/data/data.csv
+# Cases Race/Ethnicity: Unknown,False,../../../covid19-data/TN/data/data.csv
+Total Cases: Female,False,../../../covid19-data/TN/data/data.csv
+Total Cases: Male,False,../../../covid19-data/TN/data/data.csv
+Total Cases: Unknown Sex,False,../../../covid19-data/TN/data/data.csv
+Total Hospitalized,False,../../../covid19-data/TN/data/data.csv
+Scrape Time,False,../../../covid19-data/TN/data/data.csv
+# Cases Age [0-10],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [11-20],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [21-30],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [31-40],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [41-50],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [51-60],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [61-70],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [71-80],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [80+],False,../../../covid19-data/TN/data/data_V1.csv
+# Cases Age [Unknown],False,../../../covid19-data/TN/data/data_V1.csv
+Total Hospitalized,False,../../../covid19-data/TN/data/data_V1.csv
+Total Deaths,False,../../../covid19-data/TN/data/data_V1.csv
+Scrape Time,False,../../../covid19-data/TN/data/data_V1.csv
+State Name,False,../../../covid19-data/TX/data/data.csv
+State,False,../../../covid19-data/TX/data/data.csv
+Report Date,False,../../../covid19-data/TX/data/data.csv
+Total Cases,False,../../../covid19-data/TX/data/data.csv
+Total Deaths,False,../../../covid19-data/TX/data/data.csv
+Total Tested,False,../../../covid19-data/TX/data/data.csv
+Total Cases: Male,True,../../../covid19-data/TX/data/data.csv
+Total Cases: Female,True,../../../covid19-data/TX/data/data.csv
+Total Cases: Unknown Sex,True,../../../covid19-data/TX/data/data.csv
+# Cases Age [0-1],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [1-9],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [10-19],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [20-29],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [30-39],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [40-49],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [50-59],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [60-64],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [65-69],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [70-74],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [75-79],True,../../../covid19-data/TX/data/data.csv
+# Cases Age [80+],True,../../../covid19-data/TX/data/data.csv
+# Cases Race/Ethnicity: Asian,True,../../../covid19-data/TX/data/data.csv
+# Cases Race/Ethnicity: Black,True,../../../covid19-data/TX/data/data.csv
+# Cases Race/Ethnicity: Hispanic,True,../../../covid19-data/TX/data/data.csv
+# Cases Race/Ethnicity: Other,True,../../../covid19-data/TX/data/data.csv
+# Cases Race/Ethnicity: Unknown,True,../../../covid19-data/TX/data/data.csv
+# Cases Race/Ethnicity: White,True,../../../covid19-data/TX/data/data.csv
+Scrape Time,False,../../../covid19-data/TX/data/data.csv
+Total Deaths: Female,True,../../../covid19-data/TX/data/data.csv
+Total Deaths: Male,True,../../../covid19-data/TX/data/data.csv
+Total Deaths: Unknown,True,../../../covid19-data/TX/data/data.csv
+# Cases Age [Unknown],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [0-1],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [1-9],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [10-19],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [20-29],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [30-39],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [40-49],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [50-59],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [60-64],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [65-69],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [70-74],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [75-79],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [80+],True,../../../covid19-data/TX/data/data.csv
+# Deaths Age [Unknown],True,../../../covid19-data/TX/data/data.csv
+# Deaths Race/Ethnicity: Asian,True,../../../covid19-data/TX/data/data.csv
+# Deaths Race/Ethnicity: Black,True,../../../covid19-data/TX/data/data.csv
+# Deaths Race/Ethnicity: Hispanic,True,../../../covid19-data/TX/data/data.csv
+# Deaths Race/Ethnicity: Other,True,../../../covid19-data/TX/data/data.csv
+# Deaths Race/Ethnicity: White,True,../../../covid19-data/TX/data/data.csv
+# Deaths Race/Ethnicity: Unknown,True,../../../covid19-data/TX/data/data.csv
+Female Population,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 10 to 14 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 15 to 17 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 18 and 19 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 20 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 21 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 22 to 24 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 25 to 29 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 30 to 34 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 35 to 39 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 40 to 44 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 45 to 49 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 5 to 9 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 50 to 54 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 55 to 59 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 60 and 61 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 62 to 64 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 65 and 66 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 67 to 69 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 70 to 74 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 75 to 79 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 80 to 84 years,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: 85 years and over,False,../../../covid19-data/US_Census/data/data.csv
+Female Population: Under 5 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 10 to 14 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 15 to 17 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 18 and 19 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 20 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 21 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 22 to 24 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 25 to 29 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 30 to 34 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 35 to 39 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 40 to 44 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 45 to 49 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 5 to 9 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 50 to 54 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 55 to 59 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 60 and 61 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 62 to 64 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 65 and 66 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 67 to 69 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 70 to 74 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 75 to 79 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 80 to 84 years,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: 85 years and over,False,../../../covid19-data/US_Census/data/data.csv
+Male Population: Under 5 years,False,../../../covid19-data/US_Census/data/data.csv
+Total Population,False,../../../covid19-data/US_Census/data/data.csv
+FIPS,False,../../../covid19-data/US_Census/data/data.csv
+State Name,False,../../../covid19-data/US_Census/data/data.csv
+State Name,False,../../../covid19-data/UT/data/data.csv
+State,False,../../../covid19-data/UT/data/data.csv
+Report Date,False,../../../covid19-data/UT/data/data.csv
+Total Cases,False,../../../covid19-data/UT/data/data.csv
+Total Tested,False,../../../covid19-data/UT/data/data.csv
+Total Deaths,False,../../../covid19-data/UT/data/data.csv
+Total Hospitalized,False,../../../covid19-data/UT/data/data.csv
+# Hospitalized Age [0-1],False,../../../covid19-data/UT/data/data.csv
+# Hospitalized Age [1-14],False,../../../covid19-data/UT/data/data.csv
+# Hospitalized Age [15-24],False,../../../covid19-data/UT/data/data.csv
+# Hospitalized Age [25-44],False,../../../covid19-data/UT/data/data.csv
+# Hospitalized Age [45-64],False,../../../covid19-data/UT/data/data.csv
+# Hospitalized Age [65-84],False,../../../covid19-data/UT/data/data.csv
+# Hospitalized Age [85+],False,../../../covid19-data/UT/data/data.csv
+Total Pending Hospitalized,False,../../../covid19-data/UT/data/data.csv
+# Pending Hospitalized Age [0-1],False,../../../covid19-data/UT/data/data.csv
+# Pending Hospitalized Age [1-14],False,../../../covid19-data/UT/data/data.csv
+# Pending Hospitalized Age [15-24],False,../../../covid19-data/UT/data/data.csv
+# Pending Hospitalized Age [24-44],False,../../../covid19-data/UT/data/data.csv
+# Pending Hospitalized Age [45-64],False,../../../covid19-data/UT/data/data.csv
+# Pending Hospitalized Age [65-84],False,../../../covid19-data/UT/data/data.csv
+# Pending Hospitalized Age [85+],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [0-1],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [1-14],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [15-24],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [25-44],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [45-64],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [65-84],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [85+],False,../../../covid19-data/UT/data/data.csv
+Total Cases: Female,False,../../../covid19-data/UT/data/data.csv
+Total Cases: Male,False,../../../covid19-data/UT/data/data.csv
+# Cases Age [0-1],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [1-14],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [15-24],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [25-44],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [45-64],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [65-84],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [85+],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [0-1],True,../../../covid19-data/UT/data/data.csv
+# Cases Age [1-14],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [15-24],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [25-44],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [45-64],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [65-84],False,../../../covid19-data/UT/data/data.csv
+# Cases Age [85+],False,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: American Indian/Alaska Native,True,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: Asian,True,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: Black,True,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: Hispanic or Latino,True,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: Native Hawaiian/Pacific Islander,True,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: White,True,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: Other,True,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: Unknown,True,../../../covid19-data/UT/data/data.csv
+# Cases Race/Ethnicity: Statewide,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: American Indian/Alaska Native,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: Asian,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: Black/African American,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: Hispanic or Latino,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: Native Hawaiian/Pacific Islander,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: White,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: Other race,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: Unknown,True,../../../covid19-data/UT/data/data.csv
+# Hospitalized Race/Ethnicity: Statewide,True,../../../covid19-data/UT/data/data.csv
+Scrape Time,False,../../../covid19-data/UT/data/data.csv
+# Cases Age [0-9],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [10-19],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [20-29],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [30-39],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [40-49],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [50-59],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [60-69],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [70-79],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [80+],False,../../../covid19-data/VA/data/data.csv
+# Cases Age [Unknown],True,../../../covid19-data/VA/data/data.csv
+Total Cases: Female,False,../../../covid19-data/VA/data/data.csv
+Total Cases: Male,False,../../../covid19-data/VA/data/data.csv
+Total Cases: Other Sex,False,../../../covid19-data/VA/data/data.csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/VA/data/data.csv
+# Cases Race/Ethnicity: Unknown,False,../../../covid19-data/VA/data/data.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/VA/data/data.csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/VA/data/data.csv
+Report Date,False,../../../covid19-data/VA/data/data.csv
+Scrape Time,False,../../../covid19-data/VA/data/data.csv
+# Cases Age [0-9],False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Age [10-19],False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Age [20-29],False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Age [30-39],False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Age [40-49],False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Age [50-59],False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Age [60-69],False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Age [70-79],False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Age [80+],False,../../../covid19-data/VA/data/data_V1.csv
+Total Cases: Female,False,../../../covid19-data/VA/data/data_V1.csv
+Total Cases: Male,False,../../../covid19-data/VA/data/data_V1.csv
+Total Cases: Other Sex,False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Race/Ethnicity: Black,False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Race/Ethnicity: Unknown,False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Race/Ethnicity: Other,False,../../../covid19-data/VA/data/data_V1.csv
+# Cases Race/Ethnicity: White,False,../../../covid19-data/VA/data/data_V1.csv
+Report Date,False,../../../covid19-data/VA/data/data_V1.csv
+Scrape Time,False,../../../covid19-data/VA/data/data_V1.csv
+Report Date,False,../../../covid19-data/VA/data/data_age.csv
+Age Category,False,../../../covid19-data/VA/data/data_age.csv
+Total Cases,False,../../../covid19-data/VA/data/data_age.csv
+Total Hospitalized,False,../../../covid19-data/VA/data/data_age.csv
+Total Deaths,False,../../../covid19-data/VA/data/data_age.csv
+Health District Name,False,../../../covid19-data/VA/data/data_age.csv
+Scrape Time,False,../../../covid19-data/VA/data/data_age.csv
+Report Date,False,../../../covid19-data/VA/data/data_conf.csv
+Case Status,False,../../../covid19-data/VA/data/data_conf.csv
+Total Cases,False,../../../covid19-data/VA/data/data_conf.csv
+Total Hospitalized,False,../../../covid19-data/VA/data/data_conf.csv
+Total Deaths,False,../../../covid19-data/VA/data/data_conf.csv
+Scrape Time,False,../../../covid19-data/VA/data/data_conf.csv
+Report Date,False,../../../covid19-data/VA/data/data_dist.csv
+Health District Name,False,../../../covid19-data/VA/data/data_dist.csv
+Total Cases,False,../../../covid19-data/VA/data/data_dist.csv
+Total Hospitalized,False,../../../covid19-data/VA/data/data_dist.csv
+Total Deaths,False,../../../covid19-data/VA/data/data_dist.csv
+Scrape Time,False,../../../covid19-data/VA/data/data_dist.csv
+Report Date,False,../../../covid19-data/VA/data/data_ethnicity.csv
+Health District Name,False,../../../covid19-data/VA/data/data_ethnicity.csv
+Ethnicity Category,False,../../../covid19-data/VA/data/data_ethnicity.csv
+Total Cases,False,../../../covid19-data/VA/data/data_ethnicity.csv
+Total Hospitalized,False,../../../covid19-data/VA/data/data_ethnicity.csv
+Total Deaths,False,../../../covid19-data/VA/data/data_ethnicity.csv
+Scrape Time,False,../../../covid19-data/VA/data/data_ethnicity.csv
+Report Date,False,../../../covid19-data/VA/data/data_locality.csv
+FIPS,False,../../../covid19-data/VA/data/data_locality.csv
+County Name,False,../../../covid19-data/VA/data/data_locality.csv
+Health District Name,False,../../../covid19-data/VA/data/data_locality.csv
+Total Cases,False,../../../covid19-data/VA/data/data_locality.csv
+Total Hospitalized,False,../../../covid19-data/VA/data/data_locality.csv
+Total Deaths,False,../../../covid19-data/VA/data/data_locality.csv
+Scrape Time,False,../../../covid19-data/VA/data/data_locality.csv
+Report Date,False,../../../covid19-data/VA/data/data_race.csv
+Race Category,False,../../../covid19-data/VA/data/data_race.csv
+Total Cases,False,../../../covid19-data/VA/data/data_race.csv
+Total Hospitalized,False,../../../covid19-data/VA/data/data_race.csv
+Total Deaths,False,../../../covid19-data/VA/data/data_race.csv
+Health District Name,False,../../../covid19-data/VA/data/data_race.csv
+Scrape Time,False,../../../covid19-data/VA/data/data_race.csv
+Report Date,False,../../../covid19-data/VA/data/data_sex.csv
+Sex Category,False,../../../covid19-data/VA/data/data_sex.csv
+Total Cases,False,../../../covid19-data/VA/data/data_sex.csv
+Total Hospitalized,False,../../../covid19-data/VA/data/data_sex.csv
+Total Deaths,False,../../../covid19-data/VA/data/data_sex.csv
+Health District Name,False,../../../covid19-data/VA/data/data_sex.csv
+Scrape Time,False,../../../covid19-data/VA/data/data_sex.csv
+# Cases Age [0-19],False,../../../covid19-data/WA/data/data_state.csv
+# Cases Age [20-39],False,../../../covid19-data/WA/data/data_state.csv
+# Cases Age [40-59],False,../../../covid19-data/WA/data/data_state.csv
+# Cases Age [60-79],False,../../../covid19-data/WA/data/data_state.csv
+# Cases Age [80+],False,../../../covid19-data/WA/data/data_state.csv
+% Total Cases: Female,False,../../../covid19-data/WA/data/data_state.csv
+% Total Cases: Male,False,../../../covid19-data/WA/data/data_state.csv
+% Total Cases: Unknown Sex,False,../../../covid19-data/WA/data/data_state.csv
+Total Cases: Unknown County,False,../../../covid19-data/WA/data/data_state.csv
+Total Deaths: Unknown County,False,../../../covid19-data/WA/data/data_state.csv
+Total Deaths: Unknown DOD,False,../../../covid19-data/WA/data/data_state.csv
+Scrape Time,False,../../../covid19-data/WA/data/data_state.csv
+Total Cases,False,../../../covid19-data/WA/data/data_state.csv
+Total Deaths,False,../../../covid19-data/WA/data/data_state.csv
+Report Time,False,../../../covid19-data/WA/data/data_state.csv
+Total Cases: By Onset Date,True,../../../covid19-data/WA/data/data_ts.csv
+Total Cases: By Report Date,True,../../../covid19-data/WA/data/data_ts.csv
+Total Deaths: By Onset Date,True,../../../covid19-data/WA/data/data_ts.csv
+Total Deaths: By DOD,True,../../../covid19-data/WA/data/data_ts.csv
+Total Tested: Positive by Collect Date,True,../../../covid19-data/WA/data/data_ts.csv
+Total Tested: Negative by Collect Date,True,../../../covid19-data/WA/data/data_ts.csv
+Report Date,False,../../../covid19-data/WA/data/data_ts.csv
+Updated Date,False,../../../covid19-data/WA/data/data_ts.csv
+Scrape Time,False,../../../covid19-data/WA/data/data_ts.csv
+Total Tested: Commercial Lab,True,../../../covid19-data/WY/data/data.csv
+County Count,False,../../../covid19-data/WY/data/data.csv
+Total Deaths,False,../../../covid19-data/WY/data/data.csv
+% Cases Age [0-17],False,../../../covid19-data/WY/data/data.csv
+% Cases Age [18-29],False,../../../covid19-data/WY/data/data.csv
+% Cases Age [30-39],False,../../../covid19-data/WY/data/data.csv
+% Cases Age [40-49],False,../../../covid19-data/WY/data/data.csv
+% Cases Age [50-59],False,../../../covid19-data/WY/data/data.csv
+% Cases Age [60-69],False,../../../covid19-data/WY/data/data.csv
+% Cases Age [70-79],False,../../../covid19-data/WY/data/data.csv
+% Cases Age [80+],False,../../../covid19-data/WY/data/data.csv
+% Cases Exposed: Community Acquired,False,../../../covid19-data/WY/data/data.csv
+% Exposure: Contact with a known COVID Case,False,../../../covid19-data/WY/data/data.csv
+% Cases Exposed: Domestic Travel,False,../../../covid19-data/WY/data/data.csv
+% Cases Exposed: InternationalTravel,False,../../../covid19-data/WY/data/data.csv
+% Cases Exposed: Other,False,../../../covid19-data/WY/data/data.csv
+% Cases Exposed: Pending,False,../../../covid19-data/WY/data/data.csv
+% Cases Exposed: Unknown,False,../../../covid19-data/WY/data/data.csv
+% Total Cases: Female,False,../../../covid19-data/WY/data/data.csv
+% Total Cases: Male,False,../../../covid19-data/WY/data/data.csv
+% Not Hospitalized,False,../../../covid19-data/WY/data/data.csv
+% Unknown Hospitalized,False,../../../covid19-data/WY/data/data.csv
+% Hospitalized,False,../../../covid19-data/WY/data/data.csv
+% Symptom: AbdominalPain,False,../../../covid19-data/WY/data/data.csv
+% Symptom: Chills,False,../../../covid19-data/WY/data/data.csv
+% Symptom: Cough,False,../../../covid19-data/WY/data/data.csv
+% Symptom: Diarrhea,False,../../../covid19-data/WY/data/data.csv
+% Symptom: Fatigue,False,../../../covid19-data/WY/data/data.csv
+% Symptom: Fever,False,../../../covid19-data/WY/data/data.csv
+% Symptom: Headache,False,../../../covid19-data/WY/data/data.csv
+% Symptom: LossOfSmell/Taste,False,../../../covid19-data/WY/data/data.csv
+% Symptom: MuscleAches,False,../../../covid19-data/WY/data/data.csv
+% Symptom: NauseaOrVomiting,False,../../../covid19-data/WY/data/data.csv
+% Symptom: None,False,../../../covid19-data/WY/data/data.csv
+% Symptom: RunnyNose,False,../../../covid19-data/WY/data/data.csv
+% Symptom: ShortnessOfBreath,False,../../../covid19-data/WY/data/data.csv
+% Symptom: SoreThroat,False,../../../covid19-data/WY/data/data.csv
+% Symptom: No,False,../../../covid19-data/WY/data/data.csv
+% Symptom: Unknown,False,../../../covid19-data/WY/data/data.csv
+% Symptom: Yes,False,../../../covid19-data/WY/data/data.csv
+Total Recovered,False,../../../covid19-data/WY/data/data.csv
+Scrape Time,False,../../../covid19-data/WY/data/data.csv
+Total Tested: % Positive,False,../../../covid19-data/WY/data/data.csv
+% Tested Age [0-18],False,../../../covid19-data/WY/data/data.csv
+% Tested Age [19-29],False,../../../covid19-data/WY/data/data.csv
+% Tested Age [30-39],False,../../../covid19-data/WY/data/data.csv
+% Tested Age [40-49],False,../../../covid19-data/WY/data/data.csv
+% Tested Age [50-59],False,../../../covid19-data/WY/data/data.csv
+% Tested Age [60-69],False,../../../covid19-data/WY/data/data.csv
+% Tested Age [70-79],False,../../../covid19-data/WY/data/data.csv
+% Tested Age [80+],False,../../../covid19-data/WY/data/data.csv
+Total Cases,False,../../../covid19-data/WY/data/data.csv
+Total Cases: Probable,False,../../../covid19-data/WY/data/data.csv
+Total Tested: WPHL Lab,True,../../../covid19-data/WY/data/data.csv
+Unknown,True,../../../covid19-data/WY/data/data.csv
+Commercial Lab Tested: Positive,False,../../../covid19-data/WY/data/dataV1.csv
+Total Tested: Commercial Lab,False,../../../covid19-data/WY/data/dataV1.csv
+County Count,False,../../../covid19-data/WY/data/dataV1.csv
+Total Deaths,False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Age [0-17],False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Age [18-29],False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Age [30-39],False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Age [40-49],False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Age [50-59],False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Age [60-69],False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Age [70-79],False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Age [80+],False,../../../covid19-data/WY/data/dataV1.csv
+% Exposure: Contact with a known COVID Case,False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Exposed: Domestic Travel,False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Exposed: InternationalTravel,False,../../../covid19-data/WY/data/dataV1.csv
+% Cases Exposed: Unknown,False,../../../covid19-data/WY/data/dataV1.csv
+% Total Cases: Female,False,../../../covid19-data/WY/data/dataV1.csv
+% Total Cases: Male,False,../../../covid19-data/WY/data/dataV1.csv
+% Not Hospitalized,False,../../../covid19-data/WY/data/dataV1.csv
+% Unknown Hospitalized,False,../../../covid19-data/WY/data/dataV1.csv
+% Hospitalized,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: AbdominalPain,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: Chills,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: Cough,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: Diarrhea,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: Fever,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: Headache,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: MuscleAches,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: NauseaOrVomiting,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: RunnyNose,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: ShortnessOfBreath,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: SoreThroat,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: No,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: Unknown,False,../../../covid19-data/WY/data/dataV1.csv
+% Symptom: Yes,False,../../../covid19-data/WY/data/dataV1.csv
+Total Recovered,False,../../../covid19-data/WY/data/dataV1.csv
+Scrape Time,False,../../../covid19-data/WY/data/dataV1.csv
+Total Cases,False,../../../covid19-data/WY/data/dataV1.csv
+WPHL Tested: Positive,False,../../../covid19-data/WY/data/dataV1.csv
+Total Tested: WPHL Lab,False,../../../covid19-data/WY/data/dataV1.csv
+Commercial Lab Tested: Positive,False,../../../covid19-data/WY/data/dataV2.csv
+Total Tested: Commercial Lab,False,../../../covid19-data/WY/data/dataV2.csv
+County Count,False,../../../covid19-data/WY/data/dataV2.csv
+Total Deaths,False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Age [0-17],False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Age [18-29],False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Age [30-39],False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Age [40-49],False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Age [50-59],False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Age [60-69],False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Age [70-79],False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Age [80+],False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Exposed: Community Acquired,False,../../../covid19-data/WY/data/dataV2.csv
+% Exposure: Contact with a known COVID Case,False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Exposed: Domestic Travel,False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Exposed: InternationalTravel,False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Exposed: Pending,False,../../../covid19-data/WY/data/dataV2.csv
+% Cases Exposed: Unknown,False,../../../covid19-data/WY/data/dataV2.csv
+% Total Cases: Female,False,../../../covid19-data/WY/data/dataV2.csv
+% Total Cases: Male,False,../../../covid19-data/WY/data/dataV2.csv
+% Not Hospitalized,False,../../../covid19-data/WY/data/dataV2.csv
+% Unknown Hospitalized,False,../../../covid19-data/WY/data/dataV2.csv
+% Hospitalized,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: AbdominalPain,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: Chills,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: Cough,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: Diarrhea,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: Fever,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: Headache,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: MuscleAches,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: NauseaOrVomiting,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: RunnyNose,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: ShortnessOfBreath,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: SoreThroat,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: No,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: Unknown,False,../../../covid19-data/WY/data/dataV2.csv
+% Symptom: Yes,False,../../../covid19-data/WY/data/dataV2.csv
+Total Recovered,False,../../../covid19-data/WY/data/dataV2.csv
+Scrape Time,False,../../../covid19-data/WY/data/dataV2.csv
+Total Cases,False,../../../covid19-data/WY/data/dataV2.csv
+WPHL Tested: Positive,False,../../../covid19-data/WY/data/dataV2.csv
+Total Tested: WPHL Lab,False,../../../covid19-data/WY/data/dataV2.csv
+Commercial Lab Tested: Positive,False,../../../covid19-data/WY/data/dataV3.csv
+Total Tested: Commercial Lab,False,../../../covid19-data/WY/data/dataV3.csv
+County Count,False,../../../covid19-data/WY/data/dataV3.csv
+Total Deaths,False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Age [0-17],False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Age [18-29],False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Age [30-39],False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Age [40-49],False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Age [50-59],False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Age [60-69],False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Age [70-79],False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Age [80+],False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Exposed: Community Acquired,False,../../../covid19-data/WY/data/dataV3.csv
+% Exposure: Contact with a known COVID Case,False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Exposed: Domestic Travel,False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Exposed: InternationalTravel,False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Exposed: Other,False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Exposed: Pending,False,../../../covid19-data/WY/data/dataV3.csv
+% Cases Exposed: Unknown,False,../../../covid19-data/WY/data/dataV3.csv
+% Total Cases: Female,False,../../../covid19-data/WY/data/dataV3.csv
+% Total Cases: Male,False,../../../covid19-data/WY/data/dataV3.csv
+% Not Hospitalized,False,../../../covid19-data/WY/data/dataV3.csv
+% Unknown Hospitalized,False,../../../covid19-data/WY/data/dataV3.csv
+% Hospitalized,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: AbdominalPain,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: Chills,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: Cough,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: Diarrhea,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: Fever,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: Headache,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: MuscleAches,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: NauseaOrVomiting,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: RunnyNose,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: ShortnessOfBreath,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: SoreThroat,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: No,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: Unknown,False,../../../covid19-data/WY/data/dataV3.csv
+% Symptom: Yes,False,../../../covid19-data/WY/data/dataV3.csv
+Total Recovered,False,../../../covid19-data/WY/data/dataV3.csv
+Scrape Time,False,../../../covid19-data/WY/data/dataV3.csv
+Total Cases,False,../../../covid19-data/WY/data/dataV3.csv
+WPHL Tested: Positive,False,../../../covid19-data/WY/data/dataV3.csv
+Total Tested: WPHL Lab,False,../../../covid19-data/WY/data/dataV3.csv
+Commercial Lab Tested: Positive,False,../../../covid19-data/WY/data/dataV4.csv
+Total Tested: Commercial Lab,False,../../../covid19-data/WY/data/dataV4.csv
+County Count,False,../../../covid19-data/WY/data/dataV4.csv
+Total Deaths,False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Age [0-17],False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Age [18-29],False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Age [30-39],False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Age [40-49],False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Age [50-59],False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Age [60-69],False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Age [70-79],False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Age [80+],False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Exposed: Community Acquired,False,../../../covid19-data/WY/data/dataV4.csv
+% Exposure: Contact with a known COVID Case,False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Exposed: Domestic Travel,False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Exposed: InternationalTravel,False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Exposed: Other,False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Exposed: Pending,False,../../../covid19-data/WY/data/dataV4.csv
+% Cases Exposed: Unknown,False,../../../covid19-data/WY/data/dataV4.csv
+% Total Cases: Female,False,../../../covid19-data/WY/data/dataV4.csv
+% Total Cases: Male,False,../../../covid19-data/WY/data/dataV4.csv
+% Not Hospitalized,False,../../../covid19-data/WY/data/dataV4.csv
+% Unknown Hospitalized,False,../../../covid19-data/WY/data/dataV4.csv
+% Hospitalized,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: AbdominalPain,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: Chills,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: Cough,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: Diarrhea,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: Fever,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: Headache,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: MuscleAches,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: NauseaOrVomiting,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: None,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: RunnyNose,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: ShortnessOfBreath,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: SoreThroat,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: No,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: Unknown,False,../../../covid19-data/WY/data/dataV4.csv
+% Symptom: Yes,False,../../../covid19-data/WY/data/dataV4.csv
+Total Recovered,False,../../../covid19-data/WY/data/dataV4.csv
+Scrape Time,False,../../../covid19-data/WY/data/dataV4.csv
+Total Cases,False,../../../covid19-data/WY/data/dataV4.csv
+Total Cases: Probable,False,../../../covid19-data/WY/data/dataV4.csv
+WPHL Tested: Positive,False,../../../covid19-data/WY/data/dataV4.csv
+Total Tested: WPHL Lab,False,../../../covid19-data/WY/data/dataV4.csv
+Total Tested: Commercial Lab,False,../../../covid19-data/WY/data/dataV5.csv
+County Count,False,../../../covid19-data/WY/data/dataV5.csv
+Total Deaths,False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Age [0-17],False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Age [18-29],False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Age [30-39],False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Age [40-49],False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Age [50-59],False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Age [60-69],False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Age [70-79],False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Age [80+],False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Exposed: Community Acquired,False,../../../covid19-data/WY/data/dataV5.csv
+% Exposure: Contact with a known COVID Case,False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Exposed: Domestic Travel,False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Exposed: InternationalTravel,False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Exposed: Other,False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Exposed: Pending,False,../../../covid19-data/WY/data/dataV5.csv
+% Cases Exposed: Unknown,False,../../../covid19-data/WY/data/dataV5.csv
+% Total Cases: Female,False,../../../covid19-data/WY/data/dataV5.csv
+% Total Cases: Male,False,../../../covid19-data/WY/data/dataV5.csv
+% Not Hospitalized,False,../../../covid19-data/WY/data/dataV5.csv
+% Unknown Hospitalized,False,../../../covid19-data/WY/data/dataV5.csv
+% Hospitalized,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: AbdominalPain,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: Chills,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: Cough,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: Diarrhea,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: Fever,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: Headache,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: MuscleAches,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: NauseaOrVomiting,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: None,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: RunnyNose,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: ShortnessOfBreath,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: SoreThroat,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: No,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: Unknown,False,../../../covid19-data/WY/data/dataV5.csv
+% Symptom: Yes,False,../../../covid19-data/WY/data/dataV5.csv
+Total Recovered,False,../../../covid19-data/WY/data/dataV5.csv
+Scrape Time,False,../../../covid19-data/WY/data/dataV5.csv
+Total Tested: % Positive,False,../../../covid19-data/WY/data/dataV5.csv
+% Tested Age [0-18],False,../../../covid19-data/WY/data/dataV5.csv
+% Tested Age [19-29],False,../../../covid19-data/WY/data/dataV5.csv
+% Tested Age [30-39],False,../../../covid19-data/WY/data/dataV5.csv
+% Tested Age [40-49],False,../../../covid19-data/WY/data/dataV5.csv
+% Tested Age [50-59],False,../../../covid19-data/WY/data/dataV5.csv
+% Tested Age [60-69],False,../../../covid19-data/WY/data/dataV5.csv
+% Tested Age [70-79],False,../../../covid19-data/WY/data/dataV5.csv
+% Tested Age [80+],False,../../../covid19-data/WY/data/dataV5.csv
+Total Cases,False,../../../covid19-data/WY/data/dataV5.csv
+Total Cases: Probable,False,../../../covid19-data/WY/data/dataV5.csv
+Total Tested: WPHL Lab,False,../../../covid19-data/WY/data/dataV5.csv

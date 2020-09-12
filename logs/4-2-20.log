@@ -1,0 +1,231 @@
+Running AR: Success!
+Running CA: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/CA.py", line 217, in run_CA
+    testRes, testPend, day) = new_form(subsoup, soup)
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/CA.py", line 86, in new_form
+    txt = x.text.replace("\xa0", " ")
+AttributeError: 'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=1078053222972-c6ntsosqqbc7epbkt42jvj9mhslr248i.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+Running CO: Success!
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   130  100   130    0     0    448      0 --:--:-- --:--:-- --:--:--   448
+Running CT: Success!
+Running DC: Success!
+Running DE: Success!
+Running FL: Success!
+Running GA: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/GA.py", line 41, in run_GA
+    date_list = pd.date_range(start=earliest_date_w_demographics, end=date).astype(str).to_list()
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/datetimes.py", line 1585, in date_range
+    **kwargs
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 494, in _generate_range
+    end = Timestamp(end)
+  File "pandas/_libs/tslibs/timestamps.pyx", line 412, in pandas._libs.tslibs.timestamps.Timestamp.__new__
+  File "pandas/_libs/tslibs/conversion.pyx", line 292, in pandas._libs.tslibs.conversion.convert_to_tsobject
+  File "pandas/_libs/tslibs/conversion.pyx", line 513, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/conversion.pyx", line 498, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/np_datetime.pyx", line 118, in pandas._libs.tslibs.np_datetime.check_dts_bounds
+pandas._libs.tslibs.np_datetime.OutOfBoundsDatetime: Out of bounds nanosecond timestamp: 20-04-02 00:00:00
+Out of bounds nanosecond timestamp: 20-04-02 00:00:00
+Running GU: Success!
+Running IA: Success!
+Running ID: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/ID.py", line 31, in run_ID
+    age1 = int(list(list(soup(text="<18 years")[0].parent.parent.children)[2].children)[0])
+IndexError: list index out of range
+list index out of range
+Running IN: Success!
+Running LA: Success!
+Running MA: Success!
+Running MD: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/MD.py", line 32, in run_MD
+    date_list = pd.date_range(start=earliest_date_w_demographics, end=date).astype(str).to_list()
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/datetimes.py", line 1585, in date_range
+    **kwargs
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 494, in _generate_range
+    end = Timestamp(end)
+  File "pandas/_libs/tslibs/timestamps.pyx", line 412, in pandas._libs.tslibs.timestamps.Timestamp.__new__
+  File "pandas/_libs/tslibs/conversion.pyx", line 292, in pandas._libs.tslibs.conversion.convert_to_tsobject
+  File "pandas/_libs/tslibs/conversion.pyx", line 513, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/conversion.pyx", line 498, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/np_datetime.pyx", line 118, in pandas._libs.tslibs.np_datetime.check_dts_bounds
+pandas._libs.tslibs.np_datetime.OutOfBoundsDatetime: Out of bounds nanosecond timestamp: 20-04-02 00:00:00
+Out of bounds nanosecond timestamp: 20-04-02 00:00:00
+Running ME: Success!
+Running MI: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/MI.py", line 30, in run_MI
+    date_list = pd.date_range(start=earliest_date_w_demographics, end=date).astype(str).to_list()
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/datetimes.py", line 1585, in date_range
+    **kwargs
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 494, in _generate_range
+    end = Timestamp(end)
+  File "pandas/_libs/tslibs/timestamps.pyx", line 412, in pandas._libs.tslibs.timestamps.Timestamp.__new__
+  File "pandas/_libs/tslibs/conversion.pyx", line 292, in pandas._libs.tslibs.conversion.convert_to_tsobject
+  File "pandas/_libs/tslibs/conversion.pyx", line 513, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/conversion.pyx", line 498, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/np_datetime.pyx", line 118, in pandas._libs.tslibs.np_datetime.check_dts_bounds
+pandas._libs.tslibs.np_datetime.OutOfBoundsDatetime: Out of bounds nanosecond timestamp: 20-04-02 00:00:00
+Out of bounds nanosecond timestamp: 20-04-02 00:00:00
+Running MO: Success!
+Running MS: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/MS.py", line 4, in run_MS
+    raise Exception()
+Exception
+
+Running MT: Success!
+Running NC: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/NC.py", line 31, in run_NC
+    age1 = int(list(list(soup(text='0-17')[0].parent.parent.children)[2].children)[0][:-1])/100
+IndexError: list index out of range
+list index out of range
+Running ND: Success!
+Running NV: Success!
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 77647  100 77647    0     0   355k      0 --:--:-- --:--:-- --:--:--  355k
+Running OH: Success!
+Running OK: Failure!
+Traceback (most recent call last):
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/urllib/request.py", line 1317, in do_open
+    encode_chunked=req.has_header('Transfer-encoding'))
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/http/client.py", line 1244, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/http/client.py", line 1290, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/http/client.py", line 1239, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/http/client.py", line 966, in send
+    self.connect()
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/http/client.py", line 1414, in connect
+    server_hostname=server_hostname)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/OK.py", line 29, in run_OK
+    html = urlopen("https://coronavirus.health.ok.gov", context=ctx).read()
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/urllib/request.py", line 543, in _open
+    '_open', req)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/urllib/request.py", line 503, in _call_chain
+    result = func(*args)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/urllib/request.py", line 1360, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/urllib/request.py", line 1319, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)>
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)>
+Running OR: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/OR.py", line 90, in run_OR
+    icu1 = int(list(list(soup(text='Adult ICU beds')[0].parent.parent.children)[1].children)[0])
+ValueError: invalid literal for int() with base 10: 'pending'
+invalid literal for int() with base 10: 'pending'
+Running PA: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/PA.py", line 32, in run_PA
+    date_list = pd.date_range(start=earliest_date_w_demographics, end=date).astype(str).to_list()
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/datetimes.py", line 1585, in date_range
+    **kwargs
+  File "/Users/obastani/opt/anaconda3/lib/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 494, in _generate_range
+    end = Timestamp(end)
+  File "pandas/_libs/tslibs/timestamps.pyx", line 412, in pandas._libs.tslibs.timestamps.Timestamp.__new__
+  File "pandas/_libs/tslibs/conversion.pyx", line 292, in pandas._libs.tslibs.conversion.convert_to_tsobject
+  File "pandas/_libs/tslibs/conversion.pyx", line 513, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/conversion.pyx", line 498, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/np_datetime.pyx", line 118, in pandas._libs.tslibs.np_datetime.check_dts_bounds
+pandas._libs.tslibs.np_datetime.OutOfBoundsDatetime: Out of bounds nanosecond timestamp: 20-04-02 00:00:00
+Out of bounds nanosecond timestamp: 20-04-02 00:00:00
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=1078053222972-c6ntsosqqbc7epbkt42jvj9mhslr248i.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+Running RI: Success!
+Running SC: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/SC.py", line 4, in run_SC
+    raise Exception()
+Exception
+
+Running SD: Success!
+Running TN: Success!
+Running VA: Success!
+Running WA: Success!
+curl https://www.dhs.wisconsin.gov/sites/default/files/styles/large/public/covid-19-age-chart.png?itok=husFVYO1 > ../WI/raw/age_2020-04-02_20:26:51.985659.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 66796    0 66796    0     0   236k      0 --:--:-- --:--:-- --:--:--  236k
+curl https://www.dhs.wisconsin.gov/sites/default/files/styles/large/public/covid-19-gender-chart.png?itok=jlPjRKqa > ../WI/raw/gender_2020-04-02_20:26:51.985659.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 66802    0 66802    0     0   274k      0 --:--:-- --:--:-- --:--:--  274k
+Running WI: Success!
+Running WY: Failure!
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    exec('run_{}(args)'.format(state), globals(), locals())
+  File "<string>", line 1, in <module>
+  File "/Users/obastani/Dropbox (Penn)/Covid19/covid19-data/code/WY.py", line 145, in run_WY
+    raise Exception("Unexpected exposures in WY")
+Exception: Unexpected exposures in WY
+Unexpected exposures in WY
+Failed states: CA, GA, ID, MD, MI, MS, NC, OK, OR, PA, SC, WY

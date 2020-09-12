@@ -1,0 +1,17 @@
+state,stateAbbrev,date,time,tz,fatalities,cases,female_case,male_cases,unkown_gender_c,age0_17,age18_49,age50_64,age18_64,age65,unkown_age,tot_tests,link,scrape_time
+California,CA,16-Mar,6p.m.,PDT,11,472,nan,nan,nan,7,nan,nan,300,160,5,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-025.aspx,3/29/20 21:23
+California,CA,15-Mar,6p.m.,PDT,6,392,nan,nan,nan,6,nan,nan,246,135,5,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-024.aspx,3/29/20 21:23
+California,CA,14-Mar,6p.m.,PDT,6,335,nan,nan,nan,6,nan,nan,210,116,3,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-023.aspx,3/29/20 21:23
+California,CA,14-Mar,8a.m.,PDT,5,288,nan,nan,nan,5,nan,nan,176,105,2,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-022.aspx,3/29/20 21:23
+California,CA,13-Mar,8a.m.,PDT,5,247,nan,nan,nan,4,nan,nan,143,98,2,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-020.aspx,3/29/20 21:23
+California,CA,12-Mar,8a.m.,PDT,4,198,nan,nan,nan,4,nan,nan,113,79,2,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-019.aspx,3/29/20 21:23
+California,CA,11-Mar,8a.m.,PDT,3,177,nan,nan,nan,3,nan,nan,104,67,3,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-018.aspx,3/29/20 21:23
+California,CA,10-Mar,8a.m.,PDT,2,157,nan,nan,nan,2,nan,nan,91,60,4,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-017.aspx,3/29/20 21:23
+California,CA,9-Mar,7a.m.,PDT,nan,133,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-016.aspx,3/29/20 21:23
+California,CA,8-Mar,7a.m.,PDT,nan,114,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-015.aspx,3/29/20 21:23
+California,CA,7-Mar,10a.m.,PDT,1,88,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-014.aspx,3/29/20 21:23
+California,CA,6-Mar,10a.m.,PDT,1,69,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-013.aspx,3/29/20 21:23
+California,CA,5-Mar,10a.m.,PDT,1,60,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-012.aspx,3/29/20 21:23
+California,CA,4-Mar,10a.m.,PDT,1,53,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-011.aspx,3/29/20 21:23
+California,CA,3-Mar,10a.m.,PDT,nan,43,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-010.aspx,3/29/20 21:23
+California,CA,2-Mar,10a.m.,PDT,nan,43,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-009.aspx,3/29/20 21:23

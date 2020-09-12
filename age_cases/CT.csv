@@ -1,0 +1,3349 @@
+Column Name,Scrape Time,State,Value
+# Cases Age [0-9],2020-07-12 00:00:00,CT,689
+# Cases Age [10-19],2020-07-12 00:00:00,CT,1458
+# Cases Age [20-29],2020-07-12 00:00:00,CT,5863
+# Cases Age [30-39],2020-07-12 00:00:00,CT,6741
+# Cases Age [40-49],2020-07-12 00:00:00,CT,6680
+# Cases Age [50-59],2020-07-12 00:00:00,CT,7989
+# Cases Age [60-69],2020-07-12 00:00:00,CT,6607
+# Cases Age [70-79],2020-07-12 00:00:00,CT,4441
+# Cases Age [80+],2020-07-12 00:00:00,CT,6986
+# Confirmed Cases Age [0-9],2020-07-12 00:00:00,CT,666
+# Confirmed Cases Age [10-19],2020-07-12 00:00:00,CT,1401
+# Confirmed Cases Age [20-29],2020-07-12 00:00:00,CT,5658
+# Confirmed Cases Age [30-39],2020-07-12 00:00:00,CT,6573
+# Confirmed Cases Age [40-49],2020-07-12 00:00:00,CT,6493
+# Confirmed Cases Age [50-59],2020-07-12 00:00:00,CT,7752
+# Confirmed Cases Age [60-69],2020-07-12 00:00:00,CT,6396
+# Confirmed Cases Age [70-79],2020-07-12 00:00:00,CT,4207
+# Confirmed Cases Age [80+],2020-07-12 00:00:00,CT,6328
+# Probable Cases Age [0-9],2020-07-12 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-12 00:00:00,CT,57
+# Probable Cases Age [20-29],2020-07-12 00:00:00,CT,205
+# Probable Cases Age [30-39],2020-07-12 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-07-12 00:00:00,CT,187
+# Probable Cases Age [50-59],2020-07-12 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-07-12 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-07-12 00:00:00,CT,234
+# Probable Cases Age [80+],2020-07-12 00:00:00,CT,658
+# Cases Age [0-9],2020-07-09 00:00:00,CT,682
+# Cases Age [10-19],2020-07-09 00:00:00,CT,1430
+# Cases Age [20-29],2020-07-09 00:00:00,CT,5807
+# Cases Age [30-39],2020-07-09 00:00:00,CT,6707
+# Cases Age [40-49],2020-07-09 00:00:00,CT,6655
+# Cases Age [50-59],2020-07-09 00:00:00,CT,7956
+# Cases Age [60-69],2020-07-09 00:00:00,CT,6589
+# Cases Age [70-79],2020-07-09 00:00:00,CT,4434
+# Cases Age [80+],2020-07-09 00:00:00,CT,6971
+# Confirmed Cases Age [0-9],2020-07-09 00:00:00,CT,659
+# Confirmed Cases Age [10-19],2020-07-09 00:00:00,CT,1374
+# Confirmed Cases Age [20-29],2020-07-09 00:00:00,CT,5603
+# Confirmed Cases Age [30-39],2020-07-09 00:00:00,CT,6540
+# Confirmed Cases Age [40-49],2020-07-09 00:00:00,CT,6468
+# Confirmed Cases Age [50-59],2020-07-09 00:00:00,CT,7721
+# Confirmed Cases Age [60-69],2020-07-09 00:00:00,CT,6378
+# Confirmed Cases Age [70-79],2020-07-09 00:00:00,CT,4196
+# Confirmed Cases Age [80+],2020-07-09 00:00:00,CT,6320
+# Probable Cases Age [0-9],2020-07-09 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-09 00:00:00,CT,56
+# Probable Cases Age [20-29],2020-07-09 00:00:00,CT,204
+# Probable Cases Age [30-39],2020-07-09 00:00:00,CT,167
+# Probable Cases Age [40-49],2020-07-09 00:00:00,CT,187
+# Probable Cases Age [50-59],2020-07-09 00:00:00,CT,235
+# Probable Cases Age [60-69],2020-07-09 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-07-09 00:00:00,CT,238
+# Probable Cases Age [80+],2020-07-09 00:00:00,CT,651
+# Cases Age [0-9],2020-07-08 00:00:00,CT,678
+# Cases Age [10-19],2020-07-08 00:00:00,CT,1422
+# Cases Age [20-29],2020-07-08 00:00:00,CT,5792
+# Cases Age [30-39],2020-07-08 00:00:00,CT,6701
+# Cases Age [40-49],2020-07-08 00:00:00,CT,6645
+# Cases Age [50-59],2020-07-08 00:00:00,CT,7945
+# Cases Age [60-69],2020-07-08 00:00:00,CT,6579
+# Cases Age [70-79],2020-07-08 00:00:00,CT,4430
+# Cases Age [80+],2020-07-08 00:00:00,CT,6961
+# Confirmed Cases Age [0-9],2020-07-08 00:00:00,CT,655
+# Confirmed Cases Age [10-19],2020-07-08 00:00:00,CT,1366
+# Confirmed Cases Age [20-29],2020-07-08 00:00:00,CT,5588
+# Confirmed Cases Age [30-39],2020-07-08 00:00:00,CT,6532
+# Confirmed Cases Age [40-49],2020-07-08 00:00:00,CT,6457
+# Confirmed Cases Age [50-59],2020-07-08 00:00:00,CT,7709
+# Confirmed Cases Age [60-69],2020-07-08 00:00:00,CT,6366
+# Confirmed Cases Age [70-79],2020-07-08 00:00:00,CT,4192
+# Confirmed Cases Age [80+],2020-07-08 00:00:00,CT,6310
+# Probable Cases Age [0-9],2020-07-08 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-08 00:00:00,CT,56
+# Probable Cases Age [20-29],2020-07-08 00:00:00,CT,204
+# Probable Cases Age [30-39],2020-07-08 00:00:00,CT,169
+# Probable Cases Age [40-49],2020-07-08 00:00:00,CT,188
+# Probable Cases Age [50-59],2020-07-08 00:00:00,CT,236
+# Probable Cases Age [60-69],2020-07-08 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-07-08 00:00:00,CT,238
+# Probable Cases Age [80+],2020-07-08 00:00:00,CT,651
+# Cases Age [0-9],2020-07-07 00:00:00,CT,674
+# Cases Age [10-19],2020-07-07 00:00:00,CT,1412
+# Cases Age [20-29],2020-07-07 00:00:00,CT,5761
+# Cases Age [30-39],2020-07-07 00:00:00,CT,6685
+# Cases Age [40-49],2020-07-07 00:00:00,CT,6633
+# Cases Age [50-59],2020-07-07 00:00:00,CT,7935
+# Cases Age [60-69],2020-07-07 00:00:00,CT,6574
+# Cases Age [70-79],2020-07-07 00:00:00,CT,4424
+# Cases Age [80+],2020-07-07 00:00:00,CT,6955
+# Confirmed Cases Age [0-9],2020-07-07 00:00:00,CT,651
+# Confirmed Cases Age [10-19],2020-07-07 00:00:00,CT,1357
+# Confirmed Cases Age [20-29],2020-07-07 00:00:00,CT,5558
+# Confirmed Cases Age [30-39],2020-07-07 00:00:00,CT,6516
+# Confirmed Cases Age [40-49],2020-07-07 00:00:00,CT,6448
+# Confirmed Cases Age [50-59],2020-07-07 00:00:00,CT,7701
+# Confirmed Cases Age [60-69],2020-07-07 00:00:00,CT,6360
+# Confirmed Cases Age [70-79],2020-07-07 00:00:00,CT,4186
+# Confirmed Cases Age [80+],2020-07-07 00:00:00,CT,6304
+# Probable Cases Age [0-9],2020-07-07 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-07 00:00:00,CT,55
+# Probable Cases Age [20-29],2020-07-07 00:00:00,CT,203
+# Probable Cases Age [30-39],2020-07-07 00:00:00,CT,169
+# Probable Cases Age [40-49],2020-07-07 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-07-07 00:00:00,CT,234
+# Probable Cases Age [60-69],2020-07-07 00:00:00,CT,214
+# Probable Cases Age [70-79],2020-07-07 00:00:00,CT,238
+# Probable Cases Age [80+],2020-07-07 00:00:00,CT,651
+# Cases Age [0-9],2020-07-06 00:00:00,CT,670
+# Cases Age [10-19],2020-07-06 00:00:00,CT,1403
+# Cases Age [20-29],2020-07-06 00:00:00,CT,5750
+# Cases Age [30-39],2020-07-06 00:00:00,CT,6670
+# Cases Age [40-49],2020-07-06 00:00:00,CT,6622
+# Cases Age [50-59],2020-07-06 00:00:00,CT,7926
+# Cases Age [60-69],2020-07-06 00:00:00,CT,6565
+# Cases Age [70-79],2020-07-06 00:00:00,CT,4417
+# Cases Age [80+],2020-07-06 00:00:00,CT,6952
+# Confirmed Cases Age [0-9],2020-07-06 00:00:00,CT,647
+# Confirmed Cases Age [10-19],2020-07-06 00:00:00,CT,1349
+# Confirmed Cases Age [20-29],2020-07-06 00:00:00,CT,5547
+# Confirmed Cases Age [30-39],2020-07-06 00:00:00,CT,6502
+# Confirmed Cases Age [40-49],2020-07-06 00:00:00,CT,6438
+# Confirmed Cases Age [50-59],2020-07-06 00:00:00,CT,7692
+# Confirmed Cases Age [60-69],2020-07-06 00:00:00,CT,6352
+# Confirmed Cases Age [70-79],2020-07-06 00:00:00,CT,4179
+# Confirmed Cases Age [80+],2020-07-06 00:00:00,CT,6300
+# Probable Cases Age [0-9],2020-07-06 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-06 00:00:00,CT,54
+# Probable Cases Age [20-29],2020-07-06 00:00:00,CT,203
+# Probable Cases Age [30-39],2020-07-06 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-07-06 00:00:00,CT,184
+# Probable Cases Age [50-59],2020-07-06 00:00:00,CT,234
+# Probable Cases Age [60-69],2020-07-06 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-07-06 00:00:00,CT,238
+# Probable Cases Age [80+],2020-07-06 00:00:00,CT,652
+# Cases Age [0-9],2020-07-05 00:00:00,CT,668
+# Cases Age [10-19],2020-07-05 00:00:00,CT,1400
+# Cases Age [20-29],2020-07-05 00:00:00,CT,5734
+# Cases Age [30-39],2020-07-05 00:00:00,CT,6662
+# Cases Age [40-49],2020-07-05 00:00:00,CT,6614
+# Cases Age [50-59],2020-07-05 00:00:00,CT,7921
+# Cases Age [60-69],2020-07-05 00:00:00,CT,6551
+# Cases Age [70-79],2020-07-05 00:00:00,CT,4416
+# Cases Age [80+],2020-07-05 00:00:00,CT,6952
+# Confirmed Cases Age [0-9],2020-07-05 00:00:00,CT,645
+# Confirmed Cases Age [10-19],2020-07-05 00:00:00,CT,1346
+# Confirmed Cases Age [20-29],2020-07-05 00:00:00,CT,5530
+# Confirmed Cases Age [30-39],2020-07-05 00:00:00,CT,6494
+# Confirmed Cases Age [40-49],2020-07-05 00:00:00,CT,6430
+# Confirmed Cases Age [50-59],2020-07-05 00:00:00,CT,7687
+# Confirmed Cases Age [60-69],2020-07-05 00:00:00,CT,6337
+# Confirmed Cases Age [70-79],2020-07-05 00:00:00,CT,4178
+# Confirmed Cases Age [80+],2020-07-05 00:00:00,CT,6300
+# Probable Cases Age [0-9],2020-07-05 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-05 00:00:00,CT,54
+# Probable Cases Age [20-29],2020-07-05 00:00:00,CT,204
+# Probable Cases Age [30-39],2020-07-05 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-07-05 00:00:00,CT,184
+# Probable Cases Age [50-59],2020-07-05 00:00:00,CT,234
+# Probable Cases Age [60-69],2020-07-05 00:00:00,CT,214
+# Probable Cases Age [70-79],2020-07-05 00:00:00,CT,238
+# Probable Cases Age [80+],2020-07-05 00:00:00,CT,652
+# Cases Age [0-9],2020-07-02 00:00:00,CT,663
+# Cases Age [10-19],2020-07-02 00:00:00,CT,1374
+# Cases Age [20-29],2020-07-02 00:00:00,CT,5657
+# Cases Age [30-39],2020-07-02 00:00:00,CT,6631
+# Cases Age [40-49],2020-07-02 00:00:00,CT,6587
+# Cases Age [50-59],2020-07-02 00:00:00,CT,7880
+# Cases Age [60-69],2020-07-02 00:00:00,CT,6529
+# Cases Age [70-79],2020-07-02 00:00:00,CT,4400
+# Cases Age [80+],2020-07-02 00:00:00,CT,6938
+# Confirmed Cases Age [0-9],2020-07-02 00:00:00,CT,640
+# Confirmed Cases Age [10-19],2020-07-02 00:00:00,CT,1320
+# Confirmed Cases Age [20-29],2020-07-02 00:00:00,CT,5455
+# Confirmed Cases Age [30-39],2020-07-02 00:00:00,CT,6464
+# Confirmed Cases Age [40-49],2020-07-02 00:00:00,CT,6403
+# Confirmed Cases Age [50-59],2020-07-02 00:00:00,CT,7645
+# Confirmed Cases Age [60-69],2020-07-02 00:00:00,CT,6316
+# Confirmed Cases Age [70-79],2020-07-02 00:00:00,CT,4162
+# Confirmed Cases Age [80+],2020-07-02 00:00:00,CT,6286
+# Probable Cases Age [0-9],2020-07-02 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-02 00:00:00,CT,54
+# Probable Cases Age [20-29],2020-07-02 00:00:00,CT,202
+# Probable Cases Age [30-39],2020-07-02 00:00:00,CT,167
+# Probable Cases Age [40-49],2020-07-02 00:00:00,CT,184
+# Probable Cases Age [50-59],2020-07-02 00:00:00,CT,235
+# Probable Cases Age [60-69],2020-07-02 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-07-02 00:00:00,CT,238
+# Probable Cases Age [80+],2020-07-02 00:00:00,CT,652
+# Cases Age [0-9],2020-07-01 00:00:00,CT,660
+# Cases Age [10-19],2020-07-01 00:00:00,CT,1369
+# Cases Age [20-29],2020-07-01 00:00:00,CT,5637
+# Cases Age [30-39],2020-07-01 00:00:00,CT,6620
+# Cases Age [40-49],2020-07-01 00:00:00,CT,6579
+# Cases Age [50-59],2020-07-01 00:00:00,CT,7873
+# Cases Age [60-69],2020-07-01 00:00:00,CT,6526
+# Cases Age [70-79],2020-07-01 00:00:00,CT,4398
+# Cases Age [80+],2020-07-01 00:00:00,CT,6926
+# Confirmed Cases Age [0-9],2020-07-01 00:00:00,CT,637
+# Confirmed Cases Age [10-19],2020-07-01 00:00:00,CT,1314
+# Confirmed Cases Age [20-29],2020-07-01 00:00:00,CT,5436
+# Confirmed Cases Age [30-39],2020-07-01 00:00:00,CT,6452
+# Confirmed Cases Age [40-49],2020-07-01 00:00:00,CT,6395
+# Confirmed Cases Age [50-59],2020-07-01 00:00:00,CT,7636
+# Confirmed Cases Age [60-69],2020-07-01 00:00:00,CT,6313
+# Confirmed Cases Age [70-79],2020-07-01 00:00:00,CT,4160
+# Confirmed Cases Age [80+],2020-07-01 00:00:00,CT,6279
+# Probable Cases Age [0-9],2020-07-01 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-01 00:00:00,CT,55
+# Probable Cases Age [20-29],2020-07-01 00:00:00,CT,201
+# Probable Cases Age [30-39],2020-07-01 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-07-01 00:00:00,CT,184
+# Probable Cases Age [50-59],2020-07-01 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-07-01 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-07-01 00:00:00,CT,238
+# Probable Cases Age [80+],2020-07-01 00:00:00,CT,647
+# Cases Age [0-9],2020-06-30 00:00:00,CT,658
+# Cases Age [10-19],2020-06-30 00:00:00,CT,1366
+# Cases Age [20-29],2020-06-30 00:00:00,CT,5625
+# Cases Age [30-39],2020-06-30 00:00:00,CT,6610
+# Cases Age [40-49],2020-06-30 00:00:00,CT,6570
+# Cases Age [50-59],2020-06-30 00:00:00,CT,7863
+# Cases Age [60-69],2020-06-30 00:00:00,CT,6517
+# Cases Age [70-79],2020-06-30 00:00:00,CT,4395
+# Cases Age [80+],2020-06-30 00:00:00,CT,6909
+# Confirmed Cases Age [0-9],2020-06-30 00:00:00,CT,634
+# Confirmed Cases Age [10-19],2020-06-30 00:00:00,CT,1311
+# Confirmed Cases Age [20-29],2020-06-30 00:00:00,CT,5424
+# Confirmed Cases Age [30-39],2020-06-30 00:00:00,CT,6442
+# Confirmed Cases Age [40-49],2020-06-30 00:00:00,CT,6385
+# Confirmed Cases Age [50-59],2020-06-30 00:00:00,CT,7625
+# Confirmed Cases Age [60-69],2020-06-30 00:00:00,CT,6303
+# Confirmed Cases Age [70-79],2020-06-30 00:00:00,CT,4157
+# Confirmed Cases Age [80+],2020-06-30 00:00:00,CT,6261
+# Probable Cases Age [0-9],2020-06-30 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-30 00:00:00,CT,55
+# Probable Cases Age [20-29],2020-06-30 00:00:00,CT,201
+# Probable Cases Age [30-39],2020-06-30 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-06-30 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-06-30 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-06-30 00:00:00,CT,214
+# Probable Cases Age [70-79],2020-06-30 00:00:00,CT,238
+# Probable Cases Age [80+],2020-06-30 00:00:00,CT,648
+# Cases Age [0-9],2020-06-29 00:00:00,CT,655
+# Cases Age [10-19],2020-06-29 00:00:00,CT,1362
+# Cases Age [20-29],2020-06-29 00:00:00,CT,5610
+# Cases Age [30-39],2020-06-29 00:00:00,CT,6598
+# Cases Age [40-49],2020-06-29 00:00:00,CT,6561
+# Cases Age [50-59],2020-06-29 00:00:00,CT,7857
+# Cases Age [60-69],2020-06-29 00:00:00,CT,6509
+# Cases Age [70-79],2020-06-29 00:00:00,CT,4393
+# Cases Age [80+],2020-06-29 00:00:00,CT,6910
+# Confirmed Cases Age [0-9],2020-06-29 00:00:00,CT,631
+# Confirmed Cases Age [10-19],2020-06-29 00:00:00,CT,1307
+# Confirmed Cases Age [20-29],2020-06-29 00:00:00,CT,5411
+# Confirmed Cases Age [30-39],2020-06-29 00:00:00,CT,6430
+# Confirmed Cases Age [40-49],2020-06-29 00:00:00,CT,6376
+# Confirmed Cases Age [50-59],2020-06-29 00:00:00,CT,7618
+# Confirmed Cases Age [60-69],2020-06-29 00:00:00,CT,6296
+# Confirmed Cases Age [70-79],2020-06-29 00:00:00,CT,4155
+# Confirmed Cases Age [80+],2020-06-29 00:00:00,CT,6259
+# Probable Cases Age [0-9],2020-06-29 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-29 00:00:00,CT,55
+# Probable Cases Age [20-29],2020-06-29 00:00:00,CT,199
+# Probable Cases Age [30-39],2020-06-29 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-06-29 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-06-29 00:00:00,CT,239
+# Probable Cases Age [60-69],2020-06-29 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-06-29 00:00:00,CT,238
+# Probable Cases Age [80+],2020-06-29 00:00:00,CT,651
+# Cases Age [0-9],2020-06-28 00:00:00,CT,647
+# Cases Age [10-19],2020-06-28 00:00:00,CT,1345
+# Cases Age [20-29],2020-06-28 00:00:00,CT,5575
+# Cases Age [30-39],2020-06-28 00:00:00,CT,6579
+# Cases Age [40-49],2020-06-28 00:00:00,CT,6544
+# Cases Age [50-59],2020-06-28 00:00:00,CT,7833
+# Cases Age [60-69],2020-06-28 00:00:00,CT,6494
+# Cases Age [70-79],2020-06-28 00:00:00,CT,4382
+# Cases Age [80+],2020-06-28 00:00:00,CT,6904
+# Confirmed Cases Age [0-9],2020-06-28 00:00:00,CT,623
+# Confirmed Cases Age [10-19],2020-06-28 00:00:00,CT,1292
+# Confirmed Cases Age [20-29],2020-06-28 00:00:00,CT,5377
+# Confirmed Cases Age [30-39],2020-06-28 00:00:00,CT,6410
+# Confirmed Cases Age [40-49],2020-06-28 00:00:00,CT,6358
+# Confirmed Cases Age [50-59],2020-06-28 00:00:00,CT,7594
+# Confirmed Cases Age [60-69],2020-06-28 00:00:00,CT,6283
+# Confirmed Cases Age [70-79],2020-06-28 00:00:00,CT,4143
+# Confirmed Cases Age [80+],2020-06-28 00:00:00,CT,6253
+# Probable Cases Age [0-9],2020-06-28 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-28 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-28 00:00:00,CT,198
+# Probable Cases Age [30-39],2020-06-28 00:00:00,CT,169
+# Probable Cases Age [40-49],2020-06-28 00:00:00,CT,186
+# Probable Cases Age [50-59],2020-06-28 00:00:00,CT,239
+# Probable Cases Age [60-69],2020-06-28 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-06-28 00:00:00,CT,239
+# Probable Cases Age [80+],2020-06-28 00:00:00,CT,651
+# Cases Age [0-9],2020-06-27 00:00:00,CT,645
+# Cases Age [10-19],2020-06-27 00:00:00,CT,1334
+# Cases Age [20-29],2020-06-27 00:00:00,CT,5556
+# Cases Age [30-39],2020-06-27 00:00:00,CT,6562
+# Cases Age [40-49],2020-06-27 00:00:00,CT,6526
+# Cases Age [50-59],2020-06-27 00:00:00,CT,7819
+# Cases Age [60-69],2020-06-27 00:00:00,CT,6482
+# Cases Age [70-79],2020-06-27 00:00:00,CT,4372
+# Cases Age [80+],2020-06-27 00:00:00,CT,6899
+# Confirmed Cases Age [0-9],2020-06-27 00:00:00,CT,621
+# Confirmed Cases Age [10-19],2020-06-27 00:00:00,CT,1281
+# Confirmed Cases Age [20-29],2020-06-27 00:00:00,CT,5358
+# Confirmed Cases Age [30-39],2020-06-27 00:00:00,CT,6392
+# Confirmed Cases Age [40-49],2020-06-27 00:00:00,CT,6341
+# Confirmed Cases Age [50-59],2020-06-27 00:00:00,CT,7582
+# Confirmed Cases Age [60-69],2020-06-27 00:00:00,CT,6273
+# Confirmed Cases Age [70-79],2020-06-27 00:00:00,CT,4133
+# Confirmed Cases Age [80+],2020-06-27 00:00:00,CT,6248
+# Probable Cases Age [0-9],2020-06-27 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-27 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-27 00:00:00,CT,198
+# Probable Cases Age [30-39],2020-06-27 00:00:00,CT,170
+# Probable Cases Age [40-49],2020-06-27 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-06-27 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-06-27 00:00:00,CT,209
+# Probable Cases Age [70-79],2020-06-27 00:00:00,CT,239
+# Probable Cases Age [80+],2020-06-27 00:00:00,CT,651
+# Cases Age [0-9],2020-06-26 00:00:00,CT,645
+# Cases Age [10-19],2020-06-26 00:00:00,CT,1320
+# Cases Age [20-29],2020-06-26 00:00:00,CT,5530
+# Cases Age [30-39],2020-06-26 00:00:00,CT,6549
+# Cases Age [40-49],2020-06-26 00:00:00,CT,6510
+# Cases Age [50-59],2020-06-26 00:00:00,CT,7807
+# Cases Age [60-69],2020-06-26 00:00:00,CT,6474
+# Cases Age [70-79],2020-06-26 00:00:00,CT,4367
+# Cases Age [80+],2020-06-26 00:00:00,CT,6895
+# Confirmed Cases Age [0-9],2020-06-26 00:00:00,CT,621
+# Confirmed Cases Age [10-19],2020-06-26 00:00:00,CT,1266
+# Confirmed Cases Age [20-29],2020-06-26 00:00:00,CT,5332
+# Confirmed Cases Age [30-39],2020-06-26 00:00:00,CT,6379
+# Confirmed Cases Age [40-49],2020-06-26 00:00:00,CT,6325
+# Confirmed Cases Age [50-59],2020-06-26 00:00:00,CT,7569
+# Confirmed Cases Age [60-69],2020-06-26 00:00:00,CT,6265
+# Confirmed Cases Age [70-79],2020-06-26 00:00:00,CT,4128
+# Confirmed Cases Age [80+],2020-06-26 00:00:00,CT,6244
+# Probable Cases Age [0-9],2020-06-26 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-26 00:00:00,CT,54
+# Probable Cases Age [20-29],2020-06-26 00:00:00,CT,198
+# Probable Cases Age [30-39],2020-06-26 00:00:00,CT,170
+# Probable Cases Age [40-49],2020-06-26 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-06-26 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-06-26 00:00:00,CT,209
+# Probable Cases Age [70-79],2020-06-26 00:00:00,CT,239
+# Probable Cases Age [80+],2020-06-26 00:00:00,CT,651
+# Cases Age [0-9],2020-06-25 00:00:00,CT,639
+# Cases Age [10-19],2020-06-25 00:00:00,CT,1315
+# Cases Age [20-29],2020-06-25 00:00:00,CT,5502
+# Cases Age [30-39],2020-06-25 00:00:00,CT,6536
+# Cases Age [40-49],2020-06-25 00:00:00,CT,6493
+# Cases Age [50-59],2020-06-25 00:00:00,CT,7785
+# Cases Age [60-69],2020-06-25 00:00:00,CT,6458
+# Cases Age [70-79],2020-06-25 00:00:00,CT,4355
+# Cases Age [80+],2020-06-25 00:00:00,CT,6866
+# Confirmed Cases Age [0-9],2020-06-25 00:00:00,CT,616
+# Confirmed Cases Age [10-19],2020-06-25 00:00:00,CT,1262
+# Confirmed Cases Age [20-29],2020-06-25 00:00:00,CT,5305
+# Confirmed Cases Age [30-39],2020-06-25 00:00:00,CT,6368
+# Confirmed Cases Age [40-49],2020-06-25 00:00:00,CT,6307
+# Confirmed Cases Age [50-59],2020-06-25 00:00:00,CT,7548
+# Confirmed Cases Age [60-69],2020-06-25 00:00:00,CT,6248
+# Confirmed Cases Age [70-79],2020-06-25 00:00:00,CT,4118
+# Confirmed Cases Age [80+],2020-06-25 00:00:00,CT,6217
+# Probable Cases Age [0-9],2020-06-25 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-06-25 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-25 00:00:00,CT,197
+# Probable Cases Age [30-39],2020-06-25 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-06-25 00:00:00,CT,186
+# Probable Cases Age [50-59],2020-06-25 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-06-25 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-06-25 00:00:00,CT,237
+# Probable Cases Age [80+],2020-06-25 00:00:00,CT,649
+# Cases Age [0-9],2020-06-24 00:00:00,CT,637
+# Cases Age [10-19],2020-06-24 00:00:00,CT,1310
+# Cases Age [20-29],2020-06-24 00:00:00,CT,5489
+# Cases Age [30-39],2020-06-24 00:00:00,CT,6526
+# Cases Age [40-49],2020-06-24 00:00:00,CT,6488
+# Cases Age [50-59],2020-06-24 00:00:00,CT,7778
+# Cases Age [60-69],2020-06-24 00:00:00,CT,6451
+# Cases Age [70-79],2020-06-24 00:00:00,CT,4347
+# Cases Age [80+],2020-06-24 00:00:00,CT,6858
+# Confirmed Cases Age [0-9],2020-06-24 00:00:00,CT,614
+# Confirmed Cases Age [10-19],2020-06-24 00:00:00,CT,1257
+# Confirmed Cases Age [20-29],2020-06-24 00:00:00,CT,5290
+# Confirmed Cases Age [30-39],2020-06-24 00:00:00,CT,6358
+# Confirmed Cases Age [40-49],2020-06-24 00:00:00,CT,6301
+# Confirmed Cases Age [50-59],2020-06-24 00:00:00,CT,7540
+# Confirmed Cases Age [60-69],2020-06-24 00:00:00,CT,6241
+# Confirmed Cases Age [70-79],2020-06-24 00:00:00,CT,4110
+# Confirmed Cases Age [80+],2020-06-24 00:00:00,CT,6209
+# Probable Cases Age [0-9],2020-06-24 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-06-24 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-24 00:00:00,CT,199
+# Probable Cases Age [30-39],2020-06-24 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-06-24 00:00:00,CT,187
+# Probable Cases Age [50-59],2020-06-24 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-06-24 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-06-24 00:00:00,CT,237
+# Probable Cases Age [80+],2020-06-24 00:00:00,CT,649
+# Cases Age [0-9],2020-06-23 00:00:00,CT,635
+# Cases Age [10-19],2020-06-23 00:00:00,CT,1304
+# Cases Age [20-29],2020-06-23 00:00:00,CT,5466
+# Cases Age [30-39],2020-06-23 00:00:00,CT,6512
+# Cases Age [40-49],2020-06-23 00:00:00,CT,6474
+# Cases Age [50-59],2020-06-23 00:00:00,CT,7772
+# Cases Age [60-69],2020-06-23 00:00:00,CT,6445
+# Cases Age [70-79],2020-06-23 00:00:00,CT,4345
+# Cases Age [80+],2020-06-23 00:00:00,CT,6851
+# Confirmed Cases Age [0-9],2020-06-23 00:00:00,CT,612
+# Confirmed Cases Age [10-19],2020-06-23 00:00:00,CT,1251
+# Confirmed Cases Age [20-29],2020-06-23 00:00:00,CT,5272
+# Confirmed Cases Age [30-39],2020-06-23 00:00:00,CT,6348
+# Confirmed Cases Age [40-49],2020-06-23 00:00:00,CT,6291
+# Confirmed Cases Age [50-59],2020-06-23 00:00:00,CT,7536
+# Confirmed Cases Age [60-69],2020-06-23 00:00:00,CT,6234
+# Confirmed Cases Age [70-79],2020-06-23 00:00:00,CT,4111
+# Confirmed Cases Age [80+],2020-06-23 00:00:00,CT,6202
+# Probable Cases Age [0-9],2020-06-23 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-06-23 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-23 00:00:00,CT,194
+# Probable Cases Age [30-39],2020-06-23 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-06-23 00:00:00,CT,183
+# Probable Cases Age [50-59],2020-06-23 00:00:00,CT,236
+# Probable Cases Age [60-69],2020-06-23 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-06-23 00:00:00,CT,234
+# Probable Cases Age [80+],2020-06-23 00:00:00,CT,649
+# Cases Age [0-9],2020-06-22 00:00:00,CT,634
+# Cases Age [10-19],2020-06-22 00:00:00,CT,1303
+# Cases Age [20-29],2020-06-22 00:00:00,CT,5463
+# Cases Age [30-39],2020-06-22 00:00:00,CT,6509
+# Cases Age [40-49],2020-06-22 00:00:00,CT,6472
+# Cases Age [50-59],2020-06-22 00:00:00,CT,7771
+# Cases Age [60-69],2020-06-22 00:00:00,CT,6445
+# Cases Age [70-79],2020-06-22 00:00:00,CT,4343
+# Cases Age [80+],2020-06-22 00:00:00,CT,6850
+# Confirmed Cases Age [0-9],2020-06-22 00:00:00,CT,611
+# Confirmed Cases Age [10-19],2020-06-22 00:00:00,CT,1250
+# Confirmed Cases Age [20-29],2020-06-22 00:00:00,CT,5269
+# Confirmed Cases Age [30-39],2020-06-22 00:00:00,CT,6345
+# Confirmed Cases Age [40-49],2020-06-22 00:00:00,CT,6289
+# Confirmed Cases Age [50-59],2020-06-22 00:00:00,CT,7535
+# Confirmed Cases Age [60-69],2020-06-22 00:00:00,CT,6234
+# Confirmed Cases Age [70-79],2020-06-22 00:00:00,CT,4109
+# Confirmed Cases Age [80+],2020-06-22 00:00:00,CT,6202
+# Probable Cases Age [0-9],2020-06-22 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-06-22 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-22 00:00:00,CT,194
+# Probable Cases Age [30-39],2020-06-22 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-06-22 00:00:00,CT,183
+# Probable Cases Age [50-59],2020-06-22 00:00:00,CT,236
+# Probable Cases Age [60-69],2020-06-22 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-06-22 00:00:00,CT,234
+# Probable Cases Age [80+],2020-06-22 00:00:00,CT,648
+# Cases Age [0-9],2020-06-21 00:00:00,CT,634
+# Cases Age [10-19],2020-06-21 00:00:00,CT,1300
+# Cases Age [20-29],2020-06-21 00:00:00,CT,5439
+# Cases Age [30-39],2020-06-21 00:00:00,CT,6490
+# Cases Age [40-49],2020-06-21 00:00:00,CT,6466
+# Cases Age [50-59],2020-06-21 00:00:00,CT,7760
+# Cases Age [60-69],2020-06-21 00:00:00,CT,6425
+# Cases Age [70-79],2020-06-21 00:00:00,CT,4331
+# Cases Age [80+],2020-06-21 00:00:00,CT,6828
+# Confirmed Cases Age [0-9],2020-06-21 00:00:00,CT,610
+# Confirmed Cases Age [10-19],2020-06-21 00:00:00,CT,1247
+# Confirmed Cases Age [20-29],2020-06-21 00:00:00,CT,5245
+# Confirmed Cases Age [30-39],2020-06-21 00:00:00,CT,6326
+# Confirmed Cases Age [40-49],2020-06-21 00:00:00,CT,6283
+# Confirmed Cases Age [50-59],2020-06-21 00:00:00,CT,7522
+# Confirmed Cases Age [60-69],2020-06-21 00:00:00,CT,6210
+# Confirmed Cases Age [70-79],2020-06-21 00:00:00,CT,4094
+# Confirmed Cases Age [80+],2020-06-21 00:00:00,CT,6186
+# Probable Cases Age [0-9],2020-06-21 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-21 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-21 00:00:00,CT,194
+# Probable Cases Age [30-39],2020-06-21 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-06-21 00:00:00,CT,183
+# Probable Cases Age [50-59],2020-06-21 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-06-21 00:00:00,CT,215
+# Probable Cases Age [70-79],2020-06-21 00:00:00,CT,237
+# Probable Cases Age [80+],2020-06-21 00:00:00,CT,642
+# Cases Age [0-9],2020-06-20 00:00:00,CT,634
+# Cases Age [10-19],2020-06-20 00:00:00,CT,1299
+# Cases Age [20-29],2020-06-20 00:00:00,CT,5431
+# Cases Age [30-39],2020-06-20 00:00:00,CT,6490
+# Cases Age [40-49],2020-06-20 00:00:00,CT,6462
+# Cases Age [50-59],2020-06-20 00:00:00,CT,7754
+# Cases Age [60-69],2020-06-20 00:00:00,CT,6421
+# Cases Age [70-79],2020-06-20 00:00:00,CT,4329
+# Cases Age [80+],2020-06-20 00:00:00,CT,6826
+# Confirmed Cases Age [0-9],2020-06-20 00:00:00,CT,610
+# Confirmed Cases Age [10-19],2020-06-20 00:00:00,CT,1246
+# Confirmed Cases Age [20-29],2020-06-20 00:00:00,CT,5239
+# Confirmed Cases Age [30-39],2020-06-20 00:00:00,CT,6326
+# Confirmed Cases Age [40-49],2020-06-20 00:00:00,CT,6282
+# Confirmed Cases Age [50-59],2020-06-20 00:00:00,CT,7517
+# Confirmed Cases Age [60-69],2020-06-20 00:00:00,CT,6207
+# Confirmed Cases Age [70-79],2020-06-20 00:00:00,CT,4093
+# Confirmed Cases Age [80+],2020-06-20 00:00:00,CT,6185
+# Probable Cases Age [0-9],2020-06-20 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-20 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-20 00:00:00,CT,192
+# Probable Cases Age [30-39],2020-06-20 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-06-20 00:00:00,CT,180
+# Probable Cases Age [50-59],2020-06-20 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-06-20 00:00:00,CT,214
+# Probable Cases Age [70-79],2020-06-20 00:00:00,CT,236
+# Probable Cases Age [80+],2020-06-20 00:00:00,CT,641
+# Cases Age [0-9],2020-06-19 00:00:00,CT,628
+# Cases Age [10-19],2020-06-19 00:00:00,CT,1297
+# Cases Age [20-29],2020-06-19 00:00:00,CT,5426
+# Cases Age [30-39],2020-06-19 00:00:00,CT,6484
+# Cases Age [40-49],2020-06-19 00:00:00,CT,6455
+# Cases Age [50-59],2020-06-19 00:00:00,CT,7750
+# Cases Age [60-69],2020-06-19 00:00:00,CT,6417
+# Cases Age [70-79],2020-06-19 00:00:00,CT,4327
+# Cases Age [80+],2020-06-19 00:00:00,CT,6822
+# Confirmed Cases Age [0-9],2020-06-19 00:00:00,CT,604
+# Confirmed Cases Age [10-19],2020-06-19 00:00:00,CT,1244
+# Confirmed Cases Age [20-29],2020-06-19 00:00:00,CT,5233
+# Confirmed Cases Age [30-39],2020-06-19 00:00:00,CT,6320
+# Confirmed Cases Age [40-49],2020-06-19 00:00:00,CT,6275
+# Confirmed Cases Age [50-59],2020-06-19 00:00:00,CT,7513
+# Confirmed Cases Age [60-69],2020-06-19 00:00:00,CT,6204
+# Confirmed Cases Age [70-79],2020-06-19 00:00:00,CT,4091
+# Confirmed Cases Age [80+],2020-06-19 00:00:00,CT,6182
+# Probable Cases Age [0-9],2020-06-19 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-19 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-19 00:00:00,CT,193
+# Probable Cases Age [30-39],2020-06-19 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-06-19 00:00:00,CT,180
+# Probable Cases Age [50-59],2020-06-19 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-06-19 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-06-19 00:00:00,CT,236
+# Probable Cases Age [80+],2020-06-19 00:00:00,CT,640
+# Cases Age [0-9],2020-06-18 00:00:00,CT,622
+# Cases Age [10-19],2020-06-18 00:00:00,CT,1293
+# Cases Age [20-29],2020-06-18 00:00:00,CT,5393
+# Cases Age [30-39],2020-06-18 00:00:00,CT,6463
+# Cases Age [40-49],2020-06-18 00:00:00,CT,6433
+# Cases Age [50-59],2020-06-18 00:00:00,CT,7728
+# Cases Age [60-69],2020-06-18 00:00:00,CT,6399
+# Cases Age [70-79],2020-06-18 00:00:00,CT,4313
+# Cases Age [80+],2020-06-18 00:00:00,CT,6806
+# Confirmed Cases Age [0-9],2020-06-18 00:00:00,CT,598
+# Confirmed Cases Age [10-19],2020-06-18 00:00:00,CT,1240
+# Confirmed Cases Age [20-29],2020-06-18 00:00:00,CT,5204
+# Confirmed Cases Age [30-39],2020-06-18 00:00:00,CT,6299
+# Confirmed Cases Age [40-49],2020-06-18 00:00:00,CT,6252
+# Confirmed Cases Age [50-59],2020-06-18 00:00:00,CT,7490
+# Confirmed Cases Age [60-69],2020-06-18 00:00:00,CT,6186
+# Confirmed Cases Age [70-79],2020-06-18 00:00:00,CT,4081
+# Confirmed Cases Age [80+],2020-06-18 00:00:00,CT,6165
+# Probable Cases Age [0-9],2020-06-18 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-18 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-18 00:00:00,CT,189
+# Probable Cases Age [30-39],2020-06-18 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-06-18 00:00:00,CT,181
+# Probable Cases Age [50-59],2020-06-18 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-06-18 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-06-18 00:00:00,CT,232
+# Probable Cases Age [80+],2020-06-18 00:00:00,CT,641
+# Cases Age [0-9],2020-06-17 00:00:00,CT,619
+# Cases Age [10-19],2020-06-17 00:00:00,CT,1286
+# Cases Age [20-29],2020-06-17 00:00:00,CT,5366
+# Cases Age [30-39],2020-06-17 00:00:00,CT,6452
+# Cases Age [40-49],2020-06-17 00:00:00,CT,6422
+# Cases Age [50-59],2020-06-17 00:00:00,CT,7713
+# Cases Age [60-69],2020-06-17 00:00:00,CT,6387
+# Cases Age [70-79],2020-06-17 00:00:00,CT,4301
+# Cases Age [80+],2020-06-17 00:00:00,CT,6787
+# Confirmed Cases Age [0-9],2020-06-17 00:00:00,CT,595
+# Confirmed Cases Age [10-19],2020-06-17 00:00:00,CT,1232
+# Confirmed Cases Age [20-29],2020-06-17 00:00:00,CT,5178
+# Confirmed Cases Age [30-39],2020-06-17 00:00:00,CT,6287
+# Confirmed Cases Age [40-49],2020-06-17 00:00:00,CT,6241
+# Confirmed Cases Age [50-59],2020-06-17 00:00:00,CT,7474
+# Confirmed Cases Age [60-69],2020-06-17 00:00:00,CT,6174
+# Confirmed Cases Age [70-79],2020-06-17 00:00:00,CT,4069
+# Confirmed Cases Age [80+],2020-06-17 00:00:00,CT,6148
+# Probable Cases Age [0-9],2020-06-17 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-17 00:00:00,CT,54
+# Probable Cases Age [20-29],2020-06-17 00:00:00,CT,188
+# Probable Cases Age [30-39],2020-06-17 00:00:00,CT,165
+# Probable Cases Age [40-49],2020-06-17 00:00:00,CT,181
+# Probable Cases Age [50-59],2020-06-17 00:00:00,CT,239
+# Probable Cases Age [60-69],2020-06-17 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-06-17 00:00:00,CT,232
+# Probable Cases Age [80+],2020-06-17 00:00:00,CT,639
+# Cases Age [0-9],2020-06-16 00:00:00,CT,620
+# Cases Age [10-19],2020-06-16 00:00:00,CT,1282
+# Cases Age [20-29],2020-06-16 00:00:00,CT,5351
+# Cases Age [30-39],2020-06-16 00:00:00,CT,6440
+# Cases Age [40-49],2020-06-16 00:00:00,CT,6407
+# Cases Age [50-59],2020-06-16 00:00:00,CT,7699
+# Cases Age [60-69],2020-06-16 00:00:00,CT,6379
+# Cases Age [70-79],2020-06-16 00:00:00,CT,4291
+# Cases Age [80+],2020-06-16 00:00:00,CT,6782
+# Confirmed Cases Age [0-9],2020-06-16 00:00:00,CT,596
+# Confirmed Cases Age [10-19],2020-06-16 00:00:00,CT,1229
+# Confirmed Cases Age [20-29],2020-06-16 00:00:00,CT,5163
+# Confirmed Cases Age [30-39],2020-06-16 00:00:00,CT,6276
+# Confirmed Cases Age [40-49],2020-06-16 00:00:00,CT,6227
+# Confirmed Cases Age [50-59],2020-06-16 00:00:00,CT,7461
+# Confirmed Cases Age [60-69],2020-06-16 00:00:00,CT,6166
+# Confirmed Cases Age [70-79],2020-06-16 00:00:00,CT,4060
+# Confirmed Cases Age [80+],2020-06-16 00:00:00,CT,6144
+# Probable Cases Age [0-9],2020-06-16 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-16 00:00:00,CT,53
+# Probable Cases Age [20-29],2020-06-16 00:00:00,CT,188
+# Probable Cases Age [30-39],2020-06-16 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-06-16 00:00:00,CT,180
+# Probable Cases Age [50-59],2020-06-16 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-06-16 00:00:00,CT,213
+# Probable Cases Age [70-79],2020-06-16 00:00:00,CT,231
+# Probable Cases Age [80+],2020-06-16 00:00:00,CT,638
+# Cases Age [0-9],2020-06-15 00:00:00,CT,615
+# Cases Age [10-19],2020-06-15 00:00:00,CT,1278
+# Cases Age [20-29],2020-06-15 00:00:00,CT,5342
+# Cases Age [30-39],2020-06-15 00:00:00,CT,6430
+# Cases Age [40-49],2020-06-15 00:00:00,CT,6400
+# Cases Age [50-59],2020-06-15 00:00:00,CT,7682
+# Cases Age [60-69],2020-06-15 00:00:00,CT,6367
+# Cases Age [70-79],2020-06-15 00:00:00,CT,4286
+# Cases Age [80+],2020-06-15 00:00:00,CT,6771
+# Confirmed Cases Age [0-9],2020-06-15 00:00:00,CT,591
+# Confirmed Cases Age [10-19],2020-06-15 00:00:00,CT,1227
+# Confirmed Cases Age [20-29],2020-06-15 00:00:00,CT,5155
+# Confirmed Cases Age [30-39],2020-06-15 00:00:00,CT,6266
+# Confirmed Cases Age [40-49],2020-06-15 00:00:00,CT,6222
+# Confirmed Cases Age [50-59],2020-06-15 00:00:00,CT,7447
+# Confirmed Cases Age [60-69],2020-06-15 00:00:00,CT,6157
+# Confirmed Cases Age [70-79],2020-06-15 00:00:00,CT,4055
+# Confirmed Cases Age [80+],2020-06-15 00:00:00,CT,6130
+# Probable Cases Age [0-9],2020-06-15 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-15 00:00:00,CT,51
+# Probable Cases Age [20-29],2020-06-15 00:00:00,CT,187
+# Probable Cases Age [30-39],2020-06-15 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-06-15 00:00:00,CT,178
+# Probable Cases Age [50-59],2020-06-15 00:00:00,CT,235
+# Probable Cases Age [60-69],2020-06-15 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-06-15 00:00:00,CT,231
+# Probable Cases Age [80+],2020-06-15 00:00:00,CT,641
+# Cases Age [0-9],2020-06-14 00:00:00,CT,605
+# Cases Age [10-19],2020-06-14 00:00:00,CT,1238
+# Cases Age [20-29],2020-06-14 00:00:00,CT,5257
+# Cases Age [30-39],2020-06-14 00:00:00,CT,6414
+# Cases Age [40-49],2020-06-14 00:00:00,CT,6351
+# Cases Age [50-59],2020-06-14 00:00:00,CT,7656
+# Cases Age [60-69],2020-06-14 00:00:00,CT,6419
+# Cases Age [70-79],2020-06-14 00:00:00,CT,4284
+# Cases Age [80+],2020-06-14 00:00:00,CT,6833
+# Confirmed Cases Age [0-9],2020-06-14 00:00:00,CT,581
+# Confirmed Cases Age [10-19],2020-06-14 00:00:00,CT,1188
+# Confirmed Cases Age [20-29],2020-06-14 00:00:00,CT,5075
+# Confirmed Cases Age [30-39],2020-06-14 00:00:00,CT,6244
+# Confirmed Cases Age [40-49],2020-06-14 00:00:00,CT,6176
+# Confirmed Cases Age [50-59],2020-06-14 00:00:00,CT,7421
+# Confirmed Cases Age [60-69],2020-06-14 00:00:00,CT,6211
+# Confirmed Cases Age [70-79],2020-06-14 00:00:00,CT,4057
+# Confirmed Cases Age [80+],2020-06-14 00:00:00,CT,6185
+# Probable Cases Age [0-9],2020-06-14 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-14 00:00:00,CT,50
+# Probable Cases Age [20-29],2020-06-14 00:00:00,CT,182
+# Probable Cases Age [30-39],2020-06-14 00:00:00,CT,170
+# Probable Cases Age [40-49],2020-06-14 00:00:00,CT,175
+# Probable Cases Age [50-59],2020-06-14 00:00:00,CT,235
+# Probable Cases Age [60-69],2020-06-14 00:00:00,CT,208
+# Probable Cases Age [70-79],2020-06-14 00:00:00,CT,227
+# Probable Cases Age [80+],2020-06-14 00:00:00,CT,648
+# Cases Age [0-9],2020-06-13 00:00:00,CT,602
+# Cases Age [10-19],2020-06-13 00:00:00,CT,1231
+# Cases Age [20-29],2020-06-13 00:00:00,CT,5239
+# Cases Age [30-39],2020-06-13 00:00:00,CT,6402
+# Cases Age [40-49],2020-06-13 00:00:00,CT,6338
+# Cases Age [50-59],2020-06-13 00:00:00,CT,7642
+# Cases Age [60-69],2020-06-13 00:00:00,CT,6411
+# Cases Age [70-79],2020-06-13 00:00:00,CT,4280
+# Cases Age [80+],2020-06-13 00:00:00,CT,6825
+# Confirmed Cases Age [0-9],2020-06-13 00:00:00,CT,580
+# Confirmed Cases Age [10-19],2020-06-13 00:00:00,CT,1182
+# Confirmed Cases Age [20-29],2020-06-13 00:00:00,CT,5059
+# Confirmed Cases Age [30-39],2020-06-13 00:00:00,CT,6235
+# Confirmed Cases Age [40-49],2020-06-13 00:00:00,CT,6167
+# Confirmed Cases Age [50-59],2020-06-13 00:00:00,CT,7410
+# Confirmed Cases Age [60-69],2020-06-13 00:00:00,CT,6203
+# Confirmed Cases Age [70-79],2020-06-13 00:00:00,CT,4053
+# Confirmed Cases Age [80+],2020-06-13 00:00:00,CT,6178
+# Probable Cases Age [0-9],2020-06-13 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-06-13 00:00:00,CT,49
+# Probable Cases Age [20-29],2020-06-13 00:00:00,CT,180
+# Probable Cases Age [30-39],2020-06-13 00:00:00,CT,167
+# Probable Cases Age [40-49],2020-06-13 00:00:00,CT,171
+# Probable Cases Age [50-59],2020-06-13 00:00:00,CT,232
+# Probable Cases Age [60-69],2020-06-13 00:00:00,CT,208
+# Probable Cases Age [70-79],2020-06-13 00:00:00,CT,227
+# Probable Cases Age [80+],2020-06-13 00:00:00,CT,647
+# Cases Age [0-9],2020-06-12 00:00:00,CT,600
+# Cases Age [10-19],2020-06-12 00:00:00,CT,1229
+# Cases Age [20-29],2020-06-12 00:00:00,CT,5219
+# Cases Age [30-39],2020-06-12 00:00:00,CT,6367
+# Cases Age [40-49],2020-06-12 00:00:00,CT,6317
+# Cases Age [50-59],2020-06-12 00:00:00,CT,7626
+# Cases Age [60-69],2020-06-12 00:00:00,CT,6399
+# Cases Age [70-79],2020-06-12 00:00:00,CT,4275
+# Cases Age [80+],2020-06-12 00:00:00,CT,6816
+# Confirmed Cases Age [0-9],2020-06-12 00:00:00,CT,578
+# Confirmed Cases Age [10-19],2020-06-12 00:00:00,CT,1180
+# Confirmed Cases Age [20-29],2020-06-12 00:00:00,CT,5039
+# Confirmed Cases Age [30-39],2020-06-12 00:00:00,CT,6200
+# Confirmed Cases Age [40-49],2020-06-12 00:00:00,CT,6144
+# Confirmed Cases Age [50-59],2020-06-12 00:00:00,CT,7394
+# Confirmed Cases Age [60-69],2020-06-12 00:00:00,CT,6192
+# Confirmed Cases Age [70-79],2020-06-12 00:00:00,CT,4047
+# Confirmed Cases Age [80+],2020-06-12 00:00:00,CT,6171
+# Probable Cases Age [0-9],2020-06-12 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-06-12 00:00:00,CT,49
+# Probable Cases Age [20-29],2020-06-12 00:00:00,CT,180
+# Probable Cases Age [30-39],2020-06-12 00:00:00,CT,167
+# Probable Cases Age [40-49],2020-06-12 00:00:00,CT,173
+# Probable Cases Age [50-59],2020-06-12 00:00:00,CT,232
+# Probable Cases Age [60-69],2020-06-12 00:00:00,CT,207
+# Probable Cases Age [70-79],2020-06-12 00:00:00,CT,228
+# Probable Cases Age [80+],2020-06-12 00:00:00,CT,645
+# Cases Age [0-9],2020-06-11 00:00:00,CT,589
+# Cases Age [10-19],2020-06-11 00:00:00,CT,1213
+# Cases Age [20-29],2020-06-11 00:00:00,CT,5166
+# Cases Age [30-39],2020-06-11 00:00:00,CT,6306
+# Cases Age [40-49],2020-06-11 00:00:00,CT,6279
+# Cases Age [50-59],2020-06-11 00:00:00,CT,7597
+# Cases Age [60-69],2020-06-11 00:00:00,CT,6375
+# Cases Age [70-79],2020-06-11 00:00:00,CT,4252
+# Cases Age [80+],2020-06-11 00:00:00,CT,6764
+# Confirmed Cases Age [0-9],2020-06-11 00:00:00,CT,567
+# Confirmed Cases Age [10-19],2020-06-11 00:00:00,CT,1166
+# Confirmed Cases Age [20-29],2020-06-11 00:00:00,CT,4986
+# Confirmed Cases Age [30-39],2020-06-11 00:00:00,CT,6141
+# Confirmed Cases Age [40-49],2020-06-11 00:00:00,CT,6110
+# Confirmed Cases Age [50-59],2020-06-11 00:00:00,CT,7366
+# Confirmed Cases Age [60-69],2020-06-11 00:00:00,CT,6169
+# Confirmed Cases Age [70-79],2020-06-11 00:00:00,CT,4026
+# Confirmed Cases Age [80+],2020-06-11 00:00:00,CT,6122
+# Probable Cases Age [0-9],2020-06-11 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-06-11 00:00:00,CT,47
+# Probable Cases Age [20-29],2020-06-11 00:00:00,CT,180
+# Probable Cases Age [30-39],2020-06-11 00:00:00,CT,165
+# Probable Cases Age [40-49],2020-06-11 00:00:00,CT,169
+# Probable Cases Age [50-59],2020-06-11 00:00:00,CT,231
+# Probable Cases Age [60-69],2020-06-11 00:00:00,CT,206
+# Probable Cases Age [70-79],2020-06-11 00:00:00,CT,226
+# Probable Cases Age [80+],2020-06-11 00:00:00,CT,642
+# Cases Age [0-9],2020-06-10 00:00:00,CT,579
+# Cases Age [10-19],2020-06-10 00:00:00,CT,1207
+# Cases Age [20-29],2020-06-10 00:00:00,CT,5119
+# Cases Age [30-39],2020-06-10 00:00:00,CT,6238
+# Cases Age [40-49],2020-06-10 00:00:00,CT,6244
+# Cases Age [50-59],2020-06-10 00:00:00,CT,7565
+# Cases Age [60-69],2020-06-10 00:00:00,CT,6362
+# Cases Age [70-79],2020-06-10 00:00:00,CT,4246
+# Cases Age [80+],2020-06-10 00:00:00,CT,6754
+# Confirmed Cases Age [0-9],2020-06-10 00:00:00,CT,557
+# Confirmed Cases Age [10-19],2020-06-10 00:00:00,CT,1160
+# Confirmed Cases Age [20-29],2020-06-10 00:00:00,CT,4939
+# Confirmed Cases Age [30-39],2020-06-10 00:00:00,CT,6072
+# Confirmed Cases Age [40-49],2020-06-10 00:00:00,CT,6074
+# Confirmed Cases Age [50-59],2020-06-10 00:00:00,CT,7333
+# Confirmed Cases Age [60-69],2020-06-10 00:00:00,CT,6156
+# Confirmed Cases Age [70-79],2020-06-10 00:00:00,CT,4019
+# Confirmed Cases Age [80+],2020-06-10 00:00:00,CT,6112
+# Probable Cases Age [0-9],2020-06-10 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-06-10 00:00:00,CT,47
+# Probable Cases Age [20-29],2020-06-10 00:00:00,CT,180
+# Probable Cases Age [30-39],2020-06-10 00:00:00,CT,166
+# Probable Cases Age [40-49],2020-06-10 00:00:00,CT,170
+# Probable Cases Age [50-59],2020-06-10 00:00:00,CT,232
+# Probable Cases Age [60-69],2020-06-10 00:00:00,CT,206
+# Probable Cases Age [70-79],2020-06-10 00:00:00,CT,227
+# Probable Cases Age [80+],2020-06-10 00:00:00,CT,642
+# Cases Age [0-9],2020-06-09 00:00:00,CT,575
+# Cases Age [10-19],2020-06-09 00:00:00,CT,1203
+# Cases Age [20-29],2020-06-09 00:00:00,CT,5098
+# Cases Age [30-39],2020-06-09 00:00:00,CT,6224
+# Cases Age [40-49],2020-06-09 00:00:00,CT,6235
+# Cases Age [50-59],2020-06-09 00:00:00,CT,7553
+# Cases Age [60-69],2020-06-09 00:00:00,CT,6350
+# Cases Age [70-79],2020-06-09 00:00:00,CT,4230
+# Cases Age [80+],2020-06-09 00:00:00,CT,6732
+# Confirmed Cases Age [0-9],2020-06-09 00:00:00,CT,553
+# Confirmed Cases Age [10-19],2020-06-09 00:00:00,CT,1156
+# Confirmed Cases Age [20-29],2020-06-09 00:00:00,CT,4923
+# Confirmed Cases Age [30-39],2020-06-09 00:00:00,CT,6061
+# Confirmed Cases Age [40-49],2020-06-09 00:00:00,CT,6066
+# Confirmed Cases Age [50-59],2020-06-09 00:00:00,CT,7322
+# Confirmed Cases Age [60-69],2020-06-09 00:00:00,CT,6141
+# Confirmed Cases Age [70-79],2020-06-09 00:00:00,CT,4004
+# Confirmed Cases Age [80+],2020-06-09 00:00:00,CT,6087
+# Probable Cases Age [0-9],2020-06-09 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-06-09 00:00:00,CT,47
+# Probable Cases Age [20-29],2020-06-09 00:00:00,CT,175
+# Probable Cases Age [30-39],2020-06-09 00:00:00,CT,163
+# Probable Cases Age [40-49],2020-06-09 00:00:00,CT,169
+# Probable Cases Age [50-59],2020-06-09 00:00:00,CT,231
+# Probable Cases Age [60-69],2020-06-09 00:00:00,CT,209
+# Probable Cases Age [70-79],2020-06-09 00:00:00,CT,226
+# Probable Cases Age [80+],2020-06-09 00:00:00,CT,645
+# Cases Age [0-9],2020-06-08 00:00:00,CT,570
+# Cases Age [10-19],2020-06-08 00:00:00,CT,1190
+# Cases Age [20-29],2020-06-08 00:00:00,CT,5077
+# Cases Age [30-39],2020-06-08 00:00:00,CT,6191
+# Cases Age [40-49],2020-06-08 00:00:00,CT,6207
+# Cases Age [50-59],2020-06-08 00:00:00,CT,7536
+# Cases Age [60-69],2020-06-08 00:00:00,CT,6331
+# Cases Age [70-79],2020-06-08 00:00:00,CT,4220
+# Cases Age [80+],2020-06-08 00:00:00,CT,6711
+# Confirmed Cases Age [0-9],2020-06-08 00:00:00,CT,548
+# Confirmed Cases Age [10-19],2020-06-08 00:00:00,CT,1141
+# Confirmed Cases Age [20-29],2020-06-08 00:00:00,CT,4894
+# Confirmed Cases Age [30-39],2020-06-08 00:00:00,CT,6013
+# Confirmed Cases Age [40-49],2020-06-08 00:00:00,CT,6027
+# Confirmed Cases Age [50-59],2020-06-08 00:00:00,CT,7272
+# Confirmed Cases Age [60-69],2020-06-08 00:00:00,CT,6108
+# Confirmed Cases Age [70-79],2020-06-08 00:00:00,CT,3983
+# Confirmed Cases Age [80+],2020-06-08 00:00:00,CT,6063
+# Probable Cases Age [0-9],2020-06-08 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-06-08 00:00:00,CT,49
+# Probable Cases Age [20-29],2020-06-08 00:00:00,CT,183
+# Probable Cases Age [30-39],2020-06-08 00:00:00,CT,178
+# Probable Cases Age [40-49],2020-06-08 00:00:00,CT,180
+# Probable Cases Age [50-59],2020-06-08 00:00:00,CT,264
+# Probable Cases Age [60-69],2020-06-08 00:00:00,CT,223
+# Probable Cases Age [70-79],2020-06-08 00:00:00,CT,237
+# Probable Cases Age [80+],2020-06-08 00:00:00,CT,648
+# Cases Age [0-9],2020-06-07 00:00:00,CT,566
+# Cases Age [10-19],2020-06-07 00:00:00,CT,1186
+# Cases Age [20-29],2020-06-07 00:00:00,CT,5065
+# Cases Age [30-39],2020-06-07 00:00:00,CT,6175
+# Cases Age [40-49],2020-06-07 00:00:00,CT,6200
+# Cases Age [50-59],2020-06-07 00:00:00,CT,7529
+# Cases Age [60-69],2020-06-07 00:00:00,CT,6317
+# Cases Age [70-79],2020-06-07 00:00:00,CT,4214
+# Cases Age [80+],2020-06-07 00:00:00,CT,6694
+# Confirmed Cases Age [0-9],2020-06-07 00:00:00,CT,543
+# Confirmed Cases Age [10-19],2020-06-07 00:00:00,CT,1135
+# Confirmed Cases Age [20-29],2020-06-07 00:00:00,CT,4879
+# Confirmed Cases Age [30-39],2020-06-07 00:00:00,CT,5991
+# Confirmed Cases Age [40-49],2020-06-07 00:00:00,CT,6015
+# Confirmed Cases Age [50-59],2020-06-07 00:00:00,CT,7256
+# Confirmed Cases Age [60-69],2020-06-07 00:00:00,CT,6079
+# Confirmed Cases Age [70-79],2020-06-07 00:00:00,CT,3966
+# Confirmed Cases Age [80+],2020-06-07 00:00:00,CT,6020
+# Probable Cases Age [0-9],2020-06-07 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-06-07 00:00:00,CT,51
+# Probable Cases Age [20-29],2020-06-07 00:00:00,CT,186
+# Probable Cases Age [30-39],2020-06-07 00:00:00,CT,184
+# Probable Cases Age [40-49],2020-06-07 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-06-07 00:00:00,CT,273
+# Probable Cases Age [60-69],2020-06-07 00:00:00,CT,238
+# Probable Cases Age [70-79],2020-06-07 00:00:00,CT,248
+# Probable Cases Age [80+],2020-06-07 00:00:00,CT,674
+# Cases Age [0-9],2020-06-06 00:00:00,CT,564
+# Cases Age [10-19],2020-06-06 00:00:00,CT,1179
+# Cases Age [20-29],2020-06-06 00:00:00,CT,5038
+# Cases Age [30-39],2020-06-06 00:00:00,CT,6150
+# Cases Age [40-49],2020-06-06 00:00:00,CT,6186
+# Cases Age [50-59],2020-06-06 00:00:00,CT,7515
+# Cases Age [60-69],2020-06-06 00:00:00,CT,6310
+# Cases Age [70-79],2020-06-06 00:00:00,CT,4202
+# Cases Age [80+],2020-06-06 00:00:00,CT,6679
+# Confirmed Cases Age [0-9],2020-06-06 00:00:00,CT,541
+# Confirmed Cases Age [10-19],2020-06-06 00:00:00,CT,1128
+# Confirmed Cases Age [20-29],2020-06-06 00:00:00,CT,4853
+# Confirmed Cases Age [30-39],2020-06-06 00:00:00,CT,5965
+# Confirmed Cases Age [40-49],2020-06-06 00:00:00,CT,6001
+# Confirmed Cases Age [50-59],2020-06-06 00:00:00,CT,7242
+# Confirmed Cases Age [60-69],2020-06-06 00:00:00,CT,6071
+# Confirmed Cases Age [70-79],2020-06-06 00:00:00,CT,3955
+# Confirmed Cases Age [80+],2020-06-06 00:00:00,CT,6007
+# Probable Cases Age [0-9],2020-06-06 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-06-06 00:00:00,CT,51
+# Probable Cases Age [20-29],2020-06-06 00:00:00,CT,185
+# Probable Cases Age [30-39],2020-06-06 00:00:00,CT,185
+# Probable Cases Age [40-49],2020-06-06 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-06-06 00:00:00,CT,273
+# Probable Cases Age [60-69],2020-06-06 00:00:00,CT,239
+# Probable Cases Age [70-79],2020-06-06 00:00:00,CT,247
+# Probable Cases Age [80+],2020-06-06 00:00:00,CT,672
+# Cases Age [0-9],2020-06-05 00:00:00,CT,558
+# Cases Age [10-19],2020-06-05 00:00:00,CT,1172
+# Cases Age [20-29],2020-06-05 00:00:00,CT,5012
+# Cases Age [30-39],2020-06-05 00:00:00,CT,6125
+# Cases Age [40-49],2020-06-05 00:00:00,CT,6164
+# Cases Age [50-59],2020-06-05 00:00:00,CT,7493
+# Cases Age [60-69],2020-06-05 00:00:00,CT,6298
+# Cases Age [70-79],2020-06-05 00:00:00,CT,4195
+# Cases Age [80+],2020-06-05 00:00:00,CT,6664
+# Confirmed Cases Age [0-9],2020-06-05 00:00:00,CT,535
+# Confirmed Cases Age [10-19],2020-06-05 00:00:00,CT,1121
+# Confirmed Cases Age [20-29],2020-06-05 00:00:00,CT,4828
+# Confirmed Cases Age [30-39],2020-06-05 00:00:00,CT,5940
+# Confirmed Cases Age [40-49],2020-06-05 00:00:00,CT,5979
+# Confirmed Cases Age [50-59],2020-06-05 00:00:00,CT,7218
+# Confirmed Cases Age [60-69],2020-06-05 00:00:00,CT,6058
+# Confirmed Cases Age [70-79],2020-06-05 00:00:00,CT,3948
+# Confirmed Cases Age [80+],2020-06-05 00:00:00,CT,5992
+# Probable Cases Age [0-9],2020-06-05 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-06-05 00:00:00,CT,51
+# Probable Cases Age [20-29],2020-06-05 00:00:00,CT,184
+# Probable Cases Age [30-39],2020-06-05 00:00:00,CT,185
+# Probable Cases Age [40-49],2020-06-05 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-06-05 00:00:00,CT,275
+# Probable Cases Age [60-69],2020-06-05 00:00:00,CT,240
+# Probable Cases Age [70-79],2020-06-05 00:00:00,CT,247
+# Probable Cases Age [80+],2020-06-05 00:00:00,CT,672
+# Cases Age [0-9],2020-06-04 00:00:00,CT,540
+# Cases Age [10-19],2020-06-04 00:00:00,CT,1151
+# Cases Age [20-29],2020-06-04 00:00:00,CT,4950
+# Cases Age [30-39],2020-06-04 00:00:00,CT,6058
+# Cases Age [40-49],2020-06-04 00:00:00,CT,6110
+# Cases Age [50-59],2020-06-04 00:00:00,CT,7437
+# Cases Age [60-69],2020-06-04 00:00:00,CT,6269
+# Cases Age [70-79],2020-06-04 00:00:00,CT,4171
+# Cases Age [80+],2020-06-04 00:00:00,CT,6640
+# Confirmed Cases Age [0-9],2020-06-04 00:00:00,CT,517
+# Confirmed Cases Age [10-19],2020-06-04 00:00:00,CT,1101
+# Confirmed Cases Age [20-29],2020-06-04 00:00:00,CT,4765
+# Confirmed Cases Age [30-39],2020-06-04 00:00:00,CT,5875
+# Confirmed Cases Age [40-49],2020-06-04 00:00:00,CT,5925
+# Confirmed Cases Age [50-59],2020-06-04 00:00:00,CT,7166
+# Confirmed Cases Age [60-69],2020-06-04 00:00:00,CT,6028
+# Confirmed Cases Age [70-79],2020-06-04 00:00:00,CT,3928
+# Confirmed Cases Age [80+],2020-06-04 00:00:00,CT,5961
+# Probable Cases Age [0-9],2020-06-04 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-06-04 00:00:00,CT,50
+# Probable Cases Age [20-29],2020-06-04 00:00:00,CT,185
+# Probable Cases Age [30-39],2020-06-04 00:00:00,CT,183
+# Probable Cases Age [40-49],2020-06-04 00:00:00,CT,185
+# Probable Cases Age [50-59],2020-06-04 00:00:00,CT,271
+# Probable Cases Age [60-69],2020-06-04 00:00:00,CT,241
+# Probable Cases Age [70-79],2020-06-04 00:00:00,CT,243
+# Probable Cases Age [80+],2020-06-04 00:00:00,CT,679
+# Cases Age [0-9],2020-06-03 00:00:00,CT,538
+# Cases Age [10-19],2020-06-03 00:00:00,CT,1136
+# Cases Age [20-29],2020-06-03 00:00:00,CT,4903
+# Cases Age [30-39],2020-06-03 00:00:00,CT,6021
+# Cases Age [40-49],2020-06-03 00:00:00,CT,6072
+# Cases Age [50-59],2020-06-03 00:00:00,CT,7405
+# Cases Age [60-69],2020-06-03 00:00:00,CT,6249
+# Cases Age [70-79],2020-06-03 00:00:00,CT,4165
+# Cases Age [80+],2020-06-03 00:00:00,CT,6608
+# Confirmed Cases Age [0-9],2020-06-03 00:00:00,CT,514
+# Confirmed Cases Age [10-19],2020-06-03 00:00:00,CT,1088
+# Confirmed Cases Age [20-29],2020-06-03 00:00:00,CT,4718
+# Confirmed Cases Age [30-39],2020-06-03 00:00:00,CT,5840
+# Confirmed Cases Age [40-49],2020-06-03 00:00:00,CT,5889
+# Confirmed Cases Age [50-59],2020-06-03 00:00:00,CT,7136
+# Confirmed Cases Age [60-69],2020-06-03 00:00:00,CT,6007
+# Confirmed Cases Age [70-79],2020-06-03 00:00:00,CT,3919
+# Confirmed Cases Age [80+],2020-06-03 00:00:00,CT,5931
+# Probable Cases Age [0-9],2020-06-03 00:00:00,CT,24
+# Probable Cases Age [10-19],2020-06-03 00:00:00,CT,48
+# Probable Cases Age [20-29],2020-06-03 00:00:00,CT,185
+# Probable Cases Age [30-39],2020-06-03 00:00:00,CT,181
+# Probable Cases Age [40-49],2020-06-03 00:00:00,CT,183
+# Probable Cases Age [50-59],2020-06-03 00:00:00,CT,269
+# Probable Cases Age [60-69],2020-06-03 00:00:00,CT,242
+# Probable Cases Age [70-79],2020-06-03 00:00:00,CT,246
+# Probable Cases Age [80+],2020-06-03 00:00:00,CT,677
+# Cases Age [0-9],2020-06-02 00:00:00,CT,530
+# Cases Age [10-19],2020-06-02 00:00:00,CT,1126
+# Cases Age [20-29],2020-06-02 00:00:00,CT,4886
+# Cases Age [30-39],2020-06-02 00:00:00,CT,5991
+# Cases Age [40-49],2020-06-02 00:00:00,CT,6059
+# Cases Age [50-59],2020-06-02 00:00:00,CT,7387
+# Cases Age [60-69],2020-06-02 00:00:00,CT,6226
+# Cases Age [70-79],2020-06-02 00:00:00,CT,4154
+# Cases Age [80+],2020-06-02 00:00:00,CT,6581
+# Confirmed Cases Age [0-9],2020-06-02 00:00:00,CT,508
+# Confirmed Cases Age [10-19],2020-06-02 00:00:00,CT,1078
+# Confirmed Cases Age [20-29],2020-06-02 00:00:00,CT,4704
+# Confirmed Cases Age [30-39],2020-06-02 00:00:00,CT,5812
+# Confirmed Cases Age [40-49],2020-06-02 00:00:00,CT,5877
+# Confirmed Cases Age [50-59],2020-06-02 00:00:00,CT,7126
+# Confirmed Cases Age [60-69],2020-06-02 00:00:00,CT,5990
+# Confirmed Cases Age [70-79],2020-06-02 00:00:00,CT,3910
+# Confirmed Cases Age [80+],2020-06-02 00:00:00,CT,5908
+# Probable Cases Age [0-9],2020-06-02 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-06-02 00:00:00,CT,48
+# Probable Cases Age [20-29],2020-06-02 00:00:00,CT,182
+# Probable Cases Age [30-39],2020-06-02 00:00:00,CT,179
+# Probable Cases Age [40-49],2020-06-02 00:00:00,CT,182
+# Probable Cases Age [50-59],2020-06-02 00:00:00,CT,261
+# Probable Cases Age [60-69],2020-06-02 00:00:00,CT,236
+# Probable Cases Age [70-79],2020-06-02 00:00:00,CT,244
+# Probable Cases Age [80+],2020-06-02 00:00:00,CT,673
+# Cases Age [0-9],2020-06-01 00:00:00,CT,523
+# Cases Age [10-19],2020-06-01 00:00:00,CT,1117
+# Cases Age [20-29],2020-06-01 00:00:00,CT,4863
+# Cases Age [30-39],2020-06-01 00:00:00,CT,5980
+# Cases Age [40-49],2020-06-01 00:00:00,CT,6049
+# Cases Age [50-59],2020-06-01 00:00:00,CT,7386
+# Cases Age [60-69],2020-06-01 00:00:00,CT,6214
+# Cases Age [70-79],2020-06-01 00:00:00,CT,4152
+# Cases Age [80+],2020-06-01 00:00:00,CT,6568
+# Confirmed Cases Age [0-9],2020-06-01 00:00:00,CT,502
+# Confirmed Cases Age [10-19],2020-06-01 00:00:00,CT,1073
+# Confirmed Cases Age [20-29],2020-06-01 00:00:00,CT,4681
+# Confirmed Cases Age [30-39],2020-06-01 00:00:00,CT,5798
+# Confirmed Cases Age [40-49],2020-06-01 00:00:00,CT,5867
+# Confirmed Cases Age [50-59],2020-06-01 00:00:00,CT,7123
+# Confirmed Cases Age [60-69],2020-06-01 00:00:00,CT,5977
+# Confirmed Cases Age [70-79],2020-06-01 00:00:00,CT,3908
+# Confirmed Cases Age [80+],2020-06-01 00:00:00,CT,5898
+# Probable Cases Age [0-9],2020-06-01 00:00:00,CT,21
+# Probable Cases Age [10-19],2020-06-01 00:00:00,CT,44
+# Probable Cases Age [20-29],2020-06-01 00:00:00,CT,182
+# Probable Cases Age [30-39],2020-06-01 00:00:00,CT,182
+# Probable Cases Age [40-49],2020-06-01 00:00:00,CT,182
+# Probable Cases Age [50-59],2020-06-01 00:00:00,CT,263
+# Probable Cases Age [60-69],2020-06-01 00:00:00,CT,237
+# Probable Cases Age [70-79],2020-06-01 00:00:00,CT,244
+# Probable Cases Age [80+],2020-06-01 00:00:00,CT,670
+# Cases Age [0-9],2020-05-31 00:00:00,CT,515
+# Cases Age [10-19],2020-05-31 00:00:00,CT,1102
+# Cases Age [20-29],2020-05-31 00:00:00,CT,4829
+# Cases Age [30-39],2020-05-31 00:00:00,CT,5948
+# Cases Age [40-49],2020-05-31 00:00:00,CT,6015
+# Cases Age [50-59],2020-05-31 00:00:00,CT,7349
+# Cases Age [60-69],2020-05-31 00:00:00,CT,6198
+# Cases Age [70-79],2020-05-31 00:00:00,CT,4133
+# Cases Age [80+],2020-05-31 00:00:00,CT,6527
+# Confirmed Cases Age [0-9],2020-05-31 00:00:00,CT,494
+# Confirmed Cases Age [10-19],2020-05-31 00:00:00,CT,1058
+# Confirmed Cases Age [20-29],2020-05-31 00:00:00,CT,4648
+# Confirmed Cases Age [30-39],2020-05-31 00:00:00,CT,5760
+# Confirmed Cases Age [40-49],2020-05-31 00:00:00,CT,5835
+# Confirmed Cases Age [50-59],2020-05-31 00:00:00,CT,7083
+# Confirmed Cases Age [60-69],2020-05-31 00:00:00,CT,5954
+# Confirmed Cases Age [70-79],2020-05-31 00:00:00,CT,3887
+# Confirmed Cases Age [80+],2020-05-31 00:00:00,CT,5837
+# Probable Cases Age [0-9],2020-05-31 00:00:00,CT,21
+# Probable Cases Age [10-19],2020-05-31 00:00:00,CT,44
+# Probable Cases Age [20-29],2020-05-31 00:00:00,CT,181
+# Probable Cases Age [30-39],2020-05-31 00:00:00,CT,188
+# Probable Cases Age [40-49],2020-05-31 00:00:00,CT,180
+# Probable Cases Age [50-59],2020-05-31 00:00:00,CT,266
+# Probable Cases Age [60-69],2020-05-31 00:00:00,CT,244
+# Probable Cases Age [70-79],2020-05-31 00:00:00,CT,246
+# Probable Cases Age [80+],2020-05-31 00:00:00,CT,690
+# Cases Age [0-9],2020-07-13 00:00:00,CT,688
+# Cases Age [10-19],2020-07-13 00:00:00,CT,1464
+# Cases Age [20-29],2020-07-13 00:00:00,CT,5871
+# Cases Age [30-39],2020-07-13 00:00:00,CT,6743
+# Cases Age [40-49],2020-07-13 00:00:00,CT,6679
+# Cases Age [50-59],2020-07-13 00:00:00,CT,7991
+# Cases Age [60-69],2020-07-13 00:00:00,CT,6608
+# Cases Age [70-79],2020-07-13 00:00:00,CT,4443
+# Cases Age [80+],2020-07-13 00:00:00,CT,6986
+# Confirmed Cases Age [0-9],2020-07-13 00:00:00,CT,665
+# Confirmed Cases Age [10-19],2020-07-13 00:00:00,CT,1406
+# Confirmed Cases Age [20-29],2020-07-13 00:00:00,CT,5666
+# Confirmed Cases Age [30-39],2020-07-13 00:00:00,CT,6575
+# Confirmed Cases Age [40-49],2020-07-13 00:00:00,CT,6492
+# Confirmed Cases Age [50-59],2020-07-13 00:00:00,CT,7754
+# Confirmed Cases Age [60-69],2020-07-13 00:00:00,CT,6398
+# Confirmed Cases Age [70-79],2020-07-13 00:00:00,CT,4209
+# Confirmed Cases Age [80+],2020-07-13 00:00:00,CT,6332
+# Probable Cases Age [0-9],2020-07-13 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-13 00:00:00,CT,58
+# Probable Cases Age [20-29],2020-07-13 00:00:00,CT,205
+# Probable Cases Age [30-39],2020-07-13 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-07-13 00:00:00,CT,187
+# Probable Cases Age [50-59],2020-07-13 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-07-13 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-07-13 00:00:00,CT,234
+# Probable Cases Age [80+],2020-07-13 00:00:00,CT,654
+# Cases Age [0-9],2020-07-14 00:00:00,CT,693
+# Cases Age [10-19],2020-07-14 00:00:00,CT,1473
+# Cases Age [20-29],2020-07-14 00:00:00,CT,5892
+# Cases Age [30-39],2020-07-14 00:00:00,CT,6762
+# Cases Age [40-49],2020-07-14 00:00:00,CT,6691
+# Cases Age [50-59],2020-07-14 00:00:00,CT,8003
+# Cases Age [60-69],2020-07-14 00:00:00,CT,6621
+# Cases Age [70-79],2020-07-14 00:00:00,CT,4449
+# Cases Age [80+],2020-07-14 00:00:00,CT,6992
+# Confirmed Cases Age [0-9],2020-07-14 00:00:00,CT,670
+# Confirmed Cases Age [10-19],2020-07-14 00:00:00,CT,1415
+# Confirmed Cases Age [20-29],2020-07-14 00:00:00,CT,5687
+# Confirmed Cases Age [30-39],2020-07-14 00:00:00,CT,6594
+# Confirmed Cases Age [40-49],2020-07-14 00:00:00,CT,6504
+# Confirmed Cases Age [50-59],2020-07-14 00:00:00,CT,7766
+# Confirmed Cases Age [60-69],2020-07-14 00:00:00,CT,6411
+# Confirmed Cases Age [70-79],2020-07-14 00:00:00,CT,4215
+# Confirmed Cases Age [80+],2020-07-14 00:00:00,CT,6338
+# Probable Cases Age [0-9],2020-07-14 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-07-14 00:00:00,CT,58
+# Probable Cases Age [20-29],2020-07-14 00:00:00,CT,205
+# Probable Cases Age [30-39],2020-07-14 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-07-14 00:00:00,CT,187
+# Probable Cases Age [50-59],2020-07-14 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-07-14 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-07-14 00:00:00,CT,234
+# Probable Cases Age [80+],2020-07-14 00:00:00,CT,654
+# Cases Age [0-9],2020-07-15 00:00:00,CT,693
+# Cases Age [10-19],2020-07-15 00:00:00,CT,1486
+# Cases Age [20-29],2020-07-15 00:00:00,CT,5925
+# Cases Age [30-39],2020-07-15 00:00:00,CT,6779
+# Cases Age [40-49],2020-07-15 00:00:00,CT,6704
+# Cases Age [50-59],2020-07-15 00:00:00,CT,8021
+# Cases Age [60-69],2020-07-15 00:00:00,CT,6641
+# Cases Age [70-79],2020-07-15 00:00:00,CT,4448
+# Cases Age [80+],2020-07-15 00:00:00,CT,6995
+# Confirmed Cases Age [0-9],2020-07-15 00:00:00,CT,671
+# Confirmed Cases Age [10-19],2020-07-15 00:00:00,CT,1429
+# Confirmed Cases Age [20-29],2020-07-15 00:00:00,CT,5721
+# Confirmed Cases Age [30-39],2020-07-15 00:00:00,CT,6610
+# Confirmed Cases Age [40-49],2020-07-15 00:00:00,CT,6517
+# Confirmed Cases Age [50-59],2020-07-15 00:00:00,CT,7784
+# Confirmed Cases Age [60-69],2020-07-15 00:00:00,CT,6431
+# Confirmed Cases Age [70-79],2020-07-15 00:00:00,CT,4216
+# Confirmed Cases Age [80+],2020-07-15 00:00:00,CT,6341
+# Probable Cases Age [0-9],2020-07-15 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-07-15 00:00:00,CT,57
+# Probable Cases Age [20-29],2020-07-15 00:00:00,CT,204
+# Probable Cases Age [30-39],2020-07-15 00:00:00,CT,169
+# Probable Cases Age [40-49],2020-07-15 00:00:00,CT,187
+# Probable Cases Age [50-59],2020-07-15 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-07-15 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-07-15 00:00:00,CT,232
+# Probable Cases Age [80+],2020-07-15 00:00:00,CT,654
+# Cases Age [0-9],2020-07-16 00:00:00,CT,697
+# Cases Age [10-19],2020-07-16 00:00:00,CT,1500
+# Cases Age [20-29],2020-07-16 00:00:00,CT,5950
+# Cases Age [30-39],2020-07-16 00:00:00,CT,6799
+# Cases Age [40-49],2020-07-16 00:00:00,CT,6721
+# Cases Age [50-59],2020-07-16 00:00:00,CT,8042
+# Cases Age [60-69],2020-07-16 00:00:00,CT,6658
+# Cases Age [70-79],2020-07-16 00:00:00,CT,4458
+# Cases Age [80+],2020-07-16 00:00:00,CT,7011
+# Confirmed Cases Age [0-9],2020-07-16 00:00:00,CT,675
+# Confirmed Cases Age [10-19],2020-07-16 00:00:00,CT,1443
+# Confirmed Cases Age [20-29],2020-07-16 00:00:00,CT,5745
+# Confirmed Cases Age [30-39],2020-07-16 00:00:00,CT,6630
+# Confirmed Cases Age [40-49],2020-07-16 00:00:00,CT,6534
+# Confirmed Cases Age [50-59],2020-07-16 00:00:00,CT,7804
+# Confirmed Cases Age [60-69],2020-07-16 00:00:00,CT,6448
+# Confirmed Cases Age [70-79],2020-07-16 00:00:00,CT,4225
+# Confirmed Cases Age [80+],2020-07-16 00:00:00,CT,6356
+# Probable Cases Age [0-9],2020-07-16 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-07-16 00:00:00,CT,57
+# Probable Cases Age [20-29],2020-07-16 00:00:00,CT,205
+# Probable Cases Age [30-39],2020-07-16 00:00:00,CT,169
+# Probable Cases Age [40-49],2020-07-16 00:00:00,CT,187
+# Probable Cases Age [50-59],2020-07-16 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-07-16 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-07-16 00:00:00,CT,233
+# Probable Cases Age [80+],2020-07-16 00:00:00,CT,655
+# Cases Age [0-9],2020-07-19 00:00:00,CT,703
+# Cases Age [10-19],2020-07-19 00:00:00,CT,1522
+# Cases Age [20-29],2020-07-19 00:00:00,CT,5994
+# Cases Age [30-39],2020-07-19 00:00:00,CT,6821
+# Cases Age [40-49],2020-07-19 00:00:00,CT,6745
+# Cases Age [50-59],2020-07-19 00:00:00,CT,8062
+# Cases Age [60-69],2020-07-19 00:00:00,CT,6662
+# Cases Age [70-79],2020-07-19 00:00:00,CT,4466
+# Cases Age [80+],2020-07-19 00:00:00,CT,7024
+# Confirmed Cases Age [0-9],2020-07-19 00:00:00,CT,681
+# Confirmed Cases Age [10-19],2020-07-19 00:00:00,CT,1465
+# Confirmed Cases Age [20-29],2020-07-19 00:00:00,CT,5790
+# Confirmed Cases Age [30-39],2020-07-19 00:00:00,CT,6652
+# Confirmed Cases Age [40-49],2020-07-19 00:00:00,CT,6559
+# Confirmed Cases Age [50-59],2020-07-19 00:00:00,CT,7824
+# Confirmed Cases Age [60-69],2020-07-19 00:00:00,CT,6452
+# Confirmed Cases Age [70-79],2020-07-19 00:00:00,CT,4234
+# Confirmed Cases Age [80+],2020-07-19 00:00:00,CT,6365
+# Probable Cases Age [0-9],2020-07-19 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-07-19 00:00:00,CT,57
+# Probable Cases Age [20-29],2020-07-19 00:00:00,CT,204
+# Probable Cases Age [30-39],2020-07-19 00:00:00,CT,169
+# Probable Cases Age [40-49],2020-07-19 00:00:00,CT,186
+# Probable Cases Age [50-59],2020-07-19 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-07-19 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-07-19 00:00:00,CT,232
+# Probable Cases Age [80+],2020-07-19 00:00:00,CT,659
+# Cases Age [0-9],2020-07-20 00:00:00,CT,705
+# Cases Age [10-19],2020-07-20 00:00:00,CT,1535
+# Cases Age [20-29],2020-07-20 00:00:00,CT,6004
+# Cases Age [30-39],2020-07-20 00:00:00,CT,6829
+# Cases Age [40-49],2020-07-20 00:00:00,CT,6751
+# Cases Age [50-59],2020-07-20 00:00:00,CT,8067
+# Cases Age [60-69],2020-07-20 00:00:00,CT,6662
+# Cases Age [70-79],2020-07-20 00:00:00,CT,4463
+# Cases Age [80+],2020-07-20 00:00:00,CT,7024
+# Confirmed Cases Age [0-9],2020-07-20 00:00:00,CT,683
+# Confirmed Cases Age [10-19],2020-07-20 00:00:00,CT,1478
+# Confirmed Cases Age [20-29],2020-07-20 00:00:00,CT,5800
+# Confirmed Cases Age [30-39],2020-07-20 00:00:00,CT,6660
+# Confirmed Cases Age [40-49],2020-07-20 00:00:00,CT,6565
+# Confirmed Cases Age [50-59],2020-07-20 00:00:00,CT,7832
+# Confirmed Cases Age [60-69],2020-07-20 00:00:00,CT,6452
+# Confirmed Cases Age [70-79],2020-07-20 00:00:00,CT,4232
+# Confirmed Cases Age [80+],2020-07-20 00:00:00,CT,6365
+# Probable Cases Age [0-9],2020-07-20 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-07-20 00:00:00,CT,57
+# Probable Cases Age [20-29],2020-07-20 00:00:00,CT,204
+# Probable Cases Age [30-39],2020-07-20 00:00:00,CT,169
+# Probable Cases Age [40-49],2020-07-20 00:00:00,CT,186
+# Probable Cases Age [50-59],2020-07-20 00:00:00,CT,235
+# Probable Cases Age [60-69],2020-07-20 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-07-20 00:00:00,CT,231
+# Probable Cases Age [80+],2020-07-20 00:00:00,CT,659
+# Cases Age [0-9],2020-07-21 00:00:00,CT,713
+# Cases Age [10-19],2020-07-21 00:00:00,CT,1555
+# Cases Age [20-29],2020-07-21 00:00:00,CT,6031
+# Cases Age [30-39],2020-07-21 00:00:00,CT,6842
+# Cases Age [40-49],2020-07-21 00:00:00,CT,6758
+# Cases Age [50-59],2020-07-21 00:00:00,CT,8091
+# Cases Age [60-69],2020-07-21 00:00:00,CT,6674
+# Cases Age [70-79],2020-07-21 00:00:00,CT,4471
+# Cases Age [80+],2020-07-21 00:00:00,CT,7033
+# Confirmed Cases Age [0-9],2020-07-21 00:00:00,CT,691
+# Confirmed Cases Age [10-19],2020-07-21 00:00:00,CT,1490
+# Confirmed Cases Age [20-29],2020-07-21 00:00:00,CT,5819
+# Confirmed Cases Age [30-39],2020-07-21 00:00:00,CT,6668
+# Confirmed Cases Age [40-49],2020-07-21 00:00:00,CT,6570
+# Confirmed Cases Age [50-59],2020-07-21 00:00:00,CT,7848
+# Confirmed Cases Age [60-69],2020-07-21 00:00:00,CT,6457
+# Confirmed Cases Age [70-79],2020-07-21 00:00:00,CT,4238
+# Confirmed Cases Age [80+],2020-07-21 00:00:00,CT,6374
+# Probable Cases Age [0-9],2020-07-21 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-07-21 00:00:00,CT,65
+# Probable Cases Age [20-29],2020-07-21 00:00:00,CT,212
+# Probable Cases Age [30-39],2020-07-21 00:00:00,CT,174
+# Probable Cases Age [40-49],2020-07-21 00:00:00,CT,188
+# Probable Cases Age [50-59],2020-07-21 00:00:00,CT,243
+# Probable Cases Age [60-69],2020-07-21 00:00:00,CT,217
+# Probable Cases Age [70-79],2020-07-21 00:00:00,CT,233
+# Probable Cases Age [80+],2020-07-21 00:00:00,CT,659
+# Cases Age [0-9],2020-07-22 00:00:00,CT,714
+# Cases Age [10-19],2020-07-22 00:00:00,CT,1563
+# Cases Age [20-29],2020-07-22 00:00:00,CT,6050
+# Cases Age [30-39],2020-07-22 00:00:00,CT,6856
+# Cases Age [40-49],2020-07-22 00:00:00,CT,6766
+# Cases Age [50-59],2020-07-22 00:00:00,CT,8096
+# Cases Age [60-69],2020-07-22 00:00:00,CT,6674
+# Cases Age [70-79],2020-07-22 00:00:00,CT,4464
+# Cases Age [80+],2020-07-22 00:00:00,CT,6994
+# Confirmed Cases Age [0-9],2020-07-22 00:00:00,CT,692
+# Confirmed Cases Age [10-19],2020-07-22 00:00:00,CT,1498
+# Confirmed Cases Age [20-29],2020-07-22 00:00:00,CT,5838
+# Confirmed Cases Age [30-39],2020-07-22 00:00:00,CT,6683
+# Confirmed Cases Age [40-49],2020-07-22 00:00:00,CT,6578
+# Confirmed Cases Age [50-59],2020-07-22 00:00:00,CT,7854
+# Confirmed Cases Age [60-69],2020-07-22 00:00:00,CT,6456
+# Confirmed Cases Age [70-79],2020-07-22 00:00:00,CT,4231
+# Confirmed Cases Age [80+],2020-07-22 00:00:00,CT,6335
+# Probable Cases Age [0-9],2020-07-22 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-07-22 00:00:00,CT,65
+# Probable Cases Age [20-29],2020-07-22 00:00:00,CT,212
+# Probable Cases Age [30-39],2020-07-22 00:00:00,CT,173
+# Probable Cases Age [40-49],2020-07-22 00:00:00,CT,188
+# Probable Cases Age [50-59],2020-07-22 00:00:00,CT,242
+# Probable Cases Age [60-69],2020-07-22 00:00:00,CT,218
+# Probable Cases Age [70-79],2020-07-22 00:00:00,CT,233
+# Probable Cases Age [80+],2020-07-22 00:00:00,CT,659
+# Cases Age [0-9],2020-07-23 00:00:00,CT,730
+# Cases Age [10-19],2020-07-23 00:00:00,CT,1645
+# Cases Age [20-29],2020-07-23 00:00:00,CT,6170
+# Cases Age [30-39],2020-07-23 00:00:00,CT,6938
+# Cases Age [40-49],2020-07-23 00:00:00,CT,6844
+# Cases Age [50-59],2020-07-23 00:00:00,CT,8165
+# Cases Age [60-69],2020-07-23 00:00:00,CT,6724
+# Cases Age [70-79],2020-07-23 00:00:00,CT,4483
+# Cases Age [80+],2020-07-23 00:00:00,CT,7022
+# Confirmed Cases Age [0-9],2020-07-23 00:00:00,CT,709
+# Confirmed Cases Age [10-19],2020-07-23 00:00:00,CT,1585
+# Confirmed Cases Age [20-29],2020-07-23 00:00:00,CT,5975
+# Confirmed Cases Age [30-39],2020-07-23 00:00:00,CT,6774
+# Confirmed Cases Age [40-49],2020-07-23 00:00:00,CT,6663
+# Confirmed Cases Age [50-59],2020-07-23 00:00:00,CT,7930
+# Confirmed Cases Age [60-69],2020-07-23 00:00:00,CT,6508
+# Confirmed Cases Age [70-79],2020-07-23 00:00:00,CT,4252
+# Confirmed Cases Age [80+],2020-07-23 00:00:00,CT,6362
+# Probable Cases Age [0-9],2020-07-23 00:00:00,CT,21
+# Probable Cases Age [10-19],2020-07-23 00:00:00,CT,60
+# Probable Cases Age [20-29],2020-07-23 00:00:00,CT,195
+# Probable Cases Age [30-39],2020-07-23 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-07-23 00:00:00,CT,181
+# Probable Cases Age [50-59],2020-07-23 00:00:00,CT,235
+# Probable Cases Age [60-69],2020-07-23 00:00:00,CT,216
+# Probable Cases Age [70-79],2020-07-23 00:00:00,CT,231
+# Probable Cases Age [80+],2020-07-23 00:00:00,CT,660
+# Cases Age [0-9],2020-07-26 00:00:00,CT,744
+# Cases Age [10-19],2020-07-26 00:00:00,CT,1690
+# Cases Age [20-29],2020-07-26 00:00:00,CT,6225
+# Cases Age [30-39],2020-07-26 00:00:00,CT,6979
+# Cases Age [40-49],2020-07-26 00:00:00,CT,6857
+# Cases Age [50-59],2020-07-26 00:00:00,CT,8190
+# Cases Age [60-69],2020-07-26 00:00:00,CT,6730
+# Cases Age [70-79],2020-07-26 00:00:00,CT,4491
+# Cases Age [80+],2020-07-26 00:00:00,CT,7022
+# Confirmed Cases Age [0-9],2020-07-26 00:00:00,CT,723
+# Confirmed Cases Age [10-19],2020-07-26 00:00:00,CT,1620
+# Confirmed Cases Age [20-29],2020-07-26 00:00:00,CT,6026
+# Confirmed Cases Age [30-39],2020-07-26 00:00:00,CT,6815
+# Confirmed Cases Age [40-49],2020-07-26 00:00:00,CT,6673
+# Confirmed Cases Age [50-59],2020-07-26 00:00:00,CT,7953
+# Confirmed Cases Age [60-69],2020-07-26 00:00:00,CT,6513
+# Confirmed Cases Age [70-79],2020-07-26 00:00:00,CT,4260
+# Confirmed Cases Age [80+],2020-07-26 00:00:00,CT,6363
+# Probable Cases Age [0-9],2020-07-26 00:00:00,CT,21
+# Probable Cases Age [10-19],2020-07-26 00:00:00,CT,70
+# Probable Cases Age [20-29],2020-07-26 00:00:00,CT,199
+# Probable Cases Age [30-39],2020-07-26 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-07-26 00:00:00,CT,184
+# Probable Cases Age [50-59],2020-07-26 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-07-26 00:00:00,CT,217
+# Probable Cases Age [70-79],2020-07-26 00:00:00,CT,231
+# Probable Cases Age [80+],2020-07-26 00:00:00,CT,659
+# Cases Age [0-9],2020-07-27 00:00:00,CT,749
+# Cases Age [10-19],2020-07-27 00:00:00,CT,1709
+# Cases Age [20-29],2020-07-27 00:00:00,CT,6244
+# Cases Age [30-39],2020-07-27 00:00:00,CT,6991
+# Cases Age [40-49],2020-07-27 00:00:00,CT,6870
+# Cases Age [50-59],2020-07-27 00:00:00,CT,8202
+# Cases Age [60-69],2020-07-27 00:00:00,CT,6736
+# Cases Age [70-79],2020-07-27 00:00:00,CT,4496
+# Cases Age [80+],2020-07-27 00:00:00,CT,7025
+# Confirmed Cases Age [0-9],2020-07-27 00:00:00,CT,728
+# Confirmed Cases Age [10-19],2020-07-27 00:00:00,CT,1640
+# Confirmed Cases Age [20-29],2020-07-27 00:00:00,CT,6045
+# Confirmed Cases Age [30-39],2020-07-27 00:00:00,CT,6827
+# Confirmed Cases Age [40-49],2020-07-27 00:00:00,CT,6686
+# Confirmed Cases Age [50-59],2020-07-27 00:00:00,CT,7965
+# Confirmed Cases Age [60-69],2020-07-27 00:00:00,CT,6519
+# Confirmed Cases Age [70-79],2020-07-27 00:00:00,CT,4266
+# Confirmed Cases Age [80+],2020-07-27 00:00:00,CT,6365
+# Probable Cases Age [0-9],2020-07-27 00:00:00,CT,21
+# Probable Cases Age [10-19],2020-07-27 00:00:00,CT,69
+# Probable Cases Age [20-29],2020-07-27 00:00:00,CT,199
+# Probable Cases Age [30-39],2020-07-27 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-07-27 00:00:00,CT,184
+# Probable Cases Age [50-59],2020-07-27 00:00:00,CT,237
+# Probable Cases Age [60-69],2020-07-27 00:00:00,CT,217
+# Probable Cases Age [70-79],2020-07-27 00:00:00,CT,230
+# Probable Cases Age [80+],2020-07-27 00:00:00,CT,660
+# Cases Age [0-9],2020-07-28 00:00:00,CT,757
+# Cases Age [10-19],2020-07-28 00:00:00,CT,1740
+# Cases Age [20-29],2020-07-28 00:00:00,CT,6330
+# Cases Age [30-39],2020-07-28 00:00:00,CT,7099
+# Cases Age [40-49],2020-07-28 00:00:00,CT,6948
+# Cases Age [50-59],2020-07-28 00:00:00,CT,8282
+# Cases Age [60-69],2020-07-28 00:00:00,CT,6775
+# Cases Age [70-79],2020-07-28 00:00:00,CT,4508
+# Cases Age [80+],2020-07-28 00:00:00,CT,7046
+# Confirmed Cases Age [0-9],2020-07-28 00:00:00,CT,736
+# Confirmed Cases Age [10-19],2020-07-28 00:00:00,CT,1676
+# Confirmed Cases Age [20-29],2020-07-28 00:00:00,CT,6141
+# Confirmed Cases Age [30-39],2020-07-28 00:00:00,CT,6936
+# Confirmed Cases Age [40-49],2020-07-28 00:00:00,CT,6766
+# Confirmed Cases Age [50-59],2020-07-28 00:00:00,CT,8050
+# Confirmed Cases Age [60-69],2020-07-28 00:00:00,CT,6564
+# Confirmed Cases Age [70-79],2020-07-28 00:00:00,CT,4278
+# Confirmed Cases Age [80+],2020-07-28 00:00:00,CT,6386
+# Probable Cases Age [0-9],2020-07-28 00:00:00,CT,21
+# Probable Cases Age [10-19],2020-07-28 00:00:00,CT,64
+# Probable Cases Age [20-29],2020-07-28 00:00:00,CT,189
+# Probable Cases Age [30-39],2020-07-28 00:00:00,CT,163
+# Probable Cases Age [40-49],2020-07-28 00:00:00,CT,182
+# Probable Cases Age [50-59],2020-07-28 00:00:00,CT,232
+# Probable Cases Age [60-69],2020-07-28 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-07-28 00:00:00,CT,230
+# Probable Cases Age [80+],2020-07-28 00:00:00,CT,660
+# Cases Age [0-9],2020-07-29 00:00:00,CT,763
+# Cases Age [10-19],2020-07-29 00:00:00,CT,1775
+# Cases Age [20-29],2020-07-29 00:00:00,CT,6357
+# Cases Age [30-39],2020-07-29 00:00:00,CT,7122
+# Cases Age [40-49],2020-07-29 00:00:00,CT,6953
+# Cases Age [50-59],2020-07-29 00:00:00,CT,8299
+# Cases Age [60-69],2020-07-29 00:00:00,CT,6784
+# Cases Age [70-79],2020-07-29 00:00:00,CT,4514
+# Cases Age [80+],2020-07-29 00:00:00,CT,7048
+# Confirmed Cases Age [0-9],2020-07-29 00:00:00,CT,742
+# Confirmed Cases Age [10-19],2020-07-29 00:00:00,CT,1711
+# Confirmed Cases Age [20-29],2020-07-29 00:00:00,CT,6168
+# Confirmed Cases Age [30-39],2020-07-29 00:00:00,CT,6962
+# Confirmed Cases Age [40-49],2020-07-29 00:00:00,CT,6771
+# Confirmed Cases Age [50-59],2020-07-29 00:00:00,CT,8069
+# Confirmed Cases Age [60-69],2020-07-29 00:00:00,CT,6574
+# Confirmed Cases Age [70-79],2020-07-29 00:00:00,CT,4284
+# Confirmed Cases Age [80+],2020-07-29 00:00:00,CT,6388
+# Probable Cases Age [0-9],2020-07-29 00:00:00,CT,21
+# Probable Cases Age [10-19],2020-07-29 00:00:00,CT,64
+# Probable Cases Age [20-29],2020-07-29 00:00:00,CT,189
+# Probable Cases Age [30-39],2020-07-29 00:00:00,CT,160
+# Probable Cases Age [40-49],2020-07-29 00:00:00,CT,182
+# Probable Cases Age [50-59],2020-07-29 00:00:00,CT,230
+# Probable Cases Age [60-69],2020-07-29 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-07-29 00:00:00,CT,230
+# Probable Cases Age [80+],2020-07-29 00:00:00,CT,660
+# Cases Age [0-9],2020-07-30 00:00:00,CT,775
+# Cases Age [10-19],2020-07-30 00:00:00,CT,1797
+# Cases Age [20-29],2020-07-30 00:00:00,CT,6395
+# Cases Age [30-39],2020-07-30 00:00:00,CT,7149
+# Cases Age [40-49],2020-07-30 00:00:00,CT,6974
+# Cases Age [50-59],2020-07-30 00:00:00,CT,8315
+# Cases Age [60-69],2020-07-30 00:00:00,CT,6789
+# Cases Age [70-79],2020-07-30 00:00:00,CT,4513
+# Cases Age [80+],2020-07-30 00:00:00,CT,7048
+# Confirmed Cases Age [0-9],2020-07-30 00:00:00,CT,753
+# Confirmed Cases Age [10-19],2020-07-30 00:00:00,CT,1732
+# Confirmed Cases Age [20-29],2020-07-30 00:00:00,CT,6206
+# Confirmed Cases Age [30-39],2020-07-30 00:00:00,CT,6987
+# Confirmed Cases Age [40-49],2020-07-30 00:00:00,CT,6793
+# Confirmed Cases Age [50-59],2020-07-30 00:00:00,CT,8084
+# Confirmed Cases Age [60-69],2020-07-30 00:00:00,CT,6579
+# Confirmed Cases Age [70-79],2020-07-30 00:00:00,CT,4284
+# Confirmed Cases Age [80+],2020-07-30 00:00:00,CT,6388
+# Probable Cases Age [0-9],2020-07-30 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-07-30 00:00:00,CT,65
+# Probable Cases Age [20-29],2020-07-30 00:00:00,CT,189
+# Probable Cases Age [30-39],2020-07-30 00:00:00,CT,162
+# Probable Cases Age [40-49],2020-07-30 00:00:00,CT,181
+# Probable Cases Age [50-59],2020-07-30 00:00:00,CT,231
+# Probable Cases Age [60-69],2020-07-30 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-07-30 00:00:00,CT,229
+# Probable Cases Age [80+],2020-07-30 00:00:00,CT,660
+# Cases Age [0-9],2020-08-02 00:00:00,CT,788
+# Cases Age [10-19],2020-08-02 00:00:00,CT,1841
+# Cases Age [20-29],2020-08-02 00:00:00,CT,6450
+# Cases Age [30-39],2020-08-02 00:00:00,CT,7199
+# Cases Age [40-49],2020-08-02 00:00:00,CT,7012
+# Cases Age [50-59],2020-08-02 00:00:00,CT,8344
+# Cases Age [60-69],2020-08-02 00:00:00,CT,6804
+# Cases Age [70-79],2020-08-02 00:00:00,CT,4519
+# Cases Age [80+],2020-08-02 00:00:00,CT,7051
+# Confirmed Cases Age [0-9],2020-08-02 00:00:00,CT,766
+# Confirmed Cases Age [10-19],2020-08-02 00:00:00,CT,1775
+# Confirmed Cases Age [20-29],2020-08-02 00:00:00,CT,6256
+# Confirmed Cases Age [30-39],2020-08-02 00:00:00,CT,7035
+# Confirmed Cases Age [40-49],2020-08-02 00:00:00,CT,6829
+# Confirmed Cases Age [50-59],2020-08-02 00:00:00,CT,8111
+# Confirmed Cases Age [60-69],2020-08-02 00:00:00,CT,6594
+# Confirmed Cases Age [70-79],2020-08-02 00:00:00,CT,4289
+# Confirmed Cases Age [80+],2020-08-02 00:00:00,CT,6391
+# Probable Cases Age [0-9],2020-08-02 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-08-02 00:00:00,CT,66
+# Probable Cases Age [20-29],2020-08-02 00:00:00,CT,194
+# Probable Cases Age [30-39],2020-08-02 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-08-02 00:00:00,CT,183
+# Probable Cases Age [50-59],2020-08-02 00:00:00,CT,233
+# Probable Cases Age [60-69],2020-08-02 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-08-02 00:00:00,CT,230
+# Probable Cases Age [80+],2020-08-02 00:00:00,CT,660
+# Cases Age [0-9],2020-08-03 00:00:00,CT,786
+# Cases Age [10-19],2020-08-03 00:00:00,CT,1848
+# Cases Age [20-29],2020-08-03 00:00:00,CT,6463
+# Cases Age [30-39],2020-08-03 00:00:00,CT,7208
+# Cases Age [40-49],2020-08-03 00:00:00,CT,7022
+# Cases Age [50-59],2020-08-03 00:00:00,CT,8347
+# Cases Age [60-69],2020-08-03 00:00:00,CT,6808
+# Cases Age [70-79],2020-08-03 00:00:00,CT,4522
+# Cases Age [80+],2020-08-03 00:00:00,CT,7052
+# Confirmed Cases Age [0-9],2020-08-03 00:00:00,CT,764
+# Confirmed Cases Age [10-19],2020-08-03 00:00:00,CT,1782
+# Confirmed Cases Age [20-29],2020-08-03 00:00:00,CT,6269
+# Confirmed Cases Age [30-39],2020-08-03 00:00:00,CT,7045
+# Confirmed Cases Age [40-49],2020-08-03 00:00:00,CT,6838
+# Confirmed Cases Age [50-59],2020-08-03 00:00:00,CT,8115
+# Confirmed Cases Age [60-69],2020-08-03 00:00:00,CT,6598
+# Confirmed Cases Age [70-79],2020-08-03 00:00:00,CT,4292
+# Confirmed Cases Age [80+],2020-08-03 00:00:00,CT,6392
+# Probable Cases Age [0-9],2020-08-03 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-08-03 00:00:00,CT,66
+# Probable Cases Age [20-29],2020-08-03 00:00:00,CT,194
+# Probable Cases Age [30-39],2020-08-03 00:00:00,CT,163
+# Probable Cases Age [40-49],2020-08-03 00:00:00,CT,184
+# Probable Cases Age [50-59],2020-08-03 00:00:00,CT,232
+# Probable Cases Age [60-69],2020-08-03 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-08-03 00:00:00,CT,230
+# Probable Cases Age [80+],2020-08-03 00:00:00,CT,660
+# Cases Age [0-9],2020-08-04 00:00:00,CT,793
+# Cases Age [10-19],2020-08-04 00:00:00,CT,1869
+# Cases Age [20-29],2020-08-04 00:00:00,CT,6481
+# Cases Age [30-39],2020-08-04 00:00:00,CT,7231
+# Cases Age [40-49],2020-08-04 00:00:00,CT,7042
+# Cases Age [50-59],2020-08-04 00:00:00,CT,8358
+# Cases Age [60-69],2020-08-04 00:00:00,CT,6816
+# Cases Age [70-79],2020-08-04 00:00:00,CT,4527
+# Cases Age [80+],2020-08-04 00:00:00,CT,7054
+# Confirmed Cases Age [0-9],2020-08-04 00:00:00,CT,771
+# Confirmed Cases Age [10-19],2020-08-04 00:00:00,CT,1802
+# Confirmed Cases Age [20-29],2020-08-04 00:00:00,CT,6287
+# Confirmed Cases Age [30-39],2020-08-04 00:00:00,CT,7068
+# Confirmed Cases Age [40-49],2020-08-04 00:00:00,CT,6859
+# Confirmed Cases Age [50-59],2020-08-04 00:00:00,CT,8127
+# Confirmed Cases Age [60-69],2020-08-04 00:00:00,CT,6606
+# Confirmed Cases Age [70-79],2020-08-04 00:00:00,CT,4297
+# Confirmed Cases Age [80+],2020-08-04 00:00:00,CT,6394
+# Probable Cases Age [0-9],2020-08-04 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-08-04 00:00:00,CT,67
+# Probable Cases Age [20-29],2020-08-04 00:00:00,CT,194
+# Probable Cases Age [30-39],2020-08-04 00:00:00,CT,163
+# Probable Cases Age [40-49],2020-08-04 00:00:00,CT,183
+# Probable Cases Age [50-59],2020-08-04 00:00:00,CT,231
+# Probable Cases Age [60-69],2020-08-04 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-08-04 00:00:00,CT,230
+# Probable Cases Age [80+],2020-08-04 00:00:00,CT,660
+# Cases Age [0-9],2020-08-05 00:00:00,CT,792
+# Cases Age [10-19],2020-08-05 00:00:00,CT,1871
+# Cases Age [20-29],2020-08-05 00:00:00,CT,6484
+# Cases Age [30-39],2020-08-05 00:00:00,CT,7233
+# Cases Age [40-49],2020-08-05 00:00:00,CT,7046
+# Cases Age [50-59],2020-08-05 00:00:00,CT,8363
+# Cases Age [60-69],2020-08-05 00:00:00,CT,6817
+# Cases Age [70-79],2020-08-05 00:00:00,CT,4529
+# Cases Age [80+],2020-08-05 00:00:00,CT,7054
+# Confirmed Cases Age [0-9],2020-08-05 00:00:00,CT,770
+# Confirmed Cases Age [10-19],2020-08-05 00:00:00,CT,1804
+# Confirmed Cases Age [20-29],2020-08-05 00:00:00,CT,6289
+# Confirmed Cases Age [30-39],2020-08-05 00:00:00,CT,7069
+# Confirmed Cases Age [40-49],2020-08-05 00:00:00,CT,6863
+# Confirmed Cases Age [50-59],2020-08-05 00:00:00,CT,8129
+# Confirmed Cases Age [60-69],2020-08-05 00:00:00,CT,6607
+# Confirmed Cases Age [70-79],2020-08-05 00:00:00,CT,4299
+# Confirmed Cases Age [80+],2020-08-05 00:00:00,CT,6394
+# Probable Cases Age [0-9],2020-08-05 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-08-05 00:00:00,CT,67
+# Probable Cases Age [20-29],2020-08-05 00:00:00,CT,195
+# Probable Cases Age [30-39],2020-08-05 00:00:00,CT,164
+# Probable Cases Age [40-49],2020-08-05 00:00:00,CT,183
+# Probable Cases Age [50-59],2020-08-05 00:00:00,CT,234
+# Probable Cases Age [60-69],2020-08-05 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-08-05 00:00:00,CT,230
+# Probable Cases Age [80+],2020-08-05 00:00:00,CT,660
+# Cases Age [0-9],2020-08-06 00:00:00,CT,795
+# Cases Age [10-19],2020-08-06 00:00:00,CT,1880
+# Cases Age [20-29],2020-08-06 00:00:00,CT,6499
+# Cases Age [30-39],2020-08-06 00:00:00,CT,7239
+# Cases Age [40-49],2020-08-06 00:00:00,CT,7056
+# Cases Age [50-59],2020-08-06 00:00:00,CT,8380
+# Cases Age [60-69],2020-08-06 00:00:00,CT,6826
+# Cases Age [70-79],2020-08-06 00:00:00,CT,4531
+# Cases Age [80+],2020-08-06 00:00:00,CT,7056
+# Confirmed Cases Age [0-9],2020-08-06 00:00:00,CT,772
+# Confirmed Cases Age [10-19],2020-08-06 00:00:00,CT,1813
+# Confirmed Cases Age [20-29],2020-08-06 00:00:00,CT,6304
+# Confirmed Cases Age [30-39],2020-08-06 00:00:00,CT,7076
+# Confirmed Cases Age [40-49],2020-08-06 00:00:00,CT,6872
+# Confirmed Cases Age [50-59],2020-08-06 00:00:00,CT,8146
+# Confirmed Cases Age [60-69],2020-08-06 00:00:00,CT,6615
+# Confirmed Cases Age [70-79],2020-08-06 00:00:00,CT,4301
+# Confirmed Cases Age [80+],2020-08-06 00:00:00,CT,6395
+# Probable Cases Age [0-9],2020-08-06 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-06 00:00:00,CT,67
+# Probable Cases Age [20-29],2020-08-06 00:00:00,CT,195
+# Probable Cases Age [30-39],2020-08-06 00:00:00,CT,163
+# Probable Cases Age [40-49],2020-08-06 00:00:00,CT,184
+# Probable Cases Age [50-59],2020-08-06 00:00:00,CT,234
+# Probable Cases Age [60-69],2020-08-06 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-08-06 00:00:00,CT,230
+# Probable Cases Age [80+],2020-08-06 00:00:00,CT,661
+# Cases Age [0-9],2020-08-09 00:00:00,CT,810
+# Cases Age [10-19],2020-08-09 00:00:00,CT,1915
+# Cases Age [20-29],2020-08-09 00:00:00,CT,6547
+# Cases Age [30-39],2020-08-09 00:00:00,CT,7281
+# Cases Age [40-49],2020-08-09 00:00:00,CT,7101
+# Cases Age [50-59],2020-08-09 00:00:00,CT,8414
+# Cases Age [60-69],2020-08-09 00:00:00,CT,6844
+# Cases Age [70-79],2020-08-09 00:00:00,CT,4538
+# Cases Age [80+],2020-08-09 00:00:00,CT,7059
+# Confirmed Cases Age [0-9],2020-08-09 00:00:00,CT,787
+# Confirmed Cases Age [10-19],2020-08-09 00:00:00,CT,1847
+# Confirmed Cases Age [20-29],2020-08-09 00:00:00,CT,6348
+# Confirmed Cases Age [30-39],2020-08-09 00:00:00,CT,7115
+# Confirmed Cases Age [40-49],2020-08-09 00:00:00,CT,6912
+# Confirmed Cases Age [50-59],2020-08-09 00:00:00,CT,8180
+# Confirmed Cases Age [60-69],2020-08-09 00:00:00,CT,6633
+# Confirmed Cases Age [70-79],2020-08-09 00:00:00,CT,4307
+# Confirmed Cases Age [80+],2020-08-09 00:00:00,CT,6397
+# Probable Cases Age [0-9],2020-08-09 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-09 00:00:00,CT,68
+# Probable Cases Age [20-29],2020-08-09 00:00:00,CT,199
+# Probable Cases Age [30-39],2020-08-09 00:00:00,CT,166
+# Probable Cases Age [40-49],2020-08-09 00:00:00,CT,189
+# Probable Cases Age [50-59],2020-08-09 00:00:00,CT,234
+# Probable Cases Age [60-69],2020-08-09 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-08-09 00:00:00,CT,231
+# Probable Cases Age [80+],2020-08-09 00:00:00,CT,662
+# Cases Age [0-9],2020-08-10 00:00:00,CT,817
+# Cases Age [10-19],2020-08-10 00:00:00,CT,1927
+# Cases Age [20-29],2020-08-10 00:00:00,CT,6572
+# Cases Age [30-39],2020-08-10 00:00:00,CT,7297
+# Cases Age [40-49],2020-08-10 00:00:00,CT,7118
+# Cases Age [50-59],2020-08-10 00:00:00,CT,8430
+# Cases Age [60-69],2020-08-10 00:00:00,CT,6853
+# Cases Age [70-79],2020-08-10 00:00:00,CT,4547
+# Cases Age [80+],2020-08-10 00:00:00,CT,7063
+# Confirmed Cases Age [0-9],2020-08-10 00:00:00,CT,794
+# Confirmed Cases Age [10-19],2020-08-10 00:00:00,CT,1858
+# Confirmed Cases Age [20-29],2020-08-10 00:00:00,CT,6370
+# Confirmed Cases Age [30-39],2020-08-10 00:00:00,CT,7132
+# Confirmed Cases Age [40-49],2020-08-10 00:00:00,CT,6929
+# Confirmed Cases Age [50-59],2020-08-10 00:00:00,CT,8194
+# Confirmed Cases Age [60-69],2020-08-10 00:00:00,CT,6642
+# Confirmed Cases Age [70-79],2020-08-10 00:00:00,CT,4316
+# Confirmed Cases Age [80+],2020-08-10 00:00:00,CT,6402
+# Probable Cases Age [0-9],2020-08-10 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-10 00:00:00,CT,69
+# Probable Cases Age [20-29],2020-08-10 00:00:00,CT,202
+# Probable Cases Age [30-39],2020-08-10 00:00:00,CT,165
+# Probable Cases Age [40-49],2020-08-10 00:00:00,CT,189
+# Probable Cases Age [50-59],2020-08-10 00:00:00,CT,236
+# Probable Cases Age [60-69],2020-08-10 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-08-10 00:00:00,CT,231
+# Probable Cases Age [80+],2020-08-10 00:00:00,CT,661
+# Cases Age [0-9],2020-08-11 00:00:00,CT,817
+# Cases Age [10-19],2020-08-11 00:00:00,CT,1932
+# Cases Age [20-29],2020-08-11 00:00:00,CT,6573
+# Cases Age [30-39],2020-08-11 00:00:00,CT,7299
+# Cases Age [40-49],2020-08-11 00:00:00,CT,7121
+# Cases Age [50-59],2020-08-11 00:00:00,CT,8435
+# Cases Age [60-69],2020-08-11 00:00:00,CT,6856
+# Cases Age [70-79],2020-08-11 00:00:00,CT,4549
+# Cases Age [80+],2020-08-11 00:00:00,CT,7064
+# Confirmed Cases Age [0-9],2020-08-11 00:00:00,CT,794
+# Confirmed Cases Age [10-19],2020-08-11 00:00:00,CT,1862
+# Confirmed Cases Age [20-29],2020-08-11 00:00:00,CT,6371
+# Confirmed Cases Age [30-39],2020-08-11 00:00:00,CT,7134
+# Confirmed Cases Age [40-49],2020-08-11 00:00:00,CT,6931
+# Confirmed Cases Age [50-59],2020-08-11 00:00:00,CT,8197
+# Confirmed Cases Age [60-69],2020-08-11 00:00:00,CT,6645
+# Confirmed Cases Age [70-79],2020-08-11 00:00:00,CT,4316
+# Confirmed Cases Age [80+],2020-08-11 00:00:00,CT,6402
+# Probable Cases Age [0-9],2020-08-11 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-11 00:00:00,CT,70
+# Probable Cases Age [20-29],2020-08-11 00:00:00,CT,202
+# Probable Cases Age [30-39],2020-08-11 00:00:00,CT,165
+# Probable Cases Age [40-49],2020-08-11 00:00:00,CT,190
+# Probable Cases Age [50-59],2020-08-11 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-08-11 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-08-11 00:00:00,CT,233
+# Probable Cases Age [80+],2020-08-11 00:00:00,CT,662
+# Cases Age [0-9],2020-08-12 00:00:00,CT,820
+# Cases Age [10-19],2020-08-12 00:00:00,CT,1947
+# Cases Age [20-29],2020-08-12 00:00:00,CT,6591
+# Cases Age [30-39],2020-08-12 00:00:00,CT,7314
+# Cases Age [40-49],2020-08-12 00:00:00,CT,7132
+# Cases Age [50-59],2020-08-12 00:00:00,CT,8440
+# Cases Age [60-69],2020-08-12 00:00:00,CT,6867
+# Cases Age [70-79],2020-08-12 00:00:00,CT,4550
+# Cases Age [80+],2020-08-12 00:00:00,CT,7067
+# Confirmed Cases Age [0-9],2020-08-12 00:00:00,CT,797
+# Confirmed Cases Age [10-19],2020-08-12 00:00:00,CT,1877
+# Confirmed Cases Age [20-29],2020-08-12 00:00:00,CT,6386
+# Confirmed Cases Age [30-39],2020-08-12 00:00:00,CT,7146
+# Confirmed Cases Age [40-49],2020-08-12 00:00:00,CT,6941
+# Confirmed Cases Age [50-59],2020-08-12 00:00:00,CT,8202
+# Confirmed Cases Age [60-69],2020-08-12 00:00:00,CT,6656
+# Confirmed Cases Age [70-79],2020-08-12 00:00:00,CT,4317
+# Confirmed Cases Age [80+],2020-08-12 00:00:00,CT,6405
+# Probable Cases Age [0-9],2020-08-12 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-12 00:00:00,CT,70
+# Probable Cases Age [20-29],2020-08-12 00:00:00,CT,205
+# Probable Cases Age [30-39],2020-08-12 00:00:00,CT,168
+# Probable Cases Age [40-49],2020-08-12 00:00:00,CT,191
+# Probable Cases Age [50-59],2020-08-12 00:00:00,CT,238
+# Probable Cases Age [60-69],2020-08-12 00:00:00,CT,211
+# Probable Cases Age [70-79],2020-08-12 00:00:00,CT,233
+# Probable Cases Age [80+],2020-08-12 00:00:00,CT,662
+# Cases Age [0-9],2020-08-13 00:00:00,CT,826
+# Cases Age [10-19],2020-08-13 00:00:00,CT,1955
+# Cases Age [20-29],2020-08-13 00:00:00,CT,6620
+# Cases Age [30-39],2020-08-13 00:00:00,CT,7331
+# Cases Age [40-49],2020-08-13 00:00:00,CT,7151
+# Cases Age [50-59],2020-08-13 00:00:00,CT,8455
+# Cases Age [60-69],2020-08-13 00:00:00,CT,6879
+# Cases Age [70-79],2020-08-13 00:00:00,CT,4556
+# Cases Age [80+],2020-08-13 00:00:00,CT,7071
+# Confirmed Cases Age [0-9],2020-08-13 00:00:00,CT,804
+# Confirmed Cases Age [10-19],2020-08-13 00:00:00,CT,1886
+# Confirmed Cases Age [20-29],2020-08-13 00:00:00,CT,6415
+# Confirmed Cases Age [30-39],2020-08-13 00:00:00,CT,7164
+# Confirmed Cases Age [40-49],2020-08-13 00:00:00,CT,6959
+# Confirmed Cases Age [50-59],2020-08-13 00:00:00,CT,8216
+# Confirmed Cases Age [60-69],2020-08-13 00:00:00,CT,6667
+# Confirmed Cases Age [70-79],2020-08-13 00:00:00,CT,4321
+# Confirmed Cases Age [80+],2020-08-13 00:00:00,CT,6409
+# Probable Cases Age [0-9],2020-08-13 00:00:00,CT,22
+# Probable Cases Age [10-19],2020-08-13 00:00:00,CT,69
+# Probable Cases Age [20-29],2020-08-13 00:00:00,CT,205
+# Probable Cases Age [30-39],2020-08-13 00:00:00,CT,167
+# Probable Cases Age [40-49],2020-08-13 00:00:00,CT,192
+# Probable Cases Age [50-59],2020-08-13 00:00:00,CT,239
+# Probable Cases Age [60-69],2020-08-13 00:00:00,CT,212
+# Probable Cases Age [70-79],2020-08-13 00:00:00,CT,235
+# Probable Cases Age [80+],2020-08-13 00:00:00,CT,662
+# Cases Age [0-9],2020-08-16 00:00:00,CT,846
+# Cases Age [10-19],2020-08-16 00:00:00,CT,2009
+# Cases Age [20-29],2020-08-16 00:00:00,CT,6694
+# Cases Age [30-39],2020-08-16 00:00:00,CT,7407
+# Cases Age [40-49],2020-08-16 00:00:00,CT,7205
+# Cases Age [50-59],2020-08-16 00:00:00,CT,8502
+# Cases Age [60-69],2020-08-16 00:00:00,CT,6900
+# Cases Age [70-79],2020-08-16 00:00:00,CT,4572
+# Cases Age [80+],2020-08-16 00:00:00,CT,7079
+# Confirmed Cases Age [0-9],2020-08-16 00:00:00,CT,823
+# Confirmed Cases Age [10-19],2020-08-16 00:00:00,CT,1939
+# Confirmed Cases Age [20-29],2020-08-16 00:00:00,CT,6487
+# Confirmed Cases Age [30-39],2020-08-16 00:00:00,CT,7237
+# Confirmed Cases Age [40-49],2020-08-16 00:00:00,CT,7012
+# Confirmed Cases Age [50-59],2020-08-16 00:00:00,CT,8261
+# Confirmed Cases Age [60-69],2020-08-16 00:00:00,CT,6691
+# Confirmed Cases Age [70-79],2020-08-16 00:00:00,CT,4337
+# Confirmed Cases Age [80+],2020-08-16 00:00:00,CT,6418
+# Probable Cases Age [0-9],2020-08-16 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-16 00:00:00,CT,70
+# Probable Cases Age [20-29],2020-08-16 00:00:00,CT,207
+# Probable Cases Age [30-39],2020-08-16 00:00:00,CT,170
+# Probable Cases Age [40-49],2020-08-16 00:00:00,CT,193
+# Probable Cases Age [50-59],2020-08-16 00:00:00,CT,241
+# Probable Cases Age [60-69],2020-08-16 00:00:00,CT,209
+# Probable Cases Age [70-79],2020-08-16 00:00:00,CT,235
+# Probable Cases Age [80+],2020-08-16 00:00:00,CT,661
+# Cases Age [0-9],2020-08-17 00:00:00,CT,846
+# Cases Age [10-19],2020-08-17 00:00:00,CT,2012
+# Cases Age [20-29],2020-08-17 00:00:00,CT,6697
+# Cases Age [30-39],2020-08-17 00:00:00,CT,7407
+# Cases Age [40-49],2020-08-17 00:00:00,CT,7204
+# Cases Age [50-59],2020-08-17 00:00:00,CT,8500
+# Cases Age [60-69],2020-08-17 00:00:00,CT,6897
+# Cases Age [70-79],2020-08-17 00:00:00,CT,4567
+# Cases Age [80+],2020-08-17 00:00:00,CT,7072
+# Confirmed Cases Age [0-9],2020-08-17 00:00:00,CT,823
+# Confirmed Cases Age [10-19],2020-08-17 00:00:00,CT,1941
+# Confirmed Cases Age [20-29],2020-08-17 00:00:00,CT,6490
+# Confirmed Cases Age [30-39],2020-08-17 00:00:00,CT,7236
+# Confirmed Cases Age [40-49],2020-08-17 00:00:00,CT,7011
+# Confirmed Cases Age [50-59],2020-08-17 00:00:00,CT,8259
+# Confirmed Cases Age [60-69],2020-08-17 00:00:00,CT,6688
+# Confirmed Cases Age [70-79],2020-08-17 00:00:00,CT,4332
+# Confirmed Cases Age [80+],2020-08-17 00:00:00,CT,6410
+# Probable Cases Age [0-9],2020-08-17 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-17 00:00:00,CT,71
+# Probable Cases Age [20-29],2020-08-17 00:00:00,CT,207
+# Probable Cases Age [30-39],2020-08-17 00:00:00,CT,171
+# Probable Cases Age [40-49],2020-08-17 00:00:00,CT,193
+# Probable Cases Age [50-59],2020-08-17 00:00:00,CT,241
+# Probable Cases Age [60-69],2020-08-17 00:00:00,CT,209
+# Probable Cases Age [70-79],2020-08-17 00:00:00,CT,235
+# Probable Cases Age [80+],2020-08-17 00:00:00,CT,662
+# Cases Age [0-9],2020-08-18 00:00:00,CT,848
+# Cases Age [10-19],2020-08-18 00:00:00,CT,2023
+# Cases Age [20-29],2020-08-18 00:00:00,CT,6707
+# Cases Age [30-39],2020-08-18 00:00:00,CT,7419
+# Cases Age [40-49],2020-08-18 00:00:00,CT,7211
+# Cases Age [50-59],2020-08-18 00:00:00,CT,8510
+# Cases Age [60-69],2020-08-18 00:00:00,CT,6901
+# Cases Age [70-79],2020-08-18 00:00:00,CT,4567
+# Cases Age [80+],2020-08-18 00:00:00,CT,7075
+# Confirmed Cases Age [0-9],2020-08-18 00:00:00,CT,825
+# Confirmed Cases Age [10-19],2020-08-18 00:00:00,CT,1950
+# Confirmed Cases Age [20-29],2020-08-18 00:00:00,CT,6497
+# Confirmed Cases Age [30-39],2020-08-18 00:00:00,CT,7249
+# Confirmed Cases Age [40-49],2020-08-18 00:00:00,CT,7017
+# Confirmed Cases Age [50-59],2020-08-18 00:00:00,CT,8268
+# Confirmed Cases Age [60-69],2020-08-18 00:00:00,CT,6692
+# Confirmed Cases Age [70-79],2020-08-18 00:00:00,CT,4332
+# Confirmed Cases Age [80+],2020-08-18 00:00:00,CT,6413
+# Probable Cases Age [0-9],2020-08-18 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-18 00:00:00,CT,73
+# Probable Cases Age [20-29],2020-08-18 00:00:00,CT,210
+# Probable Cases Age [30-39],2020-08-18 00:00:00,CT,170
+# Probable Cases Age [40-49],2020-08-18 00:00:00,CT,194
+# Probable Cases Age [50-59],2020-08-18 00:00:00,CT,242
+# Probable Cases Age [60-69],2020-08-18 00:00:00,CT,209
+# Probable Cases Age [70-79],2020-08-18 00:00:00,CT,235
+# Probable Cases Age [80+],2020-08-18 00:00:00,CT,662
+# Cases Age [0-9],2020-08-19 00:00:00,CT,856
+# Cases Age [10-19],2020-08-19 00:00:00,CT,2035
+# Cases Age [20-29],2020-08-19 00:00:00,CT,6733
+# Cases Age [30-39],2020-08-19 00:00:00,CT,7436
+# Cases Age [40-49],2020-08-19 00:00:00,CT,7225
+# Cases Age [50-59],2020-08-19 00:00:00,CT,8529
+# Cases Age [60-69],2020-08-19 00:00:00,CT,6910
+# Cases Age [70-79],2020-08-19 00:00:00,CT,4575
+# Cases Age [80+],2020-08-19 00:00:00,CT,7080
+# Confirmed Cases Age [0-9],2020-08-19 00:00:00,CT,833
+# Confirmed Cases Age [10-19],2020-08-19 00:00:00,CT,1962
+# Confirmed Cases Age [20-29],2020-08-19 00:00:00,CT,6520
+# Confirmed Cases Age [30-39],2020-08-19 00:00:00,CT,7264
+# Confirmed Cases Age [40-49],2020-08-19 00:00:00,CT,7032
+# Confirmed Cases Age [50-59],2020-08-19 00:00:00,CT,8285
+# Confirmed Cases Age [60-69],2020-08-19 00:00:00,CT,6701
+# Confirmed Cases Age [70-79],2020-08-19 00:00:00,CT,4341
+# Confirmed Cases Age [80+],2020-08-19 00:00:00,CT,6418
+# Probable Cases Age [0-9],2020-08-19 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-19 00:00:00,CT,73
+# Probable Cases Age [20-29],2020-08-19 00:00:00,CT,213
+# Probable Cases Age [30-39],2020-08-19 00:00:00,CT,172
+# Probable Cases Age [40-49],2020-08-19 00:00:00,CT,193
+# Probable Cases Age [50-59],2020-08-19 00:00:00,CT,244
+# Probable Cases Age [60-69],2020-08-19 00:00:00,CT,209
+# Probable Cases Age [70-79],2020-08-19 00:00:00,CT,234
+# Probable Cases Age [80+],2020-08-19 00:00:00,CT,662
+# Cases Age [0-9],2020-08-20 00:00:00,CT,862
+# Cases Age [10-19],2020-08-20 00:00:00,CT,2050
+# Cases Age [20-29],2020-08-20 00:00:00,CT,6751
+# Cases Age [30-39],2020-08-20 00:00:00,CT,7442
+# Cases Age [40-49],2020-08-20 00:00:00,CT,7237
+# Cases Age [50-59],2020-08-20 00:00:00,CT,8540
+# Cases Age [60-69],2020-08-20 00:00:00,CT,6919
+# Cases Age [70-79],2020-08-20 00:00:00,CT,4578
+# Cases Age [80+],2020-08-20 00:00:00,CT,7087
+# Confirmed Cases Age [0-9],2020-08-20 00:00:00,CT,839
+# Confirmed Cases Age [10-19],2020-08-20 00:00:00,CT,1975
+# Confirmed Cases Age [20-29],2020-08-20 00:00:00,CT,6536
+# Confirmed Cases Age [30-39],2020-08-20 00:00:00,CT,7268
+# Confirmed Cases Age [40-49],2020-08-20 00:00:00,CT,7042
+# Confirmed Cases Age [50-59],2020-08-20 00:00:00,CT,8293
+# Confirmed Cases Age [60-69],2020-08-20 00:00:00,CT,6709
+# Confirmed Cases Age [70-79],2020-08-20 00:00:00,CT,4344
+# Confirmed Cases Age [80+],2020-08-20 00:00:00,CT,6425
+# Probable Cases Age [0-9],2020-08-20 00:00:00,CT,23
+# Probable Cases Age [10-19],2020-08-20 00:00:00,CT,75
+# Probable Cases Age [20-29],2020-08-20 00:00:00,CT,215
+# Probable Cases Age [30-39],2020-08-20 00:00:00,CT,174
+# Probable Cases Age [40-49],2020-08-20 00:00:00,CT,195
+# Probable Cases Age [50-59],2020-08-20 00:00:00,CT,247
+# Probable Cases Age [60-69],2020-08-20 00:00:00,CT,210
+# Probable Cases Age [70-79],2020-08-20 00:00:00,CT,234
+# Probable Cases Age [80+],2020-08-20 00:00:00,CT,662
+# Cases Age [0-9],2020-05-30 00:00:00,CT,508
+# Cases Age [10-19],2020-05-30 00:00:00,CT,1078
+# Cases Age [20-29],2020-05-30 00:00:00,CT,4763
+# Cases Age [30-39],2020-05-30 00:00:00,CT,5867
+# Cases Age [40-49],2020-05-30 00:00:00,CT,5949
+# Cases Age [50-59],2020-05-30 00:00:00,CT,7286
+# Cases Age [60-69],2020-05-30 00:00:00,CT,6147
+# Cases Age [70-79],2020-05-30 00:00:00,CT,4099
+# Cases Age [80+],2020-05-30 00:00:00,CT,6378
+# Confirmed Cases Age [0-9],2020-05-30 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-30 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-30 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-30 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-30 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-30 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-30 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-30 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-30 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-30 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-29 00:00:00,CT,501
+# Cases Age [10-19],2020-05-29 00:00:00,CT,1072
+# Cases Age [20-29],2020-05-29 00:00:00,CT,4751
+# Cases Age [30-39],2020-05-29 00:00:00,CT,5855
+# Cases Age [40-49],2020-05-29 00:00:00,CT,5933
+# Cases Age [50-59],2020-05-29 00:00:00,CT,7257
+# Cases Age [60-69],2020-05-29 00:00:00,CT,6122
+# Cases Age [70-79],2020-05-29 00:00:00,CT,4076
+# Cases Age [80+],2020-05-29 00:00:00,CT,6333
+# Confirmed Cases Age [0-9],2020-05-29 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-29 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-29 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-29 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-29 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-29 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-29 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-29 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-29 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-29 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-28 00:00:00,CT,488
+# Cases Age [10-19],2020-05-28 00:00:00,CT,1059
+# Cases Age [20-29],2020-05-28 00:00:00,CT,4702
+# Cases Age [30-39],2020-05-28 00:00:00,CT,5829
+# Cases Age [40-49],2020-05-28 00:00:00,CT,5896
+# Cases Age [50-59],2020-05-28 00:00:00,CT,7219
+# Cases Age [60-69],2020-05-28 00:00:00,CT,6096
+# Cases Age [70-79],2020-05-28 00:00:00,CT,4055
+# Cases Age [80+],2020-05-28 00:00:00,CT,6299
+# Confirmed Cases Age [0-9],2020-05-28 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-28 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-28 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-28 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-28 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-28 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-28 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-28 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-28 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-28 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-27 00:00:00,CT,481
+# Cases Age [10-19],2020-05-27 00:00:00,CT,1050
+# Cases Age [20-29],2020-05-27 00:00:00,CT,4682
+# Cases Age [30-39],2020-05-27 00:00:00,CT,5791
+# Cases Age [40-49],2020-05-27 00:00:00,CT,5871
+# Cases Age [50-59],2020-05-27 00:00:00,CT,7200
+# Cases Age [60-69],2020-05-27 00:00:00,CT,6067
+# Cases Age [70-79],2020-05-27 00:00:00,CT,4039
+# Cases Age [80+],2020-05-27 00:00:00,CT,6265
+# Confirmed Cases Age [0-9],2020-05-27 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-27 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-27 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-27 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-27 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-27 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-27 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-27 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-27 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-27 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-26 00:00:00,CT,477
+# Cases Age [10-19],2020-05-26 00:00:00,CT,1040
+# Cases Age [20-29],2020-05-26 00:00:00,CT,4641
+# Cases Age [30-39],2020-05-26 00:00:00,CT,5753
+# Cases Age [40-49],2020-05-26 00:00:00,CT,5846
+# Cases Age [50-59],2020-05-26 00:00:00,CT,7150
+# Cases Age [60-69],2020-05-26 00:00:00,CT,6025
+# Cases Age [70-79],2020-05-26 00:00:00,CT,4022
+# Cases Age [80+],2020-05-26 00:00:00,CT,6222
+# Confirmed Cases Age [0-9],2020-05-26 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-26 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-26 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-26 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-26 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-26 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-26 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-26 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-26 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-26 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-25 00:00:00,CT,465
+# Cases Age [10-19],2020-05-25 00:00:00,CT,1040
+# Cases Age [20-29],2020-05-25 00:00:00,CT,4650
+# Cases Age [30-39],2020-05-25 00:00:00,CT,5747
+# Cases Age [40-49],2020-05-25 00:00:00,CT,5882
+# Cases Age [50-59],2020-05-25 00:00:00,CT,7184
+# Cases Age [60-69],2020-05-25 00:00:00,CT,6021
+# Cases Age [70-79],2020-05-25 00:00:00,CT,4016
+# Cases Age [80+],2020-05-25 00:00:00,CT,6165
+# Confirmed Cases Age [0-9],2020-05-25 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-25 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-25 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-25 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-25 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-25 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-25 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-25 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-25 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-25 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-24 00:00:00,CT,459
+# Cases Age [10-19],2020-05-24 00:00:00,CT,1016
+# Cases Age [20-29],2020-05-24 00:00:00,CT,4590
+# Cases Age [30-39],2020-05-24 00:00:00,CT,5705
+# Cases Age [40-49],2020-05-24 00:00:00,CT,5788
+# Cases Age [50-59],2020-05-24 00:00:00,CT,7087
+# Cases Age [60-69],2020-05-24 00:00:00,CT,5971
+# Cases Age [70-79],2020-05-24 00:00:00,CT,3995
+# Cases Age [80+],2020-05-24 00:00:00,CT,6147
+# Confirmed Cases Age [0-9],2020-05-24 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-24 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-24 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-24 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-24 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-24 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-24 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-24 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-24 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-24 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-23 00:00:00,CT,446
+# Cases Age [10-19],2020-05-23 00:00:00,CT,992
+# Cases Age [20-29],2020-05-23 00:00:00,CT,4532
+# Cases Age [30-39],2020-05-23 00:00:00,CT,5636
+# Cases Age [40-49],2020-05-23 00:00:00,CT,5723
+# Cases Age [50-59],2020-05-23 00:00:00,CT,7027
+# Cases Age [60-69],2020-05-23 00:00:00,CT,5916
+# Cases Age [70-79],2020-05-23 00:00:00,CT,3961
+# Cases Age [80+],2020-05-23 00:00:00,CT,6100
+# Confirmed Cases Age [0-9],2020-05-23 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-23 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-23 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-23 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-23 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-23 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-23 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-23 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-23 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-23 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-22 00:00:00,CT,436
+# Cases Age [10-19],2020-05-22 00:00:00,CT,981
+# Cases Age [20-29],2020-05-22 00:00:00,CT,4479
+# Cases Age [30-39],2020-05-22 00:00:00,CT,5563
+# Cases Age [40-49],2020-05-22 00:00:00,CT,5674
+# Cases Age [50-59],2020-05-22 00:00:00,CT,6974
+# Cases Age [60-69],2020-05-22 00:00:00,CT,5882
+# Cases Age [70-79],2020-05-22 00:00:00,CT,3905
+# Cases Age [80+],2020-05-22 00:00:00,CT,5992
+# Confirmed Cases Age [0-9],2020-05-22 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-22 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-22 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-22 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-22 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-22 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-22 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-22 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-22 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-22 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-21 00:00:00,CT,421
+# Cases Age [10-19],2020-05-21 00:00:00,CT,966
+# Cases Age [20-29],2020-05-21 00:00:00,CT,4417
+# Cases Age [30-39],2020-05-21 00:00:00,CT,5505
+# Cases Age [40-49],2020-05-21 00:00:00,CT,5619
+# Cases Age [50-59],2020-05-21 00:00:00,CT,6922
+# Cases Age [60-69],2020-05-21 00:00:00,CT,5845
+# Cases Age [70-79],2020-05-21 00:00:00,CT,3881
+# Cases Age [80+],2020-05-21 00:00:00,CT,5947
+# Confirmed Cases Age [0-9],2020-05-21 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-21 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-21 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-21 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-21 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-21 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-21 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-21 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-21 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-21 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-20 00:00:00,CT,409
+# Cases Age [10-19],2020-05-20 00:00:00,CT,942
+# Cases Age [20-29],2020-05-20 00:00:00,CT,4368
+# Cases Age [30-39],2020-05-20 00:00:00,CT,5449
+# Cases Age [40-49],2020-05-20 00:00:00,CT,5571
+# Cases Age [50-59],2020-05-20 00:00:00,CT,6857
+# Cases Age [60-69],2020-05-20 00:00:00,CT,5787
+# Cases Age [70-79],2020-05-20 00:00:00,CT,3842
+# Cases Age [80+],2020-05-20 00:00:00,CT,5863
+# Confirmed Cases Age [0-9],2020-05-20 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-20 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-20 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-20 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-20 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-20 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-20 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-20 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-20 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-20 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-19 04:00:00,CT,407
+# Cases Age [10-19],2020-05-19 04:00:00,CT,935
+# Cases Age [20-29],2020-05-19 04:00:00,CT,4338
+# Cases Age [30-39],2020-05-19 04:00:00,CT,5423
+# Cases Age [40-49],2020-05-19 04:00:00,CT,5549
+# Cases Age [50-59],2020-05-19 04:00:00,CT,6833
+# Cases Age [60-69],2020-05-19 04:00:00,CT,5764
+# Cases Age [70-79],2020-05-19 04:00:00,CT,3829
+# Cases Age [80+],2020-05-19 04:00:00,CT,5817
+# Confirmed Cases Age [0-9],2020-05-19 04:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-19 04:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-19 04:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-19 04:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-19 04:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-19 04:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-19 04:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-19 04:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-19 04:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-19 04:00:00,CT,nan
+# Cases Age [0-9],2020-05-18 00:00:00,CT,386
+# Cases Age [10-19],2020-05-18 00:00:00,CT,897
+# Cases Age [20-29],2020-05-18 00:00:00,CT,4264
+# Cases Age [30-39],2020-05-18 00:00:00,CT,5340
+# Cases Age [40-49],2020-05-18 00:00:00,CT,5475
+# Cases Age [50-59],2020-05-18 00:00:00,CT,6739
+# Cases Age [60-69],2020-05-18 00:00:00,CT,5686
+# Cases Age [70-79],2020-05-18 00:00:00,CT,3772
+# Cases Age [80+],2020-05-18 00:00:00,CT,5748
+# Confirmed Cases Age [0-9],2020-05-18 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-18 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-18 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-18 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-18 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-18 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-18 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-18 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-18 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-18 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-17 00:00:00,CT,376
+# Cases Age [10-19],2020-05-17 00:00:00,CT,900
+# Cases Age [20-29],2020-05-17 00:00:00,CT,4247
+# Cases Age [30-39],2020-05-17 00:00:00,CT,5297
+# Cases Age [40-49],2020-05-17 00:00:00,CT,5427
+# Cases Age [50-59],2020-05-17 00:00:00,CT,6690
+# Cases Age [60-69],2020-05-17 00:00:00,CT,5620
+# Cases Age [70-79],2020-05-17 00:00:00,CT,3742
+# Cases Age [80+],2020-05-17 00:00:00,CT,5681
+# Confirmed Cases Age [0-9],2020-05-17 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-17 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-17 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-17 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-17 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-17 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-17 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-17 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-17 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-17 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-16 00:00:00,CT,352
+# Cases Age [10-19],2020-05-16 00:00:00,CT,852
+# Cases Age [20-29],2020-05-16 00:00:00,CT,4131
+# Cases Age [30-39],2020-05-16 00:00:00,CT,5236
+# Cases Age [40-49],2020-05-16 00:00:00,CT,5345
+# Cases Age [50-59],2020-05-16 00:00:00,CT,6597
+# Cases Age [60-69],2020-05-16 00:00:00,CT,5568
+# Cases Age [70-79],2020-05-16 00:00:00,CT,3668
+# Cases Age [80+],2020-05-16 00:00:00,CT,5545
+# Confirmed Cases Age [0-9],2020-05-16 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-16 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-16 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-16 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-16 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-16 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-16 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-16 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-16 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-16 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-15 00:00:00,CT,339
+# Cases Age [10-19],2020-05-15 00:00:00,CT,830
+# Cases Age [20-29],2020-05-15 00:00:00,CT,4037
+# Cases Age [30-39],2020-05-15 00:00:00,CT,5123
+# Cases Age [40-49],2020-05-15 00:00:00,CT,5251
+# Cases Age [50-59],2020-05-15 00:00:00,CT,6453
+# Cases Age [60-69],2020-05-15 00:00:00,CT,5457
+# Cases Age [70-79],2020-05-15 00:00:00,CT,3609
+# Cases Age [80+],2020-05-15 00:00:00,CT,5463
+# Confirmed Cases Age [0-9],2020-05-15 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-15 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-15 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-15 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-15 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-15 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-15 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-15 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-15 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-15 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-14 00:00:00,CT,332
+# Cases Age [10-19],2020-05-14 00:00:00,CT,810
+# Cases Age [20-29],2020-05-14 00:00:00,CT,3955
+# Cases Age [30-39],2020-05-14 00:00:00,CT,5035
+# Cases Age [40-49],2020-05-14 00:00:00,CT,5184
+# Cases Age [50-59],2020-05-14 00:00:00,CT,6363
+# Cases Age [60-69],2020-05-14 00:00:00,CT,5381
+# Cases Age [70-79],2020-05-14 00:00:00,CT,3549
+# Cases Age [80+],2020-05-14 00:00:00,CT,5343
+# Confirmed Cases Age [0-9],2020-05-14 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-14 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-14 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-14 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-14 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-14 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-14 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-14 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-14 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-14 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-13 00:00:00,CT,328
+# Cases Age [10-19],2020-05-13 00:00:00,CT,789
+# Cases Age [20-29],2020-05-13 00:00:00,CT,3866
+# Cases Age [30-39],2020-05-13 00:00:00,CT,4934
+# Cases Age [40-49],2020-05-13 00:00:00,CT,5095
+# Cases Age [50-59],2020-05-13 00:00:00,CT,6266
+# Cases Age [60-69],2020-05-13 00:00:00,CT,5299
+# Cases Age [70-79],2020-05-13 00:00:00,CT,3495
+# Cases Age [80+],2020-05-13 00:00:00,CT,5260
+# Confirmed Cases Age [0-9],2020-05-13 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-13 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-13 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-13 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-13 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-13 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-13 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-13 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-13 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-13 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-12 00:00:00,CT,313
+# Cases Age [10-19],2020-05-12 00:00:00,CT,765
+# Cases Age [20-29],2020-05-12 00:00:00,CT,3825
+# Cases Age [30-39],2020-05-12 00:00:00,CT,4858
+# Cases Age [40-49],2020-05-12 00:00:00,CT,5036
+# Cases Age [50-59],2020-05-12 00:00:00,CT,6159
+# Cases Age [60-69],2020-05-12 00:00:00,CT,5209
+# Cases Age [70-79],2020-05-12 00:00:00,CT,3432
+# Cases Age [80+],2020-05-12 00:00:00,CT,5131
+# Confirmed Cases Age [0-9],2020-05-12 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-12 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-12 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-12 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-12 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-12 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-12 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-12 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-12 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-12 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-11 00:00:00,CT,303
+# Cases Age [10-19],2020-05-11 00:00:00,CT,748
+# Cases Age [20-29],2020-05-11 00:00:00,CT,3739
+# Cases Age [30-39],2020-05-11 00:00:00,CT,4777
+# Cases Age [40-49],2020-05-11 00:00:00,CT,4970
+# Cases Age [50-59],2020-05-11 00:00:00,CT,6088
+# Cases Age [60-69],2020-05-11 00:00:00,CT,5152
+# Cases Age [70-79],2020-05-11 00:00:00,CT,3384
+# Cases Age [80+],2020-05-11 00:00:00,CT,5032
+# Confirmed Cases Age [0-9],2020-05-11 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-11 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-11 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-11 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-11 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-11 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-11 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-11 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-11 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-11 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-10 00:00:00,CT,289
+# Cases Age [10-19],2020-05-10 00:00:00,CT,729
+# Cases Age [20-29],2020-05-10 00:00:00,CT,3664
+# Cases Age [30-39],2020-05-10 00:00:00,CT,4677
+# Cases Age [40-49],2020-05-10 00:00:00,CT,4898
+# Cases Age [50-59],2020-05-10 00:00:00,CT,5996
+# Cases Age [60-69],2020-05-10 00:00:00,CT,5091
+# Cases Age [70-79],2020-05-10 00:00:00,CT,3330
+# Cases Age [80+],2020-05-10 00:00:00,CT,4950
+# Confirmed Cases Age [0-9],2020-05-10 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-10 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-10 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-10 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-10 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-10 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-10 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-10 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-10 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-10 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-09 00:00:00,CT,287
+# Cases Age [10-19],2020-05-09 00:00:00,CT,724
+# Cases Age [20-29],2020-05-09 00:00:00,CT,3649
+# Cases Age [30-39],2020-05-09 00:00:00,CT,4661
+# Cases Age [40-49],2020-05-09 00:00:00,CT,4870
+# Cases Age [50-59],2020-05-09 00:00:00,CT,5956
+# Cases Age [60-69],2020-05-09 00:00:00,CT,5060
+# Cases Age [70-79],2020-05-09 00:00:00,CT,3304
+# Cases Age [80+],2020-05-09 00:00:00,CT,4902
+# Confirmed Cases Age [0-9],2020-05-09 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-09 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-09 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-09 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-09 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-09 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-09 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-09 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-09 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-09 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-08 00:00:00,CT,280
+# Cases Age [10-19],2020-05-08 00:00:00,CT,709
+# Cases Age [20-29],2020-05-08 00:00:00,CT,3577
+# Cases Age [30-39],2020-05-08 00:00:00,CT,4587
+# Cases Age [40-49],2020-05-08 00:00:00,CT,4799
+# Cases Age [50-59],2020-05-08 00:00:00,CT,5852
+# Cases Age [60-69],2020-05-08 00:00:00,CT,4974
+# Cases Age [70-79],2020-05-08 00:00:00,CT,3266
+# Cases Age [80+],2020-05-08 00:00:00,CT,4805
+# Confirmed Cases Age [0-9],2020-05-08 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-08 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-08 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-08 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-08 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-08 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-08 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-08 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-08 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-08 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-07 00:00:00,CT,267
+# Cases Age [10-19],2020-05-07 00:00:00,CT,684
+# Cases Age [20-29],2020-05-07 00:00:00,CT,3506
+# Cases Age [30-39],2020-05-07 00:00:00,CT,4505
+# Cases Age [40-49],2020-05-07 00:00:00,CT,4728
+# Cases Age [50-59],2020-05-07 00:00:00,CT,5768
+# Cases Age [60-69],2020-05-07 00:00:00,CT,4894
+# Cases Age [70-79],2020-05-07 00:00:00,CT,3216
+# Cases Age [80+],2020-05-07 00:00:00,CT,4704
+# Confirmed Cases Age [0-9],2020-05-07 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-07 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-07 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-07 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-07 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-07 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-07 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-07 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-07 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-07 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-06 00:00:00,CT,256
+# Cases Age [10-19],2020-05-06 00:00:00,CT,663
+# Cases Age [20-29],2020-05-06 00:00:00,CT,3411
+# Cases Age [30-39],2020-05-06 00:00:00,CT,4393
+# Cases Age [40-49],2020-05-06 00:00:00,CT,4638
+# Cases Age [50-59],2020-05-06 00:00:00,CT,5672
+# Cases Age [60-69],2020-05-06 00:00:00,CT,4824
+# Cases Age [70-79],2020-05-06 00:00:00,CT,3159
+# Cases Age [80+],2020-05-06 00:00:00,CT,4626
+# Confirmed Cases Age [0-9],2020-05-06 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-06 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-06 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-06 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-06 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-06 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-06 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-06 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-06 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-06 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-05 00:00:00,CT,243
+# Cases Age [10-19],2020-05-05 00:00:00,CT,638
+# Cases Age [20-29],2020-05-05 00:00:00,CT,3332
+# Cases Age [30-39],2020-05-05 00:00:00,CT,4303
+# Cases Age [40-49],2020-05-05 00:00:00,CT,4531
+# Cases Age [50-59],2020-05-05 00:00:00,CT,5539
+# Cases Age [60-69],2020-05-05 00:00:00,CT,4716
+# Cases Age [70-79],2020-05-05 00:00:00,CT,3062
+# Cases Age [80+],2020-05-05 00:00:00,CT,4485
+# Confirmed Cases Age [0-9],2020-05-05 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-05 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-05 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-05 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-05 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-05 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-05 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-05 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-05 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-05 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-04 00:00:00,CT,239
+# Cases Age [10-19],2020-05-04 00:00:00,CT,628
+# Cases Age [20-29],2020-05-04 00:00:00,CT,3292
+# Cases Age [30-39],2020-05-04 00:00:00,CT,4254
+# Cases Age [40-49],2020-05-04 00:00:00,CT,4491
+# Cases Age [50-59],2020-05-04 00:00:00,CT,5493
+# Cases Age [60-69],2020-05-04 00:00:00,CT,4663
+# Cases Age [70-79],2020-05-04 00:00:00,CT,3010
+# Cases Age [80+],2020-05-04 00:00:00,CT,4400
+# Confirmed Cases Age [0-9],2020-05-04 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-04 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-04 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-04 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-04 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-04 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-04 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-04 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-04 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-04 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-03 04:00:00,CT,226
+# Cases Age [10-19],2020-05-03 04:00:00,CT,611
+# Cases Age [20-29],2020-05-03 04:00:00,CT,3190
+# Cases Age [30-39],2020-05-03 04:00:00,CT,4151
+# Cases Age [40-49],2020-05-03 04:00:00,CT,4401
+# Cases Age [50-59],2020-05-03 04:00:00,CT,5405
+# Cases Age [60-69],2020-05-03 04:00:00,CT,4583
+# Cases Age [70-79],2020-05-03 04:00:00,CT,2946
+# Cases Age [80+],2020-05-03 04:00:00,CT,4307
+# Confirmed Cases Age [0-9],2020-05-03 04:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-03 04:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-03 04:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-03 04:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-03 04:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-03 04:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-03 04:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-03 04:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-03 04:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-03 04:00:00,CT,nan
+# Cases Age [0-9],2020-05-02 00:00:00,CT,220
+# Cases Age [10-19],2020-05-02 00:00:00,CT,603
+# Cases Age [20-29],2020-05-02 00:00:00,CT,3122
+# Cases Age [30-39],2020-05-02 00:00:00,CT,4042
+# Cases Age [40-49],2020-05-02 00:00:00,CT,4298
+# Cases Age [50-59],2020-05-02 00:00:00,CT,5297
+# Cases Age [60-69],2020-05-02 00:00:00,CT,4483
+# Cases Age [70-79],2020-05-02 00:00:00,CT,2872
+# Cases Age [80+],2020-05-02 00:00:00,CT,4193
+# Confirmed Cases Age [0-9],2020-05-02 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-02 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-02 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-02 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-02 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-02 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-02 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-02 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-02 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-02 00:00:00,CT,nan
+# Cases Age [0-9],2020-05-01 00:00:00,CT,214
+# Cases Age [10-19],2020-05-01 00:00:00,CT,589
+# Cases Age [20-29],2020-05-01 00:00:00,CT,3051
+# Cases Age [30-39],2020-05-01 00:00:00,CT,3977
+# Cases Age [40-49],2020-05-01 00:00:00,CT,4227
+# Cases Age [50-59],2020-05-01 00:00:00,CT,5218
+# Cases Age [60-69],2020-05-01 00:00:00,CT,4413
+# Cases Age [70-79],2020-05-01 00:00:00,CT,2808
+# Cases Age [80+],2020-05-01 00:00:00,CT,4063
+# Confirmed Cases Age [0-9],2020-05-01 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-05-01 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-05-01 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-05-01 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-05-01 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-05-01 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-05-01 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-05-01 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-05-01 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-05-01 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-30 00:00:00,CT,207
+# Cases Age [10-19],2020-04-30 00:00:00,CT,568
+# Cases Age [20-29],2020-04-30 00:00:00,CT,2936
+# Cases Age [30-39],2020-04-30 00:00:00,CT,3821
+# Cases Age [40-49],2020-04-30 00:00:00,CT,4063
+# Cases Age [50-59],2020-04-30 00:00:00,CT,5040
+# Cases Age [60-69],2020-04-30 00:00:00,CT,4259
+# Cases Age [70-79],2020-04-30 00:00:00,CT,2712
+# Cases Age [80+],2020-04-30 00:00:00,CT,3860
+# Confirmed Cases Age [0-9],2020-04-30 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-30 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-30 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-30 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-30 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-30 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-30 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-30 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-30 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-30 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-29 00:00:00,CT,199
+# Cases Age [10-19],2020-04-29 00:00:00,CT,537
+# Cases Age [20-29],2020-04-29 00:00:00,CT,2820
+# Cases Age [30-39],2020-04-29 00:00:00,CT,3695
+# Cases Age [40-49],2020-04-29 00:00:00,CT,3952
+# Cases Age [50-59],2020-04-29 00:00:00,CT,4894
+# Cases Age [60-69],2020-04-29 00:00:00,CT,4124
+# Cases Age [70-79],2020-04-29 00:00:00,CT,2609
+# Cases Age [80+],2020-04-29 00:00:00,CT,3704
+# Confirmed Cases Age [0-9],2020-04-29 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-29 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-29 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-29 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-29 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-29 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-29 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-29 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-29 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-29 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-28 00:00:00,CT,190
+# Cases Age [10-19],2020-04-28 00:00:00,CT,532
+# Cases Age [20-29],2020-04-28 00:00:00,CT,2770
+# Cases Age [30-39],2020-04-28 00:00:00,CT,3651
+# Cases Age [40-49],2020-04-28 00:00:00,CT,3905
+# Cases Age [50-59],2020-04-28 00:00:00,CT,4840
+# Cases Age [60-69],2020-04-28 00:00:00,CT,4053
+# Cases Age [70-79],2020-04-28 00:00:00,CT,2545
+# Cases Age [80+],2020-04-28 00:00:00,CT,3593
+# Confirmed Cases Age [0-9],2020-04-28 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-28 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-28 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-28 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-28 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-28 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-28 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-28 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-28 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-28 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-27 00:00:00,CT,188
+# Cases Age [10-19],2020-04-27 00:00:00,CT,523
+# Cases Age [20-29],2020-04-27 00:00:00,CT,2750
+# Cases Age [30-39],2020-04-27 00:00:00,CT,3614
+# Cases Age [40-49],2020-04-27 00:00:00,CT,3885
+# Cases Age [50-59],2020-04-27 00:00:00,CT,4796
+# Cases Age [60-69],2020-04-27 00:00:00,CT,4011
+# Cases Age [70-79],2020-04-27 00:00:00,CT,2501
+# Cases Age [80+],2020-04-27 00:00:00,CT,3498
+# Confirmed Cases Age [0-9],2020-04-27 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-27 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-27 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-27 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-27 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-27 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-27 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-27 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-27 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-27 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-26 00:00:00,CT,184
+# Cases Age [10-19],2020-04-26 00:00:00,CT,500
+# Cases Age [20-29],2020-04-26 00:00:00,CT,2647
+# Cases Age [30-39],2020-04-26 00:00:00,CT,3509
+# Cases Age [40-49],2020-04-26 00:00:00,CT,3788
+# Cases Age [50-59],2020-04-26 00:00:00,CT,4689
+# Cases Age [60-69],2020-04-26 00:00:00,CT,3903
+# Cases Age [70-79],2020-04-26 00:00:00,CT,2433
+# Cases Age [80+],2020-04-26 00:00:00,CT,3382
+# Confirmed Cases Age [0-9],2020-04-26 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-26 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-26 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-26 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-26 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-26 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-26 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-26 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-26 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-26 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-25 00:00:00,CT,178
+# Cases Age [10-19],2020-04-25 00:00:00,CT,492
+# Cases Age [20-29],2020-04-25 00:00:00,CT,2576
+# Cases Age [30-39],2020-04-25 00:00:00,CT,3428
+# Cases Age [40-49],2020-04-25 00:00:00,CT,3708
+# Cases Age [50-59],2020-04-25 00:00:00,CT,4576
+# Cases Age [60-69],2020-04-25 00:00:00,CT,3824
+# Cases Age [70-79],2020-04-25 00:00:00,CT,2338
+# Cases Age [80+],2020-04-25 00:00:00,CT,3225
+# Confirmed Cases Age [0-9],2020-04-25 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-25 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-25 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-25 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-25 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-25 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-25 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-25 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-25 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-25 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-24 00:00:00,CT,176
+# Cases Age [10-19],2020-04-24 00:00:00,CT,482
+# Cases Age [20-29],2020-04-24 00:00:00,CT,2465
+# Cases Age [30-39],2020-04-24 00:00:00,CT,3322
+# Cases Age [40-49],2020-04-24 00:00:00,CT,3621
+# Cases Age [50-59],2020-04-24 00:00:00,CT,4464
+# Cases Age [60-69],2020-04-24 00:00:00,CT,3739
+# Cases Age [70-79],2020-04-24 00:00:00,CT,2283
+# Cases Age [80+],2020-04-24 00:00:00,CT,3134
+# Confirmed Cases Age [0-9],2020-04-24 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-24 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-24 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-24 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-24 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-24 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-24 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-24 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-24 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-24 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-23 00:00:00,CT,169
+# Cases Age [10-19],2020-04-23 00:00:00,CT,465
+# Cases Age [20-29],2020-04-23 00:00:00,CT,2397
+# Cases Age [30-39],2020-04-23 00:00:00,CT,3204
+# Cases Age [40-49],2020-04-23 00:00:00,CT,3537
+# Cases Age [50-59],2020-04-23 00:00:00,CT,4335
+# Cases Age [60-69],2020-04-23 00:00:00,CT,3632
+# Cases Age [70-79],2020-04-23 00:00:00,CT,2172
+# Cases Age [80+],2020-04-23 00:00:00,CT,2951
+# Confirmed Cases Age [0-9],2020-04-23 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-23 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-23 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-23 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-23 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-23 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-23 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-23 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-23 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-23 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-22 00:00:00,CT,166
+# Cases Age [10-19],2020-04-22 00:00:00,CT,448
+# Cases Age [20-29],2020-04-22 00:00:00,CT,2313
+# Cases Age [30-39],2020-04-22 00:00:00,CT,3136
+# Cases Age [40-49],2020-04-22 00:00:00,CT,3450
+# Cases Age [50-59],2020-04-22 00:00:00,CT,4232
+# Cases Age [60-69],2020-04-22 00:00:00,CT,3549
+# Cases Age [70-79],2020-04-22 00:00:00,CT,2114
+# Cases Age [80+],2020-04-22 00:00:00,CT,2828
+# Confirmed Cases Age [0-9],2020-04-22 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-22 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-22 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-22 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-22 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-22 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-22 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-22 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-22 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-22 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-21 00:00:00,CT,144
+# Cases Age [10-19],2020-04-21 00:00:00,CT,386
+# Cases Age [20-29],2020-04-21 00:00:00,CT,2074
+# Cases Age [30-39],2020-04-21 00:00:00,CT,2805
+# Cases Age [40-49],2020-04-21 00:00:00,CT,3121
+# Cases Age [50-59],2020-04-21 00:00:00,CT,3774
+# Cases Age [60-69],2020-04-21 00:00:00,CT,3247
+# Cases Age [70-79],2020-04-21 00:00:00,CT,1948
+# Cases Age [80+],2020-04-21 00:00:00,CT,2624
+# Confirmed Cases Age [0-9],2020-04-21 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-21 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-21 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-21 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-21 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-21 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-21 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-21 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-21 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-21 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-20 00:00:00,CT,137
+# Cases Age [10-19],2020-04-20 00:00:00,CT,371
+# Cases Age [20-29],2020-04-20 00:00:00,CT,2013
+# Cases Age [30-39],2020-04-20 00:00:00,CT,2718
+# Cases Age [40-49],2020-04-20 00:00:00,CT,3048
+# Cases Age [50-59],2020-04-20 00:00:00,CT,3696
+# Cases Age [60-69],2020-04-20 00:00:00,CT,3162
+# Cases Age [70-79],2020-04-20 00:00:00,CT,1901
+# Cases Age [80+],2020-04-20 00:00:00,CT,2533
+# Confirmed Cases Age [0-9],2020-04-20 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-20 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-20 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-20 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-20 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-20 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-20 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-20 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-20 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-20 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-19 00:00:00,CT,138
+# Cases Age [10-19],2020-04-19 00:00:00,CT,349
+# Cases Age [20-29],2020-04-19 00:00:00,CT,1884
+# Cases Age [30-39],2020-04-19 00:00:00,CT,2520
+# Cases Age [40-49],2020-04-19 00:00:00,CT,2846
+# Cases Age [50-59],2020-04-19 00:00:00,CT,3433
+# Cases Age [60-69],2020-04-19 00:00:00,CT,2871
+# Cases Age [70-79],2020-04-19 00:00:00,CT,1662
+# Cases Age [80+],2020-04-19 00:00:00,CT,2095
+# Confirmed Cases Age [0-9],2020-04-19 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-19 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-19 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-19 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-19 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-19 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-19 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-19 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-19 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-19 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-18 00:00:00,CT,133
+# Cases Age [10-19],2020-04-18 00:00:00,CT,345
+# Cases Age [20-29],2020-04-18 00:00:00,CT,1854
+# Cases Age [30-39],2020-04-18 00:00:00,CT,2469
+# Cases Age [40-49],2020-04-18 00:00:00,CT,2791
+# Cases Age [50-59],2020-04-18 00:00:00,CT,3375
+# Cases Age [60-69],2020-04-18 00:00:00,CT,2805
+# Cases Age [70-79],2020-04-18 00:00:00,CT,1618
+# Cases Age [80+],2020-04-18 00:00:00,CT,1994
+# Confirmed Cases Age [0-9],2020-04-18 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-18 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-18 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-18 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-18 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-18 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-18 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-18 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-18 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-18 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-17 00:00:00,CT,130
+# Cases Age [10-19],2020-04-17 00:00:00,CT,330
+# Cases Age [20-29],2020-04-17 00:00:00,CT,1781
+# Cases Age [30-39],2020-04-17 00:00:00,CT,2379
+# Cases Age [40-49],2020-04-17 00:00:00,CT,2683
+# Cases Age [50-59],2020-04-17 00:00:00,CT,3248
+# Cases Age [60-69],2020-04-17 00:00:00,CT,2683
+# Cases Age [70-79],2020-04-17 00:00:00,CT,1541
+# Cases Age [80+],2020-04-17 00:00:00,CT,1866
+# Confirmed Cases Age [0-9],2020-04-17 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-17 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-17 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-17 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-17 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-17 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-17 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-17 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-17 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-17 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-16 00:00:00,CT,117
+# Cases Age [10-19],2020-04-16 00:00:00,CT,311
+# Cases Age [20-29],2020-04-16 00:00:00,CT,1670
+# Cases Age [30-39],2020-04-16 00:00:00,CT,2244
+# Cases Age [40-49],2020-04-16 00:00:00,CT,2534
+# Cases Age [50-59],2020-04-16 00:00:00,CT,3050
+# Cases Age [60-69],2020-04-16 00:00:00,CT,2545
+# Cases Age [70-79],2020-04-16 00:00:00,CT,1477
+# Cases Age [80+],2020-04-16 00:00:00,CT,1734
+# Confirmed Cases Age [0-9],2020-04-16 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-16 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-16 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-16 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-16 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-16 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-16 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-16 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-16 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-16 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-15 00:00:00,CT,107
+# Cases Age [10-19],2020-04-15 00:00:00,CT,291
+# Cases Age [20-29],2020-04-15 00:00:00,CT,1557
+# Cases Age [30-39],2020-04-15 00:00:00,CT,2101
+# Cases Age [40-49],2020-04-15 00:00:00,CT,2348
+# Cases Age [50-59],2020-04-15 00:00:00,CT,2838
+# Cases Age [60-69],2020-04-15 00:00:00,CT,2357
+# Cases Age [70-79],2020-04-15 00:00:00,CT,1381
+# Cases Age [80+],2020-04-15 00:00:00,CT,1581
+# Confirmed Cases Age [0-9],2020-04-15 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-15 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-15 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-15 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-15 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-15 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-15 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-15 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-15 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-15 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-14 00:00:00,CT,100
+# Cases Age [10-19],2020-04-14 00:00:00,CT,281
+# Cases Age [20-29],2020-04-14 00:00:00,CT,1489
+# Cases Age [30-39],2020-04-14 00:00:00,CT,2013
+# Cases Age [40-49],2020-04-14 00:00:00,CT,2256
+# Cases Age [50-59],2020-04-14 00:00:00,CT,2715
+# Cases Age [60-69],2020-04-14 00:00:00,CT,2245
+# Cases Age [70-79],2020-04-14 00:00:00,CT,1266
+# Cases Age [80+],2020-04-14 00:00:00,CT,1396
+# Confirmed Cases Age [0-9],2020-04-14 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-14 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-14 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-14 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-14 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-14 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-14 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-14 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-14 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-14 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-13 00:00:00,CT,97
+# Cases Age [10-19],2020-04-13 00:00:00,CT,274
+# Cases Age [20-29],2020-04-13 00:00:00,CT,1430
+# Cases Age [30-39],2020-04-13 00:00:00,CT,1921
+# Cases Age [40-49],2020-04-13 00:00:00,CT,2151
+# Cases Age [50-59],2020-04-13 00:00:00,CT,2593
+# Cases Age [60-69],2020-04-13 00:00:00,CT,2148
+# Cases Age [70-79],2020-04-13 00:00:00,CT,1212
+# Cases Age [80+],2020-04-13 00:00:00,CT,1314
+# Confirmed Cases Age [0-9],2020-04-13 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-13 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-13 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-13 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-13 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-13 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-13 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-13 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-13 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-13 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-12 00:00:00,CT,89
+# Cases Age [10-19],2020-04-12 00:00:00,CT,245
+# Cases Age [20-29],2020-04-12 00:00:00,CT,1305
+# Cases Age [30-39],2020-04-12 00:00:00,CT,1772
+# Cases Age [40-49],2020-04-12 00:00:00,CT,1972
+# Cases Age [50-59],2020-04-12 00:00:00,CT,2372
+# Cases Age [60-69],2020-04-12 00:00:00,CT,1947
+# Cases Age [70-79],2020-04-12 00:00:00,CT,1080
+# Cases Age [80+],2020-04-12 00:00:00,CT,1167
+# Confirmed Cases Age [0-9],2020-04-12 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-12 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-12 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-12 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-12 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-12 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-12 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-12 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-12 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-12 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-11 00:00:00,CT,88
+# Cases Age [10-19],2020-04-11 00:00:00,CT,238
+# Cases Age [20-29],2020-04-11 00:00:00,CT,1266
+# Cases Age [30-39],2020-04-11 00:00:00,CT,1701
+# Cases Age [40-49],2020-04-11 00:00:00,CT,1887
+# Cases Age [50-59],2020-04-11 00:00:00,CT,2273
+# Cases Age [60-69],2020-04-11 00:00:00,CT,1854
+# Cases Age [70-79],2020-04-11 00:00:00,CT,1027
+# Cases Age [80+],2020-04-11 00:00:00,CT,1090
+# Confirmed Cases Age [0-9],2020-04-11 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-11 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-11 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-11 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-11 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-11 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-11 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-11 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-11 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-11 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-10 00:00:00,CT,81
+# Cases Age [10-19],2020-04-10 00:00:00,CT,215
+# Cases Age [20-29],2020-04-10 00:00:00,CT,1178
+# Cases Age [30-39],2020-04-10 00:00:00,CT,1575
+# Cases Age [40-49],2020-04-10 00:00:00,CT,1747
+# Cases Age [50-59],2020-04-10 00:00:00,CT,2115
+# Cases Age [60-69],2020-04-10 00:00:00,CT,1675
+# Cases Age [70-79],2020-04-10 00:00:00,CT,916
+# Cases Age [80+],2020-04-10 00:00:00,CT,940
+# Confirmed Cases Age [0-9],2020-04-10 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-10 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-10 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-10 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-10 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-10 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-10 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-10 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-10 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-10 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-09 00:00:00,CT,77
+# Cases Age [10-19],2020-04-09 00:00:00,CT,203
+# Cases Age [20-29],2020-04-09 00:00:00,CT,1097
+# Cases Age [30-39],2020-04-09 00:00:00,CT,1478
+# Cases Age [40-49],2020-04-09 00:00:00,CT,1626
+# Cases Age [50-59],2020-04-09 00:00:00,CT,1968
+# Cases Age [60-69],2020-04-09 00:00:00,CT,1561
+# Cases Age [70-79],2020-04-09 00:00:00,CT,836
+# Cases Age [80+],2020-04-09 00:00:00,CT,839
+# Confirmed Cases Age [0-9],2020-04-09 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-09 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-09 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-09 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-09 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-09 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-09 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-09 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-09 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-09 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-08 00:00:00,CT,73
+# Cases Age [10-19],2020-04-08 00:00:00,CT,184
+# Cases Age [20-29],2020-04-08 00:00:00,CT,973
+# Cases Age [30-39],2020-04-08 00:00:00,CT,1328
+# Cases Age [40-49],2020-04-08 00:00:00,CT,1438
+# Cases Age [50-59],2020-04-08 00:00:00,CT,1761
+# Cases Age [60-69],2020-04-08 00:00:00,CT,1417
+# Cases Age [70-79],2020-04-08 00:00:00,CT,748
+# Cases Age [80+],2020-04-08 00:00:00,CT,752
+# Confirmed Cases Age [0-9],2020-04-08 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-08 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-08 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-08 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-08 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-08 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-08 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-08 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-08 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-08 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-07 00:00:00,CT,67
+# Cases Age [10-19],2020-04-07 00:00:00,CT,168
+# Cases Age [20-29],2020-04-07 00:00:00,CT,870
+# Cases Age [30-39],2020-04-07 00:00:00,CT,1189
+# Cases Age [40-49],2020-04-07 00:00:00,CT,1302
+# Cases Age [50-59],2020-04-07 00:00:00,CT,1550
+# Cases Age [60-69],2020-04-07 00:00:00,CT,1247
+# Cases Age [70-79],2020-04-07 00:00:00,CT,646
+# Cases Age [80+],2020-04-07 00:00:00,CT,635
+# Confirmed Cases Age [0-9],2020-04-07 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-07 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-07 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-07 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-07 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-07 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-07 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-07 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-07 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-07 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-06 00:00:00,CT,60
+# Cases Age [10-19],2020-04-06 00:00:00,CT,149
+# Cases Age [20-29],2020-04-06 00:00:00,CT,792
+# Cases Age [30-39],2020-04-06 00:00:00,CT,1062
+# Cases Age [40-49],2020-04-06 00:00:00,CT,1189
+# Cases Age [50-59],2020-04-06 00:00:00,CT,1390
+# Cases Age [60-69],2020-04-06 00:00:00,CT,1092
+# Cases Age [70-79],2020-04-06 00:00:00,CT,569
+# Cases Age [80+],2020-04-06 00:00:00,CT,546
+# Confirmed Cases Age [0-9],2020-04-06 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-06 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-06 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-06 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-06 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-06 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-06 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-06 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-06 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-06 00:00:00,CT,nan
+# Cases Age [0-9],2020-04-05 00:00:00,CT,49
+# Cases Age [10-19],2020-04-05 00:00:00,CT,113
+# Cases Age [20-29],2020-04-05 00:00:00,CT,639
+# Cases Age [30-39],2020-04-05 00:00:00,CT,856
+# Cases Age [40-49],2020-04-05 00:00:00,CT,963
+# Cases Age [50-59],2020-04-05 00:00:00,CT,1152
+# Cases Age [60-69],2020-04-05 00:00:00,CT,896
+# Cases Age [70-79],2020-04-05 00:00:00,CT,475
+# Cases Age [80+],2020-04-05 00:00:00,CT,463
+# Confirmed Cases Age [0-9],2020-04-05 00:00:00,CT,nan
+# Confirmed Cases Age [10-19],2020-04-05 00:00:00,CT,nan
+# Confirmed Cases Age [20-29],2020-04-05 00:00:00,CT,nan
+# Confirmed Cases Age [30-39],2020-04-05 00:00:00,CT,nan
+# Confirmed Cases Age [40-49],2020-04-05 00:00:00,CT,nan
+# Confirmed Cases Age [50-59],2020-04-05 00:00:00,CT,nan
+# Confirmed Cases Age [60-69],2020-04-05 00:00:00,CT,nan
+# Confirmed Cases Age [70-79],2020-04-05 00:00:00,CT,nan
+# Confirmed Cases Age [80+],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [0-9],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [10-19],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [20-29],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [30-39],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [40-49],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [50-59],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [60-69],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [70-79],2020-04-05 00:00:00,CT,nan
+# Probable Cases Age [80+],2020-04-05 00:00:00,CT,nan

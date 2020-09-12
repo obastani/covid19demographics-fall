@@ -1,0 +1,2172 @@
+Column Name,Scrape Time,State,Value
+# Cases Age [0-17],2020-04-06 01:18:52 AM,CA,1
+# Cases Age [18-49],2020-04-06 01:18:52 AM,CA,49
+# Cases Age [50-64],2020-04-06 01:18:52 AM,CA,27
+# Cases Age [65+],2020-04-06 01:18:52 AM,CA,22
+# Cases Age [Unknown],2020-04-06 01:18:52 AM,CA,0
+# Cases Age [0-17],2020-04-06 06:26:37 PM,CA,1
+# Cases Age [18-49],2020-04-06 06:26:37 PM,CA,50
+# Cases Age [50-64],2020-04-06 06:26:37 PM,CA,27
+# Cases Age [65+],2020-04-06 06:26:37 PM,CA,22
+# Cases Age [Unknown],2020-04-06 06:26:37 PM,CA,0
+# Cases Age [0-17],2020-04-07 11:20:20 PM,CA,1
+# Cases Age [18-49],2020-04-07 11:20:20 PM,CA,49
+# Cases Age [50-64],2020-04-07 11:20:20 PM,CA,27
+# Cases Age [65+],2020-04-07 11:20:20 PM,CA,22
+# Cases Age [Unknown],2020-04-07 11:20:20 PM,CA,0
+# Cases Age [0-17],2020-04-08 06:26:06 PM,CA,1
+# Cases Age [18-49],2020-04-08 06:26:06 PM,CA,49
+# Cases Age [50-64],2020-04-08 06:26:06 PM,CA,27
+# Cases Age [65+],2020-04-08 06:26:06 PM,CA,22
+# Cases Age [Unknown],2020-04-08 06:26:06 PM,CA,0
+# Cases Age [0-17],2020-04-09 05:34:36 PM,CA,1
+# Cases Age [18-49],2020-04-09 05:34:36 PM,CA,49
+# Cases Age [50-64],2020-04-09 05:34:36 PM,CA,27
+# Cases Age [65+],2020-04-09 05:34:36 PM,CA,22
+# Cases Age [Unknown],2020-04-09 05:34:36 PM,CA,0
+# Cases Age [0-17],2020-04-10 06:56:00 PM,CA,1
+# Cases Age [18-49],2020-04-10 06:56:00 PM,CA,49
+# Cases Age [50-64],2020-04-10 06:56:00 PM,CA,27
+# Cases Age [65+],2020-04-10 06:56:00 PM,CA,22
+# Cases Age [Unknown],2020-04-10 06:56:00 PM,CA,0
+# Cases Age [0-17],2020-04-11 04:56:13 PM,CA,1
+# Cases Age [18-49],2020-04-11 04:56:13 PM,CA,49
+# Cases Age [50-64],2020-04-11 04:56:13 PM,CA,27
+# Cases Age [65+],2020-04-11 04:56:13 PM,CA,22
+# Cases Age [Unknown],2020-04-11 04:56:13 PM,CA,0
+# Cases Age [0-17],2020-04-12 06:00:20 PM,CA,2
+# Cases Age [18-49],2020-04-12 06:00:20 PM,CA,49
+# Cases Age [50-64],2020-04-12 06:00:20 PM,CA,27
+# Cases Age [65+],2020-04-12 06:00:20 PM,CA,22
+# Cases Age [Unknown],2020-04-12 06:00:20 PM,CA,0
+# Cases Age [0-17],2020-04-14 01:39:46 AM,CA,2
+# Cases Age [18-49],2020-04-14 01:39:46 AM,CA,48
+# Cases Age [50-64],2020-04-14 01:39:46 AM,CA,27
+# Cases Age [65+],2020-04-14 01:39:46 AM,CA,23
+# Cases Age [Unknown],2020-04-14 01:39:46 AM,CA,0
+# Cases Age [0-17],2020-04-14 08:36:07 PM,CA,2
+# Cases Age [18-49],2020-04-14 08:36:07 PM,CA,48
+# Cases Age [50-64],2020-04-14 08:36:07 PM,CA,27
+# Cases Age [65+],2020-04-14 08:36:07 PM,CA,23
+# Cases Age [Unknown],2020-04-14 08:36:07 PM,CA,0
+# Cases Age [0-17],2020-04-15 07:12:54 PM,CA,2
+# Cases Age [18-49],2020-04-15 07:12:54 PM,CA,48
+# Cases Age [50-64],2020-04-15 07:12:54 PM,CA,27
+# Cases Age [65+],2020-04-15 07:12:54 PM,CA,23
+# Cases Age [Unknown],2020-04-15 07:12:54 PM,CA,0
+# Cases Age [0-17],2020-04-16 06:32:16 PM,CA,2
+# Cases Age [18-49],2020-04-16 06:32:16 PM,CA,48
+# Cases Age [50-64],2020-04-16 06:32:16 PM,CA,27
+# Cases Age [65+],2020-04-16 06:32:16 PM,CA,23
+# Cases Age [Unknown],2020-04-16 06:32:16 PM,CA,0
+# Cases Age [0-17],2020-04-17 05:54:07 PM,CA,2
+# Cases Age [18-49],2020-04-17 05:54:07 PM,CA,48
+# Cases Age [50-64],2020-04-17 05:54:07 PM,CA,27
+# Cases Age [65+],2020-04-17 05:54:07 PM,CA,23
+# Cases Age [Unknown],2020-04-17 05:54:07 PM,CA,0
+# Cases Age [0-17],2020-04-18 05:42:15 PM,CA,2
+# Cases Age [18-49],2020-04-18 05:42:15 PM,CA,48
+# Cases Age [50-64],2020-04-18 05:42:15 PM,CA,27
+# Cases Age [65+],2020-04-18 05:42:15 PM,CA,23
+# Cases Age [Unknown],2020-04-18 05:42:15 PM,CA,0
+# Cases Age [0-17],2020-04-19 06:20:23 PM,CA,2
+# Cases Age [18-49],2020-04-19 06:20:23 PM,CA,47
+# Cases Age [50-64],2020-04-19 06:20:23 PM,CA,27
+# Cases Age [65+],2020-04-19 06:20:23 PM,CA,23
+# Cases Age [Unknown],2020-04-19 06:20:23 PM,CA,0
+# Cases Age [0-17],2020-04-20 05:00:29 PM,CA,2
+# Cases Age [18-49],2020-04-20 05:00:29 PM,CA,47
+# Cases Age [50-64],2020-04-20 05:00:29 PM,CA,27
+# Cases Age [65+],2020-04-20 05:00:29 PM,CA,23
+# Cases Age [Unknown],2020-04-20 05:00:29 PM,CA,0
+# Cases Age [0-17],2020-04-21 05:06:03 PM,CA,2
+# Cases Age [18-49],2020-04-21 05:06:03 PM,CA,48
+# Cases Age [50-64],2020-04-21 05:06:03 PM,CA,27
+# Cases Age [65+],2020-04-21 05:06:03 PM,CA,23
+# Cases Age [Unknown],2020-04-21 05:06:03 PM,CA,0
+# Cases Age [0-17],2020-04-22 05:30:32 PM,CA,2
+# Cases Age [18-49],2020-04-22 05:30:32 PM,CA,48
+# Cases Age [50-64],2020-04-22 05:30:32 PM,CA,27
+# Cases Age [65+],2020-04-22 05:30:32 PM,CA,23
+# Cases Age [Unknown],2020-04-22 05:30:32 PM,CA,0
+# Cases Age [0-17],2020-04-23 05:36:32 PM,CA,2
+# Cases Age [18-49],2020-04-23 05:36:32 PM,CA,48
+# Cases Age [50-64],2020-04-23 05:36:32 PM,CA,27
+# Cases Age [65+],2020-04-23 05:36:32 PM,CA,22
+# Cases Age [Unknown],2020-04-23 05:36:32 PM,CA,0
+# Cases Age [0-17],2020-04-24 06:05:10 PM,CA,2
+# Cases Age [18-49],2020-04-24 06:05:10 PM,CA,48
+# Cases Age [50-64],2020-04-24 06:05:10 PM,CA,27
+# Cases Age [65+],2020-04-24 06:05:10 PM,CA,23
+# Cases Age [Unknown],2020-04-24 06:05:10 PM,CA,0
+# Cases Age [0-17],2020-04-25 05:36:09 PM,CA,2
+# Cases Age [18-49],2020-04-25 05:36:09 PM,CA,48
+# Cases Age [50-64],2020-04-25 05:36:09 PM,CA,26
+# Cases Age [65+],2020-04-25 05:36:09 PM,CA,23
+# Cases Age [Unknown],2020-04-25 05:36:09 PM,CA,0
+# Cases Age [0-17],2020-04-26 10:12:39 PM,CA,2
+# Cases Age [18-49],2020-04-26 10:12:39 PM,CA,48
+# Cases Age [50-64],2020-04-26 10:12:39 PM,CA,26
+# Cases Age [65+],2020-04-26 10:12:39 PM,CA,23
+# Cases Age [Unknown],2020-04-26 10:12:39 PM,CA,0
+# Cases Age [0-17],2020-04-27 05:50:36 PM,CA,3
+# Cases Age [18-49],2020-04-27 05:50:36 PM,CA,48
+# Cases Age [50-64],2020-04-27 05:50:36 PM,CA,26
+# Cases Age [65+],2020-04-27 05:50:36 PM,CA,23
+# Cases Age [Unknown],2020-04-27 05:50:36 PM,CA,0
+# Cases Age [0-17],2020-04-28 08:49:01 PM,CA,3
+# Cases Age [18-49],2020-04-28 08:49:01 PM,CA,49
+# Cases Age [50-64],2020-04-28 08:49:01 PM,CA,26
+# Cases Age [65+],2020-04-28 08:49:01 PM,CA,2
+# Cases Age [Unknown],2020-04-28 08:49:01 PM,CA,0
+# Cases Age [0-17],2020-04-29 05:32:38 PM,CA,3
+# Cases Age [18-49],2020-04-29 05:32:38 PM,CA,49
+# Cases Age [50-64],2020-04-29 05:32:38 PM,CA,26
+# Cases Age [65+],2020-04-29 05:32:38 PM,CA,2
+# Cases Age [Unknown],2020-04-29 05:32:38 PM,CA,0
+# Cases Age [0-17],2020-04-30 10:30:27 PM,CA,3
+# Cases Age [18-49],2020-04-30 10:30:27 PM,CA,49
+# Cases Age [50-64],2020-04-30 10:30:27 PM,CA,26
+# Cases Age [65+],2020-04-30 10:30:27 PM,CA,2
+# Cases Age [Unknown],2020-04-30 10:30:27 PM,CA,0
+# Cases Age [0-17],2020-05-01 10:56:51 PM,CA,3
+# Cases Age [18-49],2020-05-01 10:56:51 PM,CA,49
+# Cases Age [50-64],2020-05-01 10:56:51 PM,CA,26
+# Cases Age [65+],2020-05-01 10:56:51 PM,CA,22
+# Cases Age [Unknown],2020-05-01 10:56:51 PM,CA,0
+# Cases Age [0-17],2020-05-02 07:26:05 PM,CA,3
+# Cases Age [18-49],2020-05-02 07:26:05 PM,CA,49
+# Cases Age [50-64],2020-05-02 07:26:05 PM,CA,26
+# Cases Age [65+],2020-05-02 07:26:05 PM,CA,22
+# Cases Age [Unknown],2020-05-02 07:26:05 PM,CA,0
+# Cases Age [0-17],2020-05-03 08:31:08 PM,CA,3
+# Cases Age [18-49],2020-05-03 08:31:08 PM,CA,49
+# Cases Age [50-64],2020-05-03 08:31:08 PM,CA,26
+# Cases Age [65+],2020-05-03 08:31:08 PM,CA,22
+# Cases Age [Unknown],2020-05-03 08:31:08 PM,CA,0
+# Cases Age [0-17],2020-05-04 07:44:05 PM,CA,3
+# Cases Age [18-49],2020-05-04 07:44:05 PM,CA,49
+# Cases Age [50-64],2020-05-04 07:44:05 PM,CA,26
+# Cases Age [65+],2020-05-04 07:44:05 PM,CA,22
+# Cases Age [Unknown],2020-05-04 07:44:05 PM,CA,0
+# Cases Age [0-17],2020-05-05 08:14:30 PM,CA,3
+# Cases Age [18-49],2020-05-05 08:14:30 PM,CA,49
+# Cases Age [50-64],2020-05-05 08:14:30 PM,CA,26
+# Cases Age [65+],2020-05-05 08:14:30 PM,CA,22
+# Cases Age [Unknown],2020-05-05 08:14:30 PM,CA,0
+# Cases Age [0-17],2020-05-06 08:13:29 PM,CA,3
+# Cases Age [18-49],2020-05-06 08:13:29 PM,CA,49
+# Cases Age [50-64],2020-05-06 08:13:29 PM,CA,26
+# Cases Age [65+],2020-05-06 08:13:29 PM,CA,22
+# Cases Age [Unknown],2020-05-06 08:13:29 PM,CA,0
+# Cases Age [0-17],2020-05-07 08:53:30 PM,CA,3
+# Cases Age [18-49],2020-05-07 08:53:30 PM,CA,49
+# Cases Age [50-64],2020-05-07 08:53:30 PM,CA,25
+# Cases Age [65+],2020-05-07 08:53:30 PM,CA,22
+# Cases Age [Unknown],2020-05-07 08:53:30 PM,CA,0
+# Cases Age [0-17],2020-05-08 10:02:43 PM,CA,4
+# Cases Age [18-49],2020-05-08 10:02:43 PM,CA,49
+# Cases Age [50-64],2020-05-08 10:02:43 PM,CA,25
+# Cases Age [65+],2020-05-08 10:02:43 PM,CA,22
+# Cases Age [Unknown],2020-05-08 10:02:43 PM,CA,0
+# Cases Age [0-17],2020-05-09 08:26:46 PM,CA,4
+# Cases Age [18-49],2020-05-09 08:26:46 PM,CA,50
+# Cases Age [50-64],2020-05-09 08:26:46 PM,CA,25
+# Cases Age [65+],2020-05-09 08:26:46 PM,CA,22
+# Cases Age [Unknown],2020-05-09 08:26:46 PM,CA,0
+# Cases Age [0-17],2020-05-10 08:03:46 PM,CA,4
+# Cases Age [18-49],2020-05-10 08:03:46 PM,CA,50
+# Cases Age [50-64],2020-05-10 08:03:46 PM,CA,25
+# Cases Age [65+],2020-05-10 08:03:46 PM,CA,21
+# Cases Age [Unknown],2020-05-10 08:03:46 PM,CA,0
+# Cases Age [0-17],2020-05-11 08:46:53 PM,CA,4
+# Cases Age [18-49],2020-05-11 08:46:53 PM,CA,50
+# Cases Age [50-64],2020-05-11 08:46:53 PM,CA,25
+# Cases Age [65+],2020-05-11 08:46:53 PM,CA,22
+# Cases Age [Unknown],2020-05-11 08:46:53 PM,CA,0
+# Cases Age [0-17],2020-05-12 09:27:43 PM,CA,4
+# Cases Age [18-49],2020-05-12 09:27:43 PM,CA,50
+# Cases Age [50-64],2020-05-12 09:27:43 PM,CA,25
+# Cases Age [65+],2020-05-12 09:27:43 PM,CA,21
+# Cases Age [Unknown],2020-05-12 09:27:43 PM,CA,0
+# Cases Age [0-17],2020-05-13 08:05:13 PM,CA,4
+# Cases Age [18-49],2020-05-13 08:05:13 PM,CA,50
+# Cases Age [50-64],2020-05-13 08:05:13 PM,CA,25
+# Cases Age [65+],2020-05-13 08:05:13 PM,CA,21
+# Cases Age [Unknown],2020-05-13 08:05:13 PM,CA,0
+# Cases Age [0-17],2020-05-14 09:01:31 PM,CA,4
+# Cases Age [18-49],2020-05-14 09:01:31 PM,CA,50
+# Cases Age [50-64],2020-05-14 09:01:31 PM,CA,25
+# Cases Age [65+],2020-05-14 09:01:31 PM,CA,21
+# Cases Age [Unknown],2020-05-14 09:01:31 PM,CA,0
+# Cases Age [0-17],2020-05-15 08:21:50 PM,CA,4
+# Cases Age [18-49],2020-05-15 08:21:50 PM,CA,50
+# Cases Age [50-64],2020-05-15 08:21:50 PM,CA,25
+# Cases Age [65+],2020-05-15 08:21:50 PM,CA,21
+# Cases Age [Unknown],2020-05-15 08:21:50 PM,CA,0
+# Cases Age [0-17],2020-05-16 07:56:07 PM,CA,4
+# Cases Age [18-49],2020-05-16 07:56:07 PM,CA,50
+# Cases Age [50-64],2020-05-16 07:56:07 PM,CA,25
+# Cases Age [65+],2020-05-16 07:56:07 PM,CA,21
+# Cases Age [Unknown],2020-05-16 07:56:07 PM,CA,0
+# Cases Age [0-17],2020-05-17 07:53:06 PM,CA,4
+# Cases Age [18-49],2020-05-17 07:53:06 PM,CA,50
+# Cases Age [50-64],2020-05-17 07:53:06 PM,CA,25
+# Cases Age [65+],2020-05-17 07:53:06 PM,CA,21
+# Cases Age [Unknown],2020-05-17 07:53:06 PM,CA,0
+# Cases Age [0-17],2020-05-18 08:15:22 PM,CA,4
+# Cases Age [18-49],2020-05-18 08:15:22 PM,CA,50
+# Cases Age [50-64],2020-05-18 08:15:22 PM,CA,25
+# Cases Age [65+],2020-05-18 08:15:22 PM,CA,21
+# Cases Age [Unknown],2020-05-18 08:15:22 PM,CA,0
+# Cases Age [0-17],2020-05-20 07:58:40 PM,CA,4
+# Cases Age [18-49],2020-05-20 07:58:40 PM,CA,51
+# Cases Age [50-64],2020-05-20 07:58:40 PM,CA,24
+# Cases Age [65+],2020-05-20 07:58:40 PM,CA,21
+# Cases Age [Unknown],2020-05-20 07:58:40 PM,CA,0
+# Cases Age [0-17],2020-05-21 08:57:04 PM,CA,5
+# Cases Age [18-49],2020-05-21 08:57:04 PM,CA,51
+# Cases Age [50-64],2020-05-21 08:57:04 PM,CA,24
+# Cases Age [65+],2020-05-21 08:57:04 PM,CA,20
+# Cases Age [Unknown],2020-05-21 08:57:04 PM,CA,0
+# Cases Age [0-17],2020-05-22 08:06:09 PM,CA,5
+# Cases Age [18-49],2020-05-22 08:06:09 PM,CA,51
+# Cases Age [50-64],2020-05-22 08:06:09 PM,CA,24
+# Cases Age [65+],2020-05-22 08:06:09 PM,CA,20
+# Cases Age [Unknown],2020-05-22 08:06:09 PM,CA,0
+# Cases Age [0-17],2020-05-23 05:59:26 PM,CA,5
+# Cases Age [18-49],2020-05-23 05:59:26 PM,CA,51
+# Cases Age [50-64],2020-05-23 05:59:26 PM,CA,24
+# Cases Age [65+],2020-05-23 05:59:26 PM,CA,20
+# Cases Age [Unknown],2020-05-23 05:59:26 PM,CA,0
+# Cases Age [0-17],2020-05-24 08:30:24 PM,CA,5
+# Cases Age [18-49],2020-05-24 08:30:24 PM,CA,51
+# Cases Age [50-64],2020-05-24 08:30:24 PM,CA,24
+# Cases Age [65+],2020-05-24 08:30:24 PM,CA,20
+# Cases Age [Unknown],2020-05-24 08:30:24 PM,CA,0
+# Cases Age [0-17],2020-05-25 08:29:57 PM,CA,5
+# Cases Age [18-49],2020-05-25 08:29:57 PM,CA,51
+# Cases Age [50-64],2020-05-25 08:29:57 PM,CA,24
+# Cases Age [65+],2020-05-25 08:29:57 PM,CA,20
+# Cases Age [Unknown],2020-05-25 08:29:57 PM,CA,0
+# Cases Age [0-17],2020-05-26 09:03:11 PM,CA,5
+# Cases Age [18-49],2020-05-26 09:03:11 PM,CA,51
+# Cases Age [50-64],2020-05-26 09:03:11 PM,CA,24
+# Cases Age [65+],2020-05-26 09:03:11 PM,CA,20
+# Cases Age [Unknown],2020-05-26 09:03:11 PM,CA,0
+# Cases Age [0-17],2020-05-27 08:39:07 PM,CA,5
+# Cases Age [18-49],2020-05-27 08:39:07 PM,CA,52
+# Cases Age [50-64],2020-05-27 08:39:07 PM,CA,24
+# Cases Age [65+],2020-05-27 08:39:07 PM,CA,19
+# Cases Age [Unknown],2020-05-27 08:39:07 PM,CA,0
+# Cases Age [0-17],2020-05-28 08:12:07 PM,CA,5
+# Cases Age [18-49],2020-05-28 08:12:07 PM,CA,52
+# Cases Age [50-64],2020-05-28 08:12:07 PM,CA,24
+# Cases Age [65+],2020-05-28 08:12:07 PM,CA,19
+# Cases Age [Unknown],2020-05-28 08:12:07 PM,CA,0
+# Cases Age [0-17],2020-05-29 07:58:17 PM,CA,5
+# Cases Age [18-49],2020-05-29 07:58:17 PM,CA,52
+# Cases Age [50-64],2020-05-29 07:58:17 PM,CA,24
+# Cases Age [65+],2020-05-29 07:58:17 PM,CA,19
+# Cases Age [Unknown],2020-05-29 07:58:17 PM,CA,0
+# Cases Age [0-17],2020-05-30 07:50:39 PM,CA,6
+# Cases Age [18-49],2020-05-30 07:50:39 PM,CA,52
+# Cases Age [50-64],2020-05-30 07:50:39 PM,CA,24
+# Cases Age [65+],2020-05-30 07:50:39 PM,CA,19
+# Cases Age [Unknown],2020-05-30 07:50:39 PM,CA,0
+# Cases Age [0-17],2020-05-31 08:10:31 PM,CA,6
+# Cases Age [18-49],2020-05-31 08:10:31 PM,CA,52
+# Cases Age [50-64],2020-05-31 08:10:31 PM,CA,24
+# Cases Age [65+],2020-05-31 08:10:31 PM,CA,19
+# Cases Age [Unknown],2020-05-31 08:10:31 PM,CA,0
+# Cases Age [0-17],2020-06-01 08:01:40 PM,CA,6
+# Cases Age [18-49],2020-06-01 08:01:40 PM,CA,52
+# Cases Age [50-64],2020-06-01 08:01:40 PM,CA,23
+# Cases Age [65+],2020-06-01 08:01:40 PM,CA,18
+# Cases Age [Unknown],2020-06-01 08:01:40 PM,CA,0
+# Cases Age [0-17],2020-06-02 08:15:24 PM,CA,6
+# Cases Age [18-49],2020-06-02 08:15:24 PM,CA,53
+# Cases Age [50-64],2020-06-02 08:15:24 PM,CA,23
+# Cases Age [65+],2020-06-02 08:15:24 PM,CA,18
+# Cases Age [Unknown],2020-06-02 08:15:24 PM,CA,0
+# Cases Age [0-17],2020-06-03 07:54:21 PM,CA,6
+# Cases Age [18-49],2020-06-03 07:54:21 PM,CA,53
+# Cases Age [50-64],2020-06-03 07:54:21 PM,CA,23
+# Cases Age [65+],2020-06-03 07:54:21 PM,CA,18
+# Cases Age [Unknown],2020-06-03 07:54:21 PM,CA,0
+# Cases Age [0-17],2020-06-04 08:09:12 PM,CA,6
+# Cases Age [18-49],2020-06-04 08:09:12 PM,CA,53
+# Cases Age [50-64],2020-06-04 08:09:12 PM,CA,23
+# Cases Age [65+],2020-06-04 08:09:12 PM,CA,18
+# Cases Age [Unknown],2020-06-04 08:09:12 PM,CA,0
+# Cases Age [0-17],2020-06-05 08:08:41 PM,CA,6
+# Cases Age [18-49],2020-06-05 08:08:41 PM,CA,53
+# Cases Age [50-64],2020-06-05 08:08:41 PM,CA,23
+# Cases Age [65+],2020-06-05 08:08:41 PM,CA,18
+# Cases Age [Unknown],2020-06-05 08:08:41 PM,CA,0
+# Cases Age [0-17],2020-06-06 08:30:35 PM,CA,6
+# Cases Age [18-49],2020-06-06 08:30:35 PM,CA,53
+# Cases Age [50-64],2020-06-06 08:30:35 PM,CA,23
+# Cases Age [65+],2020-06-06 08:30:35 PM,CA,18
+# Cases Age [Unknown],2020-06-06 08:30:35 PM,CA,0
+# Cases Age [0-17],2020-06-07 08:27:32 PM,CA,6
+# Cases Age [18-49],2020-06-07 08:27:32 PM,CA,53
+# Cases Age [50-64],2020-06-07 08:27:32 PM,CA,23
+# Cases Age [65+],2020-06-07 08:27:32 PM,CA,18
+# Cases Age [Unknown],2020-06-07 08:27:32 PM,CA,0
+# Cases Age [0-17],2020-06-08 08:09:29 PM,CA,6
+# Cases Age [18-49],2020-06-08 08:09:29 PM,CA,53
+# Cases Age [50-64],2020-06-08 08:09:29 PM,CA,23
+# Cases Age [65+],2020-06-08 08:09:29 PM,CA,18
+# Cases Age [Unknown],2020-06-08 08:09:29 PM,CA,0
+# Cases Age [0-17],2020-06-09 08:24:19 PM,CA,6
+# Cases Age [18-49],2020-06-09 08:24:19 PM,CA,53
+# Cases Age [50-64],2020-06-09 08:24:19 PM,CA,23
+# Cases Age [65+],2020-06-09 08:24:19 PM,CA,17
+# Cases Age [Unknown],2020-06-09 08:24:19 PM,CA,0
+# Cases Age [0-17],2020-06-10 08:34:44 PM,CA,7
+# Cases Age [18-49],2020-06-10 08:34:44 PM,CA,54
+# Cases Age [50-64],2020-06-10 08:34:44 PM,CA,23
+# Cases Age [65+],2020-06-10 08:34:44 PM,CA,17
+# Cases Age [Unknown],2020-06-10 08:34:44 PM,CA,0
+# Cases Age [0-17],2020-06-11 08:20:15 PM,CA,7
+# Cases Age [18-49],2020-06-11 08:20:15 PM,CA,54
+# Cases Age [50-64],2020-06-11 08:20:15 PM,CA,23
+# Cases Age [65+],2020-06-11 08:20:15 PM,CA,17
+# Cases Age [Unknown],2020-06-11 08:20:15 PM,CA,0
+# Cases Age [0-17],2020-06-12 08:24:41 PM,CA,7
+# Cases Age [18-49],2020-06-12 08:24:41 PM,CA,54
+# Cases Age [50-64],2020-06-12 08:24:41 PM,CA,23
+# Cases Age [65+],2020-06-12 08:24:41 PM,CA,17
+# Cases Age [Unknown],2020-06-12 08:24:41 PM,CA,0
+# Cases Age [0-17],2020-06-13 08:36:13 PM,CA,7
+# Cases Age [18-49],2020-06-13 08:36:13 PM,CA,54
+# Cases Age [50-64],2020-06-13 08:36:13 PM,CA,23
+# Cases Age [65+],2020-06-13 08:36:13 PM,CA,17
+# Cases Age [Unknown],2020-06-13 08:36:13 PM,CA,0
+# Cases Age [0-17],2020-06-14 07:58:02 PM,CA,7
+# Cases Age [18-49],2020-06-14 07:58:02 PM,CA,54
+# Cases Age [50-64],2020-06-14 07:58:02 PM,CA,22
+# Cases Age [65+],2020-06-14 07:58:02 PM,CA,17
+# Cases Age [Unknown],2020-06-14 07:58:02 PM,CA,0
+# Cases Age [0-17],2020-06-15 08:22:16 PM,CA,7
+# Cases Age [18-49],2020-06-15 08:22:16 PM,CA,54
+# Cases Age [50-64],2020-06-15 08:22:16 PM,CA,22
+# Cases Age [65+],2020-06-15 08:22:16 PM,CA,17
+# Cases Age [Unknown],2020-06-15 08:22:16 PM,CA,0
+# Cases Age [0-17],2020-06-16 08:26:21 PM,CA,7
+# Cases Age [18-49],2020-06-16 08:26:21 PM,CA,54
+# Cases Age [50-64],2020-06-16 08:26:21 PM,CA,22
+# Cases Age [65+],2020-06-16 08:26:21 PM,CA,16
+# Cases Age [Unknown],2020-06-16 08:26:21 PM,CA,0
+# Cases Age [0-17],2020-06-17 08:30:11 PM,CA,7
+# Cases Age [18-49],2020-06-17 08:30:11 PM,CA,54
+# Cases Age [50-64],2020-06-17 08:30:11 PM,CA,22
+# Cases Age [65+],2020-06-17 08:30:11 PM,CA,16
+# Cases Age [Unknown],2020-06-17 08:30:11 PM,CA,0
+# Cases Age [0-17],2020-06-18 09:02:04 PM,CA,7
+# Cases Age [18-49],2020-06-18 09:02:04 PM,CA,55
+# Cases Age [50-64],2020-06-18 09:02:04 PM,CA,22
+# Cases Age [65+],2020-06-18 09:02:04 PM,CA,16
+# Cases Age [Unknown],2020-06-18 09:02:04 PM,CA,0
+# Cases Age [0-17],2020-06-19 07:43:15 PM,CA,7
+# Cases Age [18-49],2020-06-19 07:43:15 PM,CA,55
+# Cases Age [50-64],2020-06-19 07:43:15 PM,CA,22
+# Cases Age [65+],2020-06-19 07:43:15 PM,CA,16
+# Cases Age [Unknown],2020-06-19 07:43:15 PM,CA,0
+# Cases Age [0-17],2020-06-20 09:17:14 PM,CA,7
+# Cases Age [18-49],2020-06-20 09:17:14 PM,CA,55
+# Cases Age [50-64],2020-06-20 09:17:14 PM,CA,22
+# Cases Age [65+],2020-06-20 09:17:14 PM,CA,16
+# Cases Age [Unknown],2020-06-20 09:17:14 PM,CA,0
+# Cases Age [0-17],2020-06-21 08:47:15 PM,CA,7
+# Cases Age [18-49],2020-06-21 08:47:15 PM,CA,55
+# Cases Age [50-64],2020-06-21 08:47:15 PM,CA,22
+# Cases Age [65+],2020-06-21 08:47:15 PM,CA,16
+# Cases Age [Unknown],2020-06-21 08:47:15 PM,CA,0
+# Cases Age [0-17],2020-06-22 07:52:18 PM,CA,8
+# Cases Age [18-49],2020-06-22 07:52:18 PM,CA,55
+# Cases Age [50-64],2020-06-22 07:52:18 PM,CA,22
+# Cases Age [65+],2020-06-22 07:52:18 PM,CA,15
+# Cases Age [Unknown],2020-06-22 07:52:18 PM,CA,0
+# Cases Age [0-17],2020-06-23 07:20:22 PM,CA,8
+# Cases Age [18-49],2020-06-23 07:20:22 PM,CA,55
+# Cases Age [50-64],2020-06-23 07:20:22 PM,CA,22
+# Cases Age [65+],2020-06-23 07:20:22 PM,CA,15
+# Cases Age [Unknown],2020-06-23 07:20:22 PM,CA,0
+# Cases Age [0-17],2020-06-24 08:29:12 PM,CA,8
+# Cases Age [18-49],2020-06-24 08:29:12 PM,CA,56
+# Cases Age [50-64],2020-06-24 08:29:12 PM,CA,22
+# Cases Age [65+],2020-06-24 08:29:12 PM,CA,15
+# Cases Age [Unknown],2020-06-24 08:29:12 PM,CA,0
+# Cases Age [0-17],2020-06-25 07:50:43 PM,CA,8
+# Cases Age [18-49],2020-06-25 07:50:43 PM,CA,56
+# Cases Age [50-64],2020-06-25 07:50:43 PM,CA,21
+# Cases Age [65+],2020-06-25 07:50:43 PM,CA,15
+# Cases Age [Unknown],2020-06-25 07:50:43 PM,CA,0
+# Cases Age [0-17],2020-06-26 07:32:39 PM,CA,8
+# Cases Age [18-49],2020-06-26 07:32:39 PM,CA,56
+# Cases Age [50-64],2020-06-26 07:32:39 PM,CA,21
+# Cases Age [65+],2020-06-26 07:32:39 PM,CA,15
+# Cases Age [Unknown],2020-06-26 07:32:39 PM,CA,0
+# Cases Age [0-17],2020-06-27 09:25:53 PM,CA,8
+# Cases Age [18-49],2020-06-27 09:25:53 PM,CA,56
+# Cases Age [50-64],2020-06-27 09:25:53 PM,CA,21
+# Cases Age [65+],2020-06-27 09:25:53 PM,CA,15
+# Cases Age [Unknown],2020-06-27 09:25:53 PM,CA,0
+# Cases Age [0-17],2020-06-28 07:58:33 PM,CA,8
+# Cases Age [18-49],2020-06-28 07:58:33 PM,CA,57
+# Cases Age [50-64],2020-06-28 07:58:33 PM,CA,21
+# Cases Age [65+],2020-06-28 07:58:33 PM,CA,14
+# Cases Age [Unknown],2020-06-28 07:58:33 PM,CA,0
+# Cases Age [0-17],2020-04-02,CA,120
+# Cases Age [18-49],2020-04-02,CA,5302
+# Cases Age [50-64],2020-04-02,CA,2879
+# Cases Age [65+],2020-04-02,CA,2342
+# Cases Age [Unknown],2020-04-02,CA,58
+% Cases Age [0-17],2020-04-02,CA,nan
+% Cases Age [18-49],2020-04-02,CA,nan
+% Cases Age [50-64],2020-04-02,CA,nan
+% Cases Age [65+],2020-04-02,CA,nan
+% Cases Age [Unknown],2020-04-02,CA,nan
+# Cases Age [0-17],2020-04-03,CA,137
+# Cases Age [18-49],2020-04-03,CA,5917
+# Cases Age [50-64],2020-04-03,CA,3253
+# Cases Age [65+],2020-04-03,CA,2660
+# Cases Age [Unknown],2020-04-03,CA,59
+% Cases Age [0-17],2020-04-03,CA,nan
+% Cases Age [18-49],2020-04-03,CA,nan
+% Cases Age [50-64],2020-04-03,CA,nan
+% Cases Age [65+],2020-04-03,CA,nan
+% Cases Age [Unknown],2020-04-03,CA,nan
+# Cases Age [0-17],2020-04-04,CA,160
+# Cases Age [18-49],2020-04-04,CA,6610
+# Cases Age [50-64],2020-04-04,CA,3653
+# Cases Age [65+],2020-04-04,CA,2966
+# Cases Age [Unknown],2020-04-04,CA,49
+% Cases Age [0-17],2020-04-04,CA,nan
+% Cases Age [18-49],2020-04-04,CA,nan
+% Cases Age [50-64],2020-04-04,CA,nan
+% Cases Age [65+],2020-04-04,CA,nan
+% Cases Age [Unknown],2020-04-04,CA,nan
+# Cases Age [0-17],2020-04-05,CA,173
+# Cases Age [18-49],2020-04-05,CA,7099
+# Cases Age [50-64],2020-04-05,CA,3884
+# Cases Age [65+],2020-04-05,CA,3129
+# Cases Age [Unknown],2020-04-05,CA,51
+% Cases Age [0-17],2020-04-05,CA,nan
+% Cases Age [18-49],2020-04-05,CA,nan
+% Cases Age [50-64],2020-04-05,CA,nan
+% Cases Age [65+],2020-04-05,CA,nan
+% Cases Age [Unknown],2020-04-05,CA,nan
+# Cases Age [0-17],2020-04-06,CA,197
+# Cases Age [18-49],2020-04-06,CA,7753
+# Cases Age [50-64],2020-04-06,CA,4344
+# Cases Age [65+],2020-04-06,CA,3516
+# Cases Age [Unknown],2020-04-06,CA,55
+% Cases Age [0-17],2020-04-06,CA,nan
+% Cases Age [18-49],2020-04-06,CA,nan
+% Cases Age [50-64],2020-04-06,CA,nan
+% Cases Age [65+],2020-04-06,CA,nan
+% Cases Age [Unknown],2020-04-06,CA,nan
+# Cases Age [0-17],2020-04-07,CA,222
+# Cases Age [18-49],2020-04-07,CA,8289
+# Cases Age [50-64],2020-04-07,CA,4639
+# Cases Age [65+],2020-04-07,CA,3751
+# Cases Age [Unknown],2020-04-07,CA,56
+% Cases Age [0-17],2020-04-07,CA,nan
+% Cases Age [18-49],2020-04-07,CA,nan
+% Cases Age [50-64],2020-04-07,CA,nan
+% Cases Age [65+],2020-04-07,CA,nan
+% Cases Age [Unknown],2020-04-07,CA,nan
+# Cases Age [0-17],2020-04-08,CA,252
+# Cases Age [18-49],2020-04-08,CA,8939
+# Cases Age [50-64],2020-04-08,CA,5003
+# Cases Age [65+],2020-04-08,CA,4056
+# Cases Age [Unknown],2020-04-08,CA,59
+% Cases Age [0-17],2020-04-08,CA,nan
+% Cases Age [18-49],2020-04-08,CA,nan
+% Cases Age [50-64],2020-04-08,CA,nan
+% Cases Age [65+],2020-04-08,CA,nan
+% Cases Age [Unknown],2020-04-08,CA,nan
+# Cases Age [0-17],2020-04-09,CA,269
+# Cases Age [18-49],2020-04-09,CA,9469
+# Cases Age [50-64],2020-04-09,CA,5347
+# Cases Age [65+],2020-04-09,CA,4335
+# Cases Age [Unknown],2020-04-09,CA,52
+% Cases Age [0-17],2020-04-09,CA,nan
+% Cases Age [18-49],2020-04-09,CA,nan
+% Cases Age [50-64],2020-04-09,CA,nan
+% Cases Age [65+],2020-04-09,CA,nan
+% Cases Age [Unknown],2020-04-09,CA,nan
+# Cases Age [0-17],2020-04-10,CA,303
+# Cases Age [18-49],2020-04-10,CA,10069
+# Cases Age [50-64],2020-04-10,CA,5633
+# Cases Age [65+],2020-04-10,CA,4561
+# Cases Age [Unknown],2020-04-10,CA,49
+% Cases Age [0-17],2020-04-10,CA,nan
+% Cases Age [18-49],2020-04-10,CA,nan
+% Cases Age [50-64],2020-04-10,CA,nan
+% Cases Age [65+],2020-04-10,CA,nan
+% Cases Age [Unknown],2020-04-10,CA,nan
+# Cases Age [0-17],2020-04-11,CA,330
+# Cases Age [18-49],2020-04-11,CA,10599
+# Cases Age [50-64],2020-04-11,CA,5941
+# Cases Age [65+],2020-04-11,CA,4870
+# Cases Age [Unknown],2020-04-11,CA,54
+% Cases Age [0-17],2020-04-11,CA,nan
+% Cases Age [18-49],2020-04-11,CA,nan
+% Cases Age [50-64],2020-04-11,CA,nan
+% Cases Age [65+],2020-04-11,CA,nan
+% Cases Age [Unknown],2020-04-11,CA,nan
+# Cases Age [0-17],2020-04-12,CA,337
+# Cases Age [18-49],2020-04-12,CA,10838
+# Cases Age [50-64],2020-04-12,CA,6079
+# Cases Age [65+],2020-04-12,CA,5036
+# Cases Age [Unknown],2020-04-12,CA,58
+% Cases Age [0-17],2020-04-12,CA,nan
+% Cases Age [18-49],2020-04-12,CA,nan
+% Cases Age [50-64],2020-04-12,CA,nan
+% Cases Age [65+],2020-04-12,CA,nan
+% Cases Age [Unknown],2020-04-12,CA,nan
+# Cases Age [0-17],2020-04-13,CA,362
+# Cases Age [18-49],2020-04-13,CA,11246
+# Cases Age [50-64],2020-04-13,CA,6348
+# Cases Age [65+],2020-04-13,CA,5320
+# Cases Age [Unknown],2020-04-13,CA,62
+% Cases Age [0-17],2020-04-13,CA,nan
+% Cases Age [18-49],2020-04-13,CA,nan
+% Cases Age [50-64],2020-04-13,CA,nan
+% Cases Age [65+],2020-04-13,CA,nan
+% Cases Age [Unknown],2020-04-13,CA,nan
+# Cases Age [0-17],2020-04-14,CA,385
+# Cases Age [18-49],2020-04-14,CA,11721
+# Cases Age [50-64],2020-04-14,CA,6644
+# Cases Age [65+],2020-04-14,CA,5605
+# Cases Age [Unknown],2020-04-14,CA,69
+% Cases Age [0-17],2020-04-14,CA,nan
+% Cases Age [18-49],2020-04-14,CA,nan
+% Cases Age [50-64],2020-04-14,CA,nan
+% Cases Age [65+],2020-04-14,CA,nan
+% Cases Age [Unknown],2020-04-14,CA,nan
+# Cases Age [0-17],2020-04-15,CA,432
+# Cases Age [18-49],2020-04-15,CA,12479
+# Cases Age [50-64],2020-04-15,CA,7141
+# Cases Age [65+],2020-04-15,CA,6051
+# Cases Age [Unknown],2020-04-15,CA,79
+% Cases Age [0-17],2020-04-15,CA,nan
+% Cases Age [18-49],2020-04-15,CA,nan
+% Cases Age [50-64],2020-04-15,CA,nan
+% Cases Age [65+],2020-04-15,CA,nan
+% Cases Age [Unknown],2020-04-15,CA,nan
+# Cases Age [0-17],2020-04-16,CA,472
+# Cases Age [18-49],2020-04-16,CA,13144
+# Cases Age [50-64],2020-04-16,CA,7488
+# Cases Age [65+],2020-04-16,CA,6360
+# Cases Age [Unknown],2020-04-16,CA,64
+% Cases Age [0-17],2020-04-16,CA,nan
+% Cases Age [18-49],2020-04-16,CA,nan
+% Cases Age [50-64],2020-04-16,CA,nan
+% Cases Age [65+],2020-04-16,CA,nan
+% Cases Age [Unknown],2020-04-16,CA,nan
+# Cases Age [0-17],2020-04-17,CA,507
+# Cases Age [18-49],2020-04-17,CA,13798
+# Cases Age [50-64],2020-04-17,CA,7862
+# Cases Age [65+],2020-04-17,CA,6729
+# Cases Age [Unknown],2020-04-17,CA,67
+% Cases Age [0-17],2020-04-17,CA,nan
+% Cases Age [18-49],2020-04-17,CA,nan
+% Cases Age [50-64],2020-04-17,CA,nan
+% Cases Age [65+],2020-04-17,CA,nan
+% Cases Age [Unknown],2020-04-17,CA,nan
+# Cases Age [0-17],2020-04-18,CA,550
+# Cases Age [18-49],2020-04-18,CA,14408
+# Cases Age [50-64],2020-04-18,CA,8232
+# Cases Age [65+],2020-04-18,CA,7071
+# Cases Age [Unknown],2020-04-18,CA,72
+% Cases Age [0-17],2020-04-18,CA,nan
+% Cases Age [18-49],2020-04-18,CA,nan
+% Cases Age [50-64],2020-04-18,CA,nan
+% Cases Age [65+],2020-04-18,CA,nan
+% Cases Age [Unknown],2020-04-18,CA,nan
+# Cases Age [0-17],2020-04-19,CA,573
+# Cases Age [18-49],2020-04-19,CA,14690
+# Cases Age [50-64],2020-04-19,CA,8385
+# Cases Age [65+],2020-04-19,CA,7267
+# Cases Age [Unknown],2020-04-19,CA,63
+% Cases Age [0-17],2020-04-19,CA,nan
+% Cases Age [18-49],2020-04-19,CA,nan
+% Cases Age [50-64],2020-04-19,CA,nan
+% Cases Age [65+],2020-04-19,CA,nan
+% Cases Age [Unknown],2020-04-19,CA,nan
+# Cases Age [0-17],2020-04-20,CA,683
+# Cases Age [18-49],2020-04-20,CA,15901
+# Cases Age [50-64],2020-04-20,CA,8961
+# Cases Age [65+],2020-04-20,CA,7650
+# Cases Age [Unknown],2020-04-20,CA,66
+% Cases Age [0-17],2020-04-20,CA,nan
+% Cases Age [18-49],2020-04-20,CA,nan
+% Cases Age [50-64],2020-04-20,CA,nan
+% Cases Age [65+],2020-04-20,CA,nan
+% Cases Age [Unknown],2020-04-20,CA,nan
+# Cases Age [0-17],2020-04-21,CA,768
+# Cases Age [18-49],2020-04-21,CA,17009
+# Cases Age [50-64],2020-04-21,CA,9517
+# Cases Age [65+],2020-04-21,CA,8035
+# Cases Age [Unknown],2020-04-21,CA,67
+% Cases Age [0-17],2020-04-21,CA,nan
+% Cases Age [18-49],2020-04-21,CA,nan
+% Cases Age [50-64],2020-04-21,CA,nan
+% Cases Age [65+],2020-04-21,CA,nan
+% Cases Age [Unknown],2020-04-21,CA,nan
+# Cases Age [0-17],2020-04-22,CA,855
+# Cases Age [18-49],2020-04-22,CA,18004
+# Cases Age [50-64],2020-04-22,CA,10025
+# Cases Age [65+],2020-04-22,CA,8401
+# Cases Age [Unknown],2020-04-22,CA,84
+% Cases Age [0-17],2020-04-22,CA,2.29
+% Cases Age [18-49],2020-04-22,CA,48.18
+% Cases Age [50-64],2020-04-22,CA,26.83
+% Cases Age [65+],2020-04-22,CA,22.48
+% Cases Age [Unknown],2020-04-22,CA,0.22
+# Cases Age [0-17],2020-04-23,CA,936
+# Cases Age [18-49],2020-04-23,CA,18954
+# Cases Age [50-64],2020-04-23,CA,10451
+# Cases Age [65+],2020-04-23,CA,8832
+# Cases Age [Unknown],2020-04-23,CA,81
+% Cases Age [0-17],2020-04-23,CA,2.38
+% Cases Age [18-49],2020-04-23,CA,48.29
+% Cases Age [50-64],2020-04-23,CA,26.62
+% Cases Age [65+],2020-04-23,CA,22.5
+% Cases Age [Unknown],2020-04-23,CA,0.21
+# Cases Age [0-17],2020-04-24,CA,1011
+# Cases Age [18-49],2020-04-24,CA,19897
+# Cases Age [50-64],2020-04-24,CA,10885
+# Cases Age [65+],2020-04-24,CA,9256
+# Cases Age [Unknown],2020-04-24,CA,88
+% Cases Age [0-17],2020-04-24,CA,2.46
+% Cases Age [18-49],2020-04-24,CA,48.37
+% Cases Age [50-64],2020-04-24,CA,26.46
+% Cases Age [65+],2020-04-24,CA,22.5
+% Cases Age [Unknown],2020-04-24,CA,0.21
+# Cases Age [0-17],2020-04-25,CA,1039
+# Cases Age [18-49],2020-04-25,CA,20379
+# Cases Age [50-64],2020-04-25,CA,11139
+# Cases Age [65+],2020-04-25,CA,9512
+# Cases Age [Unknown],2020-04-25,CA,95
+% Cases Age [0-17],2020-04-25,CA,2.46
+% Cases Age [18-49],2020-04-25,CA,48.33
+% Cases Age [50-64],2020-04-25,CA,26.42
+% Cases Age [65+],2020-04-25,CA,22.56
+% Cases Age [Unknown],2020-04-25,CA,0.23
+# Cases Age [0-17],2020-04-26,CA,1085
+# Cases Age [18-49],2020-04-26,CA,21028
+# Cases Age [50-64],2020-04-26,CA,11442
+# Cases Age [65+],2020-04-26,CA,9824
+# Cases Age [Unknown],2020-04-26,CA,85
+% Cases Age [0-17],2020-04-26,CA,2.5
+% Cases Age [18-49],2020-04-26,CA,48.38
+% Cases Age [50-64],2020-04-26,CA,26.33
+% Cases Age [65+],2020-04-26,CA,22.6
+% Cases Age [Unknown],2020-04-26,CA,0.2
+# Cases Age [0-17],2020-04-27,CA,1190
+# Cases Age [18-49],2020-04-27,CA,21888
+# Cases Age [50-64],2020-04-27,CA,11781
+# Cases Age [65+],2020-04-27,CA,10086
+# Cases Age [Unknown],2020-04-27,CA,86
+% Cases Age [0-17],2020-04-27,CA,2.64
+% Cases Age [18-49],2020-04-27,CA,48.61
+% Cases Age [50-64],2020-04-27,CA,26.16
+% Cases Age [65+],2020-04-27,CA,22.4
+% Cases Age [Unknown],2020-04-27,CA,0.19
+# Cases Age [0-17],2020-04-28,CA,1263
+# Cases Age [18-49],2020-04-28,CA,22596
+# Cases Age [50-64],2020-04-28,CA,12153
+# Cases Age [65+],2020-04-28,CA,10413
+# Cases Age [Unknown],2020-04-28,CA,75
+% Cases Age [0-17],2020-04-28,CA,2.72
+% Cases Age [18-49],2020-04-28,CA,48.59
+% Cases Age [50-64],2020-04-28,CA,26.14
+% Cases Age [65+],2020-04-28,CA,22.39
+% Cases Age [Unknown],2020-04-28,CA,0.16
+# Cases Age [0-17],2020-04-29,CA,1398
+# Cases Age [18-49],2020-04-29,CA,23836
+# Cases Age [50-64],2020-04-29,CA,12705
+# Cases Age [65+],2020-04-29,CA,10906
+# Cases Age [Unknown],2020-04-29,CA,72
+% Cases Age [0-17],2020-04-29,CA,2.86
+% Cases Age [18-49],2020-04-29,CA,48.73
+% Cases Age [50-64],2020-04-29,CA,25.97
+% Cases Age [65+],2020-04-29,CA,22.29
+% Cases Age [Unknown],2020-04-29,CA,0.15
+# Cases Age [0-17],2020-04-30,CA,1449
+# Cases Age [18-49],2020-04-30,CA,24613
+# Cases Age [50-64],2020-04-30,CA,13044
+# Cases Age [65+],2020-04-30,CA,11256
+# Cases Age [Unknown],2020-04-30,CA,80
+% Cases Age [0-17],2020-04-30,CA,2.9
+% Cases Age [18-49],2020-04-30,CA,48.8
+% Cases Age [50-64],2020-04-30,CA,25.9
+% Cases Age [65+],2020-04-30,CA,22.3
+% Cases Age [Unknown],2020-04-30,CA,0.2
+# Cases Age [0-17],2020-05-01,CA,1566
+# Cases Age [18-49],2020-05-01,CA,25548
+# Cases Age [50-64],2020-05-01,CA,13454
+# Cases Age [65+],2020-05-01,CA,11547
+# Cases Age [Unknown],2020-05-01,CA,82
+% Cases Age [0-17],2020-05-01,CA,3.0
+% Cases Age [18-49],2020-05-01,CA,48.95
+% Cases Age [50-64],2020-05-01,CA,25.78
+% Cases Age [65+],2020-05-01,CA,22.12
+% Cases Age [Unknown],2020-05-01,CA,0.16
+# Cases Age [0-17],2020-05-02,CA,1640
+# Cases Age [18-49],2020-05-02,CA,26256
+# Cases Age [50-64],2020-05-02,CA,13773
+# Cases Age [65+],2020-05-02,CA,11860
+# Cases Age [Unknown],2020-05-02,CA,87
+% Cases Age [0-17],2020-05-02,CA,3.1
+% Cases Age [18-49],2020-05-02,CA,49.0
+% Cases Age [50-64],2020-05-02,CA,25.7
+% Cases Age [65+],2020-05-02,CA,22.1
+% Cases Age [Unknown],2020-05-02,CA,0.2
+# Cases Age [0-17],2020-05-03,CA,1715
+# Cases Age [18-49],2020-05-03,CA,26956
+# Cases Age [50-64],2020-05-03,CA,14078
+# Cases Age [65+],2020-05-03,CA,12098
+# Cases Age [Unknown],2020-05-03,CA,90
+% Cases Age [0-17],2020-05-03,CA,3.12
+% Cases Age [18-49],2020-05-03,CA,49.07
+% Cases Age [50-64],2020-05-03,CA,25.63
+% Cases Age [65+],2020-05-03,CA,22.02
+% Cases Age [Unknown],2020-05-03,CA,0.16
+# Cases Age [0-17],2020-05-04,CA,1773
+# Cases Age [18-49],2020-05-04,CA,27556
+# Cases Age [50-64],2020-05-04,CA,14366
+# Cases Age [65+],2020-05-04,CA,12425
+# Cases Age [Unknown],2020-05-04,CA,92
+% Cases Age [0-17],2020-05-04,CA,3.2
+% Cases Age [18-49],2020-05-04,CA,49.0
+% Cases Age [50-64],2020-05-04,CA,25.6
+% Cases Age [65+],2020-05-04,CA,22.1
+% Cases Age [Unknown],2020-05-04,CA,0.2
+# Cases Age [0-17],2020-05-05,CA,1937
+# Cases Age [18-49],2020-05-05,CA,28968
+# Cases Age [50-64],2020-05-05,CA,14974
+# Cases Age [65+],2020-05-05,CA,12842
+# Cases Age [Unknown],2020-05-05,CA,94
+% Cases Age [0-17],2020-05-05,CA,3.3
+% Cases Age [18-49],2020-05-05,CA,49.3
+% Cases Age [50-64],2020-05-05,CA,25.5
+% Cases Age [65+],2020-05-05,CA,21.8
+% Cases Age [Unknown],2020-05-05,CA,0.2
+# Cases Age [0-17],2020-05-06,CA,2055
+# Cases Age [18-49],2020-05-06,CA,29902
+# Cases Age [50-64],2020-05-06,CA,15375
+# Cases Age [65+],2020-05-06,CA,13194
+# Cases Age [Unknown],2020-05-06,CA,88
+% Cases Age [0-17],2020-05-06,CA,3.4
+% Cases Age [18-49],2020-05-06,CA,49.3
+% Cases Age [50-64],2020-05-06,CA,25.4
+% Cases Age [65+],2020-05-06,CA,21.8
+% Cases Age [Unknown],2020-05-06,CA,0.1
+# Cases Age [0-17],2020-05-07,CA,2181
+# Cases Age [18-49],2020-05-07,CA,30860
+# Cases Age [50-64],2020-05-07,CA,15793
+# Cases Age [65+],2020-05-07,CA,13580
+# Cases Age [Unknown],2020-05-07,CA,98
+% Cases Age [0-17],2020-05-07,CA,3.5
+% Cases Age [18-49],2020-05-07,CA,49.4
+% Cases Age [50-64],2020-05-07,CA,25.3
+% Cases Age [65+],2020-05-07,CA,21.7
+% Cases Age [Unknown],2020-05-07,CA,0.2
+# Cases Age [0-17],2020-05-08,CA,2260
+# Cases Age [18-49],2020-05-08,CA,32004
+# Cases Age [50-64],2020-05-08,CA,16250
+# Cases Age [65+],2020-05-08,CA,13948
+# Cases Age [Unknown],2020-05-08,CA,99
+% Cases Age [0-17],2020-05-08,CA,3.5
+% Cases Age [18-49],2020-05-08,CA,49.6
+% Cases Age [50-64],2020-05-08,CA,25.2
+% Cases Age [65+],2020-05-08,CA,21.6
+% Cases Age [Unknown],2020-05-08,CA,0.2
+# Cases Age [0-17],2020-05-09,CA,2373
+# Cases Age [18-49],2020-05-09,CA,33190
+# Cases Age [50-64],2020-05-09,CA,16729
+# Cases Age [65+],2020-05-09,CA,14290
+# Cases Age [Unknown],2020-05-09,CA,98
+% Cases Age [0-17],2020-05-09,CA,3.6
+% Cases Age [18-49],2020-05-09,CA,49.8
+% Cases Age [50-64],2020-05-09,CA,25.1
+% Cases Age [65+],2020-05-09,CA,21.4
+% Cases Age [Unknown],2020-05-09,CA,0.1
+# Cases Age [0-17],2020-05-10,CA,2444
+# Cases Age [18-49],2020-05-10,CA,33805
+# Cases Age [50-64],2020-05-10,CA,17002
+# Cases Age [65+],2020-05-10,CA,14597
+# Cases Age [Unknown],2020-05-10,CA,91
+% Cases Age [0-17],2020-05-10,CA,3.6
+% Cases Age [18-49],2020-05-10,CA,49.8
+% Cases Age [50-64],2020-05-10,CA,25.0
+% Cases Age [65+],2020-05-10,CA,21.5
+% Cases Age [Unknown],2020-05-10,CA,0.1
+# Cases Age [0-17],2020-05-11,CA,2549
+# Cases Age [18-49],2020-05-11,CA,34573
+# Cases Age [50-64],2020-05-11,CA,17322
+# Cases Age [65+],2020-05-11,CA,14845
+# Cases Age [Unknown],2020-05-11,CA,93
+% Cases Age [0-17],2020-05-11,CA,3.7
+% Cases Age [18-49],2020-05-11,CA,49.8
+% Cases Age [50-64],2020-05-11,CA,25.0
+% Cases Age [65+],2020-05-11,CA,21.4
+% Cases Age [Unknown],2020-05-11,CA,0.1
+# Cases Age [0-17],2020-05-12,CA,2672
+# Cases Age [18-49],2020-05-12,CA,35567
+# Cases Age [50-64],2020-05-12,CA,17701
+# Cases Age [65+],2020-05-12,CA,15098
+# Cases Age [Unknown],2020-05-12,CA,103
+% Cases Age [0-17],2020-05-12,CA,3.8
+% Cases Age [18-49],2020-05-12,CA,50.0
+% Cases Age [50-64],2020-05-12,CA,24.9
+% Cases Age [65+],2020-05-12,CA,21.2
+% Cases Age [Unknown],2020-05-12,CA,0.1
+# Cases Age [0-17],2020-05-13,CA,2799
+# Cases Age [18-49],2020-05-13,CA,36602
+# Cases Age [50-64],2020-05-13,CA,18154
+# Cases Age [65+],2020-05-13,CA,15498
+# Cases Age [Unknown],2020-05-13,CA,111
+% Cases Age [0-17],2020-05-13,CA,3.8
+% Cases Age [18-49],2020-05-13,CA,50.0
+% Cases Age [50-64],2020-05-13,CA,24.8
+% Cases Age [65+],2020-05-13,CA,21.2
+% Cases Age [Unknown],2020-05-13,CA,0.2
+# Cases Age [0-17],2020-05-14,CA,2951
+# Cases Age [18-49],2020-05-14,CA,37637
+# Cases Age [50-64],2020-05-14,CA,18510
+# Cases Age [65+],2020-05-14,CA,15725
+# Cases Age [Unknown],2020-05-14,CA,113
+% Cases Age [0-17],2020-05-14,CA,3.9
+% Cases Age [18-49],2020-05-14,CA,50.2
+% Cases Age [50-64],2020-05-14,CA,24.7
+% Cases Age [65+],2020-05-14,CA,21.0
+% Cases Age [Unknown],2020-05-14,CA,0.2
+# Cases Age [0-17],2020-05-15,CA,3064
+# Cases Age [18-49],2020-05-15,CA,38611
+# Cases Age [50-64],2020-05-15,CA,18908
+# Cases Age [65+],2020-05-15,CA,16101
+# Cases Age [Unknown],2020-05-15,CA,109
+% Cases Age [0-17],2020-05-15,CA,4.0
+% Cases Age [18-49],2020-05-15,CA,50.3
+% Cases Age [50-64],2020-05-15,CA,24.6
+% Cases Age [65+],2020-05-15,CA,21.0
+% Cases Age [Unknown],2020-05-15,CA,0.1
+# Cases Age [0-17],2020-05-16,CA,3225
+# Cases Age [18-49],2020-05-16,CA,39651
+# Cases Age [50-64],2020-05-16,CA,19365
+# Cases Age [65+],2020-05-16,CA,16489
+# Cases Age [Unknown],2020-05-16,CA,109
+% Cases Age [0-17],2020-05-16,CA,4.1
+% Cases Age [18-49],2020-05-16,CA,50.3
+% Cases Age [50-64],2020-05-16,CA,24.6
+% Cases Age [65+],2020-05-16,CA,20.9
+% Cases Age [Unknown],2020-05-16,CA,0.1
+# Cases Age [0-17],2020-05-17,CA,3355
+# Cases Age [18-49],2020-05-17,CA,40539
+# Cases Age [50-64],2020-05-17,CA,19703
+# Cases Age [65+],2020-05-17,CA,16727
+# Cases Age [Unknown],2020-05-17,CA,106
+% Cases Age [0-17],2020-05-17,CA,4.2
+% Cases Age [18-49],2020-05-17,CA,50.4
+% Cases Age [50-64],2020-05-17,CA,24.5
+% Cases Age [65+],2020-05-17,CA,20.8
+% Cases Age [Unknown],2020-05-17,CA,0.1
+# Cases Age [0-17],2020-06-16,CA,11064
+# Cases Age [18-49],2020-06-16,CA,85325
+# Cases Age [50-64],2020-06-16,CA,34922
+# Cases Age [65+],2020-06-16,CA,25503
+# Cases Age [Unknown],2020-06-16,CA,201
+% Cases Age [0-17],2020-06-16,CA,7.0
+% Cases Age [18-49],2020-06-16,CA,54.3
+% Cases Age [50-64],2020-06-16,CA,22.2
+% Cases Age [65+],2020-06-16,CA,16.2
+% Cases Age [Unknown],2020-06-16,CA,0.1
+# Cases Age [0-17],2020-06-14,CA,10451
+# Cases Age [18-49],2020-06-14,CA,81943
+# Cases Age [50-64],2020-06-14,CA,33871
+# Cases Age [65+],2020-06-14,CA,24981
+# Cases Age [Unknown],2020-06-14,CA,206
+% Cases Age [0-17],2020-06-14,CA,6.9
+% Cases Age [18-49],2020-06-14,CA,54.1
+% Cases Age [50-64],2020-06-14,CA,22.4
+% Cases Age [65+],2020-06-14,CA,16.5
+% Cases Age [Unknown],2020-06-14,CA,0.1
+# Cases Age [0-17],2020-06-12,CA,9819
+# Cases Age [18-49],2020-06-12,CA,78441
+# Cases Age [50-64],2020-06-12,CA,32783
+# Cases Age [65+],2020-06-12,CA,24403
+# Cases Age [Unknown],2020-06-12,CA,197
+% Cases Age [0-17],2020-06-12,CA,6.7
+% Cases Age [18-49],2020-06-12,CA,53.9
+% Cases Age [50-64],2020-06-12,CA,22.5
+% Cases Age [65+],2020-06-12,CA,16.8
+% Cases Age [Unknown],2020-06-12,CA,0.1
+# Cases Age [0-17],2020-06-06,CA,7947
+# Cases Age [18-49],2020-06-06,CA,68412
+# Cases Age [50-64],2020-06-06,CA,29556
+# Cases Age [65+],2020-06-06,CA,22704
+# Cases Age [Unknown],2020-06-06,CA,193
+% Cases Age [0-17],2020-06-06,CA,6.2
+% Cases Age [18-49],2020-06-06,CA,53.1
+% Cases Age [50-64],2020-06-06,CA,22.9
+% Cases Age [65+],2020-06-06,CA,17.6
+% Cases Age [Unknown],2020-06-06,CA,0.1
+# Cases Age [0-17],2020-06-05,CA,7678
+# Cases Age [18-49],2020-06-05,CA,66755
+# Cases Age [50-64],2020-06-05,CA,29033
+# Cases Age [65+],2020-06-05,CA,22365
+# Cases Age [Unknown],2020-06-05,CA,185
+% Cases Age [0-17],2020-06-05,CA,6.1
+% Cases Age [18-49],2020-06-05,CA,53.0
+% Cases Age [50-64],2020-06-05,CA,23.0
+% Cases Age [65+],2020-06-05,CA,17.7
+% Cases Age [Unknown],2020-06-05,CA,0.1
+# Cases Age [0-17],2020-05-18,CA,3446
+# Cases Age [18-49],2020-05-18,CA,41321
+# Cases Age [50-64],2020-05-18,CA,20003
+# Cases Age [65+],2020-05-18,CA,16920
+# Cases Age [Unknown],2020-05-18,CA,105
+% Cases Age [0-17],2020-05-18,CA,4.2
+% Cases Age [18-49],2020-05-18,CA,50.5
+% Cases Age [50-64],2020-05-18,CA,24.5
+% Cases Age [65+],2020-05-18,CA,20.7
+% Cases Age [Unknown],2020-05-18,CA,0.1
+# Cases Age [0-17],2020-05-19,CA,3657
+# Cases Age [18-49],2020-05-19,CA,42591
+# Cases Age [50-64],2020-05-19,CA,20468
+# Cases Age [65+],2020-05-19,CA,17232
+# Cases Age [Unknown],2020-05-19,CA,109
+% Cases Age [0-17],2020-05-19,CA,4.4
+% Cases Age [18-49],2020-05-19,CA,50.7
+% Cases Age [50-64],2020-05-19,CA,24.4
+% Cases Age [65+],2020-05-19,CA,20.5
+% Cases Age [Unknown],2020-05-19,CA,0.1
+# Cases Age [0-17],2020-05-20,CA,3855
+# Cases Age [18-49],2020-05-20,CA,43749
+# Cases Age [50-64],2020-05-20,CA,20967
+# Cases Age [65+],2020-05-20,CA,17513
+# Cases Age [Unknown],2020-05-20,CA,113
+% Cases Age [0-17],2020-05-20,CA,4.5
+% Cases Age [18-49],2020-05-20,CA,50.8
+% Cases Age [50-64],2020-05-20,CA,24.3
+% Cases Age [65+],2020-05-20,CA,20.3
+% Cases Age [Unknown],2020-05-20,CA,0.1
+# Cases Age [0-17],2020-05-21,CA,4049
+# Cases Age [18-49],2020-05-21,CA,44952
+# Cases Age [50-64],2020-05-21,CA,21461
+# Cases Age [65+],2020-05-21,CA,17864
+# Cases Age [Unknown],2020-05-21,CA,118
+% Cases Age [0-17],2020-05-21,CA,4.6
+% Cases Age [18-49],2020-05-21,CA,50.8
+% Cases Age [50-64],2020-05-21,CA,24.3
+% Cases Age [65+],2020-05-21,CA,20.2
+% Cases Age [Unknown],2020-05-21,CA,0.1
+# Cases Age [0-17],2020-05-22,CA,4273
+# Cases Age [18-49],2020-05-22,CA,46131
+# Cases Age [50-64],2020-05-22,CA,21938
+# Cases Age [65+],2020-05-22,CA,18164
+# Cases Age [Unknown],2020-05-22,CA,125
+% Cases Age [0-17],2020-05-22,CA,4.7
+% Cases Age [18-49],2020-05-22,CA,50.9
+% Cases Age [50-64],2020-05-22,CA,24.2
+% Cases Age [65+],2020-05-22,CA,20.0
+% Cases Age [Unknown],2020-05-22,CA,0.1
+# Cases Age [0-17],2020-05-23,CA,4462
+# Cases Age [18-49],2020-05-23,CA,47331
+# Cases Age [50-64],2020-05-23,CA,22361
+# Cases Age [65+],2020-05-23,CA,18424
+# Cases Age [Unknown],2020-05-23,CA,132
+% Cases Age [0-17],2020-05-23,CA,4.8
+% Cases Age [18-49],2020-05-23,CA,51.1
+% Cases Age [50-64],2020-05-23,CA,24.1
+% Cases Age [65+],2020-05-23,CA,19.9
+% Cases Age [Unknown],2020-05-23,CA,0.1
+# Cases Age [0-17],2020-05-24,CA,4633
+# Cases Age [18-49],2020-05-24,CA,48364
+# Cases Age [50-64],2020-05-24,CA,22754
+# Cases Age [65+],2020-05-24,CA,18670
+# Cases Age [Unknown],2020-05-24,CA,137
+% Cases Age [0-17],2020-05-24,CA,4.9
+% Cases Age [18-49],2020-05-24,CA,51.1
+% Cases Age [50-64],2020-05-24,CA,24.1
+% Cases Age [65+],2020-05-24,CA,19.7
+% Cases Age [Unknown],2020-05-24,CA,0.1
+# Cases Age [0-17],2020-05-25,CA,4872
+# Cases Age [18-49],2020-05-25,CA,49643
+# Cases Age [50-64],2020-05-25,CA,23185
+# Cases Age [65+],2020-05-25,CA,18898
+# Cases Age [Unknown],2020-05-25,CA,135
+% Cases Age [0-17],2020-05-25,CA,5.0
+% Cases Age [18-49],2020-05-25,CA,51.3
+% Cases Age [50-64],2020-05-25,CA,24.0
+% Cases Age [65+],2020-05-25,CA,19.5
+% Cases Age [Unknown],2020-05-25,CA,0.1
+# Cases Age [0-17],2020-05-26,CA,5122
+# Cases Age [18-49],2020-05-26,CA,50981
+# Cases Age [50-64],2020-05-26,CA,23633
+# Cases Age [65+],2020-05-26,CA,19095
+# Cases Age [Unknown],2020-05-26,CA,149
+% Cases Age [0-17],2020-05-26,CA,5.2
+% Cases Age [18-49],2020-05-26,CA,51.5
+% Cases Age [50-64],2020-05-26,CA,23.9
+% Cases Age [65+],2020-05-26,CA,19.3
+% Cases Age [Unknown],2020-05-26,CA,0.2
+# Cases Age [0-17],2020-05-27,CA,5371
+# Cases Age [18-49],2020-05-27,CA,52555
+# Cases Age [50-64],2020-05-27,CA,24154
+# Cases Age [65+],2020-05-27,CA,19462
+# Cases Age [Unknown],2020-05-27,CA,155
+% Cases Age [0-17],2020-05-27,CA,5.3
+% Cases Age [18-49],2020-05-27,CA,51.7
+% Cases Age [50-64],2020-05-27,CA,23.8
+% Cases Age [65+],2020-05-27,CA,19.1
+% Cases Age [Unknown],2020-05-27,CA,0.2
+# Cases Age [0-17],2020-05-28,CA,5542
+# Cases Age [18-49],2020-05-28,CA,53795
+# Cases Age [50-64],2020-05-28,CA,24617
+# Cases Age [65+],2020-05-28,CA,19773
+# Cases Age [Unknown],2020-05-28,CA,159
+% Cases Age [0-17],2020-05-28,CA,5.3
+% Cases Age [18-49],2020-05-28,CA,51.8
+% Cases Age [50-64],2020-05-28,CA,23.7
+% Cases Age [65+],2020-05-28,CA,19.0
+% Cases Age [Unknown],2020-05-28,CA,0.2
+# Cases Age [0-17],2020-05-29,CA,5861
+# Cases Age [18-49],2020-05-29,CA,55552
+# Cases Age [50-64],2020-05-29,CA,25223
+# Cases Age [65+],2020-05-29,CA,20073
+# Cases Age [Unknown],2020-05-29,CA,169
+% Cases Age [0-17],2020-05-29,CA,5.5
+% Cases Age [18-49],2020-05-29,CA,52.0
+% Cases Age [50-64],2020-05-29,CA,23.6
+% Cases Age [65+],2020-05-29,CA,18.8
+% Cases Age [Unknown],2020-05-29,CA,0.2
+# Cases Age [0-17],2020-05-30,CA,6254
+# Cases Age [18-49],2020-05-30,CA,57738
+# Cases Age [50-64],2020-05-30,CA,25964
+# Cases Age [65+],2020-05-30,CA,20455
+# Cases Age [Unknown],2020-05-30,CA,172
+% Cases Age [0-17],2020-05-30,CA,5.7
+% Cases Age [18-49],2020-05-30,CA,52.2
+% Cases Age [50-64],2020-05-30,CA,23.5
+% Cases Age [65+],2020-05-30,CA,18.5
+% Cases Age [Unknown],2020-05-30,CA,0.2
+# Cases Age [0-17],2020-05-31,CA,6488
+# Cases Age [18-49],2020-05-31,CA,59144
+# Cases Age [50-64],2020-05-31,CA,26405
+# Cases Age [65+],2020-05-31,CA,20792
+# Cases Age [Unknown],2020-05-31,CA,177
+% Cases Age [0-17],2020-05-31,CA,5.7
+% Cases Age [18-49],2020-05-31,CA,52.3
+% Cases Age [50-64],2020-05-31,CA,23.4
+% Cases Age [65+],2020-05-31,CA,18.4
+% Cases Age [Unknown],2020-05-31,CA,0.2
+# Cases Age [0-17],2020-06-01,CA,6706
+# Cases Age [18-49],2020-06-01,CA,60493
+# Cases Age [50-64],2020-06-01,CA,26880
+# Cases Age [65+],2020-06-01,CA,21054
+# Cases Age [Unknown],2020-06-01,CA,177
+% Cases Age [0-17],2020-06-01,CA,5.8
+% Cases Age [18-49],2020-06-01,CA,52.5
+% Cases Age [50-64],2020-06-01,CA,23.3
+% Cases Age [65+],2020-06-01,CA,18.3
+% Cases Age [Unknown],2020-06-01,CA,0.2
+# Cases Age [0-17],2020-06-02,CA,6925
+# Cases Age [18-49],2020-06-02,CA,61896
+# Cases Age [50-64],2020-06-02,CA,27334
+# Cases Age [65+],2020-06-02,CA,21354
+# Cases Age [Unknown],2020-06-02,CA,178
+% Cases Age [0-17],2020-06-02,CA,5.9
+% Cases Age [18-49],2020-06-02,CA,52.6
+% Cases Age [50-64],2020-06-02,CA,23.2
+% Cases Age [65+],2020-06-02,CA,18.1
+% Cases Age [Unknown],2020-06-02,CA,0.2
+# Cases Age [0-17],2020-06-03,CA,7119
+# Cases Age [18-49],2020-06-03,CA,63152
+# Cases Age [50-64],2020-06-03,CA,27762
+# Cases Age [65+],2020-06-03,CA,21595
+# Cases Age [Unknown],2020-06-03,CA,179
+% Cases Age [0-17],2020-06-03,CA,5.9
+% Cases Age [18-49],2020-06-03,CA,52.7
+% Cases Age [50-64],2020-06-03,CA,23.2
+% Cases Age [65+],2020-06-03,CA,18.0
+% Cases Age [Unknown],2020-06-03,CA,0.1
+# Cases Age [0-17],2020-06-04,CA,7408
+# Cases Age [18-49],2020-06-04,CA,64914
+# Cases Age [50-64],2020-06-04,CA,28396
+# Cases Age [65+],2020-06-04,CA,22002
+# Cases Age [Unknown],2020-06-04,CA,181
+% Cases Age [0-17],2020-06-04,CA,6.0
+% Cases Age [18-49],2020-06-04,CA,52.8
+% Cases Age [50-64],2020-06-04,CA,23.1
+% Cases Age [65+],2020-06-04,CA,17.9
+% Cases Age [Unknown],2020-06-04,CA,0.1
+# Cases Age [0-17],2020-06-07,CA,8248
+# Cases Age [18-49],2020-06-07,CA,69915
+# Cases Age [50-64],2020-06-07,CA,30025
+# Cases Age [65+],2020-06-07,CA,22939
+# Cases Age [Unknown],2020-06-07,CA,192
+% Cases Age [0-17],2020-06-07,CA,6.3
+% Cases Age [18-49],2020-06-07,CA,53.2
+% Cases Age [50-64],2020-06-07,CA,22.9
+% Cases Age [65+],2020-06-07,CA,17.5
+% Cases Age [Unknown],2020-06-07,CA,0.1
+# Cases Age [0-17],2020-06-08,CA,8509
+# Cases Age [18-49],2020-06-08,CA,71233
+# Cases Age [50-64],2020-06-08,CA,30400
+# Cases Age [65+],2020-06-08,CA,23154
+# Cases Age [Unknown],2020-06-08,CA,193
+% Cases Age [0-17],2020-06-08,CA,6.4
+% Cases Age [18-49],2020-06-08,CA,53.4
+% Cases Age [50-64],2020-06-08,CA,22.8
+% Cases Age [65+],2020-06-08,CA,17.3
+% Cases Age [Unknown],2020-06-08,CA,0.1
+# Cases Age [0-17],2020-06-09,CA,8800
+# Cases Age [18-49],2020-06-09,CA,72829
+# Cases Age [50-64],2020-06-09,CA,30914
+# Cases Age [65+],2020-06-09,CA,23469
+# Cases Age [Unknown],2020-06-09,CA,179
+% Cases Age [0-17],2020-06-09,CA,6.5
+% Cases Age [18-49],2020-06-09,CA,53.5
+% Cases Age [50-64],2020-06-09,CA,22.7
+% Cases Age [65+],2020-06-09,CA,17.2
+% Cases Age [Unknown],2020-06-09,CA,0.1
+# Cases Age [0-17],2020-06-10,CA,9136
+# Cases Age [18-49],2020-06-10,CA,74622
+# Cases Age [50-64],2020-06-10,CA,31530
+# Cases Age [65+],2020-06-10,CA,23806
+# Cases Age [Unknown],2020-06-10,CA,187
+% Cases Age [0-17],2020-06-10,CA,6.6
+% Cases Age [18-49],2020-06-10,CA,53.6
+% Cases Age [50-64],2020-06-10,CA,22.6
+% Cases Age [65+],2020-06-10,CA,17.1
+% Cases Age [Unknown],2020-06-10,CA,0.1
+# Cases Age [0-17],2020-06-11,CA,9461
+# Cases Age [18-49],2020-06-11,CA,76220
+# Cases Age [50-64],2020-06-11,CA,32069
+# Cases Age [65+],2020-06-11,CA,24043
+# Cases Age [Unknown],2020-06-11,CA,190
+% Cases Age [0-17],2020-06-11,CA,6.7
+% Cases Age [18-49],2020-06-11,CA,53.7
+% Cases Age [50-64],2020-06-11,CA,22.6
+% Cases Age [65+],2020-06-11,CA,16.9
+% Cases Age [Unknown],2020-06-11,CA,0.1
+# Cases Age [0-17],2020-06-13,CA,10184
+# Cases Age [18-49],2020-06-13,CA,80348
+# Cases Age [50-64],2020-06-13,CA,33357
+# Cases Age [65+],2020-06-13,CA,24762
+# Cases Age [Unknown],2020-06-13,CA,204
+% Cases Age [0-17],2020-06-13,CA,6.8
+% Cases Age [18-49],2020-06-13,CA,54.0
+% Cases Age [50-64],2020-06-13,CA,22.4
+% Cases Age [65+],2020-06-13,CA,16.6
+% Cases Age [Unknown],2020-06-13,CA,0.1
+# Cases Age [0-17],2020-06-15,CA,10702
+# Cases Age [18-49],2020-06-15,CA,83254
+# Cases Age [50-64],2020-06-15,CA,34290
+# Cases Age [65+],2020-06-15,CA,25109
+# Cases Age [Unknown],2020-06-15,CA,205
+% Cases Age [0-17],2020-06-15,CA,7.0
+% Cases Age [18-49],2020-06-15,CA,54.2
+% Cases Age [50-64],2020-06-15,CA,22.3
+% Cases Age [65+],2020-06-15,CA,16.4
+% Cases Age [Unknown],2020-06-15,CA,0.1
+# Cases Age [0-17],2020-06-17,CA,11582
+# Cases Age [18-49],2020-06-17,CA,87796
+# Cases Age [50-64],2020-06-17,CA,35609
+# Cases Age [65+],2020-06-17,CA,25911
+# Cases Age [Unknown],2020-06-17,CA,201
+% Cases Age [0-17],2020-06-17,CA,7.2
+% Cases Age [18-49],2020-06-17,CA,54.5
+% Cases Age [50-64],2020-06-17,CA,22.1
+% Cases Age [65+],2020-06-17,CA,16.1
+% Cases Age [Unknown],2020-06-17,CA,0.1
+# Cases Age [0-17],2020-06-18,CA,12063
+# Cases Age [18-49],2020-06-18,CA,90278
+# Cases Age [50-64],2020-06-18,CA,36485
+# Cases Age [65+],2020-06-18,CA,26385
+# Cases Age [Unknown],2020-06-18,CA,205
+% Cases Age [0-17],2020-06-18,CA,7.3
+% Cases Age [18-49],2020-06-18,CA,54.6
+% Cases Age [50-64],2020-06-18,CA,22.1
+% Cases Age [65+],2020-06-18,CA,16.0
+% Cases Age [Unknown],2020-06-18,CA,0.1
+# Cases Age [0-17],2020-06-19,CA,12441
+# Cases Age [18-49],2020-06-19,CA,92703
+# Cases Age [50-64],2020-06-19,CA,37213
+# Cases Age [65+],2020-06-19,CA,26741
+# Cases Age [Unknown],2020-06-19,CA,211
+% Cases Age [0-17],2020-06-19,CA,7.3
+% Cases Age [18-49],2020-06-19,CA,54.8
+% Cases Age [50-64],2020-06-19,CA,22.0
+% Cases Age [65+],2020-06-19,CA,15.8
+% Cases Age [Unknown],2020-06-19,CA,0.1
+# Cases Age [0-17],2020-06-20,CA,12897
+# Cases Age [18-49],2020-06-20,CA,95513
+# Cases Age [50-64],2020-06-20,CA,38046
+# Cases Age [65+],2020-06-20,CA,27173
+# Cases Age [Unknown],2020-06-20,CA,195
+% Cases Age [0-17],2020-06-20,CA,7.4
+% Cases Age [18-49],2020-06-20,CA,54.9
+% Cases Age [50-64],2020-06-20,CA,21.9
+% Cases Age [65+],2020-06-20,CA,15.6
+% Cases Age [Unknown],2020-06-20,CA,0.1
+# Cases Age [0-17],2020-06-21,CA,13346
+# Cases Age [18-49],2020-06-21,CA,98269
+# Cases Age [50-64],2020-06-21,CA,38795
+# Cases Age [65+],2020-06-21,CA,27456
+# Cases Age [Unknown],2020-06-21,CA,188
+% Cases Age [0-17],2020-06-21,CA,7.5
+% Cases Age [18-49],2020-06-21,CA,55.2
+% Cases Age [50-64],2020-06-21,CA,21.8
+% Cases Age [65+],2020-06-21,CA,15.4
+% Cases Age [Unknown],2020-06-21,CA,0.1
+# Cases Age [0-17],2020-06-22,CA,13867
+# Cases Age [18-49],2020-06-22,CA,101474
+# Cases Age [50-64],2020-06-22,CA,39667
+# Cases Age [65+],2020-06-22,CA,27864
+# Cases Age [Unknown],2020-06-22,CA,201
+% Cases Age [0-17],2020-06-22,CA,7.6
+% Cases Age [18-49],2020-06-22,CA,55.4
+% Cases Age [50-64],2020-06-22,CA,21.7
+% Cases Age [65+],2020-06-22,CA,15.2
+% Cases Age [Unknown],2020-06-22,CA,0.1
+# Cases Age [0-17],2020-06-23,CA,14524
+# Cases Age [18-49],2020-06-23,CA,106053
+# Cases Age [50-64],2020-06-23,CA,40923
+# Cases Age [65+],2020-06-23,CA,28528
+# Cases Age [Unknown],2020-06-23,CA,194
+% Cases Age [0-17],2020-06-23,CA,7.6
+% Cases Age [18-49],2020-06-23,CA,55.8
+% Cases Age [50-64],2020-06-23,CA,21.5
+% Cases Age [65+],2020-06-23,CA,15.0
+% Cases Age [Unknown],2020-06-23,CA,0.1
+# Cases Age [0-17],2020-06-24,CA,14968
+# Cases Age [18-49],2020-06-24,CA,109489
+# Cases Age [50-64],2020-06-24,CA,41870
+# Cases Age [65+],2020-06-24,CA,29048
+# Cases Age [Unknown],2020-06-24,CA,196
+% Cases Age [0-17],2020-06-24,CA,7.7
+% Cases Age [18-49],2020-06-24,CA,56.0
+% Cases Age [50-64],2020-06-24,CA,21.4
+% Cases Age [65+],2020-06-24,CA,14.9
+% Cases Age [Unknown],2020-06-24,CA,0.1
+# Cases Age [0-17],2020-06-25,CA,15449
+# Cases Age [18-49],2020-06-25,CA,112547
+# Cases Age [50-64],2020-06-25,CA,42721
+# Cases Age [65+],2020-06-25,CA,29544
+# Cases Age [Unknown],2020-06-25,CA,200
+% Cases Age [0-17],2020-06-25,CA,7.7
+% Cases Age [18-49],2020-06-25,CA,56.1
+% Cases Age [50-64],2020-06-25,CA,21.3
+% Cases Age [65+],2020-06-25,CA,14.7
+% Cases Age [Unknown],2020-06-25,CA,0.1
+# Cases Age [0-17],2020-06-26,CA,16093
+# Cases Age [18-49],2020-06-26,CA,116389
+# Cases Age [50-64],2020-06-26,CA,43730
+# Cases Age [65+],2020-06-26,CA,30007
+# Cases Age [Unknown],2020-06-26,CA,214
+% Cases Age [0-17],2020-06-26,CA,7.8
+% Cases Age [18-49],2020-06-26,CA,56.4
+% Cases Age [50-64],2020-06-26,CA,21.2
+% Cases Age [65+],2020-06-26,CA,14.5
+% Cases Age [Unknown],2020-06-26,CA,0.1
+# Cases Age [0-17],2020-06-27,CA,16546
+# Cases Age [18-49],2020-06-27,CA,118923
+# Cases Age [50-64],2020-06-27,CA,44383
+# Cases Age [65+],2020-06-27,CA,30333
+# Cases Age [Unknown],2020-06-27,CA,1058
+% Cases Age [0-17],2020-06-27,CA,7.9
+% Cases Age [18-49],2020-06-27,CA,56.5
+% Cases Age [50-64],2020-06-27,CA,21.1
+% Cases Age [65+],2020-06-27,CA,14.4
+% Cases Age [Unknown],2020-06-27,CA,0.1
+# Cases Age [0-17],2020-06-28,CA,17157
+# Cases Age [18-49],2020-06-28,CA,122833
+# Cases Age [50-64],2020-06-28,CA,45434
+# Cases Age [65+],2020-06-28,CA,30893
+# Cases Age [Unknown],2020-06-28,CA,233
+% Cases Age [0-17],2020-06-28,CA,7.9
+% Cases Age [18-49],2020-06-28,CA,56.7
+% Cases Age [50-64],2020-06-28,CA,21.0
+% Cases Age [65+],2020-06-28,CA,14.3
+% Cases Age [Unknown],2020-06-28,CA,0.1
+# Cases Age [0-17],2020-06-29,CA,17739
+# Cases Age [18-49],2020-06-29,CA,127082
+# Cases Age [50-64],2020-06-29,CA,46486
+# Cases Age [65+],2020-06-29,CA,31379
+# Cases Age [Unknown],2020-06-29,CA,231
+% Cases Age [0-17],2020-06-29,CA,8.0
+% Cases Age [18-49],2020-06-29,CA,57.0
+% Cases Age [50-64],2020-06-29,CA,20.9
+% Cases Age [65+],2020-06-29,CA,14.1
+% Cases Age [Unknown],2020-06-29,CA,0.1
+# Cases Age [0-17],2020-06-30,CA,18672
+# Cases Age [18-49],2020-06-30,CA,133458
+# Cases Age [50-64],2020-06-30,CA,48149
+# Cases Age [65+],2020-06-30,CA,32145
+# Cases Age [Unknown],2020-06-30,CA,233
+% Cases Age [0-17],2020-06-30,CA,8.0
+% Cases Age [18-49],2020-06-30,CA,57.4
+% Cases Age [50-64],2020-06-30,CA,20.7
+% Cases Age [65+],2020-06-30,CA,13.8
+% Cases Age [Unknown],2020-06-30,CA,0.1
+# Cases Age [0-17],2020-07-01,CA,19328
+# Cases Age [18-49],2020-07-01,CA,138340
+# Cases Age [50-64],2020-07-01,CA,49466
+# Cases Age [65+],2020-07-01,CA,32815
+# Cases Age [Unknown],2020-07-01,CA,246
+% Cases Age [0-17],2020-07-01,CA,8.0
+% Cases Age [18-49],2020-07-01,CA,57.6
+% Cases Age [50-64],2020-07-01,CA,20.6
+% Cases Age [65+],2020-07-01,CA,13.7
+% Cases Age [Unknown],2020-07-01,CA,0.1
+# Cases Age [0-17],2020-07-02,CA,20088
+# Cases Age [18-49],2020-07-02,CA,143601
+# Cases Age [50-64],2020-07-02,CA,50845
+# Cases Age [65+],2020-07-02,CA,33445
+# Cases Age [Unknown],2020-07-02,CA,256
+% Cases Age [0-17],2020-07-02,CA,8.1
+% Cases Age [18-49],2020-07-02,CA,57.8
+% Cases Age [50-64],2020-07-02,CA,20.5
+% Cases Age [65+],2020-07-02,CA,13.5
+% Cases Age [Unknown],2020-07-02,CA,0.1
+# Cases Age [0-17],2020-07-03,CA,20610
+# Cases Age [18-49],2020-07-03,CA,147853
+# Cases Age [50-64],2020-07-03,CA,51955
+# Cases Age [65+],2020-07-03,CA,34055
+# Cases Age [Unknown],2020-07-03,CA,272
+% Cases Age [0-17],2020-07-03,CA,8.1
+% Cases Age [18-49],2020-07-03,CA,58.0
+% Cases Age [50-64],2020-07-03,CA,20.4
+% Cases Age [65+],2020-07-03,CA,13.4
+% Cases Age [Unknown],2020-07-03,CA,0.1
+# Cases Age [0-17],2020-07-04,CA,21219
+# Cases Age [18-49],2020-07-04,CA,151294
+# Cases Age [50-64],2020-07-04,CA,52869
+# Cases Age [65+],2020-07-04,CA,34493
+# Cases Age [Unknown],2020-07-04,CA,280
+% Cases Age [0-17],2020-07-04,CA,8.2
+% Cases Age [18-49],2020-07-04,CA,58.2
+% Cases Age [50-64],2020-07-04,CA,20.3
+% Cases Age [65+],2020-07-04,CA,13.3
+% Cases Age [Unknown],2020-07-04,CA,0.1
+# Cases Age [0-17],2020-07-05,CA,22332
+# Cases Age [18-49],2020-07-05,CA,158767
+# Cases Age [50-64],2020-07-05,CA,54836
+# Cases Age [65+],2020-07-05,CA,35441
+# Cases Age [Unknown],2020-07-05,CA,308
+% Cases Age [0-17],2020-07-05,CA,8.2
+% Cases Age [18-49],2020-07-05,CA,58.4
+% Cases Age [50-64],2020-07-05,CA,20.2
+% Cases Age [65+],2020-07-05,CA,13.0
+% Cases Age [Unknown],2020-07-05,CA,0.1
+# Cases Age [0-17],2020-07-06,CA,22861
+# Cases Age [18-49],2020-07-06,CA,162714
+# Cases Age [50-64],2020-07-06,CA,55931
+# Cases Age [65+],2020-07-06,CA,35957
+# Cases Age [Unknown],2020-07-06,CA,311
+% Cases Age [0-17],2020-07-06,CA,8.2
+% Cases Age [18-49],2020-07-06,CA,58.6
+% Cases Age [50-64],2020-07-06,CA,20.1
+% Cases Age [65+],2020-07-06,CA,12.9
+% Cases Age [Unknown],2020-07-06,CA,0.1
+# Cases Age [0-17],2020-07-07,CA,23960
+# Cases Age [18-49],2020-07-07,CA,170255
+# Cases Age [50-64],2020-07-07,CA,58017
+# Cases Age [65+],2020-07-07,CA,36911
+# Cases Age [Unknown],2020-07-07,CA,325
+% Cases Age [0-17],2020-07-07,CA,8.3
+% Cases Age [18-49],2020-07-07,CA,58.8
+% Cases Age [50-64],2020-07-07,CA,20.0
+% Cases Age [65+],2020-07-07,CA,12.8
+% Cases Age [Unknown],2020-07-07,CA,0.1
+# Cases Age [0-17],2020-07-08,CA,24556
+# Cases Age [18-49],2020-07-08,CA,174719
+# Cases Age [50-64],2020-07-08,CA,59300
+# Cases Age [65+],2020-07-08,CA,37586
+# Cases Age [Unknown],2020-07-08,CA,338
+% Cases Age [0-17],2020-07-08,CA,8.3
+% Cases Age [18-49],2020-07-08,CA,58.9
+% Cases Age [50-64],2020-07-08,CA,20.0
+% Cases Age [65+],2020-07-08,CA,12.7
+% Cases Age [Unknown],2020-07-08,CA,0.1
+# Cases Age [0-17],2020-07-09,CA,25160
+# Cases Age [18-49],2020-07-09,CA,179727
+# Cases Age [50-64],2020-07-09,CA,60708
+# Cases Age [65+],2020-07-09,CA,38346
+# Cases Age [Unknown],2020-07-09,CA,356
+% Cases Age [0-17],2020-07-09,CA,8.3
+% Cases Age [18-49],2020-07-09,CA,59.1
+% Cases Age [50-64],2020-07-09,CA,20.0
+% Cases Age [65+],2020-07-09,CA,12.6
+% Cases Age [Unknown],2020-07-09,CA,0.1
+# Cases Age [0-17],2020-07-10,CA,25889
+# Cases Age [18-49],2020-07-10,CA,184939
+# Cases Age [50-64],2020-07-10,CA,62124
+# Cases Age [65+],2020-07-10,CA,39039
+# Cases Age [Unknown],2020-07-10,CA,353
+% Cases Age [0-17],2020-07-10,CA,8.3
+% Cases Age [18-49],2020-07-10,CA,59.2
+% Cases Age [50-64],2020-07-10,CA,19.9
+% Cases Age [65+],2020-07-10,CA,12.5
+% Cases Age [Unknown],2020-07-10,CA,0.1
+# Cases Age [0-17],2020-07-11,CA,26652
+# Cases Age [18-49],2020-07-11,CA,190310
+# Cases Age [50-64],2020-07-11,CA,63696
+# Cases Age [65+],2020-07-11,CA,39776
+# Cases Age [Unknown],2020-07-11,CA,370
+% Cases Age [0-17],2020-07-11,CA,8.3
+% Cases Age [18-49],2020-07-11,CA,59.3
+% Cases Age [50-64],2020-07-11,CA,19.9
+% Cases Age [65+],2020-07-11,CA,12.4
+% Cases Age [Unknown],2020-07-11,CA,0.1
+# Cases Age [0-17],2020-07-12,CA,27415
+# Cases Age [18-49],2020-07-12,CA,195752
+# Cases Age [50-64],2020-07-12,CA,65134
+# Cases Age [65+],2020-07-12,CA,40473
+# Cases Age [Unknown],2020-07-12,CA,388
+% Cases Age [0-17],2020-07-12,CA,8.3
+% Cases Age [18-49],2020-07-12,CA,59.5
+% Cases Age [50-64],2020-07-12,CA,19.8
+% Cases Age [65+],2020-07-12,CA,12.3
+% Cases Age [Unknown],2020-07-12,CA,0.1
+# Cases Age [0-17],2020-07-13,CA,28108
+# Cases Age [18-49],2020-07-13,CA,200437
+# Cases Age [50-64],2020-07-13,CA,66427
+# Cases Age [65+],2020-07-13,CA,41080
+# Cases Age [Unknown],2020-07-13,CA,456
+% Cases Age [0-17],2020-07-13,CA,8.4
+% Cases Age [18-49],2020-07-13,CA,59.6
+% Cases Age [50-64],2020-07-13,CA,19.7
+% Cases Age [65+],2020-07-13,CA,12.2
+% Cases Age [Unknown],2020-07-13,CA,0.1
+# Cases Age [0-17],2020-07-14,CA,29156
+# Cases Age [18-49],2020-07-14,CA,207574
+# Cases Age [50-64],2020-07-14,CA,68493
+# Cases Age [65+],2020-07-14,CA,42007
+# Cases Age [Unknown],2020-07-14,CA,404
+% Cases Age [0-17],2020-07-14,CA,8.4
+% Cases Age [18-49],2020-07-14,CA,59.7
+% Cases Age [50-64],2020-07-14,CA,19.7
+% Cases Age [65+],2020-07-14,CA,12.1
+% Cases Age [Unknown],2020-07-14,CA,0.1
+# Cases Age [0-17],2020-07-15,CA,29945
+# Cases Age [18-49],2020-07-15,CA,213083
+# Cases Age [50-64],2020-07-15,CA,69998
+# Cases Age [65+],2020-07-15,CA,42748
+# Cases Age [Unknown],2020-07-15,CA,404
+% Cases Age [0-17],2020-07-15,CA,8.4
+% Cases Age [18-49],2020-07-15,CA,59.8
+% Cases Age [50-64],2020-07-15,CA,19.7
+% Cases Age [65+],2020-07-15,CA,12.0
+% Cases Age [Unknown],2020-07-15,CA,0.1
+# Cases Age [0-17],2020-07-16,CA,31018
+# Cases Age [18-49],2020-07-16,CA,219485
+# Cases Age [50-64],2020-07-16,CA,71688
+# Cases Age [65+],2020-07-16,CA,43550
+# Cases Age [Unknown],2020-07-16,CA,423
+% Cases Age [0-17],2020-07-16,CA,8.5
+% Cases Age [18-49],2020-07-16,CA,59.9
+% Cases Age [50-64],2020-07-16,CA,19.6
+% Cases Age [65+],2020-07-16,CA,11.9
+% Cases Age [Unknown],2020-07-16,CA,0.1
+# Cases Age [0-17],2020-07-17,CA,31953
+# Cases Age [18-49],2020-07-17,CA,225279
+# Cases Age [50-64],2020-07-17,CA,73362
+# Cases Age [65+],2020-07-17,CA,44297
+# Cases Age [Unknown],2020-07-17,CA,472
+% Cases Age [0-17],2020-07-17,CA,8.5
+% Cases Age [18-49],2020-07-17,CA,60.0
+% Cases Age [50-64],2020-07-17,CA,19.5
+% Cases Age [65+],2020-07-17,CA,11.8
+% Cases Age [Unknown],2020-07-17,CA,0.1
+# Cases Age [0-17],2020-07-18,CA,32913
+# Cases Age [18-49],2020-07-18,CA,231171
+# Cases Age [50-64],2020-07-18,CA,74999
+# Cases Age [65+],2020-07-18,CA,45166
+# Cases Age [Unknown],2020-07-18,CA,443
+% Cases Age [0-17],2020-07-18,CA,8.6
+% Cases Age [18-49],2020-07-18,CA,60.1
+% Cases Age [50-64],2020-07-18,CA,19.5
+% Cases Age [65+],2020-07-18,CA,11.7
+% Cases Age [Unknown],2020-07-18,CA,0.1
+# Cases Age [0-17],2020-07-19,CA,33630
+# Cases Age [18-49],2020-07-19,CA,235513
+# Cases Age [50-64],2020-07-19,CA,76179
+# Cases Age [65+],2020-07-19,CA,45759
+# Cases Age [Unknown],2020-07-19,CA,457
+% Cases Age [0-17],2020-07-19,CA,8.6
+% Cases Age [18-49],2020-07-19,CA,60.2
+% Cases Age [50-64],2020-07-19,CA,19.5
+% Cases Age [65+],2020-07-19,CA,11.7
+% Cases Age [Unknown],2020-07-19,CA,0.1
+# Cases Age [0-17],2020-07-20,CA,34617
+# Cases Age [18-49],2020-07-20,CA,241406
+# Cases Age [50-64],2020-07-20,CA,77787
+# Cases Age [65+],2020-07-20,CA,46495
+# Cases Age [Unknown],2020-07-20,CA,464
+% Cases Age [0-17],2020-07-20,CA,8.6
+% Cases Age [18-49],2020-07-20,CA,60.2
+% Cases Age [50-64],2020-07-20,CA,19.4
+% Cases Age [65+],2020-07-20,CA,11.6
+% Cases Age [Unknown],2020-07-20,CA,0.1
+# Cases Age [0-17],2020-07-21,CA,35962
+# Cases Age [18-49],2020-07-21,CA,249412
+# Cases Age [50-64],2020-07-21,CA,80056
+# Cases Age [65+],2020-07-21,CA,47673
+# Cases Age [Unknown],2020-07-21,CA,473
+% Cases Age [0-17],2020-07-21,CA,8.7
+% Cases Age [18-49],2020-07-21,CA,60.3
+% Cases Age [50-64],2020-07-21,CA,19.4
+% Cases Age [65+],2020-07-21,CA,11.5
+% Cases Age [Unknown],2020-07-21,CA,0.1
+# Cases Age [0-17],2020-07-22,CA,37335
+# Cases Age [18-49],2020-07-22,CA,256853
+# Cases Age [50-64],2020-07-22,CA,82217
+# Cases Age [65+],2020-07-22,CA,48744
+# Cases Age [Unknown],2020-07-22,CA,467
+% Cases Age [0-17],2020-07-22,CA,8.8
+% Cases Age [18-49],2020-07-22,CA,60.3
+% Cases Age [50-64],2020-07-22,CA,19.3
+% Cases Age [65+],2020-07-22,CA,11.5
+% Cases Age [Unknown],2020-07-22,CA,0.1
+# Cases Age [0-17],2020-07-23,CA,38301
+# Cases Age [18-49],2020-07-23,CA,262780
+# Cases Age [50-64],2020-07-23,CA,84114
+# Cases Age [65+],2020-07-23,CA,49648
+# Cases Age [Unknown],2020-07-23,CA,491
+% Cases Age [0-17],2020-07-23,CA,8.8
+% Cases Age [18-49],2020-07-23,CA,60.4
+% Cases Age [50-64],2020-07-23,CA,19.3
+% Cases Age [65+],2020-07-23,CA,11.4
+% Cases Age [Unknown],2020-07-23,CA,0.1
+# Cases Age [0-17],2020-07-24,CA,39396
+# Cases Age [18-49],2020-07-24,CA,268931
+# Cases Age [50-64],2020-07-24,CA,86034
+# Cases Age [65+],2020-07-24,CA,50518
+# Cases Age [Unknown],2020-07-24,CA,521
+% Cases Age [0-17],2020-07-24,CA,8.8
+% Cases Age [18-49],2020-07-24,CA,60.4
+% Cases Age [50-64],2020-07-24,CA,19.3
+% Cases Age [65+],2020-07-24,CA,11.3
+% Cases Age [Unknown],2020-07-24,CA,0.1
+# Cases Age [0-17],2020-07-25,CA,40407
+# Cases Age [18-49],2020-07-25,CA,274037
+# Cases Age [50-64],2020-07-25,CA,87494
+# Cases Age [65+],2020-07-25,CA,51190
+# Cases Age [Unknown],2020-07-25,CA,531
+% Cases Age [0-17],2020-07-25,CA,8.9
+% Cases Age [18-49],2020-07-25,CA,60.4
+% Cases Age [50-64],2020-07-25,CA,19.3
+% Cases Age [65+],2020-07-25,CA,11.3
+% Cases Age [Unknown],2020-07-25,CA,0.1
+# Cases Age [0-17],2020-07-26,CA,41148
+# Cases Age [18-49],2020-07-26,CA,278295
+# Cases Age [50-64],2020-07-26,CA,88800
+# Cases Age [65+],2020-07-26,CA,51772
+# Cases Age [Unknown],2020-07-26,CA,535
+% Cases Age [0-17],2020-07-26,CA,8.9
+% Cases Age [18-49],2020-07-26,CA,60.4
+% Cases Age [50-64],2020-07-26,CA,19.3
+% Cases Age [65+],2020-07-26,CA,11.2
+% Cases Age [Unknown],2020-07-26,CA,0.1
+# Cases Age [0-17],2020-07-27,CA,41836
+# Cases Age [18-49],2020-07-27,CA,282008
+# Cases Age [50-64],2020-07-27,CA,89869
+# Cases Age [65+],2020-07-27,CA,52302
+# Cases Age [Unknown],2020-07-27,CA,535
+% Cases Age [0-17],2020-07-27,CA,9.0
+% Cases Age [18-49],2020-07-27,CA,60.4
+% Cases Age [50-64],2020-07-27,CA,19.3
+% Cases Age [65+],2020-07-27,CA,11.2
+% Cases Age [Unknown],2020-07-27,CA,0.1
+# Cases Age [0-17],2020-07-28,CA,42697
+# Cases Age [18-49],2020-07-28,CA,287413
+# Cases Age [50-64],2020-07-28,CA,91465
+# Cases Age [65+],2020-07-28,CA,53138
+# Cases Age [Unknown],2020-07-28,CA,592
+% Cases Age [0-17],2020-07-28,CA,9.0
+% Cases Age [18-49],2020-07-28,CA,60.5
+% Cases Age [50-64],2020-07-28,CA,19.2
+% Cases Age [65+],2020-07-28,CA,11.2
+% Cases Age [Unknown],2020-07-28,CA,0.1
+# Cases Age [0-17],2020-07-29,CA,43880
+# Cases Age [18-49],2020-07-29,CA,293721
+# Cases Age [50-64],2020-07-29,CA,93273
+# Cases Age [65+],2020-07-29,CA,54039
+# Cases Age [Unknown],2020-07-29,CA,589
+% Cases Age [0-17],2020-07-29,CA,9.0
+% Cases Age [18-49],2020-07-29,CA,60.5
+% Cases Age [50-64],2020-07-29,CA,19.2
+% Cases Age [65+],2020-07-29,CA,11.1
+% Cases Age [Unknown],2020-07-29,CA,0.1
+# Cases Age [0-17],2020-07-30,CA,44793
+# Cases Age [18-49],2020-07-30,CA,298735
+# Cases Age [50-64],2020-07-30,CA,94730
+# Cases Age [65+],2020-07-30,CA,54743
+# Cases Age [Unknown],2020-07-30,CA,587
+% Cases Age [0-17],2020-07-30,CA,9.1
+% Cases Age [18-49],2020-07-30,CA,60.5
+% Cases Age [50-64],2020-07-30,CA,19.2
+% Cases Age [65+],2020-07-30,CA,11.1
+% Cases Age [Unknown],2020-07-30,CA,0.1
+# Cases Age [0-17],2020-07-31,CA,45520
+# Cases Age [18-49],2020-07-31,CA,302739
+# Cases Age [50-64],2020-07-31,CA,95892
+# Cases Age [65+],2020-07-31,CA,55360
+# Cases Age [Unknown],2020-07-31,CA,619
+% Cases Age [0-17],2020-07-31,CA,9.1
+% Cases Age [18-49],2020-07-31,CA,60.5
+% Cases Age [50-64],2020-07-31,CA,19.2
+% Cases Age [65+],2020-07-31,CA,11.1
+% Cases Age [Unknown],2020-07-31,CA,0.1
+# Cases Age [0-17],2020-08-01,CA,46556
+# Cases Age [18-49],2020-08-01,CA,308114
+# Cases Age [50-64],2020-08-01,CA,97551
+# Cases Age [65+],2020-08-01,CA,56206
+# Cases Age [Unknown],2020-08-01,CA,735
+% Cases Age [0-17],2020-08-01,CA,9.1
+% Cases Age [18-49],2020-08-01,CA,60.5
+% Cases Age [50-64],2020-08-01,CA,19.2
+% Cases Age [65+],2020-08-01,CA,11.0
+% Cases Age [Unknown],2020-08-01,CA,0.1
+# Cases Age [0-17],2020-08-02,CA,47286
+# Cases Age [18-49],2020-08-02,CA,311547
+# Cases Age [50-64],2020-08-02,CA,98574
+# Cases Age [65+],2020-08-02,CA,56786
+# Cases Age [Unknown],2020-08-02,CA,708
+% Cases Age [0-17],2020-08-02,CA,9.2
+% Cases Age [18-49],2020-08-02,CA,60.5
+% Cases Age [50-64],2020-08-02,CA,19.1
+% Cases Age [65+],2020-08-02,CA,11.0
+% Cases Age [Unknown],2020-08-02,CA,0.1
+# Cases Age [0-17],2020-08-03,CA,47920
+# Cases Age [18-49],2020-08-03,CA,314238
+# Cases Age [50-64],2020-08-03,CA,99383
+# Cases Age [65+],2020-08-03,CA,57247
+# Cases Age [Unknown],2020-08-03,CA,639
+% Cases Age [0-17],2020-08-03,CA,9.2
+% Cases Age [18-49],2020-08-03,CA,60.5
+% Cases Age [50-64],2020-08-03,CA,19.1
+% Cases Age [65+],2020-08-03,CA,11.0
+% Cases Age [Unknown],2020-08-03,CA,0.1
+# Cases Age [0-17],2020-08-04,CA,48524
+# Cases Age [18-49],2020-08-04,CA,317287
+# Cases Age [50-64],2020-08-04,CA,100408
+# Cases Age [65+],2020-08-04,CA,57847
+# Cases Age [Unknown],2020-08-04,CA,656
+% Cases Age [0-17],2020-08-04,CA,9.2
+% Cases Age [18-49],2020-08-04,CA,60.5
+% Cases Age [50-64],2020-08-04,CA,19.1
+% Cases Age [65+],2020-08-04,CA,11.0
+% Cases Age [Unknown],2020-08-04,CA,0.1
+# Cases Age [0-17],2020-08-05,CA,49158
+# Cases Age [18-49],2020-08-05,CA,320274
+# Cases Age [50-64],2020-08-05,CA,101404
+# Cases Age [65+],2020-08-05,CA,58458
+# Cases Age [Unknown],2020-08-05,CA,686
+% Cases Age [0-17],2020-08-05,CA,9.3
+% Cases Age [18-49],2020-08-05,CA,60.4
+% Cases Age [50-64],2020-08-05,CA,19.1
+% Cases Age [65+],2020-08-05,CA,11.0
+% Cases Age [Unknown],2020-08-05,CA,0.1
+# Cases Age [0-17],2020-08-06,CA,50193
+# Cases Age [18-49],2020-08-06,CA,325283
+# Cases Age [50-64],2020-08-06,CA,102941
+# Cases Age [65+],2020-08-06,CA,59282
+# Cases Age [Unknown],2020-08-06,CA,717
+% Cases Age [0-17],2020-08-06,CA,9.3
+% Cases Age [18-49],2020-08-06,CA,60.4
+% Cases Age [50-64],2020-08-06,CA,19.1
+% Cases Age [65+],2020-08-06,CA,11.0
+% Cases Age [Unknown],2020-08-06,CA,0.1
+# Cases Age [0-17],2020-08-07,CA,51132
+# Cases Age [18-49],2020-08-07,CA,329682
+# Cases Age [50-64],2020-08-07,CA,104297
+# Cases Age [65+],2020-08-07,CA,59954
+# Cases Age [Unknown],2020-08-07,CA,722
+% Cases Age [0-17],2020-08-07,CA,9.4
+% Cases Age [18-49],2020-08-07,CA,60.4
+% Cases Age [50-64],2020-08-07,CA,19.1
+% Cases Age [65+],2020-08-07,CA,11.0
+% Cases Age [Unknown],2020-08-07,CA,0.1
+# Cases Age [0-17],2020-08-08,CA,52104
+# Cases Age [18-49],2020-08-08,CA,334619
+# Cases Age [50-64],2020-08-08,CA,105860
+# Cases Age [65+],2020-08-08,CA,60829
+# Cases Age [Unknown],2020-08-08,CA,748
+% Cases Age [0-17],2020-08-08,CA,9.4
+% Cases Age [18-49],2020-08-08,CA,60.4
+% Cases Age [50-64],2020-08-08,CA,19.1
+% Cases Age [65+],2020-08-08,CA,11.0
+% Cases Age [Unknown],2020-08-08,CA,0.1
+# Cases Age [0-17],2020-08-09,CA,53136
+# Cases Age [18-49],2020-08-09,CA,339235
+# Cases Age [50-64],2020-08-09,CA,107300
+# Cases Age [65+],2020-08-09,CA,61464
+# Cases Age [Unknown],2020-08-09,CA,776
+% Cases Age [0-17],2020-08-09,CA,9.5
+% Cases Age [18-49],2020-08-09,CA,60.4
+% Cases Age [50-64],2020-08-09,CA,19.1
+% Cases Age [65+],2020-08-09,CA,10.9
+% Cases Age [Unknown],2020-08-09,CA,0.1
+# Cases Age [0-17],2020-08-10,CA,54778
+# Cases Age [18-49],2020-08-10,CA,346637
+# Cases Age [50-64],2020-08-10,CA,109714
+# Cases Age [65+],2020-08-10,CA,62506
+# Cases Age [Unknown],2020-08-10,CA,776
+% Cases Age [0-17],2020-08-10,CA,9.5
+% Cases Age [18-49],2020-08-10,CA,60.3
+% Cases Age [50-64],2020-08-10,CA,19.1
+% Cases Age [65+],2020-08-10,CA,10.9
+% Cases Age [Unknown],2020-08-10,CA,0.1
+# Cases Age [0-17],2020-08-11,CA,56276
+# Cases Age [18-49],2020-08-11,CA,353518
+# Cases Age [50-64],2020-08-11,CA,111811
+# Cases Age [65+],2020-08-11,CA,63617
+# Cases Age [Unknown],2020-08-11,CA,834
+% Cases Age [0-17],2020-08-11,CA,9.6
+% Cases Age [18-49],2020-08-11,CA,60.3
+% Cases Age [50-64],2020-08-11,CA,19.1
+% Cases Age [65+],2020-08-11,CA,10.9
+% Cases Age [Unknown],2020-08-11,CA,0.1
+# Cases Age [0-17],2020-08-12,CA,57230
+# Cases Age [18-49],2020-08-12,CA,357676
+# Cases Age [50-64],2020-08-12,CA,113099
+# Cases Age [65+],2020-08-12,CA,64298
+# Cases Age [Unknown],2020-08-12,CA,838
+% Cases Age [0-17],2020-08-12,CA,9.6
+% Cases Age [18-49],2020-08-12,CA,60.3
+% Cases Age [50-64],2020-08-12,CA,19.1
+% Cases Age [65+],2020-08-12,CA,10.8
+% Cases Age [Unknown],2020-08-12,CA,0.1
+# Cases Age [0-17],2020-08-13,CA,58146
+# Cases Age [18-49],2020-08-13,CA,362344
+# Cases Age [50-64],2020-08-13,CA,114633
+# Cases Age [65+],2020-08-13,CA,65116
+# Cases Age [Unknown],2020-08-13,CA,836
+% Cases Age [0-17],2020-08-13,CA,9.7
+% Cases Age [18-49],2020-08-13,CA,60.3
+% Cases Age [50-64],2020-08-13,CA,19.1
+% Cases Age [65+],2020-08-13,CA,10.8
+% Cases Age [Unknown],2020-08-13,CA,0.1
+# Cases Age [0-17],2020-08-14,CA,59682
+# Cases Age [18-49],2020-08-14,CA,369772
+# Cases Age [50-64],2020-08-14,CA,116986
+# Cases Age [65+],2020-08-14,CA,66403
+# Cases Age [Unknown],2020-08-14,CA,846
+% Cases Age [0-17],2020-08-14,CA,9.7
+% Cases Age [18-49],2020-08-14,CA,60.3
+% Cases Age [50-64],2020-08-14,CA,19.1
+% Cases Age [65+],2020-08-14,CA,10.8
+% Cases Age [Unknown],2020-08-14,CA,0.1
+# Cases Age [0-17],2020-08-15,CA,60630
+# Cases Age [18-49],2020-08-15,CA,374400
+# Cases Age [50-64],2020-08-15,CA,118498
+# Cases Age [65+],2020-08-15,CA,67168
+# Cases Age [Unknown],2020-08-15,CA,866
+% Cases Age [0-17],2020-08-15,CA,9.8
+% Cases Age [18-49],2020-08-15,CA,60.2
+% Cases Age [50-64],2020-08-15,CA,19.1
+% Cases Age [65+],2020-08-15,CA,10.8
+% Cases Age [Unknown],2020-08-15,CA,0.1
+# Cases Age [0-17],2020-08-16,CA,61538
+# Cases Age [18-49],2020-08-16,CA,378186
+# Cases Age [50-64],2020-08-16,CA,119629
+# Cases Age [65+],2020-08-16,CA,67816
+# Cases Age [Unknown],2020-08-16,CA,862
+% Cases Age [0-17],2020-08-16,CA,9.8
+% Cases Age [18-49],2020-08-16,CA,60.2
+% Cases Age [50-64],2020-08-16,CA,19.0
+% Cases Age [65+],2020-08-16,CA,10.8
+% Cases Age [Unknown],2020-08-16,CA,0.1
+# Cases Age [0-17],2020-08-17,CA,62233
+# Cases Age [18-49],2020-08-17,CA,380923
+# Cases Age [50-64],2020-08-17,CA,120440
+# Cases Age [65+],2020-08-17,CA,68211
+# Cases Age [Unknown],2020-08-17,CA,860
+% Cases Age [0-17],2020-08-17,CA,9.8
+% Cases Age [18-49],2020-08-17,CA,60.2
+% Cases Age [50-64],2020-08-17,CA,19.0
+% Cases Age [65+],2020-08-17,CA,10.8
+% Cases Age [Unknown],2020-08-17,CA,0.1
+# Cases Age [0-17],2020-08-18,CA,63118
+# Cases Age [18-49],2020-08-18,CA,384524
+# Cases Age [50-64],2020-08-18,CA,121521
+# Cases Age [65+],2020-08-18,CA,68806
+# Cases Age [Unknown],2020-08-18,CA,862
+% Cases Age [0-17],2020-08-18,CA,9.9
+% Cases Age [18-49],2020-08-18,CA,60.2
+% Cases Age [50-64],2020-08-18,CA,19.0
+% Cases Age [65+],2020-08-18,CA,10.8
+% Cases Age [Unknown],2020-08-18,CA,0.1
+# Cases Age [0-17],2020-08-19,CA,63909
+# Cases Age [18-49],2020-08-19,CA,388034
+# Cases Age [50-64],2020-08-19,CA,122554
+# Cases Age [65+],2020-08-19,CA,69380
+# Cases Age [Unknown],2020-08-19,CA,874
+% Cases Age [0-17],2020-08-19,CA,9.9
+% Cases Age [18-49],2020-08-19,CA,60.2
+% Cases Age [50-64],2020-08-19,CA,19.0
+% Cases Age [65+],2020-08-19,CA,10.8
+% Cases Age [Unknown],2020-08-19,CA,0.1
+# Cases Age [0-17],2020-08-20,CA,64573
+# Cases Age [18-49],2020-08-20,CA,391321
+# Cases Age [50-64],2020-08-20,CA,123591
+# Cases Age [65+],2020-08-20,CA,69957
+# Cases Age [Unknown],2020-08-20,CA,894
+% Cases Age [0-17],2020-08-20,CA,9.9
+% Cases Age [18-49],2020-08-20,CA,60.2
+% Cases Age [50-64],2020-08-20,CA,19.0
+% Cases Age [65+],2020-08-20,CA,10.8
+% Cases Age [Unknown],2020-08-20,CA,0.1
+# Cases Age [0-17],2020-08-21,CA,65360
+# Cases Age [18-49],2020-08-21,CA,395106
+# Cases Age [50-64],2020-08-21,CA,124841
+# Cases Age [65+],2020-08-21,CA,70688
+# Cases Age [Unknown],2020-08-21,CA,897
+% Cases Age [0-17],2020-08-21,CA,9.9
+% Cases Age [18-49],2020-08-21,CA,60.1
+% Cases Age [50-64],2020-08-21,CA,19.0
+% Cases Age [65+],2020-08-21,CA,10.8
+% Cases Age [Unknown],2020-08-21,CA,0.1
+# Cases Age [0-17],2020-08-22,CA,66204
+# Cases Age [18-49],2020-08-22,CA,399060
+# Cases Age [50-64],2020-08-22,CA,126041
+# Cases Age [65+],2020-08-22,CA,71455
+# Cases Age [Unknown],2020-08-22,CA,909
+% Cases Age [0-17],2020-08-22,CA,10.0
+% Cases Age [18-49],2020-08-22,CA,60.1
+% Cases Age [50-64],2020-08-22,CA,19.0
+% Cases Age [65+],2020-08-22,CA,10.8
+% Cases Age [Unknown],2020-08-22,CA,0.1
+# Cases Age [0-17],March 27,CA,54.0
+# Cases Age [18-49],March 27,CA,2368.0
+# Cases Age [50-64],March 27,CA,1184.0
+# Cases Age [18-64],March 27,CA,3552.0
+# Cases Age [65+],March 27,CA,1016.0
+# Cases Age [Unknown],March 27,CA,21.0
+# Cases Age [0-17],March 26,CA,45.0
+# Cases Age [18-49],March 26,CA,1906.0
+# Cases Age [50-64],March 26,CA,967.0
+# Cases Age [18-64],March 26,CA,2873.0
+# Cases Age [65+],March 26,CA,847.0
+# Cases Age [Unknown],March 26,CA,36.0
+# Cases Age [0-17],March 25,CA,37.0
+# Cases Age [18-49],March 25,CA,1505.0
+# Cases Age [50-64],March 25,CA,764.0
+# Cases Age [18-64],March 25,CA,2269.0
+# Cases Age [65+],March 25,CA,678.0
+# Cases Age [Unknown],March 25,CA,22.0
+# Cases Age [0-17],March 24,CA,37.0
+# Cases Age [18-49],March 24,CA,1278.0
+# Cases Age [50-64],March 24,CA,638.0
+# Cases Age [18-64],March 24,CA,1916.0
+# Cases Age [65+],March 24,CA,562.0
+# Cases Age [Unknown],March 24,CA,20.0
+# Cases Age [0-17],March 23,CA,28.0
+# Cases Age [18-49],March 23,CA,970.0
+# Cases Age [50-64],March 23,CA,493.0
+# Cases Age [18-64],March 23,CA,1463.0
+# Cases Age [65+],March 23,CA,449.0
+# Cases Age [Unknown],March 23,CA,162.0
+# Cases Age [0-17],March 22,CA,25.0
+# Cases Age [18-49],March 22,CA,837.0
+# Cases Age [50-64],March 22,CA,442.0
+# Cases Age [18-64],March 22,CA,1279.0
+# Cases Age [65+],March 22,CA,415.0
+# Cases Age [Unknown],March 22,CA,14.0
+# Cases Age [0-17],March 21,CA,23.0
+# Cases Age [18-49],March 21,CA,nan
+# Cases Age [50-64],March 21,CA,nan
+# Cases Age [18-64],March 21,CA,1066.0
+# Cases Age [65+],March 21,CA,369.0
+# Cases Age [Unknown],March 21,CA,10.0
+# Cases Age [0-17],March 20,CA,19.0
+# Cases Age [18-49],March 20,CA,nan
+# Cases Age [50-64],March 20,CA,nan
+# Cases Age [18-64],March 20,CA,876.0
+# Cases Age [65+],March 20,CA,321.0
+# Cases Age [Unknown],March 20,CA,8.0
+# Cases Age [0-17],March 19,CA,18.0
+# Cases Age [18-49],March 19,CA,nan
+# Cases Age [50-64],March 19,CA,nan
+# Cases Age [18-64],March 19,CA,711.0
+# Cases Age [65+],March 19,CA,273.0
+# Cases Age [Unknown],March 19,CA,4.0
+# Cases Age [0-17],March 18,CA,13.0
+# Cases Age [18-49],March 18,CA,nan
+# Cases Age [50-64],March 18,CA,nan
+# Cases Age [18-64],March 18,CA,448.0
+# Cases Age [65+],March 18,CA,209.0
+# Cases Age [Unknown],March 18,CA,5.0
+# Cases Age [0-17],March 17,CA,13.0
+# Cases Age [18-49],March 17,CA,nan
+# Cases Age [50-64],March 17,CA,nan
+# Cases Age [18-64],March 17,CA,392.0
+# Cases Age [65+],March 17,CA,188.0
+# Cases Age [Unknown],March 17,CA,5.0
+# Cases Age [0-17],March 16,CA,7.0
+# Cases Age [18-49],March 16,CA,nan
+# Cases Age [50-64],March 16,CA,nan
+# Cases Age [18-64],March 16,CA,nan
+# Cases Age [65+],March 16,CA,160.0
+# Cases Age [Unknown],March 16,CA,5.0
+# Cases Age [0-17],March 15,CA,6.0
+# Cases Age [18-49],March 15,CA,nan
+# Cases Age [50-64],March 15,CA,nan
+# Cases Age [18-64],March 15,CA,nan
+# Cases Age [65+],March 15,CA,135.0
+# Cases Age [Unknown],March 15,CA,5.0
+# Cases Age [0-17],March 14,CA,6.0
+# Cases Age [18-49],March 14,CA,nan
+# Cases Age [50-64],March 14,CA,nan
+# Cases Age [18-64],March 14,CA,nan
+# Cases Age [65+],March 14,CA,116.0
+# Cases Age [Unknown],March 14,CA,3.0
+# Cases Age [0-17],March 13,CA,4.0
+# Cases Age [18-49],March 13,CA,nan
+# Cases Age [50-64],March 13,CA,nan
+# Cases Age [18-64],March 13,CA,nan
+# Cases Age [65+],March 13,CA,98.0
+# Cases Age [Unknown],March 13,CA,2.0
+# Cases Age [0-17],March 12,CA,4.0
+# Cases Age [18-49],March 12,CA,nan
+# Cases Age [50-64],March 12,CA,nan
+# Cases Age [18-64],March 12,CA,nan
+# Cases Age [65+],March 12,CA,79.0
+# Cases Age [Unknown],March 12,CA,2.0
+# Cases Age [0-17],March 11,CA,3.0
+# Cases Age [18-49],March 11,CA,nan
+# Cases Age [50-64],March 11,CA,nan
+# Cases Age [18-64],March 11,CA,nan
+# Cases Age [65+],March 11,CA,67.0
+# Cases Age [Unknown],March 11,CA,3.0
+# Cases Age [0-17],March 10,CA,2.0
+# Cases Age [18-49],March 10,CA,nan
+# Cases Age [50-64],March 10,CA,nan
+# Cases Age [18-64],March 10,CA,nan
+# Cases Age [65+],March 10,CA,60.0
+# Cases Age [Unknown],March 10,CA,4.0
+# Cases Age [0-17],March 9,CA,nan
+# Cases Age [18-49],March 9,CA,nan
+# Cases Age [50-64],March 9,CA,nan
+# Cases Age [18-64],March 9,CA,nan
+# Cases Age [65+],March 9,CA,nan
+# Cases Age [Unknown],March 9,CA,nan
+# Cases Age [0-17],March 8,CA,nan
+# Cases Age [18-49],March 8,CA,nan
+# Cases Age [50-64],March 8,CA,nan
+# Cases Age [18-64],March 8,CA,nan
+# Cases Age [65+],March 8,CA,nan
+# Cases Age [Unknown],March 8,CA,nan
+# Cases Age [0-17],March 7,CA,nan
+# Cases Age [18-49],March 7,CA,nan
+# Cases Age [50-64],March 7,CA,nan
+# Cases Age [18-64],March 7,CA,nan
+# Cases Age [65+],March 7,CA,nan
+# Cases Age [Unknown],March 7,CA,nan
+# Cases Age [0-17],March 6,CA,nan
+# Cases Age [18-49],March 6,CA,nan
+# Cases Age [50-64],March 6,CA,nan
+# Cases Age [18-64],March 6,CA,nan
+# Cases Age [65+],March 6,CA,nan
+# Cases Age [Unknown],March 6,CA,nan
+# Cases Age [0-17],March 5,CA,nan
+# Cases Age [18-49],March 5,CA,nan
+# Cases Age [50-64],March 5,CA,nan
+# Cases Age [18-64],March 5,CA,nan
+# Cases Age [65+],March 5,CA,nan
+# Cases Age [Unknown],March 5,CA,nan
+# Cases Age [0-17],March 4,CA,nan
+# Cases Age [18-49],March 4,CA,nan
+# Cases Age [50-64],March 4,CA,nan
+# Cases Age [18-64],March 4,CA,nan
+# Cases Age [65+],March 4,CA,nan
+# Cases Age [Unknown],March 4,CA,nan
+# Cases Age [0-17],March 3,CA,nan
+# Cases Age [18-49],March 3,CA,nan
+# Cases Age [50-64],March 3,CA,nan
+# Cases Age [18-64],March 3,CA,nan
+# Cases Age [65+],March 3,CA,nan
+# Cases Age [Unknown],March 3,CA,nan
+# Cases Age [0-17],March 2,CA,nan
+# Cases Age [18-49],March 2,CA,nan
+# Cases Age [50-64],March 2,CA,nan
+# Cases Age [18-64],March 2,CA,nan
+# Cases Age [65+],March 2,CA,nan
+# Cases Age [Unknown],March 2,CA,nan
+# Cases Age [0-17],16-Mar,CA,7.0
+# Cases Age [18-49],16-Mar,CA,nan
+# Cases Age [50-64],16-Mar,CA,nan
+# Cases Age [18-64],16-Mar,CA,300.0
+# Cases Age [65+],16-Mar,CA,160.0
+# Cases Age [Unknown],16-Mar,CA,5.0
+# Cases Age [0-17],15-Mar,CA,6.0
+# Cases Age [18-49],15-Mar,CA,nan
+# Cases Age [50-64],15-Mar,CA,nan
+# Cases Age [18-64],15-Mar,CA,246.0
+# Cases Age [65+],15-Mar,CA,135.0
+# Cases Age [Unknown],15-Mar,CA,5.0
+# Cases Age [0-17],14-Mar,CA,6.0
+# Cases Age [18-49],14-Mar,CA,nan
+# Cases Age [50-64],14-Mar,CA,nan
+# Cases Age [18-64],14-Mar,CA,210.0
+# Cases Age [65+],14-Mar,CA,116.0
+# Cases Age [Unknown],14-Mar,CA,3.0
+# Cases Age [0-17],13-Mar,CA,4.0
+# Cases Age [18-49],13-Mar,CA,nan
+# Cases Age [50-64],13-Mar,CA,nan
+# Cases Age [18-64],13-Mar,CA,143.0
+# Cases Age [65+],13-Mar,CA,98.0
+# Cases Age [Unknown],13-Mar,CA,2.0
+# Cases Age [0-17],12-Mar,CA,4.0
+# Cases Age [18-49],12-Mar,CA,nan
+# Cases Age [50-64],12-Mar,CA,nan
+# Cases Age [18-64],12-Mar,CA,113.0
+# Cases Age [65+],12-Mar,CA,79.0
+# Cases Age [Unknown],12-Mar,CA,2.0
+# Cases Age [0-17],11-Mar,CA,3.0
+# Cases Age [18-49],11-Mar,CA,nan
+# Cases Age [50-64],11-Mar,CA,nan
+# Cases Age [18-64],11-Mar,CA,104.0
+# Cases Age [65+],11-Mar,CA,67.0
+# Cases Age [Unknown],11-Mar,CA,3.0
+# Cases Age [0-17],10-Mar,CA,2.0
+# Cases Age [18-49],10-Mar,CA,nan
+# Cases Age [50-64],10-Mar,CA,nan
+# Cases Age [18-64],10-Mar,CA,91.0
+# Cases Age [65+],10-Mar,CA,60.0
+# Cases Age [Unknown],10-Mar,CA,4.0
+# Cases Age [0-17],9-Mar,CA,nan
+# Cases Age [18-49],9-Mar,CA,nan
+# Cases Age [50-64],9-Mar,CA,nan
+# Cases Age [18-64],9-Mar,CA,nan
+# Cases Age [65+],9-Mar,CA,nan
+# Cases Age [Unknown],9-Mar,CA,nan
+# Cases Age [0-17],8-Mar,CA,nan
+# Cases Age [18-49],8-Mar,CA,nan
+# Cases Age [50-64],8-Mar,CA,nan
+# Cases Age [18-64],8-Mar,CA,nan
+# Cases Age [65+],8-Mar,CA,nan
+# Cases Age [Unknown],8-Mar,CA,nan
+# Cases Age [0-17],7-Mar,CA,nan
+# Cases Age [18-49],7-Mar,CA,nan
+# Cases Age [50-64],7-Mar,CA,nan
+# Cases Age [18-64],7-Mar,CA,nan
+# Cases Age [65+],7-Mar,CA,nan
+# Cases Age [Unknown],7-Mar,CA,nan
+# Cases Age [0-17],6-Mar,CA,nan
+# Cases Age [18-49],6-Mar,CA,nan
+# Cases Age [50-64],6-Mar,CA,nan
+# Cases Age [18-64],6-Mar,CA,nan
+# Cases Age [65+],6-Mar,CA,nan
+# Cases Age [Unknown],6-Mar,CA,nan
+# Cases Age [0-17],5-Mar,CA,nan
+# Cases Age [18-49],5-Mar,CA,nan
+# Cases Age [50-64],5-Mar,CA,nan
+# Cases Age [18-64],5-Mar,CA,nan
+# Cases Age [65+],5-Mar,CA,nan
+# Cases Age [Unknown],5-Mar,CA,nan
+# Cases Age [0-17],4-Mar,CA,nan
+# Cases Age [18-49],4-Mar,CA,nan
+# Cases Age [50-64],4-Mar,CA,nan
+# Cases Age [18-64],4-Mar,CA,nan
+# Cases Age [65+],4-Mar,CA,nan
+# Cases Age [Unknown],4-Mar,CA,nan
+# Cases Age [0-17],3-Mar,CA,nan
+# Cases Age [18-49],3-Mar,CA,nan
+# Cases Age [50-64],3-Mar,CA,nan
+# Cases Age [18-64],3-Mar,CA,nan
+# Cases Age [65+],3-Mar,CA,nan
+# Cases Age [Unknown],3-Mar,CA,nan
+# Cases Age [0-17],2-Mar,CA,nan
+# Cases Age [18-49],2-Mar,CA,nan
+# Cases Age [50-64],2-Mar,CA,nan
+# Cases Age [18-64],2-Mar,CA,nan
+# Cases Age [65+],2-Mar,CA,nan
+# Cases Age [Unknown],2-Mar,CA,nan
+# Cases Age [0-17],2020-04-06 01:18:52 AM,CA,1
+# Cases Age [18-49],2020-04-06 01:18:52 AM,CA,49
+# Cases Age [50-64],2020-04-06 01:18:52 AM,CA,27
+# Cases Age [65+],2020-04-06 01:18:52 AM,CA,22
+# Cases Age [Unknown],2020-04-06 01:18:52 AM,CA,0
+# Cases Age [0-17],2020-04-06 06:26:37 PM,CA,1
+# Cases Age [18-49],2020-04-06 06:26:37 PM,CA,50
+# Cases Age [50-64],2020-04-06 06:26:37 PM,CA,27
+# Cases Age [65+],2020-04-06 06:26:37 PM,CA,22
+# Cases Age [Unknown],2020-04-06 06:26:37 PM,CA,0
+# Cases Age [0-17],2020-04-07 11:20:20 PM,CA,1
+# Cases Age [18-49],2020-04-07 11:20:20 PM,CA,49
+# Cases Age [50-64],2020-04-07 11:20:20 PM,CA,2
+# Cases Age [65+],2020-04-07 11:20:20 PM,CA,2
+# Cases Age [Unknown],2020-04-07 11:20:20 PM,CA,0
+# Cases Age [0-17],2020-04-06 01:18:52 AM,CA,1
+# Cases Age [18-49],2020-04-06 01:18:52 AM,CA,49
+# Cases Age [50-64],2020-04-06 01:18:52 AM,CA,27
+# Cases Age [65+],2020-04-06 01:18:52 AM,CA,22
+# Cases Age [Unknown],2020-04-06 01:18:52 AM,CA,0
+# Cases Age [0-17],2020-04-06 06:26:37 PM,CA,1
+# Cases Age [18-49],2020-04-06 06:26:37 PM,CA,50
+# Cases Age [50-64],2020-04-06 06:26:37 PM,CA,27
+# Cases Age [65+],2020-04-06 06:26:37 PM,CA,22
+# Cases Age [Unknown],2020-04-06 06:26:37 PM,CA,0
+# Cases Age [0-17],2020-04-07 11:20:20 PM,CA,1
+# Cases Age [18-49],2020-04-07 11:20:20 PM,CA,49
+# Cases Age [50-64],2020-04-07 11:20:20 PM,CA,27
+# Cases Age [65+],2020-04-07 11:20:20 PM,CA,22
+# Cases Age [Unknown],2020-04-07 11:20:20 PM,CA,0
+# Cases Age [0-17],2020-04-08 06:26:06 PM,CA,1
+# Cases Age [18-49],2020-04-08 06:26:06 PM,CA,49
+# Cases Age [50-64],2020-04-08 06:26:06 PM,CA,27
+# Cases Age [65+],2020-04-08 06:26:06 PM,CA,22
+# Cases Age [Unknown],2020-04-08 06:26:06 PM,CA,0
+# Cases Age [0-17],2020-04-09 05:34:36 PM,CA,1
+# Cases Age [18-49],2020-04-09 05:34:36 PM,CA,49
+# Cases Age [50-64],2020-04-09 05:34:36 PM,CA,27
+# Cases Age [65+],2020-04-09 05:34:36 PM,CA,22
+# Cases Age [Unknown],2020-04-09 05:34:36 PM,CA,0
+# Cases Age [0-17],2020-04-10 06:56:00 PM,CA,1
+# Cases Age [18-49],2020-04-10 06:56:00 PM,CA,49
+# Cases Age [50-64],2020-04-10 06:56:00 PM,CA,27
+# Cases Age [65+],2020-04-10 06:56:00 PM,CA,22
+# Cases Age [Unknown],2020-04-10 06:56:00 PM,CA,0
+# Cases Age [0-17],2020-04-11 04:56:13 PM,CA,1
+# Cases Age [18-49],2020-04-11 04:56:13 PM,CA,49
+# Cases Age [50-64],2020-04-11 04:56:13 PM,CA,27
+# Cases Age [65+],2020-04-11 04:56:13 PM,CA,22
+# Cases Age [Unknown],2020-04-11 04:56:13 PM,CA,0
+# Cases Age [0-17],2020-04-12 06:00:20 PM,CA,2
+# Cases Age [18-49],2020-04-12 06:00:20 PM,CA,49
+# Cases Age [50-64],2020-04-12 06:00:20 PM,CA,27
+# Cases Age [65+],2020-04-12 06:00:20 PM,CA,22
+# Cases Age [Unknown],2020-04-12 06:00:20 PM,CA,0
+# Cases Age [0-17],2020-04-14 01:39:46 AM,CA,2
+# Cases Age [18-49],2020-04-14 01:39:46 AM,CA,48
+# Cases Age [50-64],2020-04-14 01:39:46 AM,CA,27
+# Cases Age [65+],2020-04-14 01:39:46 AM,CA,23
+# Cases Age [Unknown],2020-04-14 01:39:46 AM,CA,0
+# Cases Age [0-17],2020-04-14 08:36:07 PM,CA,2
+# Cases Age [18-49],2020-04-14 08:36:07 PM,CA,48
+# Cases Age [50-64],2020-04-14 08:36:07 PM,CA,27
+# Cases Age [65+],2020-04-14 08:36:07 PM,CA,23
+# Cases Age [Unknown],2020-04-14 08:36:07 PM,CA,0
+# Cases Age [0-17],2020-04-15 07:12:54 PM,CA,2
+# Cases Age [18-49],2020-04-15 07:12:54 PM,CA,48
+# Cases Age [50-64],2020-04-15 07:12:54 PM,CA,27
+# Cases Age [65+],2020-04-15 07:12:54 PM,CA,23
+# Cases Age [Unknown],2020-04-15 07:12:54 PM,CA,0
+# Cases Age [0-17],2020-04-16 06:32:16 PM,CA,2
+# Cases Age [18-49],2020-04-16 06:32:16 PM,CA,48
+# Cases Age [50-64],2020-04-16 06:32:16 PM,CA,27
+# Cases Age [65+],2020-04-16 06:32:16 PM,CA,23
+# Cases Age [Unknown],2020-04-16 06:32:16 PM,CA,0

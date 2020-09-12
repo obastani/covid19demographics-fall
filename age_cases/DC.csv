@@ -1,0 +1,2629 @@
+Column Name,Scrape Time,State,Value
+# Cases Age [0-4]: Female,2020-06-15 05:08:47 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-15 05:08:47 PM,DC,60.0
+# Cases Age [15-19]: Female,2020-06-15 05:08:47 PM,DC,116.0
+# Cases Age [15-19]: Male,2020-06-15 05:08:47 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-15 05:08:47 PM,DC,322.0
+# Cases Age [20-24]: Male,2020-06-15 05:08:47 PM,DC,237.0
+# Cases Age [25-34]: Female,2020-06-15 05:08:47 PM,DC,950.0
+# Cases Age [25-34]: Male,2020-06-15 05:08:47 PM,DC,903.0
+# Cases Age [35-44]: Female,2020-06-15 05:08:47 PM,DC,874.0
+# Cases Age [35-44]: Male,2020-06-15 05:08:47 PM,DC,894.0
+# Cases Age [45-54]: Female,2020-06-15 05:08:47 PM,DC,716.0
+# Cases Age [45-54]: Male,2020-06-15 05:08:47 PM,DC,792.0
+# Cases Age [5-14]: Female,2020-06-15 05:08:47 PM,DC,117.0
+# Cases Age [5-14]: Male,2020-06-15 05:08:47 PM,DC,115.0
+# Cases Age [55-64]: Female,2020-06-15 05:08:47 PM,DC,739.0
+# Cases Age [55-64]: Male,2020-06-15 05:08:47 PM,DC,853.0
+# Cases Age [65-74]: Female,2020-06-15 05:08:47 PM,DC,489.0
+# Cases Age [65-74]: Male,2020-06-15 05:08:47 PM,DC,532.0
+# Cases Age [75+]: Female,2020-06-15 05:08:47 PM,DC,526.0
+# Cases Age [75+]: Male,2020-06-15 05:08:47 PM,DC,380.0
+# Cases Age [0-4]: Female,2020-06-16 08:26:59 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-16 08:26:59 PM,DC,61.0
+# Cases Age [15-19]: Female,2020-06-16 08:26:59 PM,DC,117.0
+# Cases Age [15-19]: Male,2020-06-16 08:26:59 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-16 08:26:59 PM,DC,321.0
+# Cases Age [20-24]: Male,2020-06-16 08:26:59 PM,DC,237.0
+# Cases Age [25-34]: Female,2020-06-16 08:26:59 PM,DC,955.0
+# Cases Age [25-34]: Male,2020-06-16 08:26:59 PM,DC,906.0
+# Cases Age [35-44]: Female,2020-06-16 08:26:59 PM,DC,878.0
+# Cases Age [35-44]: Male,2020-06-16 08:26:59 PM,DC,892.0
+# Cases Age [45-54]: Female,2020-06-16 08:26:59 PM,DC,717.0
+# Cases Age [45-54]: Male,2020-06-16 08:26:59 PM,DC,792.0
+# Cases Age [5-14]: Female,2020-06-16 08:26:59 PM,DC,118.0
+# Cases Age [5-14]: Male,2020-06-16 08:26:59 PM,DC,116.0
+# Cases Age [55-64]: Female,2020-06-16 08:26:59 PM,DC,738.0
+# Cases Age [55-64]: Male,2020-06-16 08:26:59 PM,DC,855.0
+# Cases Age [65-74]: Female,2020-06-16 08:26:59 PM,DC,490.0
+# Cases Age [65-74]: Male,2020-06-16 08:26:59 PM,DC,531.0
+# Cases Age [75+]: Female,2020-06-16 08:26:59 PM,DC,528.0
+# Cases Age [75+]: Male,2020-06-16 08:26:59 PM,DC,380.0
+# Cases Age [0-4]: Female,2020-06-17 08:30:51 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-17 08:30:51 PM,DC,61.0
+# Cases Age [15-19]: Female,2020-06-17 08:30:51 PM,DC,119.0
+# Cases Age [15-19]: Male,2020-06-17 08:30:51 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-17 08:30:51 PM,DC,323.0
+# Cases Age [20-24]: Male,2020-06-17 08:30:51 PM,DC,237.0
+# Cases Age [25-34]: Female,2020-06-17 08:30:51 PM,DC,958.0
+# Cases Age [25-34]: Male,2020-06-17 08:30:51 PM,DC,909.0
+# Cases Age [35-44]: Female,2020-06-17 08:30:51 PM,DC,879.0
+# Cases Age [35-44]: Male,2020-06-17 08:30:51 PM,DC,896.0
+# Cases Age [45-54]: Female,2020-06-17 08:30:51 PM,DC,719.0
+# Cases Age [45-54]: Male,2020-06-17 08:30:51 PM,DC,792.0
+# Cases Age [5-14]: Female,2020-06-17 08:30:51 PM,DC,118.0
+# Cases Age [5-14]: Male,2020-06-17 08:30:51 PM,DC,117.0
+# Cases Age [55-64]: Female,2020-06-17 08:30:51 PM,DC,737.0
+# Cases Age [55-64]: Male,2020-06-17 08:30:51 PM,DC,858.0
+# Cases Age [65-74]: Female,2020-06-17 08:30:51 PM,DC,492.0
+# Cases Age [65-74]: Male,2020-06-17 08:30:51 PM,DC,534.0
+# Cases Age [75+]: Female,2020-06-17 08:30:51 PM,DC,529.0
+# Cases Age [75+]: Male,2020-06-17 08:30:51 PM,DC,382.0
+# Cases Age [0-4]: Female,2020-06-18 09:02:44 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-18 09:02:44 PM,DC,61.0
+# Cases Age [15-19]: Female,2020-06-18 09:02:44 PM,DC,119.0
+# Cases Age [15-19]: Male,2020-06-18 09:02:44 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-18 09:02:44 PM,DC,323.0
+# Cases Age [20-24]: Male,2020-06-18 09:02:44 PM,DC,237.0
+# Cases Age [25-34]: Female,2020-06-18 09:02:44 PM,DC,958.0
+# Cases Age [25-34]: Male,2020-06-18 09:02:44 PM,DC,909.0
+# Cases Age [35-44]: Female,2020-06-18 09:02:44 PM,DC,879.0
+# Cases Age [35-44]: Male,2020-06-18 09:02:44 PM,DC,896.0
+# Cases Age [45-54]: Female,2020-06-18 09:02:44 PM,DC,719.0
+# Cases Age [45-54]: Male,2020-06-18 09:02:44 PM,DC,792.0
+# Cases Age [5-14]: Female,2020-06-18 09:02:44 PM,DC,118.0
+# Cases Age [5-14]: Male,2020-06-18 09:02:44 PM,DC,117.0
+# Cases Age [55-64]: Female,2020-06-18 09:02:44 PM,DC,737.0
+# Cases Age [55-64]: Male,2020-06-18 09:02:44 PM,DC,858.0
+# Cases Age [65-74]: Female,2020-06-18 09:02:44 PM,DC,492.0
+# Cases Age [65-74]: Male,2020-06-18 09:02:44 PM,DC,534.0
+# Cases Age [75+]: Female,2020-06-18 09:02:44 PM,DC,529.0
+# Cases Age [75+]: Male,2020-06-18 09:02:44 PM,DC,382.0
+# Cases Age [0-4]: Female,2020-06-19 07:43:59 PM,DC,62.0
+# Cases Age [0-4]: Male,2020-06-19 07:43:59 PM,DC,61.0
+# Cases Age [15-19]: Female,2020-06-19 07:43:59 PM,DC,119.0
+# Cases Age [15-19]: Male,2020-06-19 07:43:59 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-19 07:43:59 PM,DC,326.0
+# Cases Age [20-24]: Male,2020-06-19 07:43:59 PM,DC,240.0
+# Cases Age [25-34]: Female,2020-06-19 07:43:59 PM,DC,976.0
+# Cases Age [25-34]: Male,2020-06-19 07:43:59 PM,DC,919.0
+# Cases Age [35-44]: Female,2020-06-19 07:43:59 PM,DC,889.0
+# Cases Age [35-44]: Male,2020-06-19 07:43:59 PM,DC,906.0
+# Cases Age [45-54]: Female,2020-06-19 07:43:59 PM,DC,727.0
+# Cases Age [45-54]: Male,2020-06-19 07:43:59 PM,DC,796.0
+# Cases Age [5-14]: Female,2020-06-19 07:43:59 PM,DC,120.0
+# Cases Age [5-14]: Male,2020-06-19 07:43:59 PM,DC,119.0
+# Cases Age [55-64]: Female,2020-06-19 07:43:59 PM,DC,750.0
+# Cases Age [55-64]: Male,2020-06-19 07:43:59 PM,DC,867.0
+# Cases Age [65-74]: Female,2020-06-19 07:43:59 PM,DC,495.0
+# Cases Age [65-74]: Male,2020-06-19 07:43:59 PM,DC,536.0
+# Cases Age [75+]: Female,2020-06-19 07:43:59 PM,DC,532.0
+# Cases Age [75+]: Male,2020-06-19 07:43:59 PM,DC,385.0
+# Cases Age [0-4]: Female,2020-06-20 09:17:52 PM,DC,63.0
+# Cases Age [0-4]: Male,2020-06-20 09:17:52 PM,DC,61.0
+# Cases Age [15-19]: Female,2020-06-20 09:17:52 PM,DC,119.0
+# Cases Age [15-19]: Male,2020-06-20 09:17:52 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-20 09:17:52 PM,DC,327.0
+# Cases Age [20-24]: Male,2020-06-20 09:17:52 PM,DC,242.0
+# Cases Age [25-34]: Female,2020-06-20 09:17:52 PM,DC,980.0
+# Cases Age [25-34]: Male,2020-06-20 09:17:52 PM,DC,922.0
+# Cases Age [35-44]: Female,2020-06-20 09:17:52 PM,DC,892.0
+# Cases Age [35-44]: Male,2020-06-20 09:17:52 PM,DC,911.0
+# Cases Age [45-54]: Female,2020-06-20 09:17:52 PM,DC,730.0
+# Cases Age [45-54]: Male,2020-06-20 09:17:52 PM,DC,800.0
+# Cases Age [5-14]: Female,2020-06-20 09:17:52 PM,DC,120.0
+# Cases Age [5-14]: Male,2020-06-20 09:17:52 PM,DC,121.0
+# Cases Age [55-64]: Female,2020-06-20 09:17:52 PM,DC,750.0
+# Cases Age [55-64]: Male,2020-06-20 09:17:52 PM,DC,869.0
+# Cases Age [65-74]: Female,2020-06-20 09:17:52 PM,DC,495.0
+# Cases Age [65-74]: Male,2020-06-20 09:17:52 PM,DC,537.0
+# Cases Age [75+]: Female,2020-06-20 09:17:52 PM,DC,533.0
+# Cases Age [75+]: Male,2020-06-20 09:17:52 PM,DC,385.0
+# Cases Age [0-4]: Female,2020-06-21 08:48:39 PM,DC,63.0
+# Cases Age [0-4]: Male,2020-06-21 08:48:39 PM,DC,62.0
+# Cases Age [15-19]: Female,2020-06-21 08:48:39 PM,DC,119.0
+# Cases Age [15-19]: Male,2020-06-21 08:48:39 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-21 08:48:39 PM,DC,328.0
+# Cases Age [20-24]: Male,2020-06-21 08:48:39 PM,DC,244.0
+# Cases Age [25-34]: Female,2020-06-21 08:48:39 PM,DC,986.0
+# Cases Age [25-34]: Male,2020-06-21 08:48:39 PM,DC,926.0
+# Cases Age [35-44]: Female,2020-06-21 08:48:39 PM,DC,894.0
+# Cases Age [35-44]: Male,2020-06-21 08:48:39 PM,DC,914.0
+# Cases Age [45-54]: Female,2020-06-21 08:48:39 PM,DC,730.0
+# Cases Age [45-54]: Male,2020-06-21 08:48:39 PM,DC,804.0
+# Cases Age [5-14]: Female,2020-06-21 08:48:39 PM,DC,120.0
+# Cases Age [5-14]: Male,2020-06-21 08:48:39 PM,DC,122.0
+# Cases Age [55-64]: Female,2020-06-21 08:48:39 PM,DC,753.0
+# Cases Age [55-64]: Male,2020-06-21 08:48:39 PM,DC,874.0
+# Cases Age [65-74]: Female,2020-06-21 08:48:39 PM,DC,497.0
+# Cases Age [65-74]: Male,2020-06-21 08:48:39 PM,DC,538.0
+# Cases Age [75+]: Female,2020-06-21 08:48:39 PM,DC,533.0
+# Cases Age [75+]: Male,2020-06-21 08:48:39 PM,DC,386.0
+# Cases Age [0-4]: Female,2020-06-22 07:52:58 PM,DC,63.0
+# Cases Age [0-4]: Male,2020-06-22 07:52:58 PM,DC,64.0
+# Cases Age [15-19]: Female,2020-06-22 07:52:58 PM,DC,119.0
+# Cases Age [15-19]: Male,2020-06-22 07:52:58 PM,DC,96.0
+# Cases Age [20-24]: Female,2020-06-22 07:52:58 PM,DC,331.0
+# Cases Age [20-24]: Male,2020-06-22 07:52:58 PM,DC,244.0
+# Cases Age [25-34]: Female,2020-06-22 07:52:58 PM,DC,991.0
+# Cases Age [25-34]: Male,2020-06-22 07:52:58 PM,DC,934.0
+# Cases Age [35-44]: Female,2020-06-22 07:52:58 PM,DC,898.0
+# Cases Age [35-44]: Male,2020-06-22 07:52:58 PM,DC,917.0
+# Cases Age [45-54]: Female,2020-06-22 07:52:58 PM,DC,732.0
+# Cases Age [45-54]: Male,2020-06-22 07:52:58 PM,DC,805.0
+# Cases Age [5-14]: Female,2020-06-22 07:52:58 PM,DC,122.0
+# Cases Age [5-14]: Male,2020-06-22 07:52:58 PM,DC,123.0
+# Cases Age [55-64]: Female,2020-06-22 07:52:58 PM,DC,755.0
+# Cases Age [55-64]: Male,2020-06-22 07:52:58 PM,DC,875.0
+# Cases Age [65-74]: Female,2020-06-22 07:52:58 PM,DC,498.0
+# Cases Age [65-74]: Male,2020-06-22 07:52:58 PM,DC,538.0
+# Cases Age [75+]: Female,2020-06-22 07:52:58 PM,DC,534.0
+# Cases Age [75+]: Male,2020-06-22 07:52:58 PM,DC,387.0
+# Cases Age [0-4]: Female,2020-06-23 07:21:01 PM,DC,63.0
+# Cases Age [0-4]: Male,2020-06-23 07:21:01 PM,DC,64.0
+# Cases Age [15-19]: Female,2020-06-23 07:21:01 PM,DC,120.0
+# Cases Age [15-19]: Male,2020-06-23 07:21:01 PM,DC,96.0
+# Cases Age [20-24]: Female,2020-06-23 07:21:01 PM,DC,334.0
+# Cases Age [20-24]: Male,2020-06-23 07:21:01 PM,DC,244.0
+# Cases Age [25-34]: Female,2020-06-23 07:21:01 PM,DC,993.0
+# Cases Age [25-34]: Male,2020-06-23 07:21:01 PM,DC,939.0
+# Cases Age [35-44]: Female,2020-06-23 07:21:01 PM,DC,902.0
+# Cases Age [35-44]: Male,2020-06-23 07:21:01 PM,DC,919.0
+# Cases Age [45-54]: Female,2020-06-23 07:21:01 PM,DC,733.0
+# Cases Age [45-54]: Male,2020-06-23 07:21:01 PM,DC,808.0
+# Cases Age [5-14]: Female,2020-06-23 07:21:01 PM,DC,123.0
+# Cases Age [5-14]: Male,2020-06-23 07:21:01 PM,DC,124.0
+# Cases Age [55-64]: Female,2020-06-23 07:21:01 PM,DC,760.0
+# Cases Age [55-64]: Male,2020-06-23 07:21:01 PM,DC,877.0
+# Cases Age [65-74]: Female,2020-06-23 07:21:01 PM,DC,500.0
+# Cases Age [65-74]: Male,2020-06-23 07:21:01 PM,DC,540.0
+# Cases Age [75+]: Female,2020-06-23 07:21:01 PM,DC,535.0
+# Cases Age [75+]: Male,2020-06-23 07:21:01 PM,DC,388.0
+# Cases Age [0-4]: Female,2020-06-24 08:29:56 PM,DC,63.0
+# Cases Age [0-4]: Male,2020-06-24 08:29:56 PM,DC,64.0
+# Cases Age [15-19]: Female,2020-06-24 08:29:56 PM,DC,120.0
+# Cases Age [15-19]: Male,2020-06-24 08:29:56 PM,DC,96.0
+# Cases Age [20-24]: Female,2020-06-24 08:29:56 PM,DC,335.0
+# Cases Age [20-24]: Male,2020-06-24 08:29:56 PM,DC,245.0
+# Cases Age [25-34]: Female,2020-06-24 08:29:56 PM,DC,999.0
+# Cases Age [25-34]: Male,2020-06-24 08:29:56 PM,DC,942.0
+# Cases Age [35-44]: Female,2020-06-24 08:29:56 PM,DC,904.0
+# Cases Age [35-44]: Male,2020-06-24 08:29:56 PM,DC,922.0
+# Cases Age [45-54]: Female,2020-06-24 08:29:56 PM,DC,734.0
+# Cases Age [45-54]: Male,2020-06-24 08:29:56 PM,DC,811.0
+# Cases Age [5-14]: Female,2020-06-24 08:29:56 PM,DC,125.0
+# Cases Age [5-14]: Male,2020-06-24 08:29:56 PM,DC,126.0
+# Cases Age [55-64]: Female,2020-06-24 08:29:56 PM,DC,761.0
+# Cases Age [55-64]: Male,2020-06-24 08:29:56 PM,DC,881.0
+# Cases Age [65-74]: Female,2020-06-24 08:29:56 PM,DC,500.0
+# Cases Age [65-74]: Male,2020-06-24 08:29:56 PM,DC,544.0
+# Cases Age [75+]: Female,2020-06-24 08:29:56 PM,DC,535.0
+# Cases Age [75+]: Male,2020-06-24 08:29:56 PM,DC,389.0
+# Cases Age [0-4]: Female,2020-06-25 07:51:23 PM,DC,63.0
+# Cases Age [0-4]: Male,2020-06-25 07:51:23 PM,DC,64.0
+# Cases Age [15-19]: Female,2020-06-25 07:51:23 PM,DC,122.0
+# Cases Age [15-19]: Male,2020-06-25 07:51:23 PM,DC,96.0
+# Cases Age [20-24]: Female,2020-06-25 07:51:23 PM,DC,335.0
+# Cases Age [20-24]: Male,2020-06-25 07:51:23 PM,DC,246.0
+# Cases Age [25-34]: Female,2020-06-25 07:51:23 PM,DC,1000.0
+# Cases Age [25-34]: Male,2020-06-25 07:51:23 PM,DC,947.0
+# Cases Age [35-44]: Female,2020-06-25 07:51:23 PM,DC,908.0
+# Cases Age [35-44]: Male,2020-06-25 07:51:23 PM,DC,924.0
+# Cases Age [45-54]: Female,2020-06-25 07:51:23 PM,DC,737.0
+# Cases Age [45-54]: Male,2020-06-25 07:51:23 PM,DC,815.0
+# Cases Age [5-14]: Female,2020-06-25 07:51:23 PM,DC,126.0
+# Cases Age [5-14]: Male,2020-06-25 07:51:23 PM,DC,126.0
+# Cases Age [55-64]: Female,2020-06-25 07:51:23 PM,DC,761.0
+# Cases Age [55-64]: Male,2020-06-25 07:51:23 PM,DC,882.0
+# Cases Age [65-74]: Female,2020-06-25 07:51:23 PM,DC,500.0
+# Cases Age [65-74]: Male,2020-06-25 07:51:23 PM,DC,544.0
+# Cases Age [75+]: Female,2020-06-25 07:51:23 PM,DC,535.0
+# Cases Age [75+]: Male,2020-06-25 07:51:23 PM,DC,391.0
+# Cases Age [0-4]: Female,2020-06-26 07:33:21 PM,DC,63.0
+# Cases Age [0-4]: Male,2020-06-26 07:33:21 PM,DC,64.0
+# Cases Age [15-19]: Female,2020-06-26 07:33:21 PM,DC,122.0
+# Cases Age [15-19]: Male,2020-06-26 07:33:21 PM,DC,96.0
+# Cases Age [20-24]: Female,2020-06-26 07:33:21 PM,DC,335.0
+# Cases Age [20-24]: Male,2020-06-26 07:33:21 PM,DC,248.0
+# Cases Age [25-34]: Female,2020-06-26 07:33:21 PM,DC,1006.0
+# Cases Age [25-34]: Male,2020-06-26 07:33:21 PM,DC,950.0
+# Cases Age [35-44]: Female,2020-06-26 07:33:21 PM,DC,912.0
+# Cases Age [35-44]: Male,2020-06-26 07:33:21 PM,DC,928.0
+# Cases Age [45-54]: Female,2020-06-26 07:33:21 PM,DC,740.0
+# Cases Age [45-54]: Male,2020-06-26 07:33:21 PM,DC,818.0
+# Cases Age [5-14]: Female,2020-06-26 07:33:21 PM,DC,126.0
+# Cases Age [5-14]: Male,2020-06-26 07:33:21 PM,DC,126.0
+# Cases Age [55-64]: Female,2020-06-26 07:33:21 PM,DC,761.0
+# Cases Age [55-64]: Male,2020-06-26 07:33:21 PM,DC,883.0
+# Cases Age [65-74]: Female,2020-06-26 07:33:21 PM,DC,500.0
+# Cases Age [65-74]: Male,2020-06-26 07:33:21 PM,DC,544.0
+# Cases Age [75+]: Female,2020-06-26 07:33:21 PM,DC,537.0
+# Cases Age [75+]: Male,2020-06-26 07:33:21 PM,DC,390.0
+# Cases Age [0-4]: Female,2020-06-27 09:26:33 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-06-27 09:26:33 PM,DC,66.0
+# Cases Age [15-19]: Female,2020-06-27 09:26:33 PM,DC,122.0
+# Cases Age [15-19]: Male,2020-06-27 09:26:33 PM,DC,96.0
+# Cases Age [20-24]: Female,2020-06-27 09:26:33 PM,DC,337.0
+# Cases Age [20-24]: Male,2020-06-27 09:26:33 PM,DC,250.0
+# Cases Age [25-34]: Female,2020-06-27 09:26:33 PM,DC,1010.0
+# Cases Age [25-34]: Male,2020-06-27 09:26:33 PM,DC,954.0
+# Cases Age [35-44]: Female,2020-06-27 09:26:33 PM,DC,918.0
+# Cases Age [35-44]: Male,2020-06-27 09:26:33 PM,DC,932.0
+# Cases Age [45-54]: Female,2020-06-27 09:26:33 PM,DC,742.0
+# Cases Age [45-54]: Male,2020-06-27 09:26:33 PM,DC,819.0
+# Cases Age [5-14]: Female,2020-06-27 09:26:33 PM,DC,127.0
+# Cases Age [5-14]: Male,2020-06-27 09:26:33 PM,DC,125.0
+# Cases Age [55-64]: Female,2020-06-27 09:26:33 PM,DC,762.0
+# Cases Age [55-64]: Male,2020-06-27 09:26:33 PM,DC,886.0
+# Cases Age [65-74]: Female,2020-06-27 09:26:33 PM,DC,501.0
+# Cases Age [65-74]: Male,2020-06-27 09:26:33 PM,DC,547.0
+# Cases Age [75+]: Female,2020-06-27 09:26:33 PM,DC,536.0
+# Cases Age [75+]: Male,2020-06-27 09:26:33 PM,DC,390.0
+# Cases Age [0-4]: Female,2020-06-28 08:00:07 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-06-28 08:00:07 PM,DC,66.0
+# Cases Age [15-19]: Female,2020-06-28 08:00:07 PM,DC,124.0
+# Cases Age [15-19]: Male,2020-06-28 08:00:07 PM,DC,97.0
+# Cases Age [20-24]: Female,2020-06-28 08:00:07 PM,DC,339.0
+# Cases Age [20-24]: Male,2020-06-28 08:00:07 PM,DC,250.0
+# Cases Age [25-34]: Female,2020-06-28 08:00:07 PM,DC,1013.0
+# Cases Age [25-34]: Male,2020-06-28 08:00:07 PM,DC,957.0
+# Cases Age [35-44]: Female,2020-06-28 08:00:07 PM,DC,922.0
+# Cases Age [35-44]: Male,2020-06-28 08:00:07 PM,DC,937.0
+# Cases Age [45-54]: Female,2020-06-28 08:00:07 PM,DC,742.0
+# Cases Age [45-54]: Male,2020-06-28 08:00:07 PM,DC,820.0
+# Cases Age [5-14]: Female,2020-06-28 08:00:07 PM,DC,128.0
+# Cases Age [5-14]: Male,2020-06-28 08:00:07 PM,DC,126.0
+# Cases Age [55-64]: Female,2020-06-28 08:00:07 PM,DC,764.0
+# Cases Age [55-64]: Male,2020-06-28 08:00:07 PM,DC,890.0
+# Cases Age [65-74]: Female,2020-06-28 08:00:07 PM,DC,502.0
+# Cases Age [65-74]: Male,2020-06-28 08:00:07 PM,DC,547.0
+# Cases Age [75+]: Female,2020-06-28 08:00:07 PM,DC,536.0
+# Cases Age [75+]: Male,2020-06-28 08:00:07 PM,DC,392.0
+# Cases Age [0-4]: Female,2020-06-29 10:51:14 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-06-29 10:51:14 PM,DC,67.0
+# Cases Age [15-19]: Female,2020-06-29 10:51:14 PM,DC,124.0
+# Cases Age [15-19]: Male,2020-06-29 10:51:14 PM,DC,97.0
+# Cases Age [20-24]: Female,2020-06-29 10:51:14 PM,DC,342.0
+# Cases Age [20-24]: Male,2020-06-29 10:51:14 PM,DC,254.0
+# Cases Age [25-34]: Female,2020-06-29 10:51:14 PM,DC,1019.0
+# Cases Age [25-34]: Male,2020-06-29 10:51:14 PM,DC,963.0
+# Cases Age [35-44]: Female,2020-06-29 10:51:14 PM,DC,928.0
+# Cases Age [35-44]: Male,2020-06-29 10:51:14 PM,DC,939.0
+# Cases Age [45-54]: Female,2020-06-29 10:51:14 PM,DC,748.0
+# Cases Age [45-54]: Male,2020-06-29 10:51:14 PM,DC,824.0
+# Cases Age [5-14]: Female,2020-06-29 10:51:14 PM,DC,128.0
+# Cases Age [5-14]: Male,2020-06-29 10:51:14 PM,DC,126.0
+# Cases Age [55-64]: Female,2020-06-29 10:51:14 PM,DC,765.0
+# Cases Age [55-64]: Male,2020-06-29 10:51:14 PM,DC,891.0
+# Cases Age [65-74]: Female,2020-06-29 10:51:14 PM,DC,502.0
+# Cases Age [65-74]: Male,2020-06-29 10:51:14 PM,DC,547.0
+# Cases Age [75+]: Female,2020-06-29 10:51:14 PM,DC,537.0
+# Cases Age [75+]: Male,2020-06-29 10:51:14 PM,DC,393.0
+# Cases Age [0-4]: Female,2020-06-30 08:04:11 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-06-30 08:04:11 PM,DC,67.0
+# Cases Age [15-19]: Female,2020-06-30 08:04:11 PM,DC,125.0
+# Cases Age [15-19]: Male,2020-06-30 08:04:11 PM,DC,97.0
+# Cases Age [20-24]: Female,2020-06-30 08:04:11 PM,DC,344.0
+# Cases Age [20-24]: Male,2020-06-30 08:04:11 PM,DC,256.0
+# Cases Age [25-34]: Female,2020-06-30 08:04:11 PM,DC,1022.0
+# Cases Age [25-34]: Male,2020-06-30 08:04:11 PM,DC,968.0
+# Cases Age [35-44]: Female,2020-06-30 08:04:11 PM,DC,931.0
+# Cases Age [35-44]: Male,2020-06-30 08:04:11 PM,DC,944.0
+# Cases Age [45-54]: Female,2020-06-30 08:04:11 PM,DC,750.0
+# Cases Age [45-54]: Male,2020-06-30 08:04:11 PM,DC,827.0
+# Cases Age [5-14]: Female,2020-06-30 08:04:11 PM,DC,129.0
+# Cases Age [5-14]: Male,2020-06-30 08:04:11 PM,DC,129.0
+# Cases Age [55-64]: Female,2020-06-30 08:04:11 PM,DC,767.0
+# Cases Age [55-64]: Male,2020-06-30 08:04:11 PM,DC,892.0
+# Cases Age [65-74]: Female,2020-06-30 08:04:11 PM,DC,503.0
+# Cases Age [65-74]: Male,2020-06-30 08:04:11 PM,DC,547.0
+# Cases Age [75+]: Female,2020-06-30 08:04:11 PM,DC,537.0
+# Cases Age [75+]: Male,2020-06-30 08:04:11 PM,DC,393.0
+# Cases Age [0-4]: Female,2020-07-01 08:04:24 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-07-01 08:04:24 PM,DC,67.0
+# Cases Age [15-19]: Female,2020-07-01 08:04:24 PM,DC,126.0
+# Cases Age [15-19]: Male,2020-07-01 08:04:24 PM,DC,97.0
+# Cases Age [20-24]: Female,2020-07-01 08:04:24 PM,DC,346.0
+# Cases Age [20-24]: Male,2020-07-01 08:04:24 PM,DC,258.0
+# Cases Age [25-34]: Female,2020-07-01 08:04:24 PM,DC,1029.0
+# Cases Age [25-34]: Male,2020-07-01 08:04:24 PM,DC,975.0
+# Cases Age [35-44]: Female,2020-07-01 08:04:24 PM,DC,933.0
+# Cases Age [35-44]: Male,2020-07-01 08:04:24 PM,DC,948.0
+# Cases Age [45-54]: Female,2020-07-01 08:04:24 PM,DC,750.0
+# Cases Age [45-54]: Male,2020-07-01 08:04:24 PM,DC,832.0
+# Cases Age [5-14]: Female,2020-07-01 08:04:24 PM,DC,129.0
+# Cases Age [5-14]: Male,2020-07-01 08:04:24 PM,DC,129.0
+# Cases Age [55-64]: Female,2020-07-01 08:04:24 PM,DC,769.0
+# Cases Age [55-64]: Male,2020-07-01 08:04:24 PM,DC,894.0
+# Cases Age [65-74]: Female,2020-07-01 08:04:24 PM,DC,504.0
+# Cases Age [65-74]: Male,2020-07-01 08:04:24 PM,DC,549.0
+# Cases Age [75+]: Female,2020-07-01 08:04:24 PM,DC,539.0
+# Cases Age [75+]: Male,2020-07-01 08:04:24 PM,DC,395.0
+# Cases Age [0-4]: Female,2020-07-02 10:11:17 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-07-02 10:11:17 PM,DC,67.0
+# Cases Age [15-19]: Female,2020-07-02 10:11:17 PM,DC,126.0
+# Cases Age [15-19]: Male,2020-07-02 10:11:17 PM,DC,97.0
+# Cases Age [20-24]: Female,2020-07-02 10:11:17 PM,DC,347.0
+# Cases Age [20-24]: Male,2020-07-02 10:11:17 PM,DC,261.0
+# Cases Age [25-34]: Female,2020-07-02 10:11:17 PM,DC,1032.0
+# Cases Age [25-34]: Male,2020-07-02 10:11:17 PM,DC,977.0
+# Cases Age [35-44]: Female,2020-07-02 10:11:17 PM,DC,936.0
+# Cases Age [35-44]: Male,2020-07-02 10:11:17 PM,DC,950.0
+# Cases Age [45-54]: Female,2020-07-02 10:11:17 PM,DC,752.0
+# Cases Age [45-54]: Male,2020-07-02 10:11:17 PM,DC,834.0
+# Cases Age [5-14]: Female,2020-07-02 10:11:17 PM,DC,130.0
+# Cases Age [5-14]: Male,2020-07-02 10:11:17 PM,DC,129.0
+# Cases Age [55-64]: Female,2020-07-02 10:11:17 PM,DC,772.0
+# Cases Age [55-64]: Male,2020-07-02 10:11:17 PM,DC,894.0
+# Cases Age [65-74]: Female,2020-07-02 10:11:17 PM,DC,504.0
+# Cases Age [65-74]: Male,2020-07-02 10:11:17 PM,DC,549.0
+# Cases Age [75+]: Female,2020-07-02 10:11:17 PM,DC,541.0
+# Cases Age [75+]: Male,2020-07-02 10:11:17 PM,DC,397.0
+# Cases Age [0-4]: Female,2020-07-03 10:41:31 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-07-03 10:41:31 PM,DC,68.0
+# Cases Age [15-19]: Female,2020-07-03 10:41:31 PM,DC,127.0
+# Cases Age [15-19]: Male,2020-07-03 10:41:31 PM,DC,98.0
+# Cases Age [20-24]: Female,2020-07-03 10:41:31 PM,DC,349.0
+# Cases Age [20-24]: Male,2020-07-03 10:41:31 PM,DC,264.0
+# Cases Age [25-34]: Female,2020-07-03 10:41:31 PM,DC,1040.0
+# Cases Age [25-34]: Male,2020-07-03 10:41:31 PM,DC,980.0
+# Cases Age [35-44]: Female,2020-07-03 10:41:31 PM,DC,940.0
+# Cases Age [35-44]: Male,2020-07-03 10:41:31 PM,DC,955.0
+# Cases Age [45-54]: Female,2020-07-03 10:41:31 PM,DC,758.0
+# Cases Age [45-54]: Male,2020-07-03 10:41:31 PM,DC,837.0
+# Cases Age [5-14]: Female,2020-07-03 10:41:31 PM,DC,131.0
+# Cases Age [5-14]: Male,2020-07-03 10:41:31 PM,DC,129.0
+# Cases Age [55-64]: Female,2020-07-03 10:41:31 PM,DC,775.0
+# Cases Age [55-64]: Male,2020-07-03 10:41:31 PM,DC,895.0
+# Cases Age [65-74]: Female,2020-07-03 10:41:31 PM,DC,504.0
+# Cases Age [65-74]: Male,2020-07-03 10:41:31 PM,DC,549.0
+# Cases Age [75+]: Female,2020-07-03 10:41:31 PM,DC,544.0
+# Cases Age [75+]: Male,2020-07-03 10:41:31 PM,DC,397.0
+# Cases Age [0-4]: Female,2020-07-04 08:27:31 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-07-04 08:27:31 PM,DC,68.0
+# Cases Age [15-19]: Female,2020-07-04 08:27:31 PM,DC,127.0
+# Cases Age [15-19]: Male,2020-07-04 08:27:31 PM,DC,99.0
+# Cases Age [20-24]: Female,2020-07-04 08:27:31 PM,DC,349.0
+# Cases Age [20-24]: Male,2020-07-04 08:27:31 PM,DC,266.0
+# Cases Age [25-34]: Female,2020-07-04 08:27:31 PM,DC,1042.0
+# Cases Age [25-34]: Male,2020-07-04 08:27:31 PM,DC,982.0
+# Cases Age [35-44]: Female,2020-07-04 08:27:31 PM,DC,940.0
+# Cases Age [35-44]: Male,2020-07-04 08:27:31 PM,DC,955.0
+# Cases Age [45-54]: Female,2020-07-04 08:27:31 PM,DC,758.0
+# Cases Age [45-54]: Male,2020-07-04 08:27:31 PM,DC,837.0
+# Cases Age [5-14]: Female,2020-07-04 08:27:31 PM,DC,131.0
+# Cases Age [5-14]: Male,2020-07-04 08:27:31 PM,DC,129.0
+# Cases Age [55-64]: Female,2020-07-04 08:27:31 PM,DC,776.0
+# Cases Age [55-64]: Male,2020-07-04 08:27:31 PM,DC,895.0
+# Cases Age [65-74]: Female,2020-07-04 08:27:31 PM,DC,505.0
+# Cases Age [65-74]: Male,2020-07-04 08:27:31 PM,DC,551.0
+# Cases Age [75+]: Female,2020-07-04 08:27:31 PM,DC,544.0
+# Cases Age [75+]: Male,2020-07-04 08:27:31 PM,DC,397.0
+# Cases Age [0-4]: Female,2020-07-05 08:01:21 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-07-05 08:01:21 PM,DC,69.0
+# Cases Age [15-19]: Female,2020-07-05 08:01:21 PM,DC,128.0
+# Cases Age [15-19]: Male,2020-07-05 08:01:21 PM,DC,100.0
+# Cases Age [20-24]: Female,2020-07-05 08:01:21 PM,DC,353.0
+# Cases Age [20-24]: Male,2020-07-05 08:01:21 PM,DC,267.0
+# Cases Age [25-34]: Female,2020-07-05 08:01:21 PM,DC,1046.0
+# Cases Age [25-34]: Male,2020-07-05 08:01:21 PM,DC,988.0
+# Cases Age [35-44]: Female,2020-07-05 08:01:21 PM,DC,943.0
+# Cases Age [35-44]: Male,2020-07-05 08:01:21 PM,DC,959.0
+# Cases Age [45-54]: Female,2020-07-05 08:01:21 PM,DC,759.0
+# Cases Age [45-54]: Male,2020-07-05 08:01:21 PM,DC,839.0
+# Cases Age [5-14]: Female,2020-07-05 08:01:21 PM,DC,132.0
+# Cases Age [5-14]: Male,2020-07-05 08:01:21 PM,DC,129.0
+# Cases Age [55-64]: Female,2020-07-05 08:01:21 PM,DC,777.0
+# Cases Age [55-64]: Male,2020-07-05 08:01:21 PM,DC,896.0
+# Cases Age [65-74]: Female,2020-07-05 08:01:21 PM,DC,505.0
+# Cases Age [65-74]: Male,2020-07-05 08:01:21 PM,DC,552.0
+# Cases Age [75+]: Female,2020-07-05 08:01:21 PM,DC,544.0
+# Cases Age [75+]: Male,2020-07-05 08:01:21 PM,DC,398.0
+# Cases Age [0-4]: Female,2020-07-06 08:03:00 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-07-06 08:03:00 PM,DC,69.0
+# Cases Age [15-19]: Female,2020-07-06 08:03:00 PM,DC,130.0
+# Cases Age [15-19]: Male,2020-07-06 08:03:00 PM,DC,102.0
+# Cases Age [20-24]: Female,2020-07-06 08:03:00 PM,DC,357.0
+# Cases Age [20-24]: Male,2020-07-06 08:03:00 PM,DC,267.0
+# Cases Age [25-34]: Female,2020-07-06 08:03:00 PM,DC,1052.0
+# Cases Age [25-34]: Male,2020-07-06 08:03:00 PM,DC,993.0
+# Cases Age [35-44]: Female,2020-07-06 08:03:00 PM,DC,944.0
+# Cases Age [35-44]: Male,2020-07-06 08:03:00 PM,DC,966.0
+# Cases Age [45-54]: Female,2020-07-06 08:03:00 PM,DC,763.0
+# Cases Age [45-54]: Male,2020-07-06 08:03:00 PM,DC,839.0
+# Cases Age [5-14]: Female,2020-07-06 08:03:00 PM,DC,133.0
+# Cases Age [5-14]: Male,2020-07-06 08:03:00 PM,DC,129.0
+# Cases Age [55-64]: Female,2020-07-06 08:03:00 PM,DC,778.0
+# Cases Age [55-64]: Male,2020-07-06 08:03:00 PM,DC,897.0
+# Cases Age [65-74]: Female,2020-07-06 08:03:00 PM,DC,505.0
+# Cases Age [65-74]: Male,2020-07-06 08:03:00 PM,DC,554.0
+# Cases Age [75+]: Female,2020-07-06 08:03:00 PM,DC,544.0
+# Cases Age [75+]: Male,2020-07-06 08:03:00 PM,DC,398.0
+# Cases Age [0-4]: Female,2020-07-07 07:58:34 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-07-07 07:58:34 PM,DC,69.0
+# Cases Age [15-19]: Female,2020-07-07 07:58:34 PM,DC,133.0
+# Cases Age [15-19]: Male,2020-07-07 07:58:34 PM,DC,104.0
+# Cases Age [20-24]: Female,2020-07-07 07:58:34 PM,DC,363.0
+# Cases Age [20-24]: Male,2020-07-07 07:58:34 PM,DC,269.0
+# Cases Age [25-34]: Female,2020-07-07 07:58:34 PM,DC,1069.0
+# Cases Age [25-34]: Male,2020-07-07 07:58:34 PM,DC,997.0
+# Cases Age [35-44]: Female,2020-07-07 07:58:34 PM,DC,946.0
+# Cases Age [35-44]: Male,2020-07-07 07:58:34 PM,DC,971.0
+# Cases Age [45-54]: Female,2020-07-07 07:58:34 PM,DC,766.0
+# Cases Age [45-54]: Male,2020-07-07 07:58:34 PM,DC,842.0
+# Cases Age [5-14]: Female,2020-07-07 07:58:34 PM,DC,133.0
+# Cases Age [5-14]: Male,2020-07-07 07:58:34 PM,DC,132.0
+# Cases Age [55-64]: Female,2020-07-07 07:58:34 PM,DC,778.0
+# Cases Age [55-64]: Male,2020-07-07 07:58:34 PM,DC,897.0
+# Cases Age [65-74]: Female,2020-07-07 07:58:34 PM,DC,506.0
+# Cases Age [65-74]: Male,2020-07-07 07:58:34 PM,DC,555.0
+# Cases Age [75+]: Female,2020-07-07 07:58:34 PM,DC,544.0
+# Cases Age [75+]: Male,2020-07-07 07:58:34 PM,DC,398.0
+# Cases Age [0-4]: Female,2020-07-08 09:00:50 PM,DC,64.0
+# Cases Age [0-4]: Male,2020-07-08 09:00:50 PM,DC,70.0
+# Cases Age [15-19]: Female,2020-07-08 09:00:50 PM,DC,134.0
+# Cases Age [15-19]: Male,2020-07-08 09:00:50 PM,DC,108.0
+# Cases Age [20-24]: Female,2020-07-08 09:00:50 PM,DC,368.0
+# Cases Age [20-24]: Male,2020-07-08 09:00:50 PM,DC,273.0
+# Cases Age [25-34]: Female,2020-07-08 09:00:50 PM,DC,1073.0
+# Cases Age [25-34]: Male,2020-07-08 09:00:50 PM,DC,1004.0
+# Cases Age [35-44]: Female,2020-07-08 09:00:50 PM,DC,945.0
+# Cases Age [35-44]: Male,2020-07-08 09:00:50 PM,DC,982.0
+# Cases Age [45-54]: Female,2020-07-08 09:00:50 PM,DC,768.0
+# Cases Age [45-54]: Male,2020-07-08 09:00:50 PM,DC,852.0
+# Cases Age [5-14]: Female,2020-07-08 09:00:50 PM,DC,134.0
+# Cases Age [5-14]: Male,2020-07-08 09:00:50 PM,DC,132.0
+# Cases Age [55-64]: Female,2020-07-08 09:00:50 PM,DC,783.0
+# Cases Age [55-64]: Male,2020-07-08 09:00:50 PM,DC,900.0
+# Cases Age [65-74]: Female,2020-07-08 09:00:50 PM,DC,511.0
+# Cases Age [65-74]: Male,2020-07-08 09:00:50 PM,DC,561.0
+# Cases Age [75+]: Female,2020-07-08 09:00:50 PM,DC,550.0
+# Cases Age [75+]: Male,2020-07-08 09:00:50 PM,DC,399.0
+# Cases Age [0-4]: Female,2020-07-09 08:11:33 PM,DC,67.0
+# Cases Age [0-4]: Male,2020-07-09 08:11:33 PM,DC,72.0
+# Cases Age [15-19]: Female,2020-07-09 08:11:33 PM,DC,134.0
+# Cases Age [15-19]: Male,2020-07-09 08:11:33 PM,DC,108.0
+# Cases Age [20-24]: Female,2020-07-09 08:11:33 PM,DC,373.0
+# Cases Age [20-24]: Male,2020-07-09 08:11:33 PM,DC,273.0
+# Cases Age [25-34]: Female,2020-07-09 08:11:33 PM,DC,1077.0
+# Cases Age [25-34]: Male,2020-07-09 08:11:33 PM,DC,1010.0
+# Cases Age [35-44]: Female,2020-07-09 08:11:33 PM,DC,946.0
+# Cases Age [35-44]: Male,2020-07-09 08:11:33 PM,DC,988.0
+# Cases Age [45-54]: Female,2020-07-09 08:11:33 PM,DC,769.0
+# Cases Age [45-54]: Male,2020-07-09 08:11:33 PM,DC,855.0
+# Cases Age [5-14]: Female,2020-07-09 08:11:33 PM,DC,136.0
+# Cases Age [5-14]: Male,2020-07-09 08:11:33 PM,DC,133.0
+# Cases Age [55-64]: Female,2020-07-09 08:11:33 PM,DC,785.0
+# Cases Age [55-64]: Male,2020-07-09 08:11:33 PM,DC,900.0
+# Cases Age [65-74]: Female,2020-07-09 08:11:33 PM,DC,510.0
+# Cases Age [65-74]: Male,2020-07-09 08:11:33 PM,DC,561.0
+# Cases Age [75+]: Female,2020-07-09 08:11:33 PM,DC,552.0
+# Cases Age [75+]: Male,2020-07-09 08:11:33 PM,DC,399.0
+# Cases Age [0-4]: Female,2020-07-10 08:14:35 PM,DC,67.0
+# Cases Age [0-4]: Male,2020-07-10 08:14:35 PM,DC,72.0
+# Cases Age [15-19]: Female,2020-07-10 08:14:35 PM,DC,138.0
+# Cases Age [15-19]: Male,2020-07-10 08:14:35 PM,DC,109.0
+# Cases Age [20-24]: Female,2020-07-10 08:14:35 PM,DC,377.0
+# Cases Age [20-24]: Male,2020-07-10 08:14:35 PM,DC,276.0
+# Cases Age [25-34]: Female,2020-07-10 08:14:35 PM,DC,1083.0
+# Cases Age [25-34]: Male,2020-07-10 08:14:35 PM,DC,1023.0
+# Cases Age [35-44]: Female,2020-07-10 08:14:35 PM,DC,954.0
+# Cases Age [35-44]: Male,2020-07-10 08:14:35 PM,DC,993.0
+# Cases Age [45-54]: Female,2020-07-10 08:14:35 PM,DC,776.0
+# Cases Age [45-54]: Male,2020-07-10 08:14:35 PM,DC,860.0
+# Cases Age [5-14]: Female,2020-07-10 08:14:35 PM,DC,136.0
+# Cases Age [5-14]: Male,2020-07-10 08:14:35 PM,DC,133.0
+# Cases Age [55-64]: Female,2020-07-10 08:14:35 PM,DC,789.0
+# Cases Age [55-64]: Male,2020-07-10 08:14:35 PM,DC,903.0
+# Cases Age [65-74]: Female,2020-07-10 08:14:35 PM,DC,511.0
+# Cases Age [65-74]: Male,2020-07-10 08:14:35 PM,DC,561.0
+# Cases Age [75+]: Female,2020-07-10 08:14:35 PM,DC,552.0
+# Cases Age [75+]: Male,2020-07-10 08:14:35 PM,DC,399.0
+# Cases Age [0-4]: Female,2020-07-11 08:13:06 PM,DC,69.0
+# Cases Age [0-4]: Male,2020-07-11 08:13:06 PM,DC,74.0
+# Cases Age [15-19]: Female,2020-07-11 08:13:06 PM,DC,140.0
+# Cases Age [15-19]: Male,2020-07-11 08:13:06 PM,DC,109.0
+# Cases Age [20-24]: Female,2020-07-11 08:13:06 PM,DC,380.0
+# Cases Age [20-24]: Male,2020-07-11 08:13:06 PM,DC,277.0
+# Cases Age [25-34]: Female,2020-07-11 08:13:06 PM,DC,1091.0
+# Cases Age [25-34]: Male,2020-07-11 08:13:06 PM,DC,1033.0
+# Cases Age [35-44]: Female,2020-07-11 08:13:06 PM,DC,960.0
+# Cases Age [35-44]: Male,2020-07-11 08:13:06 PM,DC,998.0
+# Cases Age [45-54]: Female,2020-07-11 08:13:06 PM,DC,777.0
+# Cases Age [45-54]: Male,2020-07-11 08:13:06 PM,DC,862.0
+# Cases Age [5-14]: Female,2020-07-11 08:13:06 PM,DC,140.0
+# Cases Age [5-14]: Male,2020-07-11 08:13:06 PM,DC,135.0
+# Cases Age [55-64]: Female,2020-07-11 08:13:06 PM,DC,793.0
+# Cases Age [55-64]: Male,2020-07-11 08:13:06 PM,DC,905.0
+# Cases Age [65-74]: Female,2020-07-11 08:13:06 PM,DC,511.0
+# Cases Age [65-74]: Male,2020-07-11 08:13:06 PM,DC,562.0
+# Cases Age [75+]: Female,2020-07-11 08:13:06 PM,DC,553.0
+# Cases Age [75+]: Male,2020-07-11 08:13:06 PM,DC,401.0
+# Cases Age [0-4]: Female,2020-07-12 08:26:03 PM,DC,70.0
+# Cases Age [0-4]: Male,2020-07-12 08:26:03 PM,DC,74.0
+# Cases Age [15-19]: Female,2020-07-12 08:26:03 PM,DC,140.0
+# Cases Age [15-19]: Male,2020-07-12 08:26:03 PM,DC,109.0
+# Cases Age [20-24]: Female,2020-07-12 08:26:03 PM,DC,384.0
+# Cases Age [20-24]: Male,2020-07-12 08:26:03 PM,DC,278.0
+# Cases Age [25-34]: Female,2020-07-12 08:26:03 PM,DC,1096.0
+# Cases Age [25-34]: Male,2020-07-12 08:26:03 PM,DC,1039.0
+# Cases Age [35-44]: Female,2020-07-12 08:26:03 PM,DC,964.0
+# Cases Age [35-44]: Male,2020-07-12 08:26:03 PM,DC,1004.0
+# Cases Age [45-54]: Female,2020-07-12 08:26:03 PM,DC,780.0
+# Cases Age [45-54]: Male,2020-07-12 08:26:03 PM,DC,866.0
+# Cases Age [5-14]: Female,2020-07-12 08:26:03 PM,DC,140.0
+# Cases Age [5-14]: Male,2020-07-12 08:26:03 PM,DC,135.0
+# Cases Age [55-64]: Female,2020-07-12 08:26:03 PM,DC,794.0
+# Cases Age [55-64]: Male,2020-07-12 08:26:03 PM,DC,909.0
+# Cases Age [65-74]: Female,2020-07-12 08:26:03 PM,DC,512.0
+# Cases Age [65-74]: Male,2020-07-12 08:26:03 PM,DC,563.0
+# Cases Age [75+]: Female,2020-07-12 08:26:03 PM,DC,556.0
+# Cases Age [75+]: Male,2020-07-12 08:26:03 PM,DC,403.0
+# Cases Age [0-4]: Female,2020-07-13 08:09:20 PM,DC,70.0
+# Cases Age [0-4]: Male,2020-07-13 08:09:20 PM,DC,74.0
+# Cases Age [15-19]: Female,2020-07-13 08:09:20 PM,DC,143.0
+# Cases Age [15-19]: Male,2020-07-13 08:09:20 PM,DC,109.0
+# Cases Age [20-24]: Female,2020-07-13 08:09:20 PM,DC,389.0
+# Cases Age [20-24]: Male,2020-07-13 08:09:20 PM,DC,278.0
+# Cases Age [25-34]: Female,2020-07-13 08:09:20 PM,DC,1104.0
+# Cases Age [25-34]: Male,2020-07-13 08:09:20 PM,DC,1049.0
+# Cases Age [35-44]: Female,2020-07-13 08:09:20 PM,DC,967.0
+# Cases Age [35-44]: Male,2020-07-13 08:09:20 PM,DC,1009.0
+# Cases Age [45-54]: Female,2020-07-13 08:09:20 PM,DC,786.0
+# Cases Age [45-54]: Male,2020-07-13 08:09:20 PM,DC,870.0
+# Cases Age [5-14]: Female,2020-07-13 08:09:20 PM,DC,142.0
+# Cases Age [5-14]: Male,2020-07-13 08:09:20 PM,DC,137.0
+# Cases Age [55-64]: Female,2020-07-13 08:09:20 PM,DC,794.0
+# Cases Age [55-64]: Male,2020-07-13 08:09:20 PM,DC,915.0
+# Cases Age [65-74]: Female,2020-07-13 08:09:20 PM,DC,513.0
+# Cases Age [65-74]: Male,2020-07-13 08:09:20 PM,DC,565.0
+# Cases Age [75+]: Female,2020-07-13 08:09:20 PM,DC,558.0
+# Cases Age [75+]: Male,2020-07-13 08:09:20 PM,DC,403.0
+# Cases Age [0-4]: Female,2020-07-14 08:04:13 PM,DC,70.0
+# Cases Age [0-4]: Male,2020-07-14 08:04:13 PM,DC,74.0
+# Cases Age [15-19]: Female,2020-07-14 08:04:13 PM,DC,145.0
+# Cases Age [15-19]: Male,2020-07-14 08:04:13 PM,DC,109.0
+# Cases Age [20-24]: Female,2020-07-14 08:04:13 PM,DC,391.0
+# Cases Age [20-24]: Male,2020-07-14 08:04:13 PM,DC,279.0
+# Cases Age [25-34]: Female,2020-07-14 08:04:13 PM,DC,1111.0
+# Cases Age [25-34]: Male,2020-07-14 08:04:13 PM,DC,1059.0
+# Cases Age [35-44]: Female,2020-07-14 08:04:13 PM,DC,971.0
+# Cases Age [35-44]: Male,2020-07-14 08:04:13 PM,DC,1013.0
+# Cases Age [45-54]: Female,2020-07-14 08:04:13 PM,DC,790.0
+# Cases Age [45-54]: Male,2020-07-14 08:04:13 PM,DC,871.0
+# Cases Age [5-14]: Female,2020-07-14 08:04:13 PM,DC,143.0
+# Cases Age [5-14]: Male,2020-07-14 08:04:13 PM,DC,138.0
+# Cases Age [55-64]: Female,2020-07-14 08:04:13 PM,DC,794.0
+# Cases Age [55-64]: Male,2020-07-14 08:04:13 PM,DC,915.0
+# Cases Age [65-74]: Female,2020-07-14 08:04:13 PM,DC,514.0
+# Cases Age [65-74]: Male,2020-07-14 08:04:13 PM,DC,567.0
+# Cases Age [75+]: Female,2020-07-14 08:04:13 PM,DC,558.0
+# Cases Age [75+]: Male,2020-07-14 08:04:13 PM,DC,403.0
+# Cases Age [0-4]: Female,2020-07-15 08:05:59 PM,DC,70.0
+# Cases Age [0-4]: Male,2020-07-15 08:05:59 PM,DC,75.0
+# Cases Age [15-19]: Female,2020-07-15 08:05:59 PM,DC,146.0
+# Cases Age [15-19]: Male,2020-07-15 08:05:59 PM,DC,109.0
+# Cases Age [20-24]: Female,2020-07-15 08:05:59 PM,DC,396.0
+# Cases Age [20-24]: Male,2020-07-15 08:05:59 PM,DC,284.0
+# Cases Age [25-34]: Female,2020-07-15 08:05:59 PM,DC,1125.0
+# Cases Age [25-34]: Male,2020-07-15 08:05:59 PM,DC,1073.0
+# Cases Age [35-44]: Female,2020-07-15 08:05:59 PM,DC,977.0
+# Cases Age [35-44]: Male,2020-07-15 08:05:59 PM,DC,1021.0
+# Cases Age [45-54]: Female,2020-07-15 08:05:59 PM,DC,794.0
+# Cases Age [45-54]: Male,2020-07-15 08:05:59 PM,DC,875.0
+# Cases Age [5-14]: Female,2020-07-15 08:05:59 PM,DC,147.0
+# Cases Age [5-14]: Male,2020-07-15 08:05:59 PM,DC,140.0
+# Cases Age [55-64]: Female,2020-07-15 08:05:59 PM,DC,797.0
+# Cases Age [55-64]: Male,2020-07-15 08:05:59 PM,DC,918.0
+# Cases Age [65-74]: Female,2020-07-15 08:05:59 PM,DC,515.0
+# Cases Age [65-74]: Male,2020-07-15 08:05:59 PM,DC,570.0
+# Cases Age [75+]: Female,2020-07-15 08:05:59 PM,DC,558.0
+# Cases Age [75+]: Male,2020-07-15 08:05:59 PM,DC,405.0
+# Cases Age [0-4]: Female,2020-07-16 08:13:55 PM,DC,70.0
+# Cases Age [0-4]: Male,2020-07-16 08:13:55 PM,DC,75.0
+# Cases Age [15-19]: Female,2020-07-16 08:13:55 PM,DC,147.0
+# Cases Age [15-19]: Male,2020-07-16 08:13:55 PM,DC,111.0
+# Cases Age [20-24]: Female,2020-07-16 08:13:55 PM,DC,400.0
+# Cases Age [20-24]: Male,2020-07-16 08:13:55 PM,DC,288.0
+# Cases Age [25-34]: Female,2020-07-16 08:13:55 PM,DC,1134.0
+# Cases Age [25-34]: Male,2020-07-16 08:13:55 PM,DC,1077.0
+# Cases Age [35-44]: Female,2020-07-16 08:13:55 PM,DC,980.0
+# Cases Age [35-44]: Male,2020-07-16 08:13:55 PM,DC,1026.0
+# Cases Age [45-54]: Female,2020-07-16 08:13:55 PM,DC,797.0
+# Cases Age [45-54]: Male,2020-07-16 08:13:55 PM,DC,878.0
+# Cases Age [5-14]: Female,2020-07-16 08:13:55 PM,DC,148.0
+# Cases Age [5-14]: Male,2020-07-16 08:13:55 PM,DC,140.0
+# Cases Age [55-64]: Female,2020-07-16 08:13:55 PM,DC,798.0
+# Cases Age [55-64]: Male,2020-07-16 08:13:55 PM,DC,920.0
+# Cases Age [65-74]: Female,2020-07-16 08:13:55 PM,DC,516.0
+# Cases Age [65-74]: Male,2020-07-16 08:13:55 PM,DC,573.0
+# Cases Age [75+]: Female,2020-07-16 08:13:55 PM,DC,560.0
+# Cases Age [75+]: Male,2020-07-16 08:13:55 PM,DC,407.0
+# Cases Age [0-4]: Female,2020-07-17 08:07:20 PM,DC,70.0
+# Cases Age [0-4]: Male,2020-07-17 08:07:20 PM,DC,75.0
+# Cases Age [15-19]: Female,2020-07-17 08:07:20 PM,DC,148.0
+# Cases Age [15-19]: Male,2020-07-17 08:07:20 PM,DC,111.0
+# Cases Age [20-24]: Female,2020-07-17 08:07:20 PM,DC,402.0
+# Cases Age [20-24]: Male,2020-07-17 08:07:20 PM,DC,288.0
+# Cases Age [25-34]: Female,2020-07-17 08:07:20 PM,DC,1143.0
+# Cases Age [25-34]: Male,2020-07-17 08:07:20 PM,DC,1083.0
+# Cases Age [35-44]: Female,2020-07-17 08:07:20 PM,DC,987.0
+# Cases Age [35-44]: Male,2020-07-17 08:07:20 PM,DC,1029.0
+# Cases Age [45-54]: Female,2020-07-17 08:07:20 PM,DC,797.0
+# Cases Age [45-54]: Male,2020-07-17 08:07:20 PM,DC,881.0
+# Cases Age [5-14]: Female,2020-07-17 08:07:20 PM,DC,148.0
+# Cases Age [5-14]: Male,2020-07-17 08:07:20 PM,DC,140.0
+# Cases Age [55-64]: Female,2020-07-17 08:07:20 PM,DC,802.0
+# Cases Age [55-64]: Male,2020-07-17 08:07:20 PM,DC,921.0
+# Cases Age [65-74]: Female,2020-07-17 08:07:20 PM,DC,516.0
+# Cases Age [65-74]: Male,2020-07-17 08:07:20 PM,DC,575.0
+# Cases Age [75+]: Female,2020-07-17 08:07:20 PM,DC,560.0
+# Cases Age [75+]: Male,2020-07-17 08:07:20 PM,DC,408.0
+# Cases Age [0-4]: Female,2020-07-18 08:13:26 PM,DC,71.0
+# Cases Age [0-4]: Male,2020-07-18 08:13:26 PM,DC,78.0
+# Cases Age [15-19]: Female,2020-07-18 08:13:26 PM,DC,149.0
+# Cases Age [15-19]: Male,2020-07-18 08:13:26 PM,DC,112.0
+# Cases Age [20-24]: Female,2020-07-18 08:13:26 PM,DC,414.0
+# Cases Age [20-24]: Male,2020-07-18 08:13:26 PM,DC,291.0
+# Cases Age [25-34]: Female,2020-07-18 08:13:26 PM,DC,1150.0
+# Cases Age [25-34]: Male,2020-07-18 08:13:26 PM,DC,1101.0
+# Cases Age [35-44]: Female,2020-07-18 08:13:26 PM,DC,991.0
+# Cases Age [35-44]: Male,2020-07-18 08:13:26 PM,DC,1035.0
+# Cases Age [45-54]: Female,2020-07-18 08:13:26 PM,DC,802.0
+# Cases Age [45-54]: Male,2020-07-18 08:13:26 PM,DC,887.0
+# Cases Age [5-14]: Female,2020-07-18 08:13:26 PM,DC,149.0
+# Cases Age [5-14]: Male,2020-07-18 08:13:26 PM,DC,145.0
+# Cases Age [55-64]: Female,2020-07-18 08:13:26 PM,DC,803.0
+# Cases Age [55-64]: Male,2020-07-18 08:13:26 PM,DC,922.0
+# Cases Age [65-74]: Female,2020-07-18 08:13:26 PM,DC,517.0
+# Cases Age [65-74]: Male,2020-07-18 08:13:26 PM,DC,576.0
+# Cases Age [75+]: Female,2020-07-18 08:13:26 PM,DC,560.0
+# Cases Age [75+]: Male,2020-07-18 08:13:26 PM,DC,410.0
+# Cases Age [0-4]: Female,2020-07-19 08:04:54 PM,DC,71.0
+# Cases Age [0-4]: Male,2020-07-19 08:04:54 PM,DC,82.0
+# Cases Age [15-19]: Female,2020-07-19 08:04:54 PM,DC,149.0
+# Cases Age [15-19]: Male,2020-07-19 08:04:54 PM,DC,113.0
+# Cases Age [20-24]: Female,2020-07-19 08:04:54 PM,DC,417.0
+# Cases Age [20-24]: Male,2020-07-19 08:04:54 PM,DC,299.0
+# Cases Age [25-34]: Female,2020-07-19 08:04:54 PM,DC,1158.0
+# Cases Age [25-34]: Male,2020-07-19 08:04:54 PM,DC,1115.0
+# Cases Age [35-44]: Female,2020-07-19 08:04:54 PM,DC,997.0
+# Cases Age [35-44]: Male,2020-07-19 08:04:54 PM,DC,1037.0
+# Cases Age [45-54]: Female,2020-07-19 08:04:54 PM,DC,806.0
+# Cases Age [45-54]: Male,2020-07-19 08:04:54 PM,DC,889.0
+# Cases Age [5-14]: Female,2020-07-19 08:04:54 PM,DC,151.0
+# Cases Age [5-14]: Male,2020-07-19 08:04:54 PM,DC,147.0
+# Cases Age [55-64]: Female,2020-07-19 08:04:54 PM,DC,807.0
+# Cases Age [55-64]: Male,2020-07-19 08:04:54 PM,DC,925.0
+# Cases Age [65-74]: Female,2020-07-19 08:04:54 PM,DC,518.0
+# Cases Age [65-74]: Male,2020-07-19 08:04:54 PM,DC,576.0
+# Cases Age [75+]: Female,2020-07-19 08:04:54 PM,DC,562.0
+# Cases Age [75+]: Male,2020-07-19 08:04:54 PM,DC,410.0
+# Cases Age [0-4]: Female,2020-07-20 08:07:51 PM,DC,71.0
+# Cases Age [0-4]: Male,2020-07-20 08:07:51 PM,DC,82.0
+# Cases Age [15-19]: Female,2020-07-20 08:07:51 PM,DC,153.0
+# Cases Age [15-19]: Male,2020-07-20 08:07:51 PM,DC,115.0
+# Cases Age [20-24]: Female,2020-07-20 08:07:51 PM,DC,422.0
+# Cases Age [20-24]: Male,2020-07-20 08:07:51 PM,DC,303.0
+# Cases Age [25-34]: Female,2020-07-20 08:07:51 PM,DC,1172.0
+# Cases Age [25-34]: Male,2020-07-20 08:07:51 PM,DC,1123.0
+# Cases Age [35-44]: Female,2020-07-20 08:07:51 PM,DC,1000.0
+# Cases Age [35-44]: Male,2020-07-20 08:07:51 PM,DC,1042.0
+# Cases Age [45-54]: Female,2020-07-20 08:07:51 PM,DC,811.0
+# Cases Age [45-54]: Male,2020-07-20 08:07:51 PM,DC,892.0
+# Cases Age [5-14]: Female,2020-07-20 08:07:51 PM,DC,153.0
+# Cases Age [5-14]: Male,2020-07-20 08:07:51 PM,DC,150.0
+# Cases Age [55-64]: Female,2020-07-20 08:07:51 PM,DC,813.0
+# Cases Age [55-64]: Male,2020-07-20 08:07:51 PM,DC,932.0
+# Cases Age [65-74]: Female,2020-07-20 08:07:51 PM,DC,519.0
+# Cases Age [65-74]: Male,2020-07-20 08:07:51 PM,DC,580.0
+# Cases Age [75+]: Female,2020-07-20 08:07:51 PM,DC,562.0
+# Cases Age [75+]: Male,2020-07-20 08:07:51 PM,DC,411.0
+# Cases Age [0-4]: Female,2020-07-21 09:52:05 PM,DC,71.0
+# Cases Age [0-4]: Male,2020-07-21 09:52:05 PM,DC,82.0
+# Cases Age [15-19]: Female,2020-07-21 09:52:05 PM,DC,156.0
+# Cases Age [15-19]: Male,2020-07-21 09:52:05 PM,DC,117.0
+# Cases Age [20-24]: Female,2020-07-21 09:52:05 PM,DC,426.0
+# Cases Age [20-24]: Male,2020-07-21 09:52:05 PM,DC,308.0
+# Cases Age [25-34]: Female,2020-07-21 09:52:05 PM,DC,1187.0
+# Cases Age [25-34]: Male,2020-07-21 09:52:05 PM,DC,1135.0
+# Cases Age [35-44]: Female,2020-07-21 09:52:05 PM,DC,1004.0
+# Cases Age [35-44]: Male,2020-07-21 09:52:05 PM,DC,1050.0
+# Cases Age [45-54]: Female,2020-07-21 09:52:05 PM,DC,816.0
+# Cases Age [45-54]: Male,2020-07-21 09:52:05 PM,DC,896.0
+# Cases Age [5-14]: Female,2020-07-21 09:52:05 PM,DC,156.0
+# Cases Age [5-14]: Male,2020-07-21 09:52:05 PM,DC,152.0
+# Cases Age [55-64]: Female,2020-07-21 09:52:05 PM,DC,823.0
+# Cases Age [55-64]: Male,2020-07-21 09:52:05 PM,DC,932.0
+# Cases Age [65-74]: Female,2020-07-21 09:52:05 PM,DC,522.0
+# Cases Age [65-74]: Male,2020-07-21 09:52:05 PM,DC,582.0
+# Cases Age [75+]: Female,2020-07-21 09:52:05 PM,DC,567.0
+# Cases Age [75+]: Male,2020-07-21 09:52:05 PM,DC,412.0
+# Cases Age [0-4]: Female,2020-07-22 09:44:18 PM,DC,72.0
+# Cases Age [0-4]: Male,2020-07-22 09:44:18 PM,DC,87.0
+# Cases Age [15-19]: Female,2020-07-22 09:44:18 PM,DC,158.0
+# Cases Age [15-19]: Male,2020-07-22 09:44:18 PM,DC,119.0
+# Cases Age [20-24]: Female,2020-07-22 09:44:18 PM,DC,436.0
+# Cases Age [20-24]: Male,2020-07-22 09:44:18 PM,DC,308.0
+# Cases Age [25-34]: Female,2020-07-22 09:44:18 PM,DC,1211.0
+# Cases Age [25-34]: Male,2020-07-22 09:44:18 PM,DC,1144.0
+# Cases Age [35-44]: Female,2020-07-22 09:44:18 PM,DC,1011.0
+# Cases Age [35-44]: Male,2020-07-22 09:44:18 PM,DC,1056.0
+# Cases Age [45-54]: Female,2020-07-22 09:44:18 PM,DC,824.0
+# Cases Age [45-54]: Male,2020-07-22 09:44:18 PM,DC,902.0
+# Cases Age [5-14]: Female,2020-07-22 09:44:18 PM,DC,159.0
+# Cases Age [5-14]: Male,2020-07-22 09:44:18 PM,DC,154.0
+# Cases Age [55-64]: Female,2020-07-22 09:44:18 PM,DC,828.0
+# Cases Age [55-64]: Male,2020-07-22 09:44:18 PM,DC,935.0
+# Cases Age [65-74]: Female,2020-07-22 09:44:18 PM,DC,524.0
+# Cases Age [65-74]: Male,2020-07-22 09:44:18 PM,DC,583.0
+# Cases Age [75+]: Female,2020-07-22 09:44:18 PM,DC,569.0
+# Cases Age [75+]: Male,2020-07-22 09:44:18 PM,DC,413.0
+# Cases Age [0-4]: Female,2020-07-23 07:41:25 PM,DC,72.0
+# Cases Age [0-4]: Male,2020-07-23 07:41:25 PM,DC,87.0
+# Cases Age [15-19]: Female,2020-07-23 07:41:25 PM,DC,159.0
+# Cases Age [15-19]: Male,2020-07-23 07:41:25 PM,DC,120.0
+# Cases Age [20-24]: Female,2020-07-23 07:41:25 PM,DC,438.0
+# Cases Age [20-24]: Male,2020-07-23 07:41:25 PM,DC,312.0
+# Cases Age [25-34]: Female,2020-07-23 07:41:25 PM,DC,1218.0
+# Cases Age [25-34]: Male,2020-07-23 07:41:25 PM,DC,1148.0
+# Cases Age [35-44]: Female,2020-07-23 07:41:25 PM,DC,1017.0
+# Cases Age [35-44]: Male,2020-07-23 07:41:25 PM,DC,1061.0
+# Cases Age [45-54]: Female,2020-07-23 07:41:25 PM,DC,825.0
+# Cases Age [45-54]: Male,2020-07-23 07:41:25 PM,DC,905.0
+# Cases Age [5-14]: Female,2020-07-23 07:41:25 PM,DC,159.0
+# Cases Age [5-14]: Male,2020-07-23 07:41:25 PM,DC,154.0
+# Cases Age [55-64]: Female,2020-07-23 07:41:25 PM,DC,827.0
+# Cases Age [55-64]: Male,2020-07-23 07:41:25 PM,DC,936.0
+# Cases Age [65-74]: Female,2020-07-23 07:41:25 PM,DC,527.0
+# Cases Age [65-74]: Male,2020-07-23 07:41:25 PM,DC,585.0
+# Cases Age [75+]: Female,2020-07-23 07:41:25 PM,DC,570.0
+# Cases Age [75+]: Male,2020-07-23 07:41:25 PM,DC,416.0
+# Cases Age [0-4]: Female,2020-07-24 08:12:43 PM,DC,72.0
+# Cases Age [0-4]: Male,2020-07-24 08:12:43 PM,DC,88.0
+# Cases Age [15-19]: Female,2020-07-24 08:12:43 PM,DC,160.0
+# Cases Age [15-19]: Male,2020-07-24 08:12:43 PM,DC,122.0
+# Cases Age [20-24]: Female,2020-07-24 08:12:43 PM,DC,443.0
+# Cases Age [20-24]: Male,2020-07-24 08:12:43 PM,DC,318.0
+# Cases Age [25-34]: Female,2020-07-24 08:12:43 PM,DC,1230.0
+# Cases Age [25-34]: Male,2020-07-24 08:12:43 PM,DC,1160.0
+# Cases Age [35-44]: Female,2020-07-24 08:12:43 PM,DC,1025.0
+# Cases Age [35-44]: Male,2020-07-24 08:12:43 PM,DC,1063.0
+# Cases Age [45-54]: Female,2020-07-24 08:12:43 PM,DC,831.0
+# Cases Age [45-54]: Male,2020-07-24 08:12:43 PM,DC,910.0
+# Cases Age [5-14]: Female,2020-07-24 08:12:43 PM,DC,161.0
+# Cases Age [5-14]: Male,2020-07-24 08:12:43 PM,DC,154.0
+# Cases Age [55-64]: Female,2020-07-24 08:12:43 PM,DC,830.0
+# Cases Age [55-64]: Male,2020-07-24 08:12:43 PM,DC,940.0
+# Cases Age [65-74]: Female,2020-07-24 08:12:43 PM,DC,530.0
+# Cases Age [65-74]: Male,2020-07-24 08:12:43 PM,DC,586.0
+# Cases Age [75+]: Female,2020-07-24 08:12:43 PM,DC,572.0
+# Cases Age [75+]: Male,2020-07-24 08:12:43 PM,DC,416.0
+# Cases Age [0-4]: Female,2020-07-25 08:09:46 PM,DC,72.0
+# Cases Age [0-4]: Male,2020-07-25 08:09:46 PM,DC,89.0
+# Cases Age [15-19]: Female,2020-07-25 08:09:46 PM,DC,162.0
+# Cases Age [15-19]: Male,2020-07-25 08:09:46 PM,DC,122.0
+# Cases Age [20-24]: Female,2020-07-25 08:09:46 PM,DC,446.0
+# Cases Age [20-24]: Male,2020-07-25 08:09:46 PM,DC,322.0
+# Cases Age [25-34]: Female,2020-07-25 08:09:46 PM,DC,1243.0
+# Cases Age [25-34]: Male,2020-07-25 08:09:46 PM,DC,1169.0
+# Cases Age [35-44]: Female,2020-07-25 08:09:46 PM,DC,1032.0
+# Cases Age [35-44]: Male,2020-07-25 08:09:46 PM,DC,1066.0
+# Cases Age [45-54]: Female,2020-07-25 08:09:46 PM,DC,835.0
+# Cases Age [45-54]: Male,2020-07-25 08:09:46 PM,DC,910.0
+# Cases Age [5-14]: Female,2020-07-25 08:09:46 PM,DC,161.0
+# Cases Age [5-14]: Male,2020-07-25 08:09:46 PM,DC,155.0
+# Cases Age [55-64]: Female,2020-07-25 08:09:46 PM,DC,832.0
+# Cases Age [55-64]: Male,2020-07-25 08:09:46 PM,DC,941.0
+# Cases Age [65-74]: Female,2020-07-25 08:09:46 PM,DC,533.0
+# Cases Age [65-74]: Male,2020-07-25 08:09:46 PM,DC,587.0
+# Cases Age [75+]: Female,2020-07-25 08:09:46 PM,DC,574.0
+# Cases Age [75+]: Male,2020-07-25 08:09:46 PM,DC,417.0
+# Cases Age [0-4]: Female,2020-07-26 08:11:28 PM,DC,75.0
+# Cases Age [0-4]: Male,2020-07-26 08:11:28 PM,DC,90.0
+# Cases Age [15-19]: Female,2020-07-26 08:11:28 PM,DC,163.0
+# Cases Age [15-19]: Male,2020-07-26 08:11:28 PM,DC,125.0
+# Cases Age [20-24]: Female,2020-07-26 08:11:28 PM,DC,448.0
+# Cases Age [20-24]: Male,2020-07-26 08:11:28 PM,DC,323.0
+# Cases Age [25-34]: Female,2020-07-26 08:11:28 PM,DC,1251.0
+# Cases Age [25-34]: Male,2020-07-26 08:11:28 PM,DC,1179.0
+# Cases Age [35-44]: Female,2020-07-26 08:11:28 PM,DC,1041.0
+# Cases Age [35-44]: Male,2020-07-26 08:11:28 PM,DC,1070.0
+# Cases Age [45-54]: Female,2020-07-26 08:11:28 PM,DC,837.0
+# Cases Age [45-54]: Male,2020-07-26 08:11:28 PM,DC,912.0
+# Cases Age [5-14]: Female,2020-07-26 08:11:28 PM,DC,161.0
+# Cases Age [5-14]: Male,2020-07-26 08:11:28 PM,DC,155.0
+# Cases Age [55-64]: Female,2020-07-26 08:11:28 PM,DC,832.0
+# Cases Age [55-64]: Male,2020-07-26 08:11:28 PM,DC,943.0
+# Cases Age [65-74]: Female,2020-07-26 08:11:28 PM,DC,534.0
+# Cases Age [65-74]: Male,2020-07-26 08:11:28 PM,DC,590.0
+# Cases Age [75+]: Female,2020-07-26 08:11:28 PM,DC,574.0
+# Cases Age [75+]: Male,2020-07-26 08:11:28 PM,DC,419.0
+# Cases Age [0-4]: Female,2020-07-27 08:03:55 PM,DC,76.0
+# Cases Age [0-4]: Male,2020-07-27 08:03:55 PM,DC,91.0
+# Cases Age [15-19]: Female,2020-07-27 08:03:55 PM,DC,167.0
+# Cases Age [15-19]: Male,2020-07-27 08:03:55 PM,DC,126.0
+# Cases Age [20-24]: Female,2020-07-27 08:03:55 PM,DC,457.0
+# Cases Age [20-24]: Male,2020-07-27 08:03:55 PM,DC,327.0
+# Cases Age [25-34]: Female,2020-07-27 08:03:55 PM,DC,1261.0
+# Cases Age [25-34]: Male,2020-07-27 08:03:55 PM,DC,1193.0
+# Cases Age [35-44]: Female,2020-07-27 08:03:55 PM,DC,1045.0
+# Cases Age [35-44]: Male,2020-07-27 08:03:55 PM,DC,1075.0
+# Cases Age [45-54]: Female,2020-07-27 08:03:55 PM,DC,846.0
+# Cases Age [45-54]: Male,2020-07-27 08:03:55 PM,DC,919.0
+# Cases Age [5-14]: Female,2020-07-27 08:03:55 PM,DC,161.0
+# Cases Age [5-14]: Male,2020-07-27 08:03:55 PM,DC,156.0
+# Cases Age [55-64]: Female,2020-07-27 08:03:55 PM,DC,835.0
+# Cases Age [55-64]: Male,2020-07-27 08:03:55 PM,DC,944.0
+# Cases Age [65-74]: Female,2020-07-27 08:03:55 PM,DC,537.0
+# Cases Age [65-74]: Male,2020-07-27 08:03:55 PM,DC,590.0
+# Cases Age [75+]: Female,2020-07-27 08:03:55 PM,DC,574.0
+# Cases Age [75+]: Male,2020-07-27 08:03:55 PM,DC,420.0
+# Cases Age [0-4]: Female,2020-07-28 08:08:39 PM,DC,77.0
+# Cases Age [0-4]: Male,2020-07-28 08:08:39 PM,DC,91.0
+# Cases Age [15-19]: Female,2020-07-28 08:08:39 PM,DC,167.0
+# Cases Age [15-19]: Male,2020-07-28 08:08:39 PM,DC,128.0
+# Cases Age [20-24]: Female,2020-07-28 08:08:39 PM,DC,462.0
+# Cases Age [20-24]: Male,2020-07-28 08:08:39 PM,DC,330.0
+# Cases Age [25-34]: Female,2020-07-28 08:08:39 PM,DC,1281.0
+# Cases Age [25-34]: Male,2020-07-28 08:08:39 PM,DC,1205.0
+# Cases Age [35-44]: Female,2020-07-28 08:08:39 PM,DC,1050.0
+# Cases Age [35-44]: Male,2020-07-28 08:08:39 PM,DC,1087.0
+# Cases Age [45-54]: Female,2020-07-28 08:08:39 PM,DC,854.0
+# Cases Age [45-54]: Male,2020-07-28 08:08:39 PM,DC,926.0
+# Cases Age [5-14]: Female,2020-07-28 08:08:39 PM,DC,162.0
+# Cases Age [5-14]: Male,2020-07-28 08:08:39 PM,DC,157.0
+# Cases Age [55-64]: Female,2020-07-28 08:08:39 PM,DC,838.0
+# Cases Age [55-64]: Male,2020-07-28 08:08:39 PM,DC,949.0
+# Cases Age [65-74]: Female,2020-07-28 08:08:39 PM,DC,539.0
+# Cases Age [65-74]: Male,2020-07-28 08:08:39 PM,DC,592.0
+# Cases Age [75+]: Female,2020-07-28 08:08:39 PM,DC,573.0
+# Cases Age [75+]: Male,2020-07-28 08:08:39 PM,DC,420.0
+# Cases Age [0-4]: Female,2020-07-29 08:18:22 PM,DC,78.0
+# Cases Age [0-4]: Male,2020-07-29 08:18:22 PM,DC,93.0
+# Cases Age [15-19]: Female,2020-07-29 08:18:22 PM,DC,169.0
+# Cases Age [15-19]: Male,2020-07-29 08:18:22 PM,DC,130.0
+# Cases Age [20-24]: Female,2020-07-29 08:18:22 PM,DC,467.0
+# Cases Age [20-24]: Male,2020-07-29 08:18:22 PM,DC,331.0
+# Cases Age [25-34]: Female,2020-07-29 08:18:22 PM,DC,1288.0
+# Cases Age [25-34]: Male,2020-07-29 08:18:22 PM,DC,1211.0
+# Cases Age [35-44]: Female,2020-07-29 08:18:22 PM,DC,1054.0
+# Cases Age [35-44]: Male,2020-07-29 08:18:22 PM,DC,1090.0
+# Cases Age [45-54]: Female,2020-07-29 08:18:22 PM,DC,857.0
+# Cases Age [45-54]: Male,2020-07-29 08:18:22 PM,DC,928.0
+# Cases Age [5-14]: Female,2020-07-29 08:18:22 PM,DC,164.0
+# Cases Age [5-14]: Male,2020-07-29 08:18:22 PM,DC,159.0
+# Cases Age [55-64]: Female,2020-07-29 08:18:22 PM,DC,839.0
+# Cases Age [55-64]: Male,2020-07-29 08:18:22 PM,DC,953.0
+# Cases Age [65-74]: Female,2020-07-29 08:18:22 PM,DC,541.0
+# Cases Age [65-74]: Male,2020-07-29 08:18:22 PM,DC,595.0
+# Cases Age [75+]: Female,2020-07-29 08:18:22 PM,DC,574.0
+# Cases Age [75+]: Male,2020-07-29 08:18:22 PM,DC,421.0
+# Cases Age [0-4]: Female,2020-07-30 08:37:51 PM,DC,78.0
+# Cases Age [0-4]: Male,2020-07-30 08:37:51 PM,DC,93.0
+# Cases Age [15-19]: Female,2020-07-30 08:37:51 PM,DC,172.0
+# Cases Age [15-19]: Male,2020-07-30 08:37:51 PM,DC,132.0
+# Cases Age [20-24]: Female,2020-07-30 08:37:51 PM,DC,471.0
+# Cases Age [20-24]: Male,2020-07-30 08:37:51 PM,DC,336.0
+# Cases Age [25-34]: Female,2020-07-30 08:37:51 PM,DC,1293.0
+# Cases Age [25-34]: Male,2020-07-30 08:37:51 PM,DC,1221.0
+# Cases Age [35-44]: Female,2020-07-30 08:37:51 PM,DC,1056.0
+# Cases Age [35-44]: Male,2020-07-30 08:37:51 PM,DC,1096.0
+# Cases Age [45-54]: Female,2020-07-30 08:37:51 PM,DC,862.0
+# Cases Age [45-54]: Male,2020-07-30 08:37:51 PM,DC,935.0
+# Cases Age [5-14]: Female,2020-07-30 08:37:51 PM,DC,167.0
+# Cases Age [5-14]: Male,2020-07-30 08:37:51 PM,DC,159.0
+# Cases Age [55-64]: Female,2020-07-30 08:37:51 PM,DC,840.0
+# Cases Age [55-64]: Male,2020-07-30 08:37:51 PM,DC,955.0
+# Cases Age [65-74]: Female,2020-07-30 08:37:51 PM,DC,542.0
+# Cases Age [65-74]: Male,2020-07-30 08:37:51 PM,DC,596.0
+# Cases Age [75+]: Female,2020-07-30 08:37:51 PM,DC,575.0
+# Cases Age [75+]: Male,2020-07-30 08:37:51 PM,DC,421.0
+# Cases Age [0-4]: Female,2020-07-31 08:05:16 PM,DC,79.0
+# Cases Age [0-4]: Male,2020-07-31 08:05:16 PM,DC,93.0
+# Cases Age [15-19]: Female,2020-07-31 08:05:16 PM,DC,174.0
+# Cases Age [15-19]: Male,2020-07-31 08:05:16 PM,DC,134.0
+# Cases Age [20-24]: Female,2020-07-31 08:05:16 PM,DC,474.0
+# Cases Age [20-24]: Male,2020-07-31 08:05:16 PM,DC,342.0
+# Cases Age [25-34]: Female,2020-07-31 08:05:16 PM,DC,1306.0
+# Cases Age [25-34]: Male,2020-07-31 08:05:16 PM,DC,1233.0
+# Cases Age [35-44]: Female,2020-07-31 08:05:16 PM,DC,1060.0
+# Cases Age [35-44]: Male,2020-07-31 08:05:16 PM,DC,1099.0
+# Cases Age [45-54]: Female,2020-07-31 08:05:16 PM,DC,866.0
+# Cases Age [45-54]: Male,2020-07-31 08:05:16 PM,DC,942.0
+# Cases Age [5-14]: Female,2020-07-31 08:05:16 PM,DC,168.0
+# Cases Age [5-14]: Male,2020-07-31 08:05:16 PM,DC,159.0
+# Cases Age [55-64]: Female,2020-07-31 08:05:16 PM,DC,843.0
+# Cases Age [55-64]: Male,2020-07-31 08:05:16 PM,DC,956.0
+# Cases Age [65-74]: Female,2020-07-31 08:05:16 PM,DC,544.0
+# Cases Age [65-74]: Male,2020-07-31 08:05:16 PM,DC,600.0
+# Cases Age [75+]: Female,2020-07-31 08:05:16 PM,DC,576.0
+# Cases Age [75+]: Male,2020-07-31 08:05:16 PM,DC,421.0
+# Cases Age [0-4]: Female,2020-08-02 08:24:30 PM,DC,80.0
+# Cases Age [0-4]: Male,2020-08-02 08:24:30 PM,DC,96.0
+# Cases Age [15-19]: Female,2020-08-02 08:24:30 PM,DC,176.0
+# Cases Age [15-19]: Male,2020-08-02 08:24:30 PM,DC,139.0
+# Cases Age [20-24]: Female,2020-08-02 08:24:30 PM,DC,489.0
+# Cases Age [20-24]: Male,2020-08-02 08:24:30 PM,DC,345.0
+# Cases Age [25-34]: Female,2020-08-02 08:24:30 PM,DC,1334.0
+# Cases Age [25-34]: Male,2020-08-02 08:24:30 PM,DC,1254.0
+# Cases Age [35-44]: Female,2020-08-02 08:24:30 PM,DC,1070.0
+# Cases Age [35-44]: Male,2020-08-02 08:24:30 PM,DC,1108.0
+# Cases Age [45-54]: Female,2020-08-02 08:24:30 PM,DC,875.0
+# Cases Age [45-54]: Male,2020-08-02 08:24:30 PM,DC,958.0
+# Cases Age [5-14]: Female,2020-08-02 08:24:30 PM,DC,167.0
+# Cases Age [5-14]: Male,2020-08-02 08:24:30 PM,DC,163.0
+# Cases Age [55-64]: Female,2020-08-02 08:24:30 PM,DC,851.0
+# Cases Age [55-64]: Male,2020-08-02 08:24:30 PM,DC,959.0
+# Cases Age [65-74]: Female,2020-08-02 08:24:30 PM,DC,549.0
+# Cases Age [65-74]: Male,2020-08-02 08:24:30 PM,DC,605.0
+# Cases Age [75+]: Female,2020-08-02 08:24:30 PM,DC,576.0
+# Cases Age [75+]: Male,2020-08-02 08:24:30 PM,DC,423.0
+# Cases Age [0-4]: Female,2020-08-03 08:14:26 PM,DC,80.0
+# Cases Age [0-4]: Male,2020-08-03 08:14:26 PM,DC,96.0
+# Cases Age [15-19]: Female,2020-08-03 08:14:26 PM,DC,177.0
+# Cases Age [15-19]: Male,2020-08-03 08:14:26 PM,DC,141.0
+# Cases Age [20-24]: Female,2020-08-03 08:14:26 PM,DC,492.0
+# Cases Age [20-24]: Male,2020-08-03 08:14:26 PM,DC,347.0
+# Cases Age [25-34]: Female,2020-08-03 08:14:26 PM,DC,1336.0
+# Cases Age [25-34]: Male,2020-08-03 08:14:26 PM,DC,1261.0
+# Cases Age [35-44]: Female,2020-08-03 08:14:26 PM,DC,1074.0
+# Cases Age [35-44]: Male,2020-08-03 08:14:26 PM,DC,1113.0
+# Cases Age [45-54]: Female,2020-08-03 08:14:26 PM,DC,878.0
+# Cases Age [45-54]: Male,2020-08-03 08:14:26 PM,DC,959.0
+# Cases Age [5-14]: Female,2020-08-03 08:14:26 PM,DC,167.0
+# Cases Age [5-14]: Male,2020-08-03 08:14:26 PM,DC,163.0
+# Cases Age [55-64]: Female,2020-08-03 08:14:26 PM,DC,853.0
+# Cases Age [55-64]: Male,2020-08-03 08:14:26 PM,DC,959.0
+# Cases Age [65-74]: Female,2020-08-03 08:14:26 PM,DC,549.0
+# Cases Age [65-74]: Male,2020-08-03 08:14:26 PM,DC,608.0
+# Cases Age [75+]: Female,2020-08-03 08:14:26 PM,DC,580.0
+# Cases Age [75+]: Male,2020-08-03 08:14:26 PM,DC,423.0
+# Cases Age [0-4]: Female,2020-08-04 08:00:40 PM,DC,83.0
+# Cases Age [0-4]: Male,2020-08-04 08:00:40 PM,DC,96.0
+# Cases Age [15-19]: Female,2020-08-04 08:00:40 PM,DC,177.0
+# Cases Age [15-19]: Male,2020-08-04 08:00:40 PM,DC,146.0
+# Cases Age [20-24]: Female,2020-08-04 08:00:40 PM,DC,497.0
+# Cases Age [20-24]: Male,2020-08-04 08:00:40 PM,DC,350.0
+# Cases Age [25-34]: Female,2020-08-04 08:00:40 PM,DC,1344.0
+# Cases Age [25-34]: Male,2020-08-04 08:00:40 PM,DC,1266.0
+# Cases Age [35-44]: Female,2020-08-04 08:00:40 PM,DC,1081.0
+# Cases Age [35-44]: Male,2020-08-04 08:00:40 PM,DC,1120.0
+# Cases Age [45-54]: Female,2020-08-04 08:00:40 PM,DC,886.0
+# Cases Age [45-54]: Male,2020-08-04 08:00:40 PM,DC,968.0
+# Cases Age [5-14]: Female,2020-08-04 08:00:40 PM,DC,169.0
+# Cases Age [5-14]: Male,2020-08-04 08:00:40 PM,DC,164.0
+# Cases Age [55-64]: Female,2020-08-04 08:00:40 PM,DC,854.0
+# Cases Age [55-64]: Male,2020-08-04 08:00:40 PM,DC,964.0
+# Cases Age [65-74]: Female,2020-08-04 08:00:40 PM,DC,559.0
+# Cases Age [65-74]: Male,2020-08-04 08:00:40 PM,DC,610.0
+# Cases Age [75+]: Female,2020-08-04 08:00:40 PM,DC,581.0
+# Cases Age [75+]: Male,2020-08-04 08:00:40 PM,DC,425.0
+# Cases Age [0-4]: Female,2020-08-05 08:06:02 PM,DC,84.0
+# Cases Age [0-4]: Male,2020-08-05 08:06:02 PM,DC,99.0
+# Cases Age [15-19]: Female,2020-08-05 08:06:02 PM,DC,177.0
+# Cases Age [15-19]: Male,2020-08-05 08:06:02 PM,DC,147.0
+# Cases Age [20-24]: Female,2020-08-05 08:06:02 PM,DC,498.0
+# Cases Age [20-24]: Male,2020-08-05 08:06:02 PM,DC,352.0
+# Cases Age [25-34]: Female,2020-08-05 08:06:02 PM,DC,1353.0
+# Cases Age [25-34]: Male,2020-08-05 08:06:02 PM,DC,1270.0
+# Cases Age [35-44]: Female,2020-08-05 08:06:02 PM,DC,1087.0
+# Cases Age [35-44]: Male,2020-08-05 08:06:02 PM,DC,1123.0
+# Cases Age [45-54]: Female,2020-08-05 08:06:02 PM,DC,890.0
+# Cases Age [45-54]: Male,2020-08-05 08:06:02 PM,DC,969.0
+# Cases Age [5-14]: Female,2020-08-05 08:06:02 PM,DC,171.0
+# Cases Age [5-14]: Male,2020-08-05 08:06:02 PM,DC,165.0
+# Cases Age [55-64]: Female,2020-08-05 08:06:02 PM,DC,855.0
+# Cases Age [55-64]: Male,2020-08-05 08:06:02 PM,DC,966.0
+# Cases Age [65-74]: Female,2020-08-05 08:06:02 PM,DC,560.0
+# Cases Age [65-74]: Male,2020-08-05 08:06:02 PM,DC,611.0
+# Cases Age [75+]: Female,2020-08-05 08:06:02 PM,DC,582.0
+# Cases Age [75+]: Male,2020-08-05 08:06:02 PM,DC,426.0
+# Cases Age [0-4]: Female,2020-08-06 08:01:27 PM,DC,84.0
+# Cases Age [0-4]: Male,2020-08-06 08:01:27 PM,DC,100.0
+# Cases Age [15-19]: Female,2020-08-06 08:01:27 PM,DC,178.0
+# Cases Age [15-19]: Male,2020-08-06 08:01:27 PM,DC,149.0
+# Cases Age [20-24]: Female,2020-08-06 08:01:27 PM,DC,505.0
+# Cases Age [20-24]: Male,2020-08-06 08:01:27 PM,DC,356.0
+# Cases Age [25-34]: Female,2020-08-06 08:01:27 PM,DC,1359.0
+# Cases Age [25-34]: Male,2020-08-06 08:01:27 PM,DC,1280.0
+# Cases Age [35-44]: Female,2020-08-06 08:01:27 PM,DC,1089.0
+# Cases Age [35-44]: Male,2020-08-06 08:01:27 PM,DC,1128.0
+# Cases Age [45-54]: Female,2020-08-06 08:01:27 PM,DC,895.0
+# Cases Age [45-54]: Male,2020-08-06 08:01:27 PM,DC,972.0
+# Cases Age [5-14]: Female,2020-08-06 08:01:27 PM,DC,175.0
+# Cases Age [5-14]: Male,2020-08-06 08:01:27 PM,DC,167.0
+# Cases Age [55-64]: Female,2020-08-06 08:01:27 PM,DC,860.0
+# Cases Age [55-64]: Male,2020-08-06 08:01:27 PM,DC,968.0
+# Cases Age [65-74]: Female,2020-08-06 08:01:27 PM,DC,565.0
+# Cases Age [65-74]: Male,2020-08-06 08:01:27 PM,DC,613.0
+# Cases Age [75+]: Female,2020-08-06 08:01:27 PM,DC,587.0
+# Cases Age [75+]: Male,2020-08-06 08:01:27 PM,DC,426.0
+# Cases Age [0-4]: Female,2020-08-07 08:03:31 PM,DC,85.0
+# Cases Age [0-4]: Male,2020-08-07 08:03:31 PM,DC,101.0
+# Cases Age [15-19]: Female,2020-08-07 08:03:31 PM,DC,180.0
+# Cases Age [15-19]: Male,2020-08-07 08:03:31 PM,DC,150.0
+# Cases Age [20-24]: Female,2020-08-07 08:03:31 PM,DC,508.0
+# Cases Age [20-24]: Male,2020-08-07 08:03:31 PM,DC,359.0
+# Cases Age [25-34]: Female,2020-08-07 08:03:31 PM,DC,1371.0
+# Cases Age [25-34]: Male,2020-08-07 08:03:31 PM,DC,1293.0
+# Cases Age [35-44]: Female,2020-08-07 08:03:31 PM,DC,1094.0
+# Cases Age [35-44]: Male,2020-08-07 08:03:31 PM,DC,1135.0
+# Cases Age [45-54]: Female,2020-08-07 08:03:31 PM,DC,902.0
+# Cases Age [45-54]: Male,2020-08-07 08:03:31 PM,DC,978.0
+# Cases Age [5-14]: Female,2020-08-07 08:03:31 PM,DC,176.0
+# Cases Age [5-14]: Male,2020-08-07 08:03:31 PM,DC,167.0
+# Cases Age [55-64]: Female,2020-08-07 08:03:31 PM,DC,861.0
+# Cases Age [55-64]: Male,2020-08-07 08:03:31 PM,DC,971.0
+# Cases Age [65-74]: Female,2020-08-07 08:03:31 PM,DC,568.0
+# Cases Age [65-74]: Male,2020-08-07 08:03:31 PM,DC,614.0
+# Cases Age [75+]: Female,2020-08-07 08:03:31 PM,DC,588.0
+# Cases Age [75+]: Male,2020-08-07 08:03:31 PM,DC,426.0
+# Cases Age [0-4]: Female,2020-08-08 08:01:04 PM,DC,87.0
+# Cases Age [0-4]: Male,2020-08-08 08:01:04 PM,DC,102.0
+# Cases Age [15-19]: Female,2020-08-08 08:01:04 PM,DC,181.0
+# Cases Age [15-19]: Male,2020-08-08 08:01:04 PM,DC,151.0
+# Cases Age [20-24]: Female,2020-08-08 08:01:04 PM,DC,511.0
+# Cases Age [20-24]: Male,2020-08-08 08:01:04 PM,DC,362.0
+# Cases Age [25-34]: Female,2020-08-08 08:01:04 PM,DC,1377.0
+# Cases Age [25-34]: Male,2020-08-08 08:01:04 PM,DC,1299.0
+# Cases Age [35-44]: Female,2020-08-08 08:01:04 PM,DC,1097.0
+# Cases Age [35-44]: Male,2020-08-08 08:01:04 PM,DC,1139.0
+# Cases Age [45-54]: Female,2020-08-08 08:01:04 PM,DC,907.0
+# Cases Age [45-54]: Male,2020-08-08 08:01:04 PM,DC,987.0
+# Cases Age [5-14]: Female,2020-08-08 08:01:04 PM,DC,180.0
+# Cases Age [5-14]: Male,2020-08-08 08:01:04 PM,DC,169.0
+# Cases Age [55-64]: Female,2020-08-08 08:01:04 PM,DC,867.0
+# Cases Age [55-64]: Male,2020-08-08 08:01:04 PM,DC,973.0
+# Cases Age [65-74]: Female,2020-08-08 08:01:04 PM,DC,569.0
+# Cases Age [65-74]: Male,2020-08-08 08:01:04 PM,DC,615.0
+# Cases Age [75+]: Female,2020-08-08 08:01:04 PM,DC,591.0
+# Cases Age [75+]: Male,2020-08-08 08:01:04 PM,DC,426.0
+# Cases Age [0-4]: Female,2020-08-09 08:06:22 PM,DC,89.0
+# Cases Age [0-4]: Male,2020-08-09 08:06:22 PM,DC,105.0
+# Cases Age [15-19]: Female,2020-08-09 08:06:22 PM,DC,186.0
+# Cases Age [15-19]: Male,2020-08-09 08:06:22 PM,DC,153.0
+# Cases Age [20-24]: Female,2020-08-09 08:06:22 PM,DC,517.0
+# Cases Age [20-24]: Male,2020-08-09 08:06:22 PM,DC,369.0
+# Cases Age [25-34]: Female,2020-08-09 08:06:22 PM,DC,1390.0
+# Cases Age [25-34]: Male,2020-08-09 08:06:22 PM,DC,1310.0
+# Cases Age [35-44]: Female,2020-08-09 08:06:22 PM,DC,1110.0
+# Cases Age [35-44]: Male,2020-08-09 08:06:22 PM,DC,1145.0
+# Cases Age [45-54]: Female,2020-08-09 08:06:22 PM,DC,913.0
+# Cases Age [45-54]: Male,2020-08-09 08:06:22 PM,DC,987.0
+# Cases Age [5-14]: Female,2020-08-09 08:06:22 PM,DC,188.0
+# Cases Age [5-14]: Male,2020-08-09 08:06:22 PM,DC,175.0
+# Cases Age [55-64]: Female,2020-08-09 08:06:22 PM,DC,872.0
+# Cases Age [55-64]: Male,2020-08-09 08:06:22 PM,DC,976.0
+# Cases Age [65-74]: Female,2020-08-09 08:06:22 PM,DC,569.0
+# Cases Age [65-74]: Male,2020-08-09 08:06:22 PM,DC,616.0
+# Cases Age [75+]: Female,2020-08-09 08:06:22 PM,DC,592.0
+# Cases Age [75+]: Male,2020-08-09 08:06:22 PM,DC,428.0
+# Cases Age [0-4]: Female,2020-08-10 08:02:50 PM,DC,89.0
+# Cases Age [0-4]: Male,2020-08-10 08:02:50 PM,DC,106.0
+# Cases Age [15-19]: Female,2020-08-10 08:02:50 PM,DC,188.0
+# Cases Age [15-19]: Male,2020-08-10 08:02:50 PM,DC,153.0
+# Cases Age [20-24]: Female,2020-08-10 08:02:50 PM,DC,518.0
+# Cases Age [20-24]: Male,2020-08-10 08:02:50 PM,DC,373.0
+# Cases Age [25-34]: Female,2020-08-10 08:02:50 PM,DC,1399.0
+# Cases Age [25-34]: Male,2020-08-10 08:02:50 PM,DC,1312.0
+# Cases Age [35-44]: Female,2020-08-10 08:02:50 PM,DC,1116.0
+# Cases Age [35-44]: Male,2020-08-10 08:02:50 PM,DC,1148.0
+# Cases Age [45-54]: Female,2020-08-10 08:02:50 PM,DC,919.0
+# Cases Age [45-54]: Male,2020-08-10 08:02:50 PM,DC,991.0
+# Cases Age [5-14]: Female,2020-08-10 08:02:50 PM,DC,190.0
+# Cases Age [5-14]: Male,2020-08-10 08:02:50 PM,DC,177.0
+# Cases Age [55-64]: Female,2020-08-10 08:02:50 PM,DC,876.0
+# Cases Age [55-64]: Male,2020-08-10 08:02:50 PM,DC,977.0
+# Cases Age [65-74]: Female,2020-08-10 08:02:50 PM,DC,570.0
+# Cases Age [65-74]: Male,2020-08-10 08:02:50 PM,DC,617.0
+# Cases Age [75+]: Female,2020-08-10 08:02:50 PM,DC,594.0
+# Cases Age [75+]: Male,2020-08-10 08:02:50 PM,DC,429.0
+# Cases Age [0-4]: Female,2020-08-11 08:02:44 PM,DC,89.0
+# Cases Age [0-4]: Male,2020-08-11 08:02:44 PM,DC,109.0
+# Cases Age [15-19]: Female,2020-08-11 08:02:44 PM,DC,189.0
+# Cases Age [15-19]: Male,2020-08-11 08:02:44 PM,DC,154.0
+# Cases Age [20-24]: Female,2020-08-11 08:02:44 PM,DC,522.0
+# Cases Age [20-24]: Male,2020-08-11 08:02:44 PM,DC,375.0
+# Cases Age [25-34]: Female,2020-08-11 08:02:44 PM,DC,1414.0
+# Cases Age [25-34]: Male,2020-08-11 08:02:44 PM,DC,1321.0
+# Cases Age [35-44]: Female,2020-08-11 08:02:44 PM,DC,1121.0
+# Cases Age [35-44]: Male,2020-08-11 08:02:44 PM,DC,1155.0
+# Cases Age [45-54]: Female,2020-08-11 08:02:44 PM,DC,929.0
+# Cases Age [45-54]: Male,2020-08-11 08:02:44 PM,DC,997.0
+# Cases Age [5-14]: Female,2020-08-11 08:02:44 PM,DC,191.0
+# Cases Age [5-14]: Male,2020-08-11 08:02:44 PM,DC,183.0
+# Cases Age [55-64]: Female,2020-08-11 08:02:44 PM,DC,883.0
+# Cases Age [55-64]: Male,2020-08-11 08:02:44 PM,DC,983.0
+# Cases Age [65-74]: Female,2020-08-11 08:02:44 PM,DC,570.0
+# Cases Age [65-74]: Male,2020-08-11 08:02:44 PM,DC,619.0
+# Cases Age [75+]: Female,2020-08-11 08:02:44 PM,DC,599.0
+# Cases Age [75+]: Male,2020-08-11 08:02:44 PM,DC,428.0
+# Cases Age [0-4]: Female,2020-08-12 08:55:47 PM,DC,91.0
+# Cases Age [0-4]: Male,2020-08-12 08:55:47 PM,DC,112.0
+# Cases Age [15-19]: Female,2020-08-12 08:55:47 PM,DC,189.0
+# Cases Age [15-19]: Male,2020-08-12 08:55:47 PM,DC,155.0
+# Cases Age [20-24]: Female,2020-08-12 08:55:47 PM,DC,525.0
+# Cases Age [20-24]: Male,2020-08-12 08:55:47 PM,DC,376.0
+# Cases Age [25-34]: Female,2020-08-12 08:55:47 PM,DC,1421.0
+# Cases Age [25-34]: Male,2020-08-12 08:55:47 PM,DC,1328.0
+# Cases Age [35-44]: Female,2020-08-12 08:55:47 PM,DC,1128.0
+# Cases Age [35-44]: Male,2020-08-12 08:55:47 PM,DC,1162.0
+# Cases Age [45-54]: Female,2020-08-12 08:55:47 PM,DC,934.0
+# Cases Age [45-54]: Male,2020-08-12 08:55:47 PM,DC,1002.0
+# Cases Age [5-14]: Female,2020-08-12 08:55:47 PM,DC,194.0
+# Cases Age [5-14]: Male,2020-08-12 08:55:47 PM,DC,184.0
+# Cases Age [55-64]: Female,2020-08-12 08:55:47 PM,DC,888.0
+# Cases Age [55-64]: Male,2020-08-12 08:55:47 PM,DC,987.0
+# Cases Age [65-74]: Female,2020-08-12 08:55:47 PM,DC,571.0
+# Cases Age [65-74]: Male,2020-08-12 08:55:47 PM,DC,620.0
+# Cases Age [75+]: Female,2020-08-12 08:55:47 PM,DC,601.0
+# Cases Age [75+]: Male,2020-08-12 08:55:47 PM,DC,428.0
+# Cases Age [0-4]: Female,2020-08-13 08:26:32 PM,DC,93.0
+# Cases Age [0-4]: Male,2020-08-13 08:26:32 PM,DC,112.0
+# Cases Age [15-19]: Female,2020-08-13 08:26:32 PM,DC,189.0
+# Cases Age [15-19]: Male,2020-08-13 08:26:32 PM,DC,155.0
+# Cases Age [20-24]: Female,2020-08-13 08:26:32 PM,DC,527.0
+# Cases Age [20-24]: Male,2020-08-13 08:26:32 PM,DC,380.0
+# Cases Age [25-34]: Female,2020-08-13 08:26:32 PM,DC,1433.0
+# Cases Age [25-34]: Male,2020-08-13 08:26:32 PM,DC,1345.0
+# Cases Age [35-44]: Female,2020-08-13 08:26:32 PM,DC,1137.0
+# Cases Age [35-44]: Male,2020-08-13 08:26:32 PM,DC,1167.0
+# Cases Age [45-54]: Female,2020-08-13 08:26:32 PM,DC,939.0
+# Cases Age [45-54]: Male,2020-08-13 08:26:32 PM,DC,1001.0
+# Cases Age [5-14]: Female,2020-08-13 08:26:32 PM,DC,195.0
+# Cases Age [5-14]: Male,2020-08-13 08:26:32 PM,DC,185.0
+# Cases Age [55-64]: Female,2020-08-13 08:26:32 PM,DC,889.0
+# Cases Age [55-64]: Male,2020-08-13 08:26:32 PM,DC,988.0
+# Cases Age [65-74]: Female,2020-08-13 08:26:32 PM,DC,573.0
+# Cases Age [65-74]: Male,2020-08-13 08:26:32 PM,DC,621.0
+# Cases Age [75+]: Female,2020-08-13 08:26:32 PM,DC,602.0
+# Cases Age [75+]: Male,2020-08-13 08:26:32 PM,DC,430.0
+# Cases Age [0-4]: Female,2020-08-14 08:04:15 PM,DC,93.0
+# Cases Age [0-4]: Male,2020-08-14 08:04:15 PM,DC,113.0
+# Cases Age [15-19]: Female,2020-08-14 08:04:15 PM,DC,195.0
+# Cases Age [15-19]: Male,2020-08-14 08:04:15 PM,DC,154.0
+# Cases Age [20-24]: Female,2020-08-14 08:04:15 PM,DC,534.0
+# Cases Age [20-24]: Male,2020-08-14 08:04:15 PM,DC,382.0
+# Cases Age [25-34]: Female,2020-08-14 08:04:15 PM,DC,1446.0
+# Cases Age [25-34]: Male,2020-08-14 08:04:15 PM,DC,1362.0
+# Cases Age [35-44]: Female,2020-08-14 08:04:15 PM,DC,1145.0
+# Cases Age [35-44]: Male,2020-08-14 08:04:15 PM,DC,1176.0
+# Cases Age [45-54]: Female,2020-08-14 08:04:15 PM,DC,943.0
+# Cases Age [45-54]: Male,2020-08-14 08:04:15 PM,DC,1007.0
+# Cases Age [5-14]: Female,2020-08-14 08:04:15 PM,DC,198.0
+# Cases Age [5-14]: Male,2020-08-14 08:04:15 PM,DC,187.0
+# Cases Age [55-64]: Female,2020-08-14 08:04:15 PM,DC,894.0
+# Cases Age [55-64]: Male,2020-08-14 08:04:15 PM,DC,991.0
+# Cases Age [65-74]: Female,2020-08-14 08:04:15 PM,DC,575.0
+# Cases Age [65-74]: Male,2020-08-14 08:04:15 PM,DC,623.0
+# Cases Age [75+]: Female,2020-08-14 08:04:15 PM,DC,605.0
+# Cases Age [75+]: Male,2020-08-14 08:04:15 PM,DC,432.0
+# Cases Age [0-4]: Female,2020-08-15 08:05:06 PM,DC,94.0
+# Cases Age [0-4]: Male,2020-08-15 08:05:06 PM,DC,113.0
+# Cases Age [15-19]: Female,2020-08-15 08:05:06 PM,DC,197.0
+# Cases Age [15-19]: Male,2020-08-15 08:05:06 PM,DC,154.0
+# Cases Age [20-24]: Female,2020-08-15 08:05:06 PM,DC,536.0
+# Cases Age [20-24]: Male,2020-08-15 08:05:06 PM,DC,383.0
+# Cases Age [25-34]: Female,2020-08-15 08:05:06 PM,DC,1452.0
+# Cases Age [25-34]: Male,2020-08-15 08:05:06 PM,DC,1370.0
+# Cases Age [35-44]: Female,2020-08-15 08:05:06 PM,DC,1146.0
+# Cases Age [35-44]: Male,2020-08-15 08:05:06 PM,DC,1177.0
+# Cases Age [45-54]: Female,2020-08-15 08:05:06 PM,DC,945.0
+# Cases Age [45-54]: Male,2020-08-15 08:05:06 PM,DC,1011.0
+# Cases Age [5-14]: Female,2020-08-15 08:05:06 PM,DC,198.0
+# Cases Age [5-14]: Male,2020-08-15 08:05:06 PM,DC,188.0
+# Cases Age [55-64]: Female,2020-08-15 08:05:06 PM,DC,897.0
+# Cases Age [55-64]: Male,2020-08-15 08:05:06 PM,DC,992.0
+# Cases Age [65-74]: Female,2020-08-15 08:05:06 PM,DC,576.0
+# Cases Age [65-74]: Male,2020-08-15 08:05:06 PM,DC,625.0
+# Cases Age [75+]: Female,2020-08-15 08:05:06 PM,DC,609.0
+# Cases Age [75+]: Male,2020-08-15 08:05:06 PM,DC,433.0
+# Cases Age [0-4]: Female,2020-08-16 08:13:29 PM,DC,95.0
+# Cases Age [0-4]: Male,2020-08-16 08:13:29 PM,DC,114.0
+# Cases Age [15-19]: Female,2020-08-16 08:13:29 PM,DC,199.0
+# Cases Age [15-19]: Male,2020-08-16 08:13:29 PM,DC,157.0
+# Cases Age [20-24]: Female,2020-08-16 08:13:29 PM,DC,539.0
+# Cases Age [20-24]: Male,2020-08-16 08:13:29 PM,DC,385.0
+# Cases Age [25-34]: Female,2020-08-16 08:13:29 PM,DC,1462.0
+# Cases Age [25-34]: Male,2020-08-16 08:13:29 PM,DC,1378.0
+# Cases Age [35-44]: Female,2020-08-16 08:13:29 PM,DC,1150.0
+# Cases Age [35-44]: Male,2020-08-16 08:13:29 PM,DC,1185.0
+# Cases Age [45-54]: Female,2020-08-16 08:13:29 PM,DC,947.0
+# Cases Age [45-54]: Male,2020-08-16 08:13:29 PM,DC,1013.0
+# Cases Age [5-14]: Female,2020-08-16 08:13:29 PM,DC,199.0
+# Cases Age [5-14]: Male,2020-08-16 08:13:29 PM,DC,191.0
+# Cases Age [55-64]: Female,2020-08-16 08:13:29 PM,DC,899.0
+# Cases Age [55-64]: Male,2020-08-16 08:13:29 PM,DC,996.0
+# Cases Age [65-74]: Female,2020-08-16 08:13:29 PM,DC,579.0
+# Cases Age [65-74]: Male,2020-08-16 08:13:29 PM,DC,627.0
+# Cases Age [75+]: Female,2020-08-16 08:13:29 PM,DC,609.0
+# Cases Age [75+]: Male,2020-08-16 08:13:29 PM,DC,433.0
+# Cases Age [0-4]: Female,2020-08-17 07:48:57 PM,DC,97.0
+# Cases Age [0-4]: Male,2020-08-17 07:48:57 PM,DC,114.0
+# Cases Age [15-19]: Female,2020-08-17 07:48:57 PM,DC,202.0
+# Cases Age [15-19]: Male,2020-08-17 07:48:57 PM,DC,157.0
+# Cases Age [20-24]: Female,2020-08-17 07:48:57 PM,DC,542.0
+# Cases Age [20-24]: Male,2020-08-17 07:48:57 PM,DC,387.0
+# Cases Age [25-34]: Female,2020-08-17 07:48:57 PM,DC,1469.0
+# Cases Age [25-34]: Male,2020-08-17 07:48:57 PM,DC,1382.0
+# Cases Age [35-44]: Female,2020-08-17 07:48:57 PM,DC,1155.0
+# Cases Age [35-44]: Male,2020-08-17 07:48:57 PM,DC,1192.0
+# Cases Age [45-54]: Female,2020-08-17 07:48:57 PM,DC,955.0
+# Cases Age [45-54]: Male,2020-08-17 07:48:57 PM,DC,1015.0
+# Cases Age [5-14]: Female,2020-08-17 07:48:57 PM,DC,200.0
+# Cases Age [5-14]: Male,2020-08-17 07:48:57 PM,DC,191.0
+# Cases Age [55-64]: Female,2020-08-17 07:48:57 PM,DC,899.0
+# Cases Age [55-64]: Male,2020-08-17 07:48:57 PM,DC,1000.0
+# Cases Age [65-74]: Female,2020-08-17 07:48:57 PM,DC,582.0
+# Cases Age [65-74]: Male,2020-08-17 07:48:57 PM,DC,628.0
+# Cases Age [75+]: Female,2020-08-17 07:48:57 PM,DC,610.0
+# Cases Age [75+]: Male,2020-08-17 07:48:57 PM,DC,433.0
+# Cases Age [0-4]: Female,2020-08-18 07:53:47 PM,DC,98.0
+# Cases Age [0-4]: Male,2020-08-18 07:53:47 PM,DC,116.0
+# Cases Age [15-19]: Female,2020-08-18 07:53:47 PM,DC,200.0
+# Cases Age [15-19]: Male,2020-08-18 07:53:47 PM,DC,158.0
+# Cases Age [20-24]: Female,2020-08-18 07:53:47 PM,DC,546.0
+# Cases Age [20-24]: Male,2020-08-18 07:53:47 PM,DC,392.0
+# Cases Age [25-34]: Female,2020-08-18 07:53:47 PM,DC,1478.0
+# Cases Age [25-34]: Male,2020-08-18 07:53:47 PM,DC,1379.0
+# Cases Age [35-44]: Female,2020-08-18 07:53:47 PM,DC,1158.0
+# Cases Age [35-44]: Male,2020-08-18 07:53:47 PM,DC,1194.0
+# Cases Age [45-54]: Female,2020-08-18 07:53:47 PM,DC,957.0
+# Cases Age [45-54]: Male,2020-08-18 07:53:47 PM,DC,1020.0
+# Cases Age [5-14]: Female,2020-08-18 07:53:47 PM,DC,202.0
+# Cases Age [5-14]: Male,2020-08-18 07:53:47 PM,DC,195.0
+# Cases Age [55-64]: Female,2020-08-18 07:53:47 PM,DC,904.0
+# Cases Age [55-64]: Male,2020-08-18 07:53:47 PM,DC,1004.0
+# Cases Age [65-74]: Female,2020-08-18 07:53:47 PM,DC,584.0
+# Cases Age [65-74]: Male,2020-08-18 07:53:47 PM,DC,631.0
+# Cases Age [75+]: Female,2020-08-18 07:53:47 PM,DC,611.0
+# Cases Age [75+]: Male,2020-08-18 07:53:47 PM,DC,433.0
+# Cases Age [0-4]: Female,2020-08-19 08:11:03 PM,DC,98.0
+# Cases Age [0-4]: Male,2020-08-19 08:11:03 PM,DC,117.0
+# Cases Age [15-19]: Female,2020-08-19 08:11:03 PM,DC,204.0
+# Cases Age [15-19]: Male,2020-08-19 08:11:03 PM,DC,159.0
+# Cases Age [20-24]: Female,2020-08-19 08:11:03 PM,DC,548.0
+# Cases Age [20-24]: Male,2020-08-19 08:11:03 PM,DC,393.0
+# Cases Age [25-34]: Female,2020-08-19 08:11:03 PM,DC,1485.0
+# Cases Age [25-34]: Male,2020-08-19 08:11:03 PM,DC,1381.0
+# Cases Age [35-44]: Female,2020-08-19 08:11:03 PM,DC,1161.0
+# Cases Age [35-44]: Male,2020-08-19 08:11:03 PM,DC,1195.0
+# Cases Age [45-54]: Female,2020-08-19 08:11:03 PM,DC,959.0
+# Cases Age [45-54]: Male,2020-08-19 08:11:03 PM,DC,1020.0
+# Cases Age [5-14]: Female,2020-08-19 08:11:03 PM,DC,203.0
+# Cases Age [5-14]: Male,2020-08-19 08:11:03 PM,DC,195.0
+# Cases Age [55-64]: Female,2020-08-19 08:11:03 PM,DC,904.0
+# Cases Age [55-64]: Male,2020-08-19 08:11:03 PM,DC,1006.0
+# Cases Age [65-74]: Female,2020-08-19 08:11:03 PM,DC,584.0
+# Cases Age [65-74]: Male,2020-08-19 08:11:03 PM,DC,632.0
+# Cases Age [75+]: Female,2020-08-19 08:11:03 PM,DC,611.0
+# Cases Age [75+]: Male,2020-08-19 08:11:03 PM,DC,433.0
+# Cases Age [0-4]: Female,2020-08-20 08:09:16 PM,DC,98.0
+# Cases Age [0-4]: Male,2020-08-20 08:09:16 PM,DC,117.0
+# Cases Age [15-19]: Female,2020-08-20 08:09:16 PM,DC,204.0
+# Cases Age [15-19]: Male,2020-08-20 08:09:16 PM,DC,159.0
+# Cases Age [20-24]: Female,2020-08-20 08:09:16 PM,DC,550.0
+# Cases Age [20-24]: Male,2020-08-20 08:09:16 PM,DC,398.0
+# Cases Age [25-34]: Female,2020-08-20 08:09:16 PM,DC,1489.0
+# Cases Age [25-34]: Male,2020-08-20 08:09:16 PM,DC,1390.0
+# Cases Age [35-44]: Female,2020-08-20 08:09:16 PM,DC,1165.0
+# Cases Age [35-44]: Male,2020-08-20 08:09:16 PM,DC,1198.0
+# Cases Age [45-54]: Female,2020-08-20 08:09:16 PM,DC,963.0
+# Cases Age [45-54]: Male,2020-08-20 08:09:16 PM,DC,1023.0
+# Cases Age [5-14]: Female,2020-08-20 08:09:16 PM,DC,205.0
+# Cases Age [5-14]: Male,2020-08-20 08:09:16 PM,DC,196.0
+# Cases Age [55-64]: Female,2020-08-20 08:09:16 PM,DC,910.0
+# Cases Age [55-64]: Male,2020-08-20 08:09:16 PM,DC,1013.0
+# Cases Age [65-74]: Female,2020-08-20 08:09:16 PM,DC,585.0
+# Cases Age [65-74]: Male,2020-08-20 08:09:16 PM,DC,634.0
+# Cases Age [75+]: Female,2020-08-20 08:09:16 PM,DC,612.0
+# Cases Age [75+]: Male,2020-08-20 08:09:16 PM,DC,433.0
+# Cases Age [0-4]: Female,2020-08-21 09:57:18 PM,DC,102.0
+# Cases Age [0-4]: Male,2020-08-21 09:57:18 PM,DC,117.0
+# Cases Age [15-19]: Female,2020-08-21 09:57:18 PM,DC,205.0
+# Cases Age [15-19]: Male,2020-08-21 09:57:18 PM,DC,159.0
+# Cases Age [20-24]: Female,2020-08-21 09:57:18 PM,DC,552.0
+# Cases Age [20-24]: Male,2020-08-21 09:57:18 PM,DC,401.0
+# Cases Age [25-34]: Female,2020-08-21 09:57:18 PM,DC,1500.0
+# Cases Age [25-34]: Male,2020-08-21 09:57:18 PM,DC,1398.0
+# Cases Age [35-44]: Female,2020-08-21 09:57:18 PM,DC,1170.0
+# Cases Age [35-44]: Male,2020-08-21 09:57:18 PM,DC,1201.0
+# Cases Age [45-54]: Female,2020-08-21 09:57:18 PM,DC,969.0
+# Cases Age [45-54]: Male,2020-08-21 09:57:18 PM,DC,1025.0
+# Cases Age [5-14]: Female,2020-08-21 09:57:18 PM,DC,206.0
+# Cases Age [5-14]: Male,2020-08-21 09:57:18 PM,DC,196.0
+# Cases Age [55-64]: Female,2020-08-21 09:57:18 PM,DC,916.0
+# Cases Age [55-64]: Male,2020-08-21 09:57:18 PM,DC,1016.0
+# Cases Age [65-74]: Female,2020-08-21 09:57:18 PM,DC,588.0
+# Cases Age [65-74]: Male,2020-08-21 09:57:18 PM,DC,635.0
+# Cases Age [75+]: Female,2020-08-21 09:57:18 PM,DC,612.0
+# Cases Age [75+]: Male,2020-08-21 09:57:18 PM,DC,434.0
+# Cases Age [0-4]: Female,2020-08-22 07:08:29 PM,DC,104.0
+# Cases Age [0-4]: Male,2020-08-22 07:08:29 PM,DC,117.0
+# Cases Age [15-19]: Female,2020-08-22 07:08:29 PM,DC,205.0
+# Cases Age [15-19]: Male,2020-08-22 07:08:29 PM,DC,159.0
+# Cases Age [20-24]: Female,2020-08-22 07:08:29 PM,DC,554.0
+# Cases Age [20-24]: Male,2020-08-22 07:08:29 PM,DC,404.0
+# Cases Age [25-34]: Female,2020-08-22 07:08:29 PM,DC,1519.0
+# Cases Age [25-34]: Male,2020-08-22 07:08:29 PM,DC,1406.0
+# Cases Age [35-44]: Female,2020-08-22 07:08:29 PM,DC,1177.0
+# Cases Age [35-44]: Male,2020-08-22 07:08:29 PM,DC,1205.0
+# Cases Age [45-54]: Female,2020-08-22 07:08:29 PM,DC,972.0
+# Cases Age [45-54]: Male,2020-08-22 07:08:29 PM,DC,1029.0
+# Cases Age [5-14]: Female,2020-08-22 07:08:29 PM,DC,206.0
+# Cases Age [5-14]: Male,2020-08-22 07:08:29 PM,DC,196.0
+# Cases Age [55-64]: Female,2020-08-22 07:08:29 PM,DC,921.0
+# Cases Age [55-64]: Male,2020-08-22 07:08:29 PM,DC,1018.0
+# Cases Age [65-74]: Female,2020-08-22 07:08:29 PM,DC,589.0
+# Cases Age [65-74]: Male,2020-08-22 07:08:29 PM,DC,636.0
+# Cases Age [75+]: Female,2020-08-22 07:08:29 PM,DC,613.0
+# Cases Age [75+]: Male,2020-08-22 07:08:29 PM,DC,434.0
+# Cases Age [0-4]: Female,2020-08-23 08:04:14 PM,DC,105.0
+# Cases Age [0-4]: Male,2020-08-23 08:04:14 PM,DC,119.0
+# Cases Age [15-19]: Female,2020-08-23 08:04:14 PM,DC,206.0
+# Cases Age [15-19]: Male,2020-08-23 08:04:14 PM,DC,160.0
+# Cases Age [20-24]: Female,2020-08-23 08:04:14 PM,DC,557.0
+# Cases Age [20-24]: Male,2020-08-23 08:04:14 PM,DC,405.0
+# Cases Age [25-34]: Female,2020-08-23 08:04:14 PM,DC,1525.0
+# Cases Age [25-34]: Male,2020-08-23 08:04:14 PM,DC,1413.0
+# Cases Age [35-44]: Female,2020-08-23 08:04:14 PM,DC,1182.0
+# Cases Age [35-44]: Male,2020-08-23 08:04:14 PM,DC,1213.0
+# Cases Age [45-54]: Female,2020-08-23 08:04:14 PM,DC,976.0
+# Cases Age [45-54]: Male,2020-08-23 08:04:14 PM,DC,1032.0
+# Cases Age [5-14]: Female,2020-08-23 08:04:14 PM,DC,208.0
+# Cases Age [5-14]: Male,2020-08-23 08:04:14 PM,DC,196.0
+# Cases Age [55-64]: Female,2020-08-23 08:04:14 PM,DC,926.0
+# Cases Age [55-64]: Male,2020-08-23 08:04:14 PM,DC,1020.0
+# Cases Age [65-74]: Female,2020-08-23 08:04:14 PM,DC,590.0
+# Cases Age [65-74]: Male,2020-08-23 08:04:14 PM,DC,638.0
+# Cases Age [75+]: Female,2020-08-23 08:04:14 PM,DC,614.0
+# Cases Age [75+]: Male,2020-08-23 08:04:14 PM,DC,435.0
+# Cases Age [0-18]: Female ,2020-04-03 09:34:16 PM,DC,6
+# Cases Age [19-30]: Female ,2020-04-03 09:34:16 PM,DC,77
+# Cases Age [31-40]: Female ,2020-04-03 09:34:16 PM,DC,78
+# Cases Age [41-50]: Female ,2020-04-03 09:34:16 PM,DC,60
+# Cases Age [51-60]: Female ,2020-04-03 09:34:16 PM,DC,50
+# Cases Age [61-70]: Female ,2020-04-03 09:34:16 PM,DC,46
+# Cases Age [71-80]: Female ,2020-04-03 09:34:16 PM,DC,25
+# Cases Age [81+]: Female ,2020-04-03 09:34:16 PM,DC,9
+# Cases Age [0-18]: Male ,2020-04-03 09:34:16 PM,DC,12
+# Cases Age [19-30]: Male ,2020-04-03 09:34:16 PM,DC,81
+# Cases Age [31-40]: Male ,2020-04-03 09:34:16 PM,DC,109
+# Cases Age [41-50]: Male ,2020-04-03 09:34:16 PM,DC,70
+# Cases Age [51-60]: Male ,2020-04-03 09:34:16 PM,DC,62
+# Cases Age [61-70]: Male ,2020-04-03 09:34:16 PM,DC,49
+# Cases Age [71-80]: Male ,2020-04-03 09:34:16 PM,DC,18
+# Cases Age [81+]: Male ,2020-04-03 09:34:16 PM,DC,5
+# Cases Age [0-18]: Female ,2020-04-04 08:10:00 PM,DC,7
+# Cases Age [19-30]: Female ,2020-04-04 08:10:00 PM,DC,91
+# Cases Age [31-40]: Female ,2020-04-04 08:10:00 PM,DC,100
+# Cases Age [41-50]: Female ,2020-04-04 08:10:00 PM,DC,71
+# Cases Age [51-60]: Female ,2020-04-04 08:10:00 PM,DC,61
+# Cases Age [61-70]: Female ,2020-04-04 08:10:00 PM,DC,59
+# Cases Age [71-80]: Female ,2020-04-04 08:10:00 PM,DC,33
+# Cases Age [81+]: Female ,2020-04-04 08:10:00 PM,DC,11
+# Cases Age [0-18]: Male ,2020-04-04 08:10:00 PM,DC,13
+# Cases Age [19-30]: Male ,2020-04-04 08:10:00 PM,DC,89
+# Cases Age [31-40]: Male ,2020-04-04 08:10:00 PM,DC,128
+# Cases Age [41-50]: Male ,2020-04-04 08:10:00 PM,DC,74
+# Cases Age [51-60]: Male ,2020-04-04 08:10:00 PM,DC,69
+# Cases Age [61-70]: Male ,2020-04-04 08:10:00 PM,DC,63
+# Cases Age [71-80]: Male ,2020-04-04 08:10:00 PM,DC,22
+# Cases Age [81+]: Male ,2020-04-04 08:10:00 PM,DC,9
+# Cases Age [0-18]: Female ,2020-04-05 08:15:20 PM,DC,8
+# Cases Age [19-30]: Female ,2020-04-05 08:15:20 PM,DC,97
+# Cases Age [31-40]: Female ,2020-04-05 08:15:20 PM,DC,109
+# Cases Age [41-50]: Female ,2020-04-05 08:15:20 PM,DC,76
+# Cases Age [51-60]: Female ,2020-04-05 08:15:20 PM,DC,70
+# Cases Age [61-70]: Female ,2020-04-05 08:15:20 PM,DC,69
+# Cases Age [71-80]: Female ,2020-04-05 08:15:20 PM,DC,35
+# Cases Age [81+]: Female ,2020-04-05 08:15:20 PM,DC,16
+# Cases Age [0-18]: Male ,2020-04-05 08:15:20 PM,DC,15
+# Cases Age [19-30]: Male ,2020-04-05 08:15:20 PM,DC,92
+# Cases Age [31-40]: Male ,2020-04-05 08:15:20 PM,DC,131
+# Cases Age [41-50]: Male ,2020-04-05 08:15:20 PM,DC,84
+# Cases Age [51-60]: Male ,2020-04-05 08:15:20 PM,DC,80
+# Cases Age [61-70]: Male ,2020-04-05 08:15:20 PM,DC,74
+# Cases Age [71-80]: Male ,2020-04-05 08:15:20 PM,DC,28
+# Cases Age [81+]: Male ,2020-04-05 08:15:20 PM,DC,9
+# Cases Age [0-18]: Female ,2020-04-06 08:28:52 PM,DC,9
+# Cases Age [19-30]: Female ,2020-04-06 08:28:52 PM,DC,105
+# Cases Age [31-40]: Female ,2020-04-06 08:28:52 PM,DC,119
+# Cases Age [41-50]: Female ,2020-04-06 08:28:52 PM,DC,91
+# Cases Age [51-60]: Female ,2020-04-06 08:28:52 PM,DC,77
+# Cases Age [61-70]: Female ,2020-04-06 08:28:52 PM,DC,78
+# Cases Age [71-80]: Female ,2020-04-06 08:28:52 PM,DC,40
+# Cases Age [81+]: Female ,2020-04-06 08:28:52 PM,DC,18
+# Cases Age [0-18]: Male ,2020-04-06 08:28:52 PM,DC,15
+# Cases Age [19-30]: Male ,2020-04-06 08:28:52 PM,DC,95
+# Cases Age [31-40]: Male ,2020-04-06 08:28:52 PM,DC,146
+# Cases Age [41-50]: Male ,2020-04-06 08:28:52 PM,DC,90
+# Cases Age [51-60]: Male ,2020-04-06 08:28:52 PM,DC,91
+# Cases Age [61-70]: Male ,2020-04-06 08:28:52 PM,DC,79
+# Cases Age [71-80]: Male ,2020-04-06 08:28:52 PM,DC,31
+# Cases Age [81+]: Male ,2020-04-06 08:28:52 PM,DC,10
+# Cases Age [0-18]: Female ,2020-04-08 06:16:54 PM,DC,16
+# Cases Age [0-18]: Male ,2020-04-08 06:16:54 PM,DC,24
+# Cases Age [19-30]: Female ,2020-04-08 06:16:54 PM,DC,133
+# Cases Age [19-30]: Male ,2020-04-08 06:16:54 PM,DC,110
+# Cases Age [31-40]: Female ,2020-04-08 06:16:54 PM,DC,152
+# Cases Age [31-40]: Male ,2020-04-08 06:16:54 PM,DC,183
+# Cases Age [41-50]: Female ,2020-04-08 06:16:54 PM,DC,116
+# Cases Age [41-50]: Male ,2020-04-08 06:16:54 PM,DC,120
+# Cases Age [51-60]: Female ,2020-04-08 06:16:54 PM,DC,101
+# Cases Age [51-60]: Male ,2020-04-08 06:16:54 PM,DC,133
+# Cases Age [61-70]: Female ,2020-04-08 06:16:54 PM,DC,102
+# Cases Age [61-70]: Male ,2020-04-08 06:16:54 PM,DC,109
+# Cases Age [71-80]: Female ,2020-04-08 06:16:54 PM,DC,48
+# Cases Age [71-80]: Male ,2020-04-08 06:16:54 PM,DC,46
+# Cases Age [81+]: Female ,2020-04-08 06:16:54 PM,DC,28
+# Cases Age [81+]: Male ,2020-04-08 06:16:54 PM,DC,16
+# Cases Age [0-18]: Female ,2020-04-09 07:51:40 PM,DC,16
+# Cases Age [0-18]: Male ,2020-04-09 07:51:40 PM,DC,24
+# Cases Age [19-30]: Female ,2020-04-09 07:51:40 PM,DC,142
+# Cases Age [19-30]: Male ,2020-04-09 07:51:40 PM,DC,119
+# Cases Age [31-40]: Female ,2020-04-09 07:51:40 PM,DC,161
+# Cases Age [31-40]: Male ,2020-04-09 07:51:40 PM,DC,186
+# Cases Age [41-50]: Female ,2020-04-09 07:51:40 PM,DC,124
+# Cases Age [41-50]: Male ,2020-04-09 07:51:40 PM,DC,131
+# Cases Age [51-60]: Female ,2020-04-09 07:51:40 PM,DC,108
+# Cases Age [51-60]: Male ,2020-04-09 07:51:40 PM,DC,141
+# Cases Age [61-70]: Female ,2020-04-09 07:51:40 PM,DC,103
+# Cases Age [61-70]: Male ,2020-04-09 07:51:40 PM,DC,112
+# Cases Age [71-80]: Female ,2020-04-09 07:51:40 PM,DC,50
+# Cases Age [71-80]: Male ,2020-04-09 07:51:40 PM,DC,55
+# Cases Age [81+]: Female ,2020-04-09 07:51:40 PM,DC,30
+# Cases Age [81+]: Male ,2020-04-09 07:51:40 PM,DC,19
+# Cases Age [0-18]: Female ,2020-04-10 08:20:49 PM,DC,16
+# Cases Age [0-18]: Male ,2020-04-10 08:20:49 PM,DC,26
+# Cases Age [19-30]: Female ,2020-04-10 08:20:49 PM,DC,153
+# Cases Age [19-30]: Male ,2020-04-10 08:20:49 PM,DC,131
+# Cases Age [31-40]: Female ,2020-04-10 08:20:49 PM,DC,171
+# Cases Age [31-40]: Male ,2020-04-10 08:20:49 PM,DC,194
+# Cases Age [41-50]: Female ,2020-04-10 08:20:49 PM,DC,134
+# Cases Age [41-50]: Male ,2020-04-10 08:20:49 PM,DC,143
+# Cases Age [51-60]: Female ,2020-04-10 08:20:49 PM,DC,114
+# Cases Age [51-60]: Male ,2020-04-10 08:20:49 PM,DC,156
+# Cases Age [61-70]: Female ,2020-04-10 08:20:49 PM,DC,113
+# Cases Age [61-70]: Male ,2020-04-10 08:20:49 PM,DC,122
+# Cases Age [71-80]: Female ,2020-04-10 08:20:49 PM,DC,58
+# Cases Age [71-80]: Male ,2020-04-10 08:20:49 PM,DC,61
+# Cases Age [81+]: Female ,2020-04-10 08:20:49 PM,DC,43
+# Cases Age [81+]: Male ,2020-04-10 08:20:49 PM,DC,22
+# Cases Age [0-18]: Female ,2020-04-11 07:53:26 PM,DC,16
+# Cases Age [0-18]: Male ,2020-04-11 07:53:26 PM,DC,26
+# Cases Age [19-30]: Female ,2020-04-11 07:53:26 PM,DC,164
+# Cases Age [19-30]: Male ,2020-04-11 07:53:26 PM,DC,133
+# Cases Age [31-40]: Female ,2020-04-11 07:53:26 PM,DC,180
+# Cases Age [31-40]: Male ,2020-04-11 07:53:26 PM,DC,208
+# Cases Age [41-50]: Female ,2020-04-11 07:53:26 PM,DC,143
+# Cases Age [41-50]: Male ,2020-04-11 07:53:26 PM,DC,151
+# Cases Age [51-60]: Female ,2020-04-11 07:53:26 PM,DC,126
+# Cases Age [51-60]: Male ,2020-04-11 07:53:26 PM,DC,170
+# Cases Age [61-70]: Female ,2020-04-11 07:53:26 PM,DC,121
+# Cases Age [61-70]: Male ,2020-04-11 07:53:26 PM,DC,136
+# Cases Age [71-80]: Female ,2020-04-11 07:53:26 PM,DC,60
+# Cases Age [71-80]: Male ,2020-04-11 07:53:26 PM,DC,67
+# Cases Age [81+]: Female ,2020-04-11 07:53:26 PM,DC,48
+# Cases Age [81+]: Male ,2020-04-11 07:53:26 PM,DC,26
+# Cases Age [0-18]: Female ,2020-04-12 08:39:20 PM,DC,17
+# Cases Age [0-18]: Male ,2020-04-12 08:39:20 PM,DC,29
+# Cases Age [19-30]: Female ,2020-04-12 08:39:20 PM,DC,174
+# Cases Age [19-30]: Male ,2020-04-12 08:39:20 PM,DC,135
+# Cases Age [31-40]: Female ,2020-04-12 08:39:20 PM,DC,191
+# Cases Age [31-40]: Male ,2020-04-12 08:39:20 PM,DC,222
+# Cases Age [41-50]: Female ,2020-04-12 08:39:20 PM,DC,148
+# Cases Age [41-50]: Male ,2020-04-12 08:39:20 PM,DC,162
+# Cases Age [51-60]: Female ,2020-04-12 08:39:20 PM,DC,131
+# Cases Age [51-60]: Male ,2020-04-12 08:39:20 PM,DC,177
+# Cases Age [61-70]: Female ,2020-04-12 08:39:20 PM,DC,128
+# Cases Age [61-70]: Male ,2020-04-12 08:39:20 PM,DC,144
+# Cases Age [71-80]: Female ,2020-04-12 08:39:20 PM,DC,63
+# Cases Age [71-80]: Male ,2020-04-12 08:39:20 PM,DC,71
+# Cases Age [81+]: Female ,2020-04-12 08:39:20 PM,DC,50
+# Cases Age [81+]: Male ,2020-04-12 08:39:20 PM,DC,27
+# Cases Age [0-18]: Female ,2020-04-13 08:21:49 PM,DC,19
+# Cases Age [0-18]: Male ,2020-04-13 08:21:49 PM,DC,29
+# Cases Age [19-30]: Female ,2020-04-13 08:21:49 PM,DC,182
+# Cases Age [19-30]: Male ,2020-04-13 08:21:49 PM,DC,141
+# Cases Age [31-40]: Female ,2020-04-13 08:21:49 PM,DC,199
+# Cases Age [31-40]: Male ,2020-04-13 08:21:49 PM,DC,224
+# Cases Age [41-50]: Female ,2020-04-13 08:21:49 PM,DC,155
+# Cases Age [41-50]: Male ,2020-04-13 08:21:49 PM,DC,167
+# Cases Age [51-60]: Female ,2020-04-13 08:21:49 PM,DC,136
+# Cases Age [51-60]: Male ,2020-04-13 08:21:49 PM,DC,178
+# Cases Age [61-70]: Female ,2020-04-13 08:21:49 PM,DC,130
+# Cases Age [61-70]: Male ,2020-04-13 08:21:49 PM,DC,152
+# Cases Age [71-80]: Female ,2020-04-13 08:21:49 PM,DC,69
+# Cases Age [71-80]: Male ,2020-04-13 08:21:49 PM,DC,70
+# Cases Age [81+]: Female ,2020-04-13 08:21:49 PM,DC,64
+# Cases Age [81+]: Male ,2020-04-13 08:21:49 PM,DC,35
+# Cases Age [0-18]: Female ,2020-04-14 08:01:29 PM,DC,21
+# Cases Age [0-18]: Male ,2020-04-14 08:01:29 PM,DC,30
+# Cases Age [19-30]: Female ,2020-04-14 08:01:29 PM,DC,193
+# Cases Age [19-30]: Male ,2020-04-14 08:01:29 PM,DC,154
+# Cases Age [31-40]: Female ,2020-04-14 08:01:29 PM,DC,208
+# Cases Age [31-40]: Male ,2020-04-14 08:01:29 PM,DC,232
+# Cases Age [41-50]: Female ,2020-04-14 08:01:29 PM,DC,163
+# Cases Age [41-50]: Male ,2020-04-14 08:01:29 PM,DC,168
+# Cases Age [51-60]: Female ,2020-04-14 08:01:29 PM,DC,147
+# Cases Age [51-60]: Male ,2020-04-14 08:01:29 PM,DC,191
+# Cases Age [61-70]: Female ,2020-04-14 08:01:29 PM,DC,137
+# Cases Age [61-70]: Male ,2020-04-14 08:01:29 PM,DC,157
+# Cases Age [71-80]: Female ,2020-04-14 08:01:29 PM,DC,69
+# Cases Age [71-80]: Male ,2020-04-14 08:01:29 PM,DC,72
+# Cases Age [81+]: Female ,2020-04-14 08:01:29 PM,DC,69
+# Cases Age [81+]: Male ,2020-04-14 08:01:29 PM,DC,38
+# Cases Age [0-18]: Female ,2020-04-15 08:12:36 PM,DC,25
+# Cases Age [0-18]: Male ,2020-04-15 08:12:36 PM,DC,32
+# Cases Age [19-30]: Female ,2020-04-15 08:12:36 PM,DC,198
+# Cases Age [19-30]: Male ,2020-04-15 08:12:36 PM,DC,166
+# Cases Age [31-40]: Female ,2020-04-15 08:12:36 PM,DC,217
+# Cases Age [31-40]: Male ,2020-04-15 08:12:36 PM,DC,246
+# Cases Age [41-50]: Female ,2020-04-15 08:12:36 PM,DC,173
+# Cases Age [41-50]: Male ,2020-04-15 08:12:36 PM,DC,178
+# Cases Age [51-60]: Female ,2020-04-15 08:12:36 PM,DC,159
+# Cases Age [51-60]: Male ,2020-04-15 08:12:36 PM,DC,204
+# Cases Age [61-70]: Female ,2020-04-15 08:12:36 PM,DC,144
+# Cases Age [61-70]: Male ,2020-04-15 08:12:36 PM,DC,172
+# Cases Age [71-80]: Female ,2020-04-15 08:12:36 PM,DC,75
+# Cases Age [71-80]: Male ,2020-04-15 08:12:36 PM,DC,78
+# Cases Age [81+]: Female ,2020-04-15 08:12:36 PM,DC,79
+# Cases Age [81+]: Male ,2020-04-15 08:12:36 PM,DC,42
+# Cases Age [0-18]: Female ,2020-04-16 09:44:47 PM,DC,27
+# Cases Age [0-18]: Male ,2020-04-16 09:44:47 PM,DC,33
+# Cases Age [19-30]: Female ,2020-04-16 09:44:47 PM,DC,212
+# Cases Age [19-30]: Male ,2020-04-16 09:44:47 PM,DC,174
+# Cases Age [31-40]: Female ,2020-04-16 09:44:47 PM,DC,229
+# Cases Age [31-40]: Male ,2020-04-16 09:44:47 PM,DC,256
+# Cases Age [41-50]: Female ,2020-04-16 09:44:47 PM,DC,192
+# Cases Age [41-50]: Male ,2020-04-16 09:44:47 PM,DC,198
+# Cases Age [51-60]: Female ,2020-04-16 09:44:47 PM,DC,172
+# Cases Age [51-60]: Male ,2020-04-16 09:44:47 PM,DC,231
+# Cases Age [61-70]: Female ,2020-04-16 09:44:47 PM,DC,154
+# Cases Age [61-70]: Male ,2020-04-16 09:44:47 PM,DC,185
+# Cases Age [71-80]: Female ,2020-04-16 09:44:47 PM,DC,76
+# Cases Age [71-80]: Male ,2020-04-16 09:44:47 PM,DC,81
+# Cases Age [81+]: Female ,2020-04-16 09:44:47 PM,DC,82
+# Cases Age [81+]: Male ,2020-04-16 09:44:47 PM,DC,42
+# Cases Age [0-18]: Female ,2020-04-17 08:07:15 PM,DC,33
+# Cases Age [0-18]: Male ,2020-04-17 08:07:15 PM,DC,34
+# Cases Age [19-30]: Female ,2020-04-17 08:07:15 PM,DC,218
+# Cases Age [19-30]: Male ,2020-04-17 08:07:15 PM,DC,181
+# Cases Age [31-40]: Female ,2020-04-17 08:07:15 PM,DC,244
+# Cases Age [31-40]: Male ,2020-04-17 08:07:15 PM,DC,266
+# Cases Age [41-50]: Female ,2020-04-17 08:07:15 PM,DC,203
+# Cases Age [41-50]: Male ,2020-04-17 08:07:15 PM,DC,209
+# Cases Age [51-60]: Female ,2020-04-17 08:07:15 PM,DC,180
+# Cases Age [51-60]: Male ,2020-04-17 08:07:15 PM,DC,249
+# Cases Age [61-70]: Female ,2020-04-17 08:07:15 PM,DC,163
+# Cases Age [61-70]: Male ,2020-04-17 08:07:15 PM,DC,198
+# Cases Age [71-80]: Female ,2020-04-17 08:07:15 PM,DC,81
+# Cases Age [71-80]: Male ,2020-04-17 08:07:15 PM,DC,84
+# Cases Age [81+]: Female ,2020-04-17 08:07:15 PM,DC,85
+# Cases Age [81+]: Male ,2020-04-17 08:07:15 PM,DC,43
+# Cases Age [0-18]: Female ,2020-04-18 08:11:18 PM,DC,33
+# Cases Age [0-18]: Male ,2020-04-18 08:11:18 PM,DC,35
+# Cases Age [19-30]: Female ,2020-04-18 08:11:18 PM,DC,238
+# Cases Age [19-30]: Male ,2020-04-18 08:11:18 PM,DC,189
+# Cases Age [31-40]: Female ,2020-04-18 08:11:18 PM,DC,266
+# Cases Age [31-40]: Male ,2020-04-18 08:11:18 PM,DC,278
+# Cases Age [41-50]: Female ,2020-04-18 08:11:18 PM,DC,222
+# Cases Age [41-50]: Male ,2020-04-18 08:11:18 PM,DC,227
+# Cases Age [51-60]: Female ,2020-04-18 08:11:18 PM,DC,202
+# Cases Age [51-60]: Male ,2020-04-18 08:11:18 PM,DC,269
+# Cases Age [61-70]: Female ,2020-04-18 08:11:18 PM,DC,171
+# Cases Age [61-70]: Male ,2020-04-18 08:11:18 PM,DC,214
+# Cases Age [71-80]: Female ,2020-04-18 08:11:18 PM,DC,87
+# Cases Age [71-80]: Male ,2020-04-18 08:11:18 PM,DC,92
+# Cases Age [81+]: Female ,2020-04-18 08:11:18 PM,DC,89
+# Cases Age [81+]: Male ,2020-04-18 08:11:18 PM,DC,49
+# Cases Age [0-18]: Female ,2020-04-19 08:24:47 PM,DC,35
+# Cases Age [0-18]: Male ,2020-04-19 08:24:47 PM,DC,39
+# Cases Age [19-30]: Female ,2020-04-19 08:24:47 PM,DC,246
+# Cases Age [19-30]: Male ,2020-04-19 08:24:47 PM,DC,204
+# Cases Age [31-40]: Female ,2020-04-19 08:24:47 PM,DC,271
+# Cases Age [31-40]: Male ,2020-04-19 08:24:47 PM,DC,289
+# Cases Age [41-50]: Female ,2020-04-19 08:24:47 PM,DC,229
+# Cases Age [41-50]: Male ,2020-04-19 08:24:47 PM,DC,236
+# Cases Age [51-60]: Female ,2020-04-19 08:24:47 PM,DC,212
+# Cases Age [51-60]: Male ,2020-04-19 08:24:47 PM,DC,276
+# Cases Age [61-70]: Female ,2020-04-19 08:24:47 PM,DC,179
+# Cases Age [61-70]: Male ,2020-04-19 08:24:47 PM,DC,222
+# Cases Age [71-80]: Female ,2020-04-19 08:24:47 PM,DC,91
+# Cases Age [71-80]: Male ,2020-04-19 08:24:47 PM,DC,98
+# Cases Age [81+]: Female ,2020-04-19 08:24:47 PM,DC,91
+# Cases Age [81+]: Male ,2020-04-19 08:24:47 PM,DC,51
+# Cases Age [0-18]: Female ,2020-04-20 08:35:26 PM,DC,37
+# Cases Age [0-18]: Male ,2020-04-20 08:35:26 PM,DC,41
+# Cases Age [19-30]: Female ,2020-04-20 08:35:26 PM,DC,267
+# Cases Age [19-30]: Male ,2020-04-20 08:35:26 PM,DC,219
+# Cases Age [31-40]: Female ,2020-04-20 08:35:26 PM,DC,283
+# Cases Age [31-40]: Male ,2020-04-20 08:35:26 PM,DC,295
+# Cases Age [41-50]: Female ,2020-04-20 08:35:26 PM,DC,238
+# Cases Age [41-50]: Male ,2020-04-20 08:35:26 PM,DC,244
+# Cases Age [51-60]: Female ,2020-04-20 08:35:26 PM,DC,223
+# Cases Age [51-60]: Male ,2020-04-20 08:35:26 PM,DC,291
+# Cases Age [61-70]: Female ,2020-04-20 08:35:26 PM,DC,196
+# Cases Age [61-70]: Male ,2020-04-20 08:35:26 PM,DC,235
+# Cases Age [71-80]: Female ,2020-04-20 08:35:26 PM,DC,96
+# Cases Age [71-80]: Male ,2020-04-20 08:35:26 PM,DC,102
+# Cases Age [81+]: Female ,2020-04-20 08:35:26 PM,DC,97
+# Cases Age [81+]: Male ,2020-04-20 08:35:26 PM,DC,55
+# Cases Age [0-18]: Female ,2020-04-21 08:11:25 PM,DC,39
+# Cases Age [0-18]: Male ,2020-04-21 08:11:25 PM,DC,42
+# Cases Age [19-30]: Female ,2020-04-21 08:11:25 PM,DC,276
+# Cases Age [19-30]: Male ,2020-04-21 08:11:25 PM,DC,229
+# Cases Age [31-40]: Female ,2020-04-21 08:11:25 PM,DC,290
+# Cases Age [31-40]: Male ,2020-04-21 08:11:25 PM,DC,309
+# Cases Age [41-50]: Female ,2020-04-21 08:11:25 PM,DC,250
+# Cases Age [41-50]: Male ,2020-04-21 08:11:25 PM,DC,258
+# Cases Age [51-60]: Female ,2020-04-21 08:11:25 PM,DC,238
+# Cases Age [51-60]: Male ,2020-04-21 08:11:25 PM,DC,309
+# Cases Age [61-70]: Female ,2020-04-21 08:11:25 PM,DC,214
+# Cases Age [61-70]: Male ,2020-04-21 08:11:25 PM,DC,253
+# Cases Age [71-80]: Female ,2020-04-21 08:11:25 PM,DC,106
+# Cases Age [71-80]: Male ,2020-04-21 08:11:25 PM,DC,111
+# Cases Age [81+]: Female ,2020-04-21 08:11:25 PM,DC,109
+# Cases Age [81+]: Male ,2020-04-21 08:11:25 PM,DC,57
+# Cases Age [0-18]: Female ,2020-04-22 08:23:02 PM,DC,42
+# Cases Age [0-18]: Male ,2020-04-22 08:23:02 PM,DC,43
+# Cases Age [19-30]: Female ,2020-04-22 08:23:02 PM,DC,281
+# Cases Age [19-30]: Male ,2020-04-22 08:23:02 PM,DC,230
+# Cases Age [31-40]: Female ,2020-04-22 08:23:02 PM,DC,296
+# Cases Age [31-40]: Male ,2020-04-22 08:23:02 PM,DC,318
+# Cases Age [41-50]: Female ,2020-04-22 08:23:02 PM,DC,255
+# Cases Age [41-50]: Male ,2020-04-22 08:23:02 PM,DC,270
+# Cases Age [51-60]: Female ,2020-04-22 08:23:02 PM,DC,246
+# Cases Age [51-60]: Male ,2020-04-22 08:23:02 PM,DC,321
+# Cases Age [61-70]: Female ,2020-04-22 08:23:02 PM,DC,221
+# Cases Age [61-70]: Male ,2020-04-22 08:23:02 PM,DC,263
+# Cases Age [71-80]: Female ,2020-04-22 08:23:02 PM,DC,112
+# Cases Age [71-80]: Male ,2020-04-22 08:23:02 PM,DC,119
+# Cases Age [81+]: Female ,2020-04-22 08:23:02 PM,DC,118
+# Cases Age [81+]: Male ,2020-04-22 08:23:02 PM,DC,61
+# Cases Age [0-18]: Female ,2020-04-23 08:20:41 PM,DC,44
+# Cases Age [0-18]: Male ,2020-04-23 08:20:41 PM,DC,45
+# Cases Age [19-30]: Female ,2020-04-23 08:20:41 PM,DC,292
+# Cases Age [19-30]: Male ,2020-04-23 08:20:41 PM,DC,245
+# Cases Age [31-40]: Female ,2020-04-23 08:20:41 PM,DC,309
+# Cases Age [31-40]: Male ,2020-04-23 08:20:41 PM,DC,330
+# Cases Age [41-50]: Female ,2020-04-23 08:20:41 PM,DC,264
+# Cases Age [41-50]: Male ,2020-04-23 08:20:41 PM,DC,285
+# Cases Age [51-60]: Female ,2020-04-23 08:20:41 PM,DC,261
+# Cases Age [51-60]: Male ,2020-04-23 08:20:41 PM,DC,335
+# Cases Age [61-70]: Female ,2020-04-23 08:20:41 PM,DC,231
+# Cases Age [61-70]: Male ,2020-04-23 08:20:41 PM,DC,273
+# Cases Age [71-80]: Female ,2020-04-23 08:20:41 PM,DC,118
+# Cases Age [71-80]: Male ,2020-04-23 08:20:41 PM,DC,125
+# Cases Age [81+]: Female ,2020-04-23 08:20:41 PM,DC,129
+# Cases Age [81+]: Male ,2020-04-23 08:20:41 PM,DC,66
+# Cases Age [0-18]: Female ,2020-04-24 08:39:23 PM,DC,46
+# Cases Age [0-18]: Male ,2020-04-24 08:39:23 PM,DC,49
+# Cases Age [19-30]: Female ,2020-04-24 08:39:23 PM,DC,301
+# Cases Age [19-30]: Male ,2020-04-24 08:39:23 PM,DC,261
+# Cases Age [31-40]: Female ,2020-04-24 08:39:23 PM,DC,323
+# Cases Age [31-40]: Male ,2020-04-24 08:39:23 PM,DC,349
+# Cases Age [41-50]: Female ,2020-04-24 08:39:23 PM,DC,272
+# Cases Age [41-50]: Male ,2020-04-24 08:39:23 PM,DC,299
+# Cases Age [51-60]: Female ,2020-04-24 08:39:23 PM,DC,270
+# Cases Age [51-60]: Male ,2020-04-24 08:39:23 PM,DC,351
+# Cases Age [61-70]: Female ,2020-04-24 08:39:23 PM,DC,240
+# Cases Age [61-70]: Male ,2020-04-24 08:39:23 PM,DC,291
+# Cases Age [71-80]: Female ,2020-04-24 08:39:23 PM,DC,123
+# Cases Age [71-80]: Male ,2020-04-24 08:39:23 PM,DC,128
+# Cases Age [81+]: Female ,2020-04-24 08:39:23 PM,DC,143
+# Cases Age [81+]: Male ,2020-04-24 08:39:23 PM,DC,74
+# Cases Age [0-18]: Female ,2020-04-25 08:27:48 PM,DC,47
+# Cases Age [0-18]: Male ,2020-04-25 08:27:48 PM,DC,51
+# Cases Age [19-30]: Female ,2020-04-25 08:27:48 PM,DC,315
+# Cases Age [19-30]: Male ,2020-04-25 08:27:48 PM,DC,270
+# Cases Age [31-40]: Female ,2020-04-25 08:27:48 PM,DC,332
+# Cases Age [31-40]: Male ,2020-04-25 08:27:48 PM,DC,364
+# Cases Age [41-50]: Female ,2020-04-25 08:27:48 PM,DC,281
+# Cases Age [41-50]: Male ,2020-04-25 08:27:48 PM,DC,307
+# Cases Age [51-60]: Female ,2020-04-25 08:27:48 PM,DC,288
+# Cases Age [51-60]: Male ,2020-04-25 08:27:48 PM,DC,374
+# Cases Age [61-70]: Female ,2020-04-25 08:27:48 PM,DC,252
+# Cases Age [61-70]: Male ,2020-04-25 08:27:48 PM,DC,303
+# Cases Age [71-80]: Female ,2020-04-25 08:27:48 PM,DC,131
+# Cases Age [71-80]: Male ,2020-04-25 08:27:48 PM,DC,133
+# Cases Age [81+]: Female ,2020-04-25 08:27:48 PM,DC,153
+# Cases Age [81+]: Male ,2020-04-25 08:27:48 PM,DC,83
+# Cases Age [0-18]: Female ,2020-04-26 08:00:51 PM,DC,47
+# Cases Age [0-18]: Male ,2020-04-26 08:00:51 PM,DC,52
+# Cases Age [19-30]: Female ,2020-04-26 08:00:51 PM,DC,326
+# Cases Age [19-30]: Male ,2020-04-26 08:00:51 PM,DC,278
+# Cases Age [31-40]: Female ,2020-04-26 08:00:51 PM,DC,346
+# Cases Age [31-40]: Male ,2020-04-26 08:00:51 PM,DC,376
+# Cases Age [41-50]: Female ,2020-04-26 08:00:51 PM,DC,290
+# Cases Age [41-50]: Male ,2020-04-26 08:00:51 PM,DC,316
+# Cases Age [51-60]: Female ,2020-04-26 08:00:51 PM,DC,297
+# Cases Age [51-60]: Male ,2020-04-26 08:00:51 PM,DC,387
+# Cases Age [61-70]: Female ,2020-04-26 08:00:51 PM,DC,257
+# Cases Age [61-70]: Male ,2020-04-26 08:00:51 PM,DC,311
+# Cases Age [71-80]: Female ,2020-04-26 08:00:51 PM,DC,132
+# Cases Age [71-80]: Male ,2020-04-26 08:00:51 PM,DC,139
+# Cases Age [81+]: Female ,2020-04-26 08:00:51 PM,DC,169
+# Cases Age [81+]: Male ,2020-04-26 08:00:51 PM,DC,85
+# Cases Age [0-18]: Female ,2020-04-27 08:42:00 PM,DC,48
+# Cases Age [0-18]: Male ,2020-04-27 08:42:00 PM,DC,53
+# Cases Age [19-30]: Female ,2020-04-27 08:42:00 PM,DC,315
+# Cases Age [19-30]: Male ,2020-04-27 08:42:00 PM,DC,286
+# Cases Age [31-40]: Female ,2020-04-27 08:42:00 PM,DC,345
+# Cases Age [31-40]: Male ,2020-04-27 08:42:00 PM,DC,382
+# Cases Age [41-50]: Female ,2020-04-27 08:42:00 PM,DC,292
+# Cases Age [41-50]: Male ,2020-04-27 08:42:00 PM,DC,331
+# Cases Age [51-60]: Female ,2020-04-27 08:42:00 PM,DC,299
+# Cases Age [51-60]: Male ,2020-04-27 08:42:00 PM,DC,388
+# Cases Age [61-70]: Female ,2020-04-27 08:42:00 PM,DC,272
+# Cases Age [61-70]: Male ,2020-04-27 08:42:00 PM,DC,323
+# Cases Age [71-80]: Female ,2020-04-27 08:42:00 PM,DC,130
+# Cases Age [71-80]: Male ,2020-04-27 08:42:00 PM,DC,148
+# Cases Age [81+]: Female ,2020-04-27 08:42:00 PM,DC,172
+# Cases Age [81+]: Male ,2020-04-27 08:42:00 PM,DC,89
+# Cases Age [0-18]: Female ,2020-04-28 08:35:45 PM,DC,49
+# Cases Age [0-18]: Male ,2020-04-28 08:35:45 PM,DC,53
+# Cases Age [19-30]: Female ,2020-04-28 08:35:45 PM,DC,318
+# Cases Age [19-30]: Male ,2020-04-28 08:35:45 PM,DC,294
+# Cases Age [31-40]: Female ,2020-04-28 08:35:45 PM,DC,357
+# Cases Age [31-40]: Male ,2020-04-28 08:35:45 PM,DC,390
+# Cases Age [41-50]: Female ,2020-04-28 08:35:45 PM,DC,295
+# Cases Age [41-50]: Male ,2020-04-28 08:35:45 PM,DC,340
+# Cases Age [51-60]: Female ,2020-04-28 08:35:45 PM,DC,313
+# Cases Age [51-60]: Male ,2020-04-28 08:35:45 PM,DC,400
+# Cases Age [61-70]: Female ,2020-04-28 08:35:45 PM,DC,278
+# Cases Age [61-70]: Male ,2020-04-28 08:35:45 PM,DC,332
+# Cases Age [71-80]: Female ,2020-04-28 08:35:45 PM,DC,140
+# Cases Age [71-80]: Male ,2020-04-28 08:35:45 PM,DC,157
+# Cases Age [81+]: Female ,2020-04-28 08:35:45 PM,DC,177
+# Cases Age [81+]: Male ,2020-04-28 08:35:45 PM,DC,91
+# Cases Age [0-18]: Female ,2020-04-29 07:55:13 PM,DC,52
+# Cases Age [0-18]: Male ,2020-04-29 07:55:13 PM,DC,55
+# Cases Age [19-30]: Female ,2020-04-29 07:55:13 PM,DC,326
+# Cases Age [19-30]: Male ,2020-04-29 07:55:13 PM,DC,303
+# Cases Age [31-40]: Female ,2020-04-29 07:55:13 PM,DC,367
+# Cases Age [31-40]: Male ,2020-04-29 07:55:13 PM,DC,399
+# Cases Age [41-50]: Female ,2020-04-29 07:55:13 PM,DC,301
+# Cases Age [41-50]: Male ,2020-04-29 07:55:13 PM,DC,344
+# Cases Age [51-60]: Female ,2020-04-29 07:55:13 PM,DC,321
+# Cases Age [51-60]: Male ,2020-04-29 07:55:13 PM,DC,408
+# Cases Age [61-70]: Female ,2020-04-29 07:55:13 PM,DC,287
+# Cases Age [61-70]: Male ,2020-04-29 07:55:13 PM,DC,337
+# Cases Age [71-80]: Female ,2020-04-29 07:55:13 PM,DC,147
+# Cases Age [71-80]: Male ,2020-04-29 07:55:13 PM,DC,166
+# Cases Age [81+]: Female ,2020-04-29 07:55:13 PM,DC,190
+# Cases Age [81+]: Male ,2020-04-29 07:55:13 PM,DC,94
+# Cases Age [0-18]: Female ,2020-04-30 08:54:50 PM,DC,55
+# Cases Age [0-18]: Male ,2020-04-30 08:54:50 PM,DC,56
+# Cases Age [19-30]: Female ,2020-04-30 08:54:50 PM,DC,343
+# Cases Age [19-30]: Male ,2020-04-30 08:54:50 PM,DC,322
+# Cases Age [31-40]: Female ,2020-04-30 08:54:50 PM,DC,393
+# Cases Age [31-40]: Male ,2020-04-30 08:54:50 PM,DC,423
+# Cases Age [41-50]: Female ,2020-04-30 08:54:50 PM,DC,321
+# Cases Age [41-50]: Male ,2020-04-30 08:54:50 PM,DC,367
+# Cases Age [51-60]: Female ,2020-04-30 08:54:50 PM,DC,332
+# Cases Age [51-60]: Male ,2020-04-30 08:54:50 PM,DC,439
+# Cases Age [61-70]: Female ,2020-04-30 08:54:50 PM,DC,301
+# Cases Age [61-70]: Male ,2020-04-30 08:54:50 PM,DC,351
+# Cases Age [71-80]: Female ,2020-04-30 08:54:50 PM,DC,149
+# Cases Age [71-80]: Male ,2020-04-30 08:54:50 PM,DC,170
+# Cases Age [81+]: Female ,2020-04-30 08:54:50 PM,DC,194
+# Cases Age [81+]: Male ,2020-04-30 08:54:50 PM,DC,97
+# Cases Age [0-18]: Female ,2020-05-01 08:24:49 PM,DC,59
+# Cases Age [0-18]: Male ,2020-05-01 08:24:49 PM,DC,64
+# Cases Age [19-30]: Female ,2020-05-01 08:24:49 PM,DC,374
+# Cases Age [19-30]: Male ,2020-05-01 08:24:49 PM,DC,342
+# Cases Age [31-40]: Female ,2020-05-01 08:24:49 PM,DC,431
+# Cases Age [31-40]: Male ,2020-05-01 08:24:49 PM,DC,458
+# Cases Age [41-50]: Female ,2020-05-01 08:24:49 PM,DC,352
+# Cases Age [41-50]: Male ,2020-05-01 08:24:49 PM,DC,397
+# Cases Age [51-60]: Female ,2020-05-01 08:24:49 PM,DC,360
+# Cases Age [51-60]: Male ,2020-05-01 08:24:49 PM,DC,471
+# Cases Age [61-70]: Female ,2020-05-01 08:24:49 PM,DC,327
+# Cases Age [61-70]: Male ,2020-05-01 08:24:49 PM,DC,373
+# Cases Age [71-80]: Female ,2020-05-01 08:24:49 PM,DC,160
+# Cases Age [71-80]: Male ,2020-05-01 08:24:49 PM,DC,177
+# Cases Age [81+]: Female ,2020-05-01 08:24:49 PM,DC,202
+# Cases Age [81+]: Male ,2020-05-01 08:24:49 PM,DC,101
+# Cases Age [0-18]: Female ,2020-05-02 08:32:22 PM,DC,61
+# Cases Age [0-18]: Male ,2020-05-02 08:32:22 PM,DC,66
+# Cases Age [19-30]: Female ,2020-05-02 08:32:22 PM,DC,383
+# Cases Age [19-30]: Male ,2020-05-02 08:32:22 PM,DC,354
+# Cases Age [31-40]: Female ,2020-05-02 08:32:22 PM,DC,447
+# Cases Age [31-40]: Male ,2020-05-02 08:32:22 PM,DC,468
+# Cases Age [41-50]: Female ,2020-05-02 08:32:22 PM,DC,366
+# Cases Age [41-50]: Male ,2020-05-02 08:32:22 PM,DC,407
+# Cases Age [51-60]: Female ,2020-05-02 08:32:22 PM,DC,367
+# Cases Age [51-60]: Male ,2020-05-02 08:32:22 PM,DC,482
+# Cases Age [61-70]: Female ,2020-05-02 08:32:22 PM,DC,333
+# Cases Age [61-70]: Male ,2020-05-02 08:32:22 PM,DC,391
+# Cases Age [71-80]: Female ,2020-05-02 08:32:22 PM,DC,163
+# Cases Age [71-80]: Male ,2020-05-02 08:32:22 PM,DC,189
+# Cases Age [81+]: Female ,2020-05-02 08:32:22 PM,DC,207
+# Cases Age [81+]: Male ,2020-05-02 08:32:22 PM,DC,102
+# Cases Age [0-18]: Female ,2020-05-03 08:31:48 PM,DC,66
+# Cases Age [0-18]: Male ,2020-05-03 08:31:48 PM,DC,72
+# Cases Age [19-30]: Female ,2020-05-03 08:31:48 PM,DC,405
+# Cases Age [19-30]: Male ,2020-05-03 08:31:48 PM,DC,367
+# Cases Age [31-40]: Female ,2020-05-03 08:31:48 PM,DC,465
+# Cases Age [31-40]: Male ,2020-05-03 08:31:48 PM,DC,492
+# Cases Age [41-50]: Female ,2020-05-03 08:31:48 PM,DC,378
+# Cases Age [41-50]: Male ,2020-05-03 08:31:48 PM,DC,427
+# Cases Age [51-60]: Female ,2020-05-03 08:31:48 PM,DC,378
+# Cases Age [51-60]: Male ,2020-05-03 08:31:48 PM,DC,503
+# Cases Age [61-70]: Female ,2020-05-03 08:31:48 PM,DC,344
+# Cases Age [61-70]: Male ,2020-05-03 08:31:48 PM,DC,416
+# Cases Age [71-80]: Female ,2020-05-03 08:31:48 PM,DC,174
+# Cases Age [71-80]: Male ,2020-05-03 08:31:48 PM,DC,194
+# Cases Age [81+]: Female ,2020-05-03 08:31:48 PM,DC,215
+# Cases Age [81+]: Male ,2020-05-03 08:31:48 PM,DC,108
+# Cases Age [0-18]: Female ,2020-05-04 07:44:44 PM,DC,67
+# Cases Age [0-18]: Male ,2020-05-04 07:44:44 PM,DC,72
+# Cases Age [19-30]: Female ,2020-05-04 07:44:44 PM,DC,412
+# Cases Age [19-30]: Male ,2020-05-04 07:44:44 PM,DC,379
+# Cases Age [31-40]: Female ,2020-05-04 07:44:44 PM,DC,476
+# Cases Age [31-40]: Male ,2020-05-04 07:44:44 PM,DC,509
+# Cases Age [41-50]: Female ,2020-05-04 07:44:44 PM,DC,391
+# Cases Age [41-50]: Male ,2020-05-04 07:44:44 PM,DC,436
+# Cases Age [51-60]: Female ,2020-05-04 07:44:44 PM,DC,391
+# Cases Age [51-60]: Male ,2020-05-04 07:44:44 PM,DC,517
+# Cases Age [61-70]: Female ,2020-05-04 07:44:44 PM,DC,355
+# Cases Age [61-70]: Male ,2020-05-04 07:44:44 PM,DC,432
+# Cases Age [71-80]: Female ,2020-05-04 07:44:44 PM,DC,185
+# Cases Age [71-80]: Male ,2020-05-04 07:44:44 PM,DC,205
+# Cases Age [81+]: Female ,2020-05-04 07:44:44 PM,DC,220
+# Cases Age [81+]: Male ,2020-05-04 07:44:44 PM,DC,111
+# Cases Age [0-18]: Female ,2020-05-05 08:15:09 PM,DC,71
+# Cases Age [0-18]: Male ,2020-05-05 08:15:09 PM,DC,75
+# Cases Age [19-30]: Female ,2020-05-05 08:15:09 PM,DC,436
+# Cases Age [19-30]: Male ,2020-05-05 08:15:09 PM,DC,392
+# Cases Age [31-40]: Female ,2020-05-05 08:15:09 PM,DC,494
+# Cases Age [31-40]: Male ,2020-05-05 08:15:09 PM,DC,521
+# Cases Age [41-50]: Female ,2020-05-05 08:15:09 PM,DC,402
+# Cases Age [41-50]: Male ,2020-05-05 08:15:09 PM,DC,451
+# Cases Age [51-60]: Female ,2020-05-05 08:15:09 PM,DC,403
+# Cases Age [51-60]: Male ,2020-05-05 08:15:09 PM,DC,529
+# Cases Age [61-70]: Female ,2020-05-05 08:15:09 PM,DC,359
+# Cases Age [61-70]: Male ,2020-05-05 08:15:09 PM,DC,439
+# Cases Age [71-80]: Female ,2020-05-05 08:15:09 PM,DC,188
+# Cases Age [71-80]: Male ,2020-05-05 08:15:09 PM,DC,209
+# Cases Age [81+]: Female ,2020-05-05 08:15:09 PM,DC,226
+# Cases Age [81+]: Male ,2020-05-05 08:15:09 PM,DC,115
+# Cases Age [0-18]: Female ,2020-05-06 08:14:09 PM,DC,72
+# Cases Age [0-18]: Male ,2020-05-06 08:14:09 PM,DC,75
+# Cases Age [19-30]: Female ,2020-05-06 08:14:09 PM,DC,454
+# Cases Age [19-30]: Male ,2020-05-06 08:14:09 PM,DC,396
+# Cases Age [31-40]: Female ,2020-05-06 08:14:09 PM,DC,503
+# Cases Age [31-40]: Male ,2020-05-06 08:14:09 PM,DC,533
+# Cases Age [41-50]: Female ,2020-05-06 08:14:09 PM,DC,421
+# Cases Age [41-50]: Male ,2020-05-06 08:14:09 PM,DC,460
+# Cases Age [51-60]: Female ,2020-05-06 08:14:09 PM,DC,414
+# Cases Age [51-60]: Male ,2020-05-06 08:14:09 PM,DC,538
+# Cases Age [61-70]: Female ,2020-05-06 08:14:09 PM,DC,371
+# Cases Age [61-70]: Male ,2020-05-06 08:14:09 PM,DC,452
+# Cases Age [71-80]: Female ,2020-05-06 08:14:09 PM,DC,191
+# Cases Age [71-80]: Male ,2020-05-06 08:14:09 PM,DC,215
+# Cases Age [81+]: Female ,2020-05-06 08:14:09 PM,DC,233
+# Cases Age [81+]: Male ,2020-05-06 08:14:09 PM,DC,121
+# Cases Age [0-18]: Female ,2020-05-07 08:54:09 PM,DC,85
+# Cases Age [0-18]: Male ,2020-05-07 08:54:09 PM,DC,80
+# Cases Age [19-30]: Female ,2020-05-07 08:54:09 PM,DC,478
+# Cases Age [19-30]: Male ,2020-05-07 08:54:09 PM,DC,405
+# Cases Age [31-40]: Female ,2020-05-07 08:54:09 PM,DC,523
+# Cases Age [31-40]: Male ,2020-05-07 08:54:09 PM,DC,555
+# Cases Age [41-50]: Female ,2020-05-07 08:54:09 PM,DC,434
+# Cases Age [41-50]: Male ,2020-05-07 08:54:09 PM,DC,471
+# Cases Age [51-60]: Female ,2020-05-07 08:54:09 PM,DC,428
+# Cases Age [51-60]: Male ,2020-05-07 08:54:09 PM,DC,552
+# Cases Age [61-70]: Female ,2020-05-07 08:54:09 PM,DC,379
+# Cases Age [61-70]: Male ,2020-05-07 08:54:09 PM,DC,469
+# Cases Age [71-80]: Female ,2020-05-07 08:54:09 PM,DC,197
+# Cases Age [71-80]: Male ,2020-05-07 08:54:09 PM,DC,221
+# Cases Age [81+]: Female ,2020-05-07 08:54:09 PM,DC,237
+# Cases Age [81+]: Male ,2020-05-07 08:54:09 PM,DC,127
+# Cases Age [0-18]: Female ,2020-05-08 10:03:21 PM,DC,91
+# Cases Age [0-18]: Male ,2020-05-08 10:03:21 PM,DC,84
+# Cases Age [19-30]: Female ,2020-05-08 10:03:21 PM,DC,503
+# Cases Age [19-30]: Male ,2020-05-08 10:03:21 PM,DC,434
+# Cases Age [31-40]: Female ,2020-05-08 10:03:21 PM,DC,540
+# Cases Age [31-40]: Male ,2020-05-08 10:03:21 PM,DC,578
+# Cases Age [41-50]: Female ,2020-05-08 10:03:21 PM,DC,453
+# Cases Age [41-50]: Male ,2020-05-08 10:03:21 PM,DC,484
+# Cases Age [51-60]: Female ,2020-05-08 10:03:21 PM,DC,443
+# Cases Age [51-60]: Male ,2020-05-08 10:03:21 PM,DC,566
+# Cases Age [61-70]: Female ,2020-05-08 10:03:21 PM,DC,402
+# Cases Age [61-70]: Male ,2020-05-08 10:03:21 PM,DC,488
+# Cases Age [71-80]: Female ,2020-05-08 10:03:21 PM,DC,204
+# Cases Age [71-80]: Male ,2020-05-08 10:03:21 PM,DC,234
+# Cases Age [81+]: Female ,2020-05-08 10:03:21 PM,DC,242
+# Cases Age [81+]: Male ,2020-05-08 10:03:21 PM,DC,134
+# Cases Age [0-18]: Female ,2020-05-09 08:27:26 PM,DC,102
+# Cases Age [0-18]: Male ,2020-05-09 08:27:26 PM,DC,97
+# Cases Age [19-30]: Female ,2020-05-09 08:27:26 PM,DC,524
+# Cases Age [19-30]: Male ,2020-05-09 08:27:26 PM,DC,458
+# Cases Age [31-40]: Female ,2020-05-09 08:27:26 PM,DC,561
+# Cases Age [31-40]: Male ,2020-05-09 08:27:26 PM,DC,600
+# Cases Age [41-50]: Female ,2020-05-09 08:27:26 PM,DC,463
+# Cases Age [41-50]: Male ,2020-05-09 08:27:26 PM,DC,502
+# Cases Age [51-60]: Female ,2020-05-09 08:27:26 PM,DC,457
+# Cases Age [51-60]: Male ,2020-05-09 08:27:26 PM,DC,581
+# Cases Age [61-70]: Female ,2020-05-09 08:27:26 PM,DC,405
+# Cases Age [61-70]: Male ,2020-05-09 08:27:26 PM,DC,498
+# Cases Age [71-80]: Female ,2020-05-09 08:27:26 PM,DC,211
+# Cases Age [71-80]: Male ,2020-05-09 08:27:26 PM,DC,241
+# Cases Age [81+]: Female ,2020-05-09 08:27:26 PM,DC,246
+# Cases Age [81+]: Male ,2020-05-09 08:27:26 PM,DC,136
+# Cases Age [0-18]: Female ,2020-05-10 08:04:25 PM,DC,105
+# Cases Age [0-18]: Male ,2020-05-10 08:04:25 PM,DC,101
+# Cases Age [19-30]: Female ,2020-05-10 08:04:25 PM,DC,543
+# Cases Age [19-30]: Male ,2020-05-10 08:04:25 PM,DC,475
+# Cases Age [31-40]: Female ,2020-05-10 08:04:25 PM,DC,583
+# Cases Age [31-40]: Male ,2020-05-10 08:04:25 PM,DC,615
+# Cases Age [41-50]: Female ,2020-05-10 08:04:25 PM,DC,472
+# Cases Age [41-50]: Male ,2020-05-10 08:04:25 PM,DC,516
+# Cases Age [51-60]: Female ,2020-05-10 08:04:25 PM,DC,473
+# Cases Age [51-60]: Male ,2020-05-10 08:04:25 PM,DC,596
+# Cases Age [61-70]: Female ,2020-05-10 08:04:25 PM,DC,415
+# Cases Age [61-70]: Male ,2020-05-10 08:04:25 PM,DC,506
+# Cases Age [71-80]: Female ,2020-05-10 08:04:25 PM,DC,215
+# Cases Age [71-80]: Male ,2020-05-10 08:04:25 PM,DC,246
+# Cases Age [81+]: Female ,2020-05-10 08:04:25 PM,DC,249
+# Cases Age [81+]: Male ,2020-05-10 08:04:25 PM,DC,141
+# Cases Age [0-18]: Female ,2020-05-11 08:47:37 PM,DC,107
+# Cases Age [0-18]: Male ,2020-05-11 08:47:37 PM,DC,104
+# Cases Age [19-30]: Female ,2020-05-11 08:47:37 PM,DC,554
+# Cases Age [19-30]: Male ,2020-05-11 08:47:37 PM,DC,487
+# Cases Age [31-40]: Female ,2020-05-11 08:47:37 PM,DC,594
+# Cases Age [31-40]: Male ,2020-05-11 08:47:37 PM,DC,624
+# Cases Age [41-50]: Female ,2020-05-11 08:47:37 PM,DC,482
+# Cases Age [41-50]: Male ,2020-05-11 08:47:37 PM,DC,525
+# Cases Age [51-60]: Female ,2020-05-11 08:47:37 PM,DC,477
+# Cases Age [51-60]: Male ,2020-05-11 08:47:37 PM,DC,606
+# Cases Age [61-70]: Female ,2020-05-11 08:47:37 PM,DC,424
+# Cases Age [61-70]: Male ,2020-05-11 08:47:37 PM,DC,513
+# Cases Age [71-80]: Female ,2020-05-11 08:47:37 PM,DC,220
+# Cases Age [71-80]: Male ,2020-05-11 08:47:37 PM,DC,249
+# Cases Age [81+]: Female ,2020-05-11 08:47:37 PM,DC,253
+# Cases Age [81+]: Male ,2020-05-11 08:47:37 PM,DC,145
+# Cases Age [0-18]: Female ,2020-05-12 08:14:01 PM,DC,116
+# Cases Age [0-18]: Male ,2020-05-12 08:14:01 PM,DC,107
+# Cases Age [19-30]: Female ,2020-05-12 08:14:01 PM,DC,564
+# Cases Age [19-30]: Male ,2020-05-12 08:14:01 PM,DC,492
+# Cases Age [31-40]: Female ,2020-05-12 08:14:01 PM,DC,607
+# Cases Age [31-40]: Male ,2020-05-12 08:14:01 PM,DC,635
+# Cases Age [41-50]: Female ,2020-05-12 08:14:01 PM,DC,487
+# Cases Age [41-50]: Male ,2020-05-12 08:14:01 PM,DC,530
+# Cases Age [51-60]: Female ,2020-05-12 08:14:01 PM,DC,480
+# Cases Age [51-60]: Male ,2020-05-12 08:14:01 PM,DC,614
+# Cases Age [61-70]: Female ,2020-05-12 08:14:01 PM,DC,428
+# Cases Age [61-70]: Male ,2020-05-12 08:14:01 PM,DC,520
+# Cases Age [71-80]: Female ,2020-05-12 08:14:01 PM,DC,224
+# Cases Age [71-80]: Male ,2020-05-12 08:14:01 PM,DC,252
+# Cases Age [81+]: Female ,2020-05-12 08:14:01 PM,DC,258
+# Cases Age [81+]: Male ,2020-05-12 08:14:01 PM,DC,146
+# Cases Age [0-18]: Female ,2020-05-13 08:05:56 PM,DC,120
+# Cases Age [0-18]: Male ,2020-05-13 08:05:56 PM,DC,110
+# Cases Age [19-30]: Female ,2020-05-13 08:05:56 PM,DC,576
+# Cases Age [19-30]: Male ,2020-05-13 08:05:56 PM,DC,501
+# Cases Age [31-40]: Female ,2020-05-13 08:05:56 PM,DC,612
+# Cases Age [31-40]: Male ,2020-05-13 08:05:56 PM,DC,643
+# Cases Age [41-50]: Female ,2020-05-13 08:05:56 PM,DC,495
+# Cases Age [41-50]: Male ,2020-05-13 08:05:56 PM,DC,538
+# Cases Age [51-60]: Female ,2020-05-13 08:05:56 PM,DC,492
+# Cases Age [51-60]: Male ,2020-05-13 08:05:56 PM,DC,620
+# Cases Age [61-70]: Female ,2020-05-13 08:05:56 PM,DC,431
+# Cases Age [61-70]: Male ,2020-05-13 08:05:56 PM,DC,524
+# Cases Age [71-80]: Female ,2020-05-13 08:05:56 PM,DC,229
+# Cases Age [71-80]: Male ,2020-05-13 08:05:56 PM,DC,258
+# Cases Age [81+]: Female ,2020-05-13 08:05:56 PM,DC,262
+# Cases Age [81+]: Male ,2020-05-13 08:05:56 PM,DC,148
+# Cases Age [0-18]: Female ,2020-05-14 09:02:30 PM,DC,131
+# Cases Age [0-18]: Male ,2020-05-14 09:02:30 PM,DC,116
+# Cases Age [19-30]: Female ,2020-05-14 09:02:30 PM,DC,591
+# Cases Age [19-30]: Male ,2020-05-14 09:02:30 PM,DC,520
+# Cases Age [31-40]: Female ,2020-05-14 09:02:30 PM,DC,623
+# Cases Age [31-40]: Male ,2020-05-14 09:02:30 PM,DC,662
+# Cases Age [41-50]: Female ,2020-05-14 09:02:30 PM,DC,502
+# Cases Age [41-50]: Male ,2020-05-14 09:02:30 PM,DC,550
+# Cases Age [51-60]: Female ,2020-05-14 09:02:30 PM,DC,504
+# Cases Age [51-60]: Male ,2020-05-14 09:02:30 PM,DC,626
+# Cases Age [61-70]: Female ,2020-05-14 09:02:30 PM,DC,446
+# Cases Age [61-70]: Male ,2020-05-14 09:02:30 PM,DC,533
+# Cases Age [71-80]: Female ,2020-05-14 09:02:30 PM,DC,235
+# Cases Age [71-80]: Male ,2020-05-14 09:02:30 PM,DC,261
+# Cases Age [81+]: Female ,2020-05-14 09:02:30 PM,DC,264
+# Cases Age [81+]: Male ,2020-05-14 09:02:30 PM,DC,148
+# Cases Age [0-18]: Female ,2020-05-15 08:22:28 PM,DC,137
+# Cases Age [0-18]: Male ,2020-05-15 08:22:28 PM,DC,120
+# Cases Age [19-30]: Female ,2020-05-15 08:22:28 PM,DC,602
+# Cases Age [19-30]: Male ,2020-05-15 08:22:28 PM,DC,524
+# Cases Age [31-40]: Female ,2020-05-15 08:22:28 PM,DC,635
+# Cases Age [31-40]: Male ,2020-05-15 08:22:28 PM,DC,679
+# Cases Age [41-50]: Female ,2020-05-15 08:22:28 PM,DC,516
+# Cases Age [41-50]: Male ,2020-05-15 08:22:28 PM,DC,561
+# Cases Age [51-60]: Female ,2020-05-15 08:22:28 PM,DC,512
+# Cases Age [51-60]: Male ,2020-05-15 08:22:28 PM,DC,640
+# Cases Age [61-70]: Female ,2020-05-15 08:22:28 PM,DC,457
+# Cases Age [61-70]: Male ,2020-05-15 08:22:28 PM,DC,543
+# Cases Age [71-80]: Female ,2020-05-15 08:22:28 PM,DC,237
+# Cases Age [71-80]: Male ,2020-05-15 08:22:28 PM,DC,268
+# Cases Age [81+]: Female ,2020-05-15 08:22:28 PM,DC,268
+# Cases Age [81+]: Male ,2020-05-15 08:22:28 PM,DC,149
+# Cases Age [0-18]: Female ,2020-05-16 07:56:47 PM,DC,141
+# Cases Age [0-18]: Male ,2020-05-16 07:56:47 PM,DC,127
+# Cases Age [19-30]: Female ,2020-05-16 07:56:47 PM,DC,619
+# Cases Age [19-30]: Male ,2020-05-16 07:56:47 PM,DC,537
+# Cases Age [31-40]: Female ,2020-05-16 07:56:47 PM,DC,645
+# Cases Age [31-40]: Male ,2020-05-16 07:56:47 PM,DC,693
+# Cases Age [41-50]: Female ,2020-05-16 07:56:47 PM,DC,527
+# Cases Age [41-50]: Male ,2020-05-16 07:56:47 PM,DC,577
+# Cases Age [51-60]: Female ,2020-05-16 07:56:47 PM,DC,523
+# Cases Age [51-60]: Male ,2020-05-16 07:56:47 PM,DC,653
+# Cases Age [61-70]: Female ,2020-05-16 07:56:47 PM,DC,465
+# Cases Age [61-70]: Male ,2020-05-16 07:56:47 PM,DC,564
+# Cases Age [71-80]: Female ,2020-05-16 07:56:47 PM,DC,247
+# Cases Age [71-80]: Male ,2020-05-16 07:56:47 PM,DC,273
+# Cases Age [81+]: Female ,2020-05-16 07:56:47 PM,DC,273
+# Cases Age [81+]: Male ,2020-05-16 07:56:47 PM,DC,154
+# Cases Age [0-18]: Female ,2020-05-17 07:54:03 PM,DC,142
+# Cases Age [0-18]: Male ,2020-05-17 07:54:03 PM,DC,127
+# Cases Age [19-30]: Female ,2020-05-17 07:54:03 PM,DC,625
+# Cases Age [19-30]: Male ,2020-05-17 07:54:03 PM,DC,543
+# Cases Age [31-40]: Female ,2020-05-17 07:54:03 PM,DC,650
+# Cases Age [31-40]: Male ,2020-05-17 07:54:03 PM,DC,707
+# Cases Age [41-50]: Female ,2020-05-17 07:54:03 PM,DC,532
+# Cases Age [41-50]: Male ,2020-05-17 07:54:03 PM,DC,581
+# Cases Age [51-60]: Female ,2020-05-17 07:54:03 PM,DC,531
+# Cases Age [51-60]: Male ,2020-05-17 07:54:03 PM,DC,658
+# Cases Age [61-70]: Female ,2020-05-17 07:54:03 PM,DC,470
+# Cases Age [61-70]: Male ,2020-05-17 07:54:03 PM,DC,572
+# Cases Age [71-80]: Female ,2020-05-17 07:54:03 PM,DC,251
+# Cases Age [71-80]: Male ,2020-05-17 07:54:03 PM,DC,275
+# Cases Age [81+]: Female ,2020-05-17 07:54:03 PM,DC,275
+# Cases Age [81+]: Male ,2020-05-17 07:54:03 PM,DC,158
+# Cases Age [0-18]: Female ,2020-05-18 08:16:15 PM,DC,153
+# Cases Age [0-18]: Male ,2020-05-18 08:16:15 PM,DC,130
+# Cases Age [19-30]: Female ,2020-05-18 08:16:15 PM,DC,648
+# Cases Age [19-30]: Male ,2020-05-18 08:16:15 PM,DC,555
+# Cases Age [31-40]: Female ,2020-05-18 08:16:15 PM,DC,660
+# Cases Age [31-40]: Male ,2020-05-18 08:16:15 PM,DC,718
+# Cases Age [41-50]: Female ,2020-05-18 08:16:15 PM,DC,548
+# Cases Age [41-50]: Male ,2020-05-18 08:16:15 PM,DC,592
+# Cases Age [51-60]: Female ,2020-05-18 08:16:15 PM,DC,538
+# Cases Age [51-60]: Male ,2020-05-18 08:16:15 PM,DC,670
+# Cases Age [61-70]: Female ,2020-05-18 08:16:15 PM,DC,481
+# Cases Age [61-70]: Male ,2020-05-18 08:16:15 PM,DC,580
+# Cases Age [71-80]: Female ,2020-05-18 08:16:15 PM,DC,258
+# Cases Age [71-80]: Male ,2020-05-18 08:16:15 PM,DC,275
+# Cases Age [81+]: Female ,2020-05-18 08:16:15 PM,DC,277
+# Cases Age [81+]: Male ,2020-05-18 08:16:15 PM,DC,161
+# Cases Age [0-18]: Female ,2020-05-19 07:53:39 PM,DC,162
+# Cases Age [0-18]: Male ,2020-05-19 07:53:39 PM,DC,142
+# Cases Age [19-30]: Female ,2020-05-19 07:53:39 PM,DC,660
+# Cases Age [19-30]: Male ,2020-05-19 07:53:39 PM,DC,568
+# Cases Age [31-40]: Female ,2020-05-19 07:53:39 PM,DC,678
+# Cases Age [31-40]: Male ,2020-05-19 07:53:39 PM,DC,730
+# Cases Age [41-50]: Female ,2020-05-19 07:53:39 PM,DC,571
+# Cases Age [41-50]: Male ,2020-05-19 07:53:39 PM,DC,600
+# Cases Age [51-60]: Female ,2020-05-19 07:53:39 PM,DC,556
+# Cases Age [51-60]: Male ,2020-05-19 07:53:39 PM,DC,680
+# Cases Age [61-70]: Female ,2020-05-19 07:53:39 PM,DC,490
+# Cases Age [61-70]: Male ,2020-05-19 07:53:39 PM,DC,586
+# Cases Age [71-80]: Female ,2020-05-19 07:53:39 PM,DC,260
+# Cases Age [71-80]: Male ,2020-05-19 07:53:39 PM,DC,279
+# Cases Age [81+]: Female ,2020-05-19 07:53:39 PM,DC,286
+# Cases Age [81+]: Male ,2020-05-19 07:53:39 PM,DC,162
+# Cases Age [0-18]: Female ,2020-05-20 07:59:42 PM,DC,169
+# Cases Age [0-18]: Male ,2020-05-20 07:59:42 PM,DC,150
+# Cases Age [19-30]: Female ,2020-05-20 07:59:42 PM,DC,670
+# Cases Age [19-30]: Male ,2020-05-20 07:59:42 PM,DC,580
+# Cases Age [31-40]: Female ,2020-05-20 07:59:42 PM,DC,685
+# Cases Age [31-40]: Male ,2020-05-20 07:59:42 PM,DC,741
+# Cases Age [41-50]: Female ,2020-05-20 07:59:42 PM,DC,585
+# Cases Age [41-50]: Male ,2020-05-20 07:59:42 PM,DC,615
+# Cases Age [51-60]: Female ,2020-05-20 07:59:42 PM,DC,561
+# Cases Age [51-60]: Male ,2020-05-20 07:59:42 PM,DC,692
+# Cases Age [61-70]: Female ,2020-05-20 07:59:42 PM,DC,496
+# Cases Age [61-70]: Male ,2020-05-20 07:59:42 PM,DC,587
+# Cases Age [71-80]: Female ,2020-05-20 07:59:42 PM,DC,264
+# Cases Age [71-80]: Male ,2020-05-20 07:59:42 PM,DC,278
+# Cases Age [81+]: Female ,2020-05-20 07:59:42 PM,DC,291
+# Cases Age [81+]: Male ,2020-05-20 07:59:42 PM,DC,164
+# Cases Age [0-18]: Female ,2020-05-21 08:57:43 PM,DC,180
+# Cases Age [0-18]: Male ,2020-05-21 08:57:43 PM,DC,154
+# Cases Age [19-30]: Female ,2020-05-21 08:57:43 PM,DC,695
+# Cases Age [19-30]: Male ,2020-05-21 08:57:43 PM,DC,596
+# Cases Age [31-40]: Female ,2020-05-21 08:57:43 PM,DC,707
+# Cases Age [31-40]: Male ,2020-05-21 08:57:43 PM,DC,771
+# Cases Age [41-50]: Female ,2020-05-21 08:57:43 PM,DC,600
+# Cases Age [41-50]: Male ,2020-05-21 08:57:43 PM,DC,636
+# Cases Age [51-60]: Female ,2020-05-21 08:57:43 PM,DC,587
+# Cases Age [51-60]: Male ,2020-05-21 08:57:43 PM,DC,709
+# Cases Age [61-70]: Female ,2020-05-21 08:57:43 PM,DC,517
+# Cases Age [61-70]: Male ,2020-05-21 08:57:43 PM,DC,596
+# Cases Age [71-80]: Female ,2020-05-21 08:57:43 PM,DC,269
+# Cases Age [71-80]: Male ,2020-05-21 08:57:43 PM,DC,284
+# Cases Age [81+]: Female ,2020-05-21 08:57:43 PM,DC,295
+# Cases Age [81+]: Male ,2020-05-21 08:57:43 PM,DC,167
+# Cases Age [0-4]: Female,2020-05-22 10:18:47 PM,DC,40.0
+# Cases Age [0-4]: Male,2020-05-22 10:18:47 PM,DC,39.0
+# Cases Age [15-19]: Female,2020-05-22 10:18:47 PM,DC,80.0
+# Cases Age [15-19]: Male,2020-05-22 10:18:47 PM,DC,66.0
+# Cases Age [20-24]: Female,2020-05-22 10:18:47 PM,DC,222.0
+# Cases Age [20-24]: Male,2020-05-22 10:18:47 PM,DC,175.0
+# Cases Age [25-34]: Female,2020-05-22 10:18:47 PM,DC,713.0
+# Cases Age [25-34]: Male,2020-05-22 10:18:47 PM,DC,684.0
+# Cases Age [35-44]: Female,2020-05-22 10:18:47 PM,DC,649.0
+# Cases Age [35-44]: Male,2020-05-22 10:18:47 PM,DC,703.0
+# Cases Age [45-54]: Female,2020-05-22 10:18:47 PM,DC,562.0
+# Cases Age [45-54]: Male,2020-05-22 10:18:47 PM,DC,621.0
+# Cases Age [5-14]: Female,2020-05-22 10:18:47 PM,DC,68.0
+# Cases Age [5-14]: Male,2020-05-22 10:18:47 PM,DC,69.0
+# Cases Age [55-64]: Female,2020-05-22 10:18:47 PM,DC,564.0
+# Cases Age [55-64]: Male,2020-05-22 10:18:47 PM,DC,704.0
+# Cases Age [65-74]: Female,2020-05-22 10:18:47 PM,DC,398.0
+# Cases Age [65-74]: Male,2020-05-22 10:18:47 PM,DC,439.0
+# Cases Age [75+]: Female,2020-05-22 10:18:47 PM,DC,425.0
+# Cases Age [75+]: Male,2020-05-22 10:18:47 PM,DC,307.0
+# Cases Age [0-4]: Female,2020-05-23 08:36:45 PM,DC,43.0
+# Cases Age [0-4]: Male,2020-05-23 08:36:45 PM,DC,42.0
+# Cases Age [15-19]: Female,2020-05-23 08:36:45 PM,DC,84.0
+# Cases Age [15-19]: Male,2020-05-23 08:36:45 PM,DC,71.0
+# Cases Age [20-24]: Female,2020-05-23 08:36:45 PM,DC,242.0
+# Cases Age [20-24]: Male,2020-05-23 08:36:45 PM,DC,184.0
+# Cases Age [25-34]: Female,2020-05-23 08:36:45 PM,DC,752.0
+# Cases Age [25-34]: Male,2020-05-23 08:36:45 PM,DC,721.0
+# Cases Age [35-44]: Female,2020-05-23 08:36:45 PM,DC,682.0
+# Cases Age [35-44]: Male,2020-05-23 08:36:45 PM,DC,746.0
+# Cases Age [45-54]: Female,2020-05-23 08:36:45 PM,DC,600.0
+# Cases Age [45-54]: Male,2020-05-23 08:36:45 PM,DC,656.0
+# Cases Age [5-14]: Female,2020-05-23 08:36:45 PM,DC,77.0
+# Cases Age [5-14]: Male,2020-05-23 08:36:45 PM,DC,71.0
+# Cases Age [55-64]: Female,2020-05-23 08:36:45 PM,DC,601.0
+# Cases Age [55-64]: Male,2020-05-23 08:36:45 PM,DC,736.0
+# Cases Age [65-74]: Female,2020-05-23 08:36:45 PM,DC,415.0
+# Cases Age [65-74]: Male,2020-05-23 08:36:45 PM,DC,448.0
+# Cases Age [75+]: Female,2020-05-23 08:36:45 PM,DC,447.0
+# Cases Age [75+]: Male,2020-05-23 08:36:45 PM,DC,325.0
+# Cases Age [0-4]: Female,2020-05-24 08:31:06 PM,DC,44.0
+# Cases Age [0-4]: Male,2020-05-24 08:31:06 PM,DC,46.0
+# Cases Age [15-19]: Female,2020-05-24 08:31:06 PM,DC,85.0
+# Cases Age [15-19]: Male,2020-05-24 08:31:06 PM,DC,73.0
+# Cases Age [20-24]: Female,2020-05-24 08:31:06 PM,DC,255.0
+# Cases Age [20-24]: Male,2020-05-24 08:31:06 PM,DC,187.0
+# Cases Age [25-34]: Female,2020-05-24 08:31:06 PM,DC,765.0
+# Cases Age [25-34]: Male,2020-05-24 08:31:06 PM,DC,732.0
+# Cases Age [35-44]: Female,2020-05-24 08:31:06 PM,DC,698.0
+# Cases Age [35-44]: Male,2020-05-24 08:31:06 PM,DC,753.0
+# Cases Age [45-54]: Female,2020-05-24 08:31:06 PM,DC,610.0
+# Cases Age [45-54]: Male,2020-05-24 08:31:06 PM,DC,670.0
+# Cases Age [5-14]: Female,2020-05-24 08:31:06 PM,DC,79.0
+# Cases Age [5-14]: Male,2020-05-24 08:31:06 PM,DC,74.0
+# Cases Age [55-64]: Female,2020-05-24 08:31:06 PM,DC,608.0
+# Cases Age [55-64]: Male,2020-05-24 08:31:06 PM,DC,745.0
+# Cases Age [65-74]: Female,2020-05-24 08:31:06 PM,DC,418.0
+# Cases Age [65-74]: Male,2020-05-24 08:31:06 PM,DC,455.0
+# Cases Age [75+]: Female,2020-05-24 08:31:06 PM,DC,456.0
+# Cases Age [75+]: Male,2020-05-24 08:31:06 PM,DC,331.0
+# Cases Age [0-4]: Female,2020-05-25 08:30:34 PM,DC,44.0
+# Cases Age [0-4]: Male,2020-05-25 08:30:34 PM,DC,48.0
+# Cases Age [15-19]: Female,2020-05-25 08:30:34 PM,DC,86.0
+# Cases Age [15-19]: Male,2020-05-25 08:30:34 PM,DC,73.0
+# Cases Age [20-24]: Female,2020-05-25 08:30:34 PM,DC,259.0
+# Cases Age [20-24]: Male,2020-05-25 08:30:34 PM,DC,187.0
+# Cases Age [25-34]: Female,2020-05-25 08:30:34 PM,DC,774.0
+# Cases Age [25-34]: Male,2020-05-25 08:30:34 PM,DC,750.0
+# Cases Age [35-44]: Female,2020-05-25 08:30:34 PM,DC,710.0
+# Cases Age [35-44]: Male,2020-05-25 08:30:34 PM,DC,770.0
+# Cases Age [45-54]: Female,2020-05-25 08:30:34 PM,DC,623.0
+# Cases Age [45-54]: Male,2020-05-25 08:30:34 PM,DC,673.0
+# Cases Age [5-14]: Female,2020-05-25 08:30:34 PM,DC,79.0
+# Cases Age [5-14]: Male,2020-05-25 08:30:34 PM,DC,74.0
+# Cases Age [55-64]: Female,2020-05-25 08:30:34 PM,DC,614.0
+# Cases Age [55-64]: Male,2020-05-25 08:30:34 PM,DC,753.0
+# Cases Age [65-74]: Female,2020-05-25 08:30:34 PM,DC,423.0
+# Cases Age [65-74]: Male,2020-05-25 08:30:34 PM,DC,464.0
+# Cases Age [75+]: Female,2020-05-25 08:30:34 PM,DC,460.0
+# Cases Age [75+]: Male,2020-05-25 08:30:34 PM,DC,335.0
+# Cases Age [0-4]: Female,2020-05-26 09:04:00 PM,DC,44.0
+# Cases Age [0-4]: Male,2020-05-26 09:04:00 PM,DC,47.0
+# Cases Age [15-19]: Female,2020-05-26 09:04:00 PM,DC,87.0
+# Cases Age [15-19]: Male,2020-05-26 09:04:00 PM,DC,73.0
+# Cases Age [20-24]: Female,2020-05-26 09:04:00 PM,DC,262.0
+# Cases Age [20-24]: Male,2020-05-26 09:04:00 PM,DC,189.0
+# Cases Age [25-34]: Female,2020-05-26 09:04:00 PM,DC,775.0
+# Cases Age [25-34]: Male,2020-05-26 09:04:00 PM,DC,755.0
+# Cases Age [35-44]: Female,2020-05-26 09:04:00 PM,DC,711.0
+# Cases Age [35-44]: Male,2020-05-26 09:04:00 PM,DC,780.0
+# Cases Age [45-54]: Female,2020-05-26 09:04:00 PM,DC,622.0
+# Cases Age [45-54]: Male,2020-05-26 09:04:00 PM,DC,674.0
+# Cases Age [5-14]: Female,2020-05-26 09:04:00 PM,DC,78.0
+# Cases Age [5-14]: Male,2020-05-26 09:04:00 PM,DC,76.0
+# Cases Age [55-64]: Female,2020-05-26 09:04:00 PM,DC,616.0
+# Cases Age [55-64]: Male,2020-05-26 09:04:00 PM,DC,755.0
+# Cases Age [65-74]: Female,2020-05-26 09:04:00 PM,DC,423.0
+# Cases Age [65-74]: Male,2020-05-26 09:04:00 PM,DC,466.0
+# Cases Age [75+]: Female,2020-05-26 09:04:00 PM,DC,461.0
+# Cases Age [75+]: Male,2020-05-26 09:04:00 PM,DC,335.0
+# Cases Age [0-4]: Female,2020-05-27 08:39:49 PM,DC,47.0
+# Cases Age [0-4]: Male,2020-05-27 08:39:49 PM,DC,48.0
+# Cases Age [15-19]: Female,2020-05-27 08:39:49 PM,DC,90.0
+# Cases Age [15-19]: Male,2020-05-27 08:39:49 PM,DC,74.0
+# Cases Age [20-24]: Female,2020-05-27 08:39:49 PM,DC,270.0
+# Cases Age [20-24]: Male,2020-05-27 08:39:49 PM,DC,195.0
+# Cases Age [25-34]: Female,2020-05-27 08:39:49 PM,DC,801.0
+# Cases Age [25-34]: Male,2020-05-27 08:39:49 PM,DC,766.0
+# Cases Age [35-44]: Female,2020-05-27 08:39:49 PM,DC,727.0
+# Cases Age [35-44]: Male,2020-05-27 08:39:49 PM,DC,789.0
+# Cases Age [45-54]: Female,2020-05-27 08:39:49 PM,DC,628.0
+# Cases Age [45-54]: Male,2020-05-27 08:39:49 PM,DC,685.0
+# Cases Age [5-14]: Female,2020-05-27 08:39:49 PM,DC,80.0
+# Cases Age [5-14]: Male,2020-05-27 08:39:49 PM,DC,79.0
+# Cases Age [55-64]: Female,2020-05-27 08:39:49 PM,DC,625.0
+# Cases Age [55-64]: Male,2020-05-27 08:39:49 PM,DC,762.0
+# Cases Age [65-74]: Female,2020-05-27 08:39:49 PM,DC,427.0
+# Cases Age [65-74]: Male,2020-05-27 08:39:49 PM,DC,475.0
+# Cases Age [75+]: Female,2020-05-27 08:39:49 PM,DC,470.0
+# Cases Age [75+]: Male,2020-05-27 08:39:49 PM,DC,338.0
+# Cases Age [0-4]: Female,2020-05-28 08:12:47 PM,DC,52.0
+# Cases Age [0-4]: Male,2020-05-28 08:12:47 PM,DC,51.0
+# Cases Age [15-19]: Female,2020-05-28 08:12:47 PM,DC,94.0
+# Cases Age [15-19]: Male,2020-05-28 08:12:47 PM,DC,78.0
+# Cases Age [20-24]: Female,2020-05-28 08:12:47 PM,DC,269.0
+# Cases Age [20-24]: Male,2020-05-28 08:12:47 PM,DC,198.0
+# Cases Age [25-34]: Female,2020-05-28 08:12:47 PM,DC,809.0
+# Cases Age [25-34]: Male,2020-05-28 08:12:47 PM,DC,774.0
+# Cases Age [35-44]: Female,2020-05-28 08:12:47 PM,DC,737.0
+# Cases Age [35-44]: Male,2020-05-28 08:12:47 PM,DC,792.0
+# Cases Age [45-54]: Female,2020-05-28 08:12:47 PM,DC,634.0
+# Cases Age [45-54]: Male,2020-05-28 08:12:47 PM,DC,694.0
+# Cases Age [5-14]: Female,2020-05-28 08:12:47 PM,DC,83.0
+# Cases Age [5-14]: Male,2020-05-28 08:12:47 PM,DC,82.0
+# Cases Age [55-64]: Female,2020-05-28 08:12:47 PM,DC,628.0
+# Cases Age [55-64]: Male,2020-05-28 08:12:47 PM,DC,768.0
+# Cases Age [65-74]: Female,2020-05-28 08:12:47 PM,DC,427.0
+# Cases Age [65-74]: Male,2020-05-28 08:12:47 PM,DC,478.0
+# Cases Age [75+]: Female,2020-05-28 08:12:47 PM,DC,471.0
+# Cases Age [75+]: Male,2020-05-28 08:12:47 PM,DC,345.0
+# Cases Age [0-4]: Female,2020-05-29 07:58:57 PM,DC,52.0
+# Cases Age [0-4]: Male,2020-05-29 07:58:57 PM,DC,51.0
+# Cases Age [15-19]: Female,2020-05-29 07:58:57 PM,DC,95.0
+# Cases Age [15-19]: Male,2020-05-29 07:58:57 PM,DC,78.0
+# Cases Age [20-24]: Female,2020-05-29 07:58:57 PM,DC,270.0
+# Cases Age [20-24]: Male,2020-05-29 07:58:57 PM,DC,199.0
+# Cases Age [25-34]: Female,2020-05-29 07:58:57 PM,DC,815.0
+# Cases Age [25-34]: Male,2020-05-29 07:58:57 PM,DC,775.0
+# Cases Age [35-44]: Female,2020-05-29 07:58:57 PM,DC,742.0
+# Cases Age [35-44]: Male,2020-05-29 07:58:57 PM,DC,798.0
+# Cases Age [45-54]: Female,2020-05-29 07:58:57 PM,DC,635.0
+# Cases Age [45-54]: Male,2020-05-29 07:58:57 PM,DC,697.0
+# Cases Age [5-14]: Female,2020-05-29 07:58:57 PM,DC,83.0
+# Cases Age [5-14]: Male,2020-05-29 07:58:57 PM,DC,82.0
+# Cases Age [55-64]: Female,2020-05-29 07:58:57 PM,DC,633.0
+# Cases Age [55-64]: Male,2020-05-29 07:58:57 PM,DC,774.0
+# Cases Age [65-74]: Female,2020-05-29 07:58:57 PM,DC,429.0
+# Cases Age [65-74]: Male,2020-05-29 07:58:57 PM,DC,481.0
+# Cases Age [75+]: Female,2020-05-29 07:58:57 PM,DC,476.0
+# Cases Age [75+]: Male,2020-05-29 07:58:57 PM,DC,346.0
+# Cases Age [0-4]: Female,2020-05-30 07:51:25 PM,DC,54.0
+# Cases Age [0-4]: Male,2020-05-30 07:51:25 PM,DC,52.0
+# Cases Age [15-19]: Female,2020-05-30 07:51:25 PM,DC,99.0
+# Cases Age [15-19]: Male,2020-05-30 07:51:25 PM,DC,81.0
+# Cases Age [20-24]: Female,2020-05-30 07:51:25 PM,DC,277.0
+# Cases Age [20-24]: Male,2020-05-30 07:51:25 PM,DC,203.0
+# Cases Age [25-34]: Female,2020-05-30 07:51:25 PM,DC,831.0
+# Cases Age [25-34]: Male,2020-05-30 07:51:25 PM,DC,800.0
+# Cases Age [35-44]: Female,2020-05-30 07:51:25 PM,DC,768.0
+# Cases Age [35-44]: Male,2020-05-30 07:51:25 PM,DC,807.0
+# Cases Age [45-54]: Female,2020-05-30 07:51:25 PM,DC,646.0
+# Cases Age [45-54]: Male,2020-05-30 07:51:25 PM,DC,713.0
+# Cases Age [5-14]: Female,2020-05-30 07:51:25 PM,DC,84.0
+# Cases Age [5-14]: Male,2020-05-30 07:51:25 PM,DC,85.0
+# Cases Age [55-64]: Female,2020-05-30 07:51:25 PM,DC,642.0
+# Cases Age [55-64]: Male,2020-05-30 07:51:25 PM,DC,788.0
+# Cases Age [65-74]: Female,2020-05-30 07:51:25 PM,DC,436.0
+# Cases Age [65-74]: Male,2020-05-30 07:51:25 PM,DC,486.0
+# Cases Age [75+]: Female,2020-05-30 07:51:25 PM,DC,482.0
+# Cases Age [75+]: Male,2020-05-30 07:51:25 PM,DC,353.0
+# Cases Age [0-4]: Female,2020-05-31 08:11:16 PM,DC,54.0
+# Cases Age [0-4]: Male,2020-05-31 08:11:16 PM,DC,52.0
+# Cases Age [15-19]: Female,2020-05-31 08:11:16 PM,DC,100.0
+# Cases Age [15-19]: Male,2020-05-31 08:11:16 PM,DC,81.0
+# Cases Age [20-24]: Female,2020-05-31 08:11:16 PM,DC,277.0
+# Cases Age [20-24]: Male,2020-05-31 08:11:16 PM,DC,206.0
+# Cases Age [25-34]: Female,2020-05-31 08:11:16 PM,DC,840.0
+# Cases Age [25-34]: Male,2020-05-31 08:11:16 PM,DC,806.0
+# Cases Age [35-44]: Female,2020-05-31 08:11:16 PM,DC,772.0
+# Cases Age [35-44]: Male,2020-05-31 08:11:16 PM,DC,810.0
+# Cases Age [45-54]: Female,2020-05-31 08:11:16 PM,DC,653.0
+# Cases Age [45-54]: Male,2020-05-31 08:11:16 PM,DC,717.0
+# Cases Age [5-14]: Female,2020-05-31 08:11:16 PM,DC,85.0
+# Cases Age [5-14]: Male,2020-05-31 08:11:16 PM,DC,85.0
+# Cases Age [55-64]: Female,2020-05-31 08:11:16 PM,DC,647.0
+# Cases Age [55-64]: Male,2020-05-31 08:11:16 PM,DC,795.0
+# Cases Age [65-74]: Female,2020-05-31 08:11:16 PM,DC,440.0
+# Cases Age [65-74]: Male,2020-05-31 08:11:16 PM,DC,494.0
+# Cases Age [75+]: Female,2020-05-31 08:11:16 PM,DC,498.0
+# Cases Age [75+]: Male,2020-05-31 08:11:16 PM,DC,359.0
+# Cases Age [0-4]: Female,2020-06-01 08:05:25 PM,DC,54.0
+# Cases Age [0-4]: Male,2020-06-01 08:05:25 PM,DC,52.0
+# Cases Age [15-19]: Female,2020-06-01 08:05:25 PM,DC,100.0
+# Cases Age [15-19]: Male,2020-06-01 08:05:25 PM,DC,81.0
+# Cases Age [20-24]: Female,2020-06-01 08:05:25 PM,DC,278.0
+# Cases Age [20-24]: Male,2020-06-01 08:05:25 PM,DC,206.0
+# Cases Age [25-34]: Female,2020-06-01 08:05:25 PM,DC,849.0
+# Cases Age [25-34]: Male,2020-06-01 08:05:25 PM,DC,811.0
+# Cases Age [35-44]: Female,2020-06-01 08:05:25 PM,DC,773.0
+# Cases Age [35-44]: Male,2020-06-01 08:05:25 PM,DC,818.0
+# Cases Age [45-54]: Female,2020-06-01 08:05:25 PM,DC,662.0
+# Cases Age [45-54]: Male,2020-06-01 08:05:25 PM,DC,718.0
+# Cases Age [5-14]: Female,2020-06-01 08:05:25 PM,DC,85.0
+# Cases Age [5-14]: Male,2020-06-01 08:05:25 PM,DC,86.0
+# Cases Age [55-64]: Female,2020-06-01 08:05:25 PM,DC,652.0
+# Cases Age [55-64]: Male,2020-06-01 08:05:25 PM,DC,805.0
+# Cases Age [65-74]: Female,2020-06-01 08:05:25 PM,DC,441.0
+# Cases Age [65-74]: Male,2020-06-01 08:05:25 PM,DC,499.0
+# Cases Age [75+]: Female,2020-06-01 08:05:25 PM,DC,498.0
+# Cases Age [75+]: Male,2020-06-01 08:05:25 PM,DC,360.0
+# Cases Age [0-4]: Female,2020-06-02 08:16:04 PM,DC,54.0
+# Cases Age [0-4]: Male,2020-06-02 08:16:04 PM,DC,52.0
+# Cases Age [15-19]: Female,2020-06-02 08:16:04 PM,DC,100.0
+# Cases Age [15-19]: Male,2020-06-02 08:16:04 PM,DC,81.0
+# Cases Age [20-24]: Female,2020-06-02 08:16:04 PM,DC,279.0
+# Cases Age [20-24]: Male,2020-06-02 08:16:04 PM,DC,209.0
+# Cases Age [25-34]: Female,2020-06-02 08:16:04 PM,DC,850.0
+# Cases Age [25-34]: Male,2020-06-02 08:16:04 PM,DC,818.0
+# Cases Age [35-44]: Female,2020-06-02 08:16:04 PM,DC,773.0
+# Cases Age [35-44]: Male,2020-06-02 08:16:04 PM,DC,817.0
+# Cases Age [45-54]: Female,2020-06-02 08:16:04 PM,DC,663.0
+# Cases Age [45-54]: Male,2020-06-02 08:16:04 PM,DC,722.0
+# Cases Age [5-14]: Female,2020-06-02 08:16:04 PM,DC,85.0
+# Cases Age [5-14]: Male,2020-06-02 08:16:04 PM,DC,86.0
+# Cases Age [55-64]: Female,2020-06-02 08:16:04 PM,DC,659.0
+# Cases Age [55-64]: Male,2020-06-02 08:16:04 PM,DC,808.0
+# Cases Age [65-74]: Female,2020-06-02 08:16:04 PM,DC,442.0
+# Cases Age [65-74]: Male,2020-06-02 08:16:04 PM,DC,499.0
+# Cases Age [75+]: Female,2020-06-02 08:16:04 PM,DC,498.0
+# Cases Age [75+]: Male,2020-06-02 08:16:04 PM,DC,362.0
+# Cases Age [0-4]: Female,2020-06-03 07:54:59 PM,DC,56.0
+# Cases Age [0-4]: Male,2020-06-03 07:54:59 PM,DC,53.0
+# Cases Age [15-19]: Female,2020-06-03 07:54:59 PM,DC,100.0
+# Cases Age [15-19]: Male,2020-06-03 07:54:59 PM,DC,83.0
+# Cases Age [20-24]: Female,2020-06-03 07:54:59 PM,DC,283.0
+# Cases Age [20-24]: Male,2020-06-03 07:54:59 PM,DC,215.0
+# Cases Age [25-34]: Female,2020-06-03 07:54:59 PM,DC,872.0
+# Cases Age [25-34]: Male,2020-06-03 07:54:59 PM,DC,827.0
+# Cases Age [35-44]: Female,2020-06-03 07:54:59 PM,DC,788.0
+# Cases Age [35-44]: Male,2020-06-03 07:54:59 PM,DC,836.0
+# Cases Age [45-54]: Female,2020-06-03 07:54:59 PM,DC,670.0
+# Cases Age [45-54]: Male,2020-06-03 07:54:59 PM,DC,725.0
+# Cases Age [5-14]: Female,2020-06-03 07:54:59 PM,DC,98.0
+# Cases Age [5-14]: Male,2020-06-03 07:54:59 PM,DC,87.0
+# Cases Age [55-64]: Female,2020-06-03 07:54:59 PM,DC,668.0
+# Cases Age [55-64]: Male,2020-06-03 07:54:59 PM,DC,813.0
+# Cases Age [65-74]: Female,2020-06-03 07:54:59 PM,DC,443.0
+# Cases Age [65-74]: Male,2020-06-03 07:54:59 PM,DC,506.0
+# Cases Age [75+]: Female,2020-06-03 07:54:59 PM,DC,500.0
+# Cases Age [75+]: Male,2020-06-03 07:54:59 PM,DC,364.0
+# Cases Age [0-4]: Female,2020-06-04 08:09:52 PM,DC,56.0
+# Cases Age [0-4]: Male,2020-06-04 08:09:52 PM,DC,54.0
+# Cases Age [15-19]: Female,2020-06-04 08:09:52 PM,DC,102.0
+# Cases Age [15-19]: Male,2020-06-04 08:09:52 PM,DC,84.0
+# Cases Age [20-24]: Female,2020-06-04 08:09:52 PM,DC,285.0
+# Cases Age [20-24]: Male,2020-06-04 08:09:52 PM,DC,221.0
+# Cases Age [25-34]: Female,2020-06-04 08:09:52 PM,DC,884.0
+# Cases Age [25-34]: Male,2020-06-04 08:09:52 PM,DC,835.0
+# Cases Age [35-44]: Female,2020-06-04 08:09:52 PM,DC,799.0
+# Cases Age [35-44]: Male,2020-06-04 08:09:52 PM,DC,844.0
+# Cases Age [45-54]: Female,2020-06-04 08:09:52 PM,DC,676.0
+# Cases Age [45-54]: Male,2020-06-04 08:09:52 PM,DC,738.0
+# Cases Age [5-14]: Female,2020-06-04 08:09:52 PM,DC,102.0
+# Cases Age [5-14]: Male,2020-06-04 08:09:52 PM,DC,91.0
+# Cases Age [55-64]: Female,2020-06-04 08:09:52 PM,DC,680.0
+# Cases Age [55-64]: Male,2020-06-04 08:09:52 PM,DC,817.0
+# Cases Age [65-74]: Female,2020-06-04 08:09:52 PM,DC,447.0
+# Cases Age [65-74]: Male,2020-06-04 08:09:52 PM,DC,507.0
+# Cases Age [75+]: Female,2020-06-04 08:09:52 PM,DC,501.0
+# Cases Age [75+]: Male,2020-06-04 08:09:52 PM,DC,367.0
+# Cases Age [0-4]: Female,2020-06-05 08:09:20 PM,DC,57.0
+# Cases Age [0-4]: Male,2020-06-05 08:09:20 PM,DC,54.0
+# Cases Age [15-19]: Female,2020-06-05 08:09:20 PM,DC,105.0
+# Cases Age [15-19]: Male,2020-06-05 08:09:20 PM,DC,89.0
+# Cases Age [20-24]: Female,2020-06-05 08:09:20 PM,DC,288.0
+# Cases Age [20-24]: Male,2020-06-05 08:09:20 PM,DC,222.0
+# Cases Age [25-34]: Female,2020-06-05 08:09:20 PM,DC,888.0
+# Cases Age [25-34]: Male,2020-06-05 08:09:20 PM,DC,843.0
+# Cases Age [35-44]: Female,2020-06-05 08:09:20 PM,DC,808.0
+# Cases Age [35-44]: Male,2020-06-05 08:09:20 PM,DC,850.0
+# Cases Age [45-54]: Female,2020-06-05 08:09:20 PM,DC,682.0
+# Cases Age [45-54]: Male,2020-06-05 08:09:20 PM,DC,743.0
+# Cases Age [5-14]: Female,2020-06-05 08:09:20 PM,DC,105.0
+# Cases Age [5-14]: Male,2020-06-05 08:09:20 PM,DC,91.0
+# Cases Age [55-64]: Female,2020-06-05 08:09:20 PM,DC,686.0
+# Cases Age [55-64]: Male,2020-06-05 08:09:20 PM,DC,819.0
+# Cases Age [65-74]: Female,2020-06-05 08:09:20 PM,DC,453.0
+# Cases Age [65-74]: Male,2020-06-05 08:09:20 PM,DC,513.0
+# Cases Age [75+]: Female,2020-06-05 08:09:20 PM,DC,505.0
+# Cases Age [75+]: Male,2020-06-05 08:09:20 PM,DC,370.0
+# Cases Age [0-4]: Female,2020-06-06 08:31:15 PM,DC,58.0
+# Cases Age [0-4]: Male,2020-06-06 08:31:15 PM,DC,55.0
+# Cases Age [15-19]: Female,2020-06-06 08:31:15 PM,DC,106.0
+# Cases Age [15-19]: Male,2020-06-06 08:31:15 PM,DC,89.0
+# Cases Age [20-24]: Female,2020-06-06 08:31:15 PM,DC,292.0
+# Cases Age [20-24]: Male,2020-06-06 08:31:15 PM,DC,226.0
+# Cases Age [25-34]: Female,2020-06-06 08:31:15 PM,DC,896.0
+# Cases Age [25-34]: Male,2020-06-06 08:31:15 PM,DC,854.0
+# Cases Age [35-44]: Female,2020-06-06 08:31:15 PM,DC,813.0
+# Cases Age [35-44]: Male,2020-06-06 08:31:15 PM,DC,852.0
+# Cases Age [45-54]: Female,2020-06-06 08:31:15 PM,DC,687.0
+# Cases Age [45-54]: Male,2020-06-06 08:31:15 PM,DC,750.0
+# Cases Age [5-14]: Female,2020-06-06 08:31:15 PM,DC,109.0
+# Cases Age [5-14]: Male,2020-06-06 08:31:15 PM,DC,93.0
+# Cases Age [55-64]: Female,2020-06-06 08:31:15 PM,DC,694.0
+# Cases Age [55-64]: Male,2020-06-06 08:31:15 PM,DC,820.0
+# Cases Age [65-74]: Female,2020-06-06 08:31:15 PM,DC,457.0
+# Cases Age [65-74]: Male,2020-06-06 08:31:15 PM,DC,513.0
+# Cases Age [75+]: Female,2020-06-06 08:31:15 PM,DC,505.0
+# Cases Age [75+]: Male,2020-06-06 08:31:15 PM,DC,371.0
+# Cases Age [0-4]: Female,2020-06-07 08:28:08 PM,DC,58.0
+# Cases Age [0-4]: Male,2020-06-07 08:28:08 PM,DC,55.0
+# Cases Age [15-19]: Female,2020-06-07 08:28:08 PM,DC,110.0
+# Cases Age [15-19]: Male,2020-06-07 08:28:08 PM,DC,89.0
+# Cases Age [20-24]: Female,2020-06-07 08:28:08 PM,DC,295.0
+# Cases Age [20-24]: Male,2020-06-07 08:28:08 PM,DC,226.0
+# Cases Age [25-34]: Female,2020-06-07 08:28:08 PM,DC,905.0
+# Cases Age [25-34]: Male,2020-06-07 08:28:08 PM,DC,860.0
+# Cases Age [35-44]: Female,2020-06-07 08:28:08 PM,DC,820.0
+# Cases Age [35-44]: Male,2020-06-07 08:28:08 PM,DC,860.0
+# Cases Age [45-54]: Female,2020-06-07 08:28:08 PM,DC,689.0
+# Cases Age [45-54]: Male,2020-06-07 08:28:08 PM,DC,756.0
+# Cases Age [5-14]: Female,2020-06-07 08:28:08 PM,DC,110.0
+# Cases Age [5-14]: Male,2020-06-07 08:28:08 PM,DC,94.0
+# Cases Age [55-64]: Female,2020-06-07 08:28:08 PM,DC,700.0
+# Cases Age [55-64]: Male,2020-06-07 08:28:08 PM,DC,820.0
+# Cases Age [65-74]: Female,2020-06-07 08:28:08 PM,DC,462.0
+# Cases Age [65-74]: Male,2020-06-07 08:28:08 PM,DC,514.0
+# Cases Age [75+]: Female,2020-06-07 08:28:08 PM,DC,508.0
+# Cases Age [75+]: Male,2020-06-07 08:28:08 PM,DC,371.0
+# Cases Age [0-4]: Female,2020-06-08 08:10:06 PM,DC,58.0
+# Cases Age [0-4]: Male,2020-06-08 08:10:06 PM,DC,56.0
+# Cases Age [15-19]: Female,2020-06-08 08:10:06 PM,DC,111.0
+# Cases Age [15-19]: Male,2020-06-08 08:10:06 PM,DC,90.0
+# Cases Age [20-24]: Female,2020-06-08 08:10:06 PM,DC,297.0
+# Cases Age [20-24]: Male,2020-06-08 08:10:06 PM,DC,227.0
+# Cases Age [25-34]: Female,2020-06-08 08:10:06 PM,DC,909.0
+# Cases Age [25-34]: Male,2020-06-08 08:10:06 PM,DC,866.0
+# Cases Age [35-44]: Female,2020-06-08 08:10:06 PM,DC,828.0
+# Cases Age [35-44]: Male,2020-06-08 08:10:06 PM,DC,865.0
+# Cases Age [45-54]: Female,2020-06-08 08:10:06 PM,DC,690.0
+# Cases Age [45-54]: Male,2020-06-08 08:10:06 PM,DC,759.0
+# Cases Age [5-14]: Female,2020-06-08 08:10:06 PM,DC,110.0
+# Cases Age [5-14]: Male,2020-06-08 08:10:06 PM,DC,96.0
+# Cases Age [55-64]: Female,2020-06-08 08:10:06 PM,DC,704.0
+# Cases Age [55-64]: Male,2020-06-08 08:10:06 PM,DC,822.0
+# Cases Age [65-74]: Female,2020-06-08 08:10:06 PM,DC,467.0
+# Cases Age [65-74]: Male,2020-06-08 08:10:06 PM,DC,517.0
+# Cases Age [75+]: Female,2020-06-08 08:10:06 PM,DC,511.0
+# Cases Age [75+]: Male,2020-06-08 08:10:06 PM,DC,375.0
+# Cases Age [0-4]: Female,2020-06-09 08:24:58 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-09 08:24:58 PM,DC,57.0
+# Cases Age [15-19]: Female,2020-06-09 08:24:58 PM,DC,112.0
+# Cases Age [15-19]: Male,2020-06-09 08:24:58 PM,DC,91.0
+# Cases Age [20-24]: Female,2020-06-09 08:24:58 PM,DC,302.0
+# Cases Age [20-24]: Male,2020-06-09 08:24:58 PM,DC,228.0
+# Cases Age [25-34]: Female,2020-06-09 08:24:58 PM,DC,917.0
+# Cases Age [25-34]: Male,2020-06-09 08:24:58 PM,DC,874.0
+# Cases Age [35-44]: Female,2020-06-09 08:24:58 PM,DC,838.0
+# Cases Age [35-44]: Male,2020-06-09 08:24:58 PM,DC,874.0
+# Cases Age [45-54]: Female,2020-06-09 08:24:58 PM,DC,696.0
+# Cases Age [45-54]: Male,2020-06-09 08:24:58 PM,DC,761.0
+# Cases Age [5-14]: Female,2020-06-09 08:24:58 PM,DC,112.0
+# Cases Age [5-14]: Male,2020-06-09 08:24:58 PM,DC,101.0
+# Cases Age [55-64]: Female,2020-06-09 08:24:58 PM,DC,711.0
+# Cases Age [55-64]: Male,2020-06-09 08:24:58 PM,DC,827.0
+# Cases Age [65-74]: Female,2020-06-09 08:24:58 PM,DC,470.0
+# Cases Age [65-74]: Male,2020-06-09 08:24:58 PM,DC,525.0
+# Cases Age [75+]: Female,2020-06-09 08:24:58 PM,DC,513.0
+# Cases Age [75+]: Male,2020-06-09 08:24:58 PM,DC,375.0
+# Cases Age [0-4]: Female,2020-06-10 08:35:23 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-10 08:35:23 PM,DC,58.0
+# Cases Age [15-19]: Female,2020-06-10 08:35:23 PM,DC,112.0
+# Cases Age [15-19]: Male,2020-06-10 08:35:23 PM,DC,92.0
+# Cases Age [20-24]: Female,2020-06-10 08:35:23 PM,DC,303.0
+# Cases Age [20-24]: Male,2020-06-10 08:35:23 PM,DC,231.0
+# Cases Age [25-34]: Female,2020-06-10 08:35:23 PM,DC,924.0
+# Cases Age [25-34]: Male,2020-06-10 08:35:23 PM,DC,878.0
+# Cases Age [35-44]: Female,2020-06-10 08:35:23 PM,DC,845.0
+# Cases Age [35-44]: Male,2020-06-10 08:35:23 PM,DC,880.0
+# Cases Age [45-54]: Female,2020-06-10 08:35:23 PM,DC,698.0
+# Cases Age [45-54]: Male,2020-06-10 08:35:23 PM,DC,767.0
+# Cases Age [5-14]: Female,2020-06-10 08:35:23 PM,DC,113.0
+# Cases Age [5-14]: Male,2020-06-10 08:35:23 PM,DC,102.0
+# Cases Age [55-64]: Female,2020-06-10 08:35:23 PM,DC,717.0
+# Cases Age [55-64]: Male,2020-06-10 08:35:23 PM,DC,831.0
+# Cases Age [65-74]: Female,2020-06-10 08:35:23 PM,DC,477.0
+# Cases Age [65-74]: Male,2020-06-10 08:35:23 PM,DC,529.0
+# Cases Age [75+]: Female,2020-06-10 08:35:23 PM,DC,515.0
+# Cases Age [75+]: Male,2020-06-10 08:35:23 PM,DC,377.0
+# Cases Age [0-4]: Female,2020-06-11 08:21:01 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-11 08:21:01 PM,DC,58.0
+# Cases Age [15-19]: Female,2020-06-11 08:21:01 PM,DC,114.0
+# Cases Age [15-19]: Male,2020-06-11 08:21:01 PM,DC,92.0
+# Cases Age [20-24]: Female,2020-06-11 08:21:01 PM,DC,307.0
+# Cases Age [20-24]: Male,2020-06-11 08:21:01 PM,DC,231.0
+# Cases Age [25-34]: Female,2020-06-11 08:21:01 PM,DC,926.0
+# Cases Age [25-34]: Male,2020-06-11 08:21:01 PM,DC,880.0
+# Cases Age [35-44]: Female,2020-06-11 08:21:01 PM,DC,850.0
+# Cases Age [35-44]: Male,2020-06-11 08:21:01 PM,DC,882.0
+# Cases Age [45-54]: Female,2020-06-11 08:21:01 PM,DC,701.0
+# Cases Age [45-54]: Male,2020-06-11 08:21:01 PM,DC,770.0
+# Cases Age [5-14]: Female,2020-06-11 08:21:01 PM,DC,114.0
+# Cases Age [5-14]: Male,2020-06-11 08:21:01 PM,DC,105.0
+# Cases Age [55-64]: Female,2020-06-11 08:21:01 PM,DC,721.0
+# Cases Age [55-64]: Male,2020-06-11 08:21:01 PM,DC,836.0
+# Cases Age [65-74]: Female,2020-06-11 08:21:01 PM,DC,481.0
+# Cases Age [65-74]: Male,2020-06-11 08:21:01 PM,DC,531.0
+# Cases Age [75+]: Female,2020-06-11 08:21:01 PM,DC,524.0
+# Cases Age [75+]: Male,2020-06-11 08:21:01 PM,DC,377.0
+# Cases Age [0-4]: Female,2020-06-12 08:25:19 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-12 08:25:19 PM,DC,58.0
+# Cases Age [15-19]: Female,2020-06-12 08:25:19 PM,DC,114.0
+# Cases Age [15-19]: Male,2020-06-12 08:25:19 PM,DC,94.0
+# Cases Age [20-24]: Female,2020-06-12 08:25:19 PM,DC,311.0
+# Cases Age [20-24]: Male,2020-06-12 08:25:19 PM,DC,233.0
+# Cases Age [25-34]: Female,2020-06-12 08:25:19 PM,DC,936.0
+# Cases Age [25-34]: Male,2020-06-12 08:25:19 PM,DC,890.0
+# Cases Age [35-44]: Female,2020-06-12 08:25:19 PM,DC,861.0
+# Cases Age [35-44]: Male,2020-06-12 08:25:19 PM,DC,888.0
+# Cases Age [45-54]: Female,2020-06-12 08:25:19 PM,DC,706.0
+# Cases Age [45-54]: Male,2020-06-12 08:25:19 PM,DC,776.0
+# Cases Age [5-14]: Female,2020-06-12 08:25:19 PM,DC,115.0
+# Cases Age [5-14]: Male,2020-06-12 08:25:19 PM,DC,106.0
+# Cases Age [55-64]: Female,2020-06-12 08:25:19 PM,DC,722.0
+# Cases Age [55-64]: Male,2020-06-12 08:25:19 PM,DC,839.0
+# Cases Age [65-74]: Female,2020-06-12 08:25:19 PM,DC,483.0
+# Cases Age [65-74]: Male,2020-06-12 08:25:19 PM,DC,530.0
+# Cases Age [75+]: Female,2020-06-12 08:25:19 PM,DC,526.0
+# Cases Age [75+]: Male,2020-06-12 08:25:19 PM,DC,377.0
+# Cases Age [0-4]: Female,2020-06-13 08:36:54 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-13 08:36:54 PM,DC,59.0
+# Cases Age [15-19]: Female,2020-06-13 08:36:54 PM,DC,114.0
+# Cases Age [15-19]: Male,2020-06-13 08:36:54 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-13 08:36:54 PM,DC,315.0
+# Cases Age [20-24]: Male,2020-06-13 08:36:54 PM,DC,234.0
+# Cases Age [25-34]: Female,2020-06-13 08:36:54 PM,DC,944.0
+# Cases Age [25-34]: Male,2020-06-13 08:36:54 PM,DC,898.0
+# Cases Age [35-44]: Female,2020-06-13 08:36:54 PM,DC,865.0
+# Cases Age [35-44]: Male,2020-06-13 08:36:54 PM,DC,890.0
+# Cases Age [45-54]: Female,2020-06-13 08:36:54 PM,DC,708.0
+# Cases Age [45-54]: Male,2020-06-13 08:36:54 PM,DC,782.0
+# Cases Age [5-14]: Female,2020-06-13 08:36:54 PM,DC,117.0
+# Cases Age [5-14]: Male,2020-06-13 08:36:54 PM,DC,113.0
+# Cases Age [55-64]: Female,2020-06-13 08:36:54 PM,DC,726.0
+# Cases Age [55-64]: Male,2020-06-13 08:36:54 PM,DC,843.0
+# Cases Age [65-74]: Female,2020-06-13 08:36:54 PM,DC,483.0
+# Cases Age [65-74]: Male,2020-06-13 08:36:54 PM,DC,530.0
+# Cases Age [75+]: Female,2020-06-13 08:36:54 PM,DC,526.0
+# Cases Age [75+]: Male,2020-06-13 08:36:54 PM,DC,378.0
+# Cases Age [0-4]: Female,2020-06-14 07:58:41 PM,DC,60.0
+# Cases Age [0-4]: Male,2020-06-14 07:58:41 PM,DC,60.0
+# Cases Age [15-19]: Female,2020-06-14 07:58:41 PM,DC,115.0
+# Cases Age [15-19]: Male,2020-06-14 07:58:41 PM,DC,95.0
+# Cases Age [20-24]: Female,2020-06-14 07:58:41 PM,DC,321.0
+# Cases Age [20-24]: Male,2020-06-14 07:58:41 PM,DC,236.0
+# Cases Age [25-34]: Female,2020-06-14 07:58:41 PM,DC,948.0
+# Cases Age [25-34]: Male,2020-06-14 07:58:41 PM,DC,900.0
+# Cases Age [35-44]: Female,2020-06-14 07:58:41 PM,DC,870.0
+# Cases Age [35-44]: Male,2020-06-14 07:58:41 PM,DC,892.0
+# Cases Age [45-54]: Female,2020-06-14 07:58:41 PM,DC,713.0
+# Cases Age [45-54]: Male,2020-06-14 07:58:41 PM,DC,787.0
+# Cases Age [5-14]: Female,2020-06-14 07:58:41 PM,DC,117.0
+# Cases Age [5-14]: Male,2020-06-14 07:58:41 PM,DC,115.0
+# Cases Age [55-64]: Female,2020-06-14 07:58:41 PM,DC,734.0
+# Cases Age [55-64]: Male,2020-06-14 07:58:41 PM,DC,852.0
+# Cases Age [65-74]: Female,2020-06-14 07:58:41 PM,DC,487.0
+# Cases Age [65-74]: Male,2020-06-14 07:58:41 PM,DC,530.0
+# Cases Age [75+]: Female,2020-06-14 07:58:41 PM,DC,526.0
+# Cases Age [75+]: Male,2020-06-14 07:58:41 PM,DC,380.0
