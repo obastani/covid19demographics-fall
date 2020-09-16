@@ -166,7 +166,7 @@ def run_LA(args):
 
     # New data - Race by parish
     out_parish = []
-    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_and_Deaths_by_Race_by_Parish_and_Region_2/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Parish%20asc&outSR=102100&resultOffset=0&resultRecordCount=65&resultType=standard&cacheHint=true').json()
+    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_and_Deaths_by_Race_by_Parish_and_Region/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=0&resultRecordCount=65&resultType=standard&cacheHint=true').json()
     with open("%s/RacebyParish_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     race_parish_data = raw["features"]
