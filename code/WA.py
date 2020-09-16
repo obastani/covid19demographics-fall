@@ -23,8 +23,8 @@ def run_WA(args):
     data_name = '../WA/data/data.csv'
     now = str(datetime.now())
 
-    headers = {"Referer": "https://www.doh.wa.gov/emergencies/coronavirus", "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36", "Host": "www.doh.wa.gov", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", }
-    dat = requests.get("https://www.doh.wa.gov/emergencies/coronavirus", headers=headers)
+    headers = {"Referer": "https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard", "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36", "Host": "www.doh.wa.gov", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", }
+    dat = requests.get("https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard", headers=headers)
     with open("%s/%s.html" % (raw_name, now), "w") as fp:
         fp.write(dat.text)
     
@@ -32,7 +32,7 @@ def run_WA(args):
     # driver = webdriver.Safari()
     driver = webdriver.Chrome(executable_path="andrew/ChromeDriver/chromedriver.exe")
     driver.maximize_window()
-    driver.get("https://www.doh.wa.gov/emergencies/coronavirus")
+    driver.get("https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard")
     time.sleep(10)
     
     out = {}
