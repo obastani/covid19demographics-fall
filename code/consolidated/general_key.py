@@ -47,7 +47,7 @@ def format_data(folders):
 def iterate_dir():
     """Iterate through directory to get all column names of all files"""
     unwanted = ["SouthKoreaCensus", "US_Census", "unacast", "nytimes"]
-    directory = "../../../covid19-data"
+    directory = "../../../covid19demographics-fall"
     folders = {}
     for folder in os.listdir(directory):
         if folder in unwanted:
@@ -200,7 +200,7 @@ def vlookup(key_df, case):
                     # Find NA values
                     na_list.append(fix_na(current_df, current_file))
                 # Append df to dict
-                key = (current_file.replace("../../../covid19-data/" + current_state + "/data/","")).replace(".csv","")
+                key = (current_file.replace("../../../covid19demographics-fall/" + current_state + "/data/","")).replace(".csv","")
                 if current_state not in new_files.keys():
                     new_files[current_state] = [{key: current_df}]
                 else:
@@ -228,7 +228,7 @@ def vlookup(key_df, case):
         # Find NA values
         na_list.append(fix_na(current_df, current_file))
     # Append df to dict
-    key = (current_file.replace("../../../covid19-data/" + current_state + "/data/","")).replace(".csv","")
+    key = (current_file.replace("../../../covid19demographics-fall/" + current_state + "/data/","")).replace(".csv","")
     if current_state not in new_files.keys():
         new_files[current_state] = [{key: current_df}]
     else:
@@ -248,7 +248,7 @@ def create_JSON(case):
     key_df = key_df.sort_values(by=["File"])
 
     # Remove Unacast
-    key_df = key_df[key_df["File"] != "../../../covid19-data/unacast/data/2020-04-07 22:39:47.057978.csv"]
+    key_df = key_df[key_df["File"] != "../../../covid19demographics-fall/unacast/data/2020-04-07 22:39:47.057978.csv"]
 
     new_files = vlookup(key_df, case)
     
