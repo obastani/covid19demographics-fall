@@ -1,4 +1,5 @@
 # https://www.doh.wa.gov/emergencies/coronavirus
+# https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard
 import csv
 from datetime import datetime
 import json

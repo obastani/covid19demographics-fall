@@ -210,6 +210,7 @@ def run_MS(args):
             html = urlopen("https://msdh.ms.gov/msdhsite/_static/14,0,420,884.html").read()
             soup = BeautifulSoup(html, "html.parser")
             today_str = today.strftime("%m/%d/%Y")
+            # today_str = "09/15/2020"
             try:
                 uploaded = soup.find("li", {"data-dateapproved": today_str})
                 children = uploaded.findChildren("a", recursive=False)
