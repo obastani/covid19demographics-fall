@@ -4,7 +4,7 @@ import shutil
 
 SECONDS_IN_DAY = 24 * 60 * 60
 
-src = "../../covid19-data/"
+src = "../../covid19demographics-fall/"
 dst = "../../covid19demographics/raw/"
 
 now = time.time()
