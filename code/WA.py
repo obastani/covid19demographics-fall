@@ -287,6 +287,7 @@ def run_WA(args):
             if "Total" in str_vals[0] and "Unknown" not in str_vals[0]:
                 continue
             if len(str_vals) != 4:
+                print(str_vals)
                 raise Exception("Unexpected number of values in Race Case table")
             if str_vals[0] not in exp_race:
                 print(str_vals)
