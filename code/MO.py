@@ -142,17 +142,19 @@ def run_MO(args):
         json.dump(death_ethn_raw, fp)
     # Process
     values = death_ethn_raw["features"]
-    expected_fields = ["HISPANIC", "NON HISPANIC", "REFUSED TO ANSWER", "UNKNOWN"]
+    expected_fields = ["HISPANIC", "NON HISPANIC", "OTHER"]
     for ethn in values:
         attributes= ethn["attributes"]
         #print(attributes)
+        # print(attributes["ETHNICITY"])
         if attributes["ETHNICITY"] not in expected_fields:
-            raise Exception("Unexpected field in Ethnicity Deaths")
+            raise Exception("Unexpected field in Ethnicity Deaths: " + attributes["ETHNICITY"])
         out["Total Deaths: ethn_" + attributes["ETHNICITY"]] = attributes["Frequency"]
         if attributes["Percent_"]:
             out["% Total Deaths: ethn_" + attributes["ETHNICITY"]] = attributes["Percent_"] * 100
         else:
             out["% Total Deaths: ethn_" + attributes["ETHNICITY"]] = 0
+
     # Race
     # Case Race
     case_race_raw = requests.get(case_race_link).json()
