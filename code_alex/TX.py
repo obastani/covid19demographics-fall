@@ -50,7 +50,7 @@ def run_TX(args):
         date_rows = existing_df.to_dict('records')
 
     for row_date in date_list:
-
+        #print(row_date)
         if row_date<'2020-05-09':
             
             # Note: Texas does not have demographic data on ALL cases;
@@ -138,10 +138,16 @@ def run_TX(args):
             cases = int(cases_df.loc[cases_df.County=='Total', 'Cases'])
             deaths = int(cases_df.loc[cases_df.County=='Total', 'Fatalities'])
 
-            tests_df = pd.read_excel(raw_xlsx, engine='xlrd', sheet_name='Tests').T.set_index(0).T
-            if 'Location' not in tests_df.columns:
-                tests_df.columns = ['Location', 'Count']
-            tests = int(tests_df.loc[tests_df.Location=='Total Tests', 'Count'])
+            if row_date<='2020-09-13':
+                tests_df = pd.read_excel(raw_xlsx, engine='xlrd', sheet_name='Tests').T.set_index(0).T
+                if 'Location' not in tests_df.columns:
+                    tests_df.columns = ['Location', 'Count']
+                tests = int(tests_df.loc[tests_df.Location=='Total Tests', 'Count'])
+            else:
+                tests_df = pd.read_excel(raw_xlsx, engine='xlrd', sheet_name='Tests by Day').T.set_index(0).T
+                tests_df = tests_df.iloc[:-2,:5].T.set_index(1).T
+                tests_df['date'] = pd.to_datetime(tests_df['Lab Reported Date']).dt.date
+                tests = tests_df['Test Results'].sum()
 
             age_cases_df = pd.read_excel(raw_xlsx, engine='xlrd', sheet_name='Cases by Age Group').T.set_index(0).T.iloc[:13,:]
             age_cases_df.columns = ['Group', 'Counts', '%']
@@ -210,7 +216,8 @@ def run_TX(args):
         os.makedirs(data_folder)
     
     timeseries = pd.DataFrame(date_rows)
-    #timeseries = timeseries[row_data.keys()]
+    timeseries['date'] = pd.to_datetime(timeseries['date']).dt.date
+    timeseries = timeseries.sort_values('date')
     timeseries.to_csv(csv_location, index=False)
 
 if __name__=='__main__':
