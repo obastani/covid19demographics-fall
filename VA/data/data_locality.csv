@@ -8378,3 +8378,136 @@ deaths,fips,hospitalizations,locality,report_date,total_cases,vdh_health_distric
 3,51820,10,Waynesboro,2020-09-22 00:00:00,255,Central Shenandoah
 7,51830,12,Williamsburg,2020-09-22 00:00:00,176,Peninsula
 4,51840,35,Winchester,2020-09-22 00:00:00,490,Lord Fairfax
+19,51001,90,Accomack,2020-09-23 00:00:00,1169,Eastern Shore
+21,51003,74,Albemarle,2020-09-23 00:00:00,1203,Thomas Jefferson
+4,51005,8,Alleghany,2020-09-23 00:00:00,77,Alleghany
+5,51007,13,Amelia,2020-09-23 00:00:00,124,Piedmont
+4,51009,12,Amherst,2020-09-23 00:00:00,381,Central Virginia
+3,51011,13,Appomattox,2020-09-23 00:00:00,208,Central Virginia
+148,51013,497,Arlington,2020-09-23 00:00:00,3877,Arlington
+7,51015,22,Augusta,2020-09-23 00:00:00,470,Central Shenandoah
+0,51017,0,Bath,2020-09-23 00:00:00,6,Central Shenandoah
+12,51019,34,Bedford,2020-09-23 00:00:00,718,Central Virginia
+4,51021,3,Bland,2020-09-23 00:00:00,65,Mount Rogers
+10,51023,23,Botetourt,2020-09-23 00:00:00,292,Alleghany
+4,51025,29,Brunswick,2020-09-23 00:00:00,347,Southside
+2,51027,7,Buchanan,2020-09-23 00:00:00,135,Cumberland Plateau
+9,51029,24,Buckingham,2020-09-23 00:00:00,677,Piedmont
+4,51031,14,Campbell,2020-09-23 00:00:00,422,Central Virginia
+5,51033,28,Caroline,2020-09-23 00:00:00,343,Rappahannock
+23,51035,41,Carroll,2020-09-23 00:00:00,488,Mount Rogers
+5,51036,21,Charles City,2020-09-23 00:00:00,83,Chickahominy
+0,51037,5,Charlotte,2020-09-23 00:00:00,103,Piedmont
+94,51041,319,Chesterfield,2020-09-23 00:00:00,5851,Chesterfield
+0,51043,12,Clarke,2020-09-23 00:00:00,93,Lord Fairfax
+0,51045,1,Craig,2020-09-23 00:00:00,29,Alleghany
+16,51047,94,Culpeper,2020-09-23 00:00:00,1184,Rappahannock Rapidan
+2,51049,8,Cumberland,2020-09-23 00:00:00,104,Piedmont
+1,51051,7,Dickenson,2020-09-23 00:00:00,93,Cumberland Plateau
+11,51053,38,Dinwiddie,2020-09-23 00:00:00,373,Crater
+2,51057,11,Essex,2020-09-23 00:00:00,173,Three Rivers
+583,51059,2147,Fairfax,2020-09-23 00:00:00,20437,Fairfax
+25,51061,47,Fauquier,2020-09-23 00:00:00,917,Rappahannock Rapidan
+8,51063,10,Floyd,2020-09-23 00:00:00,197,New River
+9,51065,35,Fluvanna,2020-09-23 00:00:00,372,Thomas Jefferson
+3,51067,16,Franklin County,2020-09-23 00:00:00,325,West Piedmont
+13,51069,65,Frederick,2020-09-23 00:00:00,860,Lord Fairfax
+0,51071,2,Giles,2020-09-23 00:00:00,85,New River
+2,51073,13,Gloucester,2020-09-23 00:00:00,230,Three Rivers
+7,51075,27,Goochland,2020-09-23 00:00:00,260,Chickahominy
+10,51077,25,Grayson,2020-09-23 00:00:00,307,Mount Rogers
+3,51079,10,Greene,2020-09-23 00:00:00,212,Thomas Jefferson
+11,51081,34,Greensville,2020-09-23 00:00:00,774,Crater
+6,51083,11,Halifax,2020-09-23 00:00:00,332,Southside
+36,51085,97,Hanover,2020-09-23 00:00:00,1248,Chickahominy
+211,51087,422,Henrico,2020-09-23 00:00:00,5331,Henrico
+20,51089,111,Henry,2020-09-23 00:00:00,1025,West Piedmont
+0,51091,0,Highland,2020-09-23 00:00:00,6,Central Shenandoah
+18,51093,35,Isle of Wight,2020-09-23 00:00:00,709,Western Tidewater
+20,51095,64,James City,2020-09-23 00:00:00,838,Peninsula
+1,51097,10,King and Queen,2020-09-23 00:00:00,71,Three Rivers
+4,51099,21,King George,2020-09-23 00:00:00,227,Rappahannock
+2,51101,12,King William,2020-09-23 00:00:00,154,Three Rivers
+0,51103,7,Lancaster,2020-09-23 00:00:00,140,Three Rivers
+7,51105,24,Lee,2020-09-23 00:00:00,262,Lenowisco
+123,51107,428,Loudoun,2020-09-23 00:00:00,6720,Loudoun
+6,51109,30,Louisa,2020-09-23 00:00:00,281,Thomas Jefferson
+3,51111,6,Lunenburg,2020-09-23 00:00:00,113,Piedmont
+3,51113,6,Madison,2020-09-23 00:00:00,103,Rappahannock Rapidan
+0,51115,3,Mathews,2020-09-23 00:00:00,41,Three Rivers
+33,51117,44,Mecklenburg,2020-09-23 00:00:00,671,Southside
+10,51119,7,Middlesex,2020-09-23 00:00:00,112,Three Rivers
+4,51121,21,Montgomery,2020-09-23 00:00:00,1783,New River
+2,51125,4,Nelson,2020-09-23 00:00:00,99,Thomas Jefferson
+2,51127,14,New Kent,2020-09-23 00:00:00,183,Chickahominy
+31,51131,49,Northampton,2020-09-23 00:00:00,305,Eastern Shore
+6,51133,10,Northumberland,2020-09-23 00:00:00,147,Three Rivers
+17,51135,44,Nottoway,2020-09-23 00:00:00,254,Piedmont
+4,51137,20,Orange,2020-09-23 00:00:00,317,Rappahannock Rapidan
+29,51139,42,Page,2020-09-23 00:00:00,389,Lord Fairfax
+24,51141,51,Patrick,2020-09-23 00:00:00,271,West Piedmont
+9,51143,52,Pittsylvania,2020-09-23 00:00:00,969,Pittsylvania-Danville
+5,51145,14,Powhatan,2020-09-23 00:00:00,219,Chesterfield
+12,51147,31,Prince Edward,2020-09-23 00:00:00,568,Piedmont
+5,51149,24,Prince George,2020-09-23 00:00:00,774,Crater
+201,51153,902,Prince William,2020-09-23 00:00:00,12215,Prince William
+5,51155,14,Pulaski,2020-09-23 00:00:00,220,New River
+2,51157,5,Rappahannock,2020-09-23 00:00:00,64,Rappahannock Rapidan
+4,51159,15,Richmond County,2020-09-23 00:00:00,341,Three Rivers
+7,51161,26,Roanoke County,2020-09-23 00:00:00,806,Alleghany
+2,51163,5,Rockbridge,2020-09-23 00:00:00,106,Central Shenandoah
+21,51165,113,Rockingham,2020-09-23 00:00:00,1390,Central Shenandoah
+5,51167,24,Russell,2020-09-23 00:00:00,242,Cumberland Plateau
+4,51169,16,Scott,2020-09-23 00:00:00,181,Lenowisco
+58,51171,87,Shenandoah,2020-09-23 00:00:00,801,Lord Fairfax
+8,51173,39,Smyth,2020-09-23 00:00:00,449,Mount Rogers
+22,51175,21,Southampton,2020-09-23 00:00:00,744,Western Tidewater
+43,51177,132,Spotsylvania,2020-09-23 00:00:00,2106,Rappahannock
+17,51179,155,Stafford,2020-09-23 00:00:00,1971,Rappahannock
+3,51181,8,Surry,2020-09-23 00:00:00,114,Crater
+10,51183,29,Sussex,2020-09-23 00:00:00,419,Crater
+2,51185,15,Tazewell,2020-09-23 00:00:00,278,Cumberland Plateau
+6,51187,24,Warren,2020-09-23 00:00:00,415,Lord Fairfax
+17,51191,54,Washington,2020-09-23 00:00:00,544,Mount Rogers
+3,51193,21,Westmoreland,2020-09-23 00:00:00,266,Three Rivers
+8,51195,32,Wise,2020-09-23 00:00:00,393,Lenowisco
+4,51197,21,Wythe,2020-09-23 00:00:00,227,Mount Rogers
+8,51199,16,York,2020-09-23 00:00:00,537,Peninsula
+68,51510,314,Alexandria,2020-09-23 00:00:00,3741,Alexandria
+3,51520,10,Bristol,2020-09-23 00:00:00,178,Mount Rogers
+1,51530,4,Buena Vista City,2020-09-23 00:00:00,80,Central Shenandoah
+28,51540,29,Charlottesville,2020-09-23 00:00:00,1105,Thomas Jefferson
+70,51550,393,Chesapeake,2020-09-23 00:00:00,4241,Chesapeake
+25,51570,25,Colonial Heights,2020-09-23 00:00:00,250,Chesterfield
+0,51580,1,Covington,2020-09-23 00:00:00,30,Alleghany
+26,51590,84,Danville,2020-09-23 00:00:00,843,Pittsylvania-Danville
+26,51595,33,Emporia,2020-09-23 00:00:00,250,Crater
+7,51600,13,Fairfax City,2020-09-23 00:00:00,134,Fairfax
+6,51610,12,Falls Church,2020-09-23 00:00:00,69,Fairfax
+9,51620,18,Franklin City,2020-09-23 00:00:00,397,Western Tidewater
+5,51630,49,Fredericksburg,2020-09-23 00:00:00,531,Rappahannock
+30,51640,41,Galax,2020-09-23 00:00:00,413,Mount Rogers
+24,51650,63,Hampton,2020-09-23 00:00:00,1793,Hampton
+34,51660,92,Harrisonburg,2020-09-23 00:00:00,2541,Central Shenandoah
+7,51670,36,Hopewell,2020-09-23 00:00:00,387,Crater
+1,51678,3,Lexington,2020-09-23 00:00:00,59,Central Shenandoah
+12,51680,39,Lynchburg,2020-09-23 00:00:00,1336,Central Virginia
+25,51683,128,Manassas City,2020-09-23 00:00:00,1904,Prince William
+7,51685,54,Manassas Park,2020-09-23 00:00:00,607,Prince William
+15,51690,60,Martinsville,2020-09-23 00:00:00,378,West Piedmont
+37,51700,95,Newport News,2020-09-23 00:00:00,2700,Peninsula
+75,51710,355,Norfolk,2020-09-23 00:00:00,4765,Norfolk
+0,51720,3,Norton,2020-09-23 00:00:00,33,Lenowisco
+29,51730,72,Petersburg,2020-09-23 00:00:00,726,Crater
+2,51735,3,Poquoson,2020-09-23 00:00:00,75,Peninsula
+58,51740,274,Portsmouth,2020-09-23 00:00:00,2534,Portsmouth
+1,51750,8,Radford,2020-09-23 00:00:00,725,New River
+60,51760,412,Richmond City,2020-09-23 00:00:00,4551,Richmond
+23,51770,63,Roanoke City,2020-09-23 00:00:00,1621,Roanoke
+4,51775,13,Salem,2020-09-23 00:00:00,263,Alleghany
+0,51790,12,Staunton,2020-09-23 00:00:00,246,Central Shenandoah
+72,51800,123,Suffolk,2020-09-23 00:00:00,1916,Western Tidewater
+83,51810,360,Virginia Beach,2020-09-23 00:00:00,6689,Virginia Beach
+3,51820,10,Waynesboro,2020-09-23 00:00:00,257,Central Shenandoah
+7,51830,12,Williamsburg,2020-09-23 00:00:00,177,Peninsula
+4,51840,35,Winchester,2020-09-23 00:00:00,490,Lord Fairfax
