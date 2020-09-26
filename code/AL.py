@@ -71,7 +71,6 @@ def run_AL(args):
                 attributes = county["attributes"]
                 county_val = {
                     "Scrape Time": now,
-                    "County Name": attributes["CNTYNAME"],
                     "FIPS": attributes["CNTYFIPS"],
                     "Total Cases": attributes["CONFIRMED"],
                     "Total Deaths": attributes["DIED"],
