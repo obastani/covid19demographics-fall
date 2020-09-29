@@ -33,17 +33,12 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/AL/data/data.csv,AL,Total Deaths: Female,Death,Total Deaths: Female,int64
 ../../../covid19demographics-fall/AL/data/data.csv,AL,Total Deaths: Male,Death,Total Deaths: Male,int64
 ../../../covid19demographics-fall/AL/data/data.csv,AL,Total Deaths: Unknown Sex,Death,Total Deaths: Unknown Sex,int64
+../../../covid19demographics-fall/AL/data/data_county.csv,AL,County Name,County,County Name,object
 ../../../covid19demographics-fall/AL/data/data_county.csv,AL,FIPS,County,FIPS,int64
 ../../../covid19demographics-fall/AL/data/data_county.csv,AL,Scrape Time,Scrape Time,Scrape Time,object
 ../../../covid19demographics-fall/AL/data/data_county.csv,AL,Total Cases,Cases,Total Cases,int64
 ../../../covid19demographics-fall/AL/data/data_county.csv,AL,Total Deaths,Death,Total Deaths,int64
-../../../covid19demographics-fall/AL/data/data_county.csv,AL,Total Tested,Testing,Total Tested,int64
-../../../covid19demographics-fall/AL/data/data_county_V1.csv,AL,County Name,County,County Name,object
-../../../covid19demographics-fall/AL/data/data_county_V1.csv,AL,FIPS,County,FIPS,int64
-../../../covid19demographics-fall/AL/data/data_county_V1.csv,AL,Scrape Time,Scrape Time,Scrape Time,object
-../../../covid19demographics-fall/AL/data/data_county_V1.csv,AL,Total Cases,Cases,Total Cases,int64
-../../../covid19demographics-fall/AL/data/data_county_V1.csv,AL,Total Deaths,Death,Total Deaths,int64
-../../../covid19demographics-fall/AL/data/data_county_V1.csv,AL,Total Tested,Testing,Total Tested,float64
+../../../covid19demographics-fall/AL/data/data_county.csv,AL,Total Tested,Testing,Total Tested,float64
 ../../../covid19demographics-fall/AL/data/data_V1.csv,AL,# Cases Age [0-4],Cases,# Cases Age [0-4],int64
 ../../../covid19demographics-fall/AL/data/data_V1.csv,AL,# Cases Age [25-49],Cases,# Cases Age [25-49],int64
 ../../../covid19demographics-fall/AL/data/data_V1.csv,AL,# Cases Age [5-24],Cases,# Cases Age [5-24],int64
@@ -2041,24 +2036,24 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Scrape_Time,Scrape Time,Scrape Time,object
 ../../../covid19demographics-fall/LA/data/data.csv,LA,TestsByStateLab,Testing,Total Tested: State Lab,int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Total Probable Deaths,Probable Deaths,Total Probable Deaths,int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion1,Hospital,Ventilators: In Use (Region 1),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion2,Hospital,Ventilators: In Use (Region 2),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion3,Hospital,Ventilators: In Use (Region 3),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion4,Hospital,Ventilators: In Use (Region 4),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion5,Hospital,Ventilators: In Use (Region 5),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion6,Hospital,Ventilators: In Use (Region 6),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion7,Hospital,Ventilators: In Use (Region 7),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion8,Hospital,Ventilators: In Use (Region 8),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion9,Hospital,Ventilators: In Use (Region 9),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion1,Hospital,Ventilators: Available (Region 1),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion2,Hospital,Ventilators: Available (Region 2),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion3,Hospital,Ventilators: Available (Region 3),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion4,Hospital,Ventilators: Available (Region 4),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion5,Hospital,Ventilators: Available (Region 5),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion6,Hospital,Ventilators: Available (Region 6),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion7,Hospital,Ventilators: Available (Region 7),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion8,Hospital,Ventilators: Available (Region 8),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion9,Hospital,Ventilators: Available (Region 9),float64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion1,Hospital,Ventilators: In Use (Region 1),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion2,Hospital,Ventilators: In Use (Region 2),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion3,Hospital,Ventilators: In Use (Region 3),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion4,Hospital,Ventilators: In Use (Region 4),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion5,Hospital,Ventilators: In Use (Region 5),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion6,Hospital,Ventilators: In Use (Region 6),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion7,Hospital,Ventilators: In Use (Region 7),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion8,Hospital,Ventilators: In Use (Region 8),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_InUseRegion9,Hospital,Ventilators: In Use (Region 9),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion1,Hospital,Ventilators: Available (Region 1),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion2,Hospital,Ventilators: Available (Region 2),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion3,Hospital,Ventilators: Available (Region 3),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion4,Hospital,Ventilators: Available (Region 4),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion5,Hospital,Ventilators: Available (Region 5),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion6,Hospital,Ventilators: Available (Region 6),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion7,Hospital,Ventilators: Available (Region 7),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion8,Hospital,Ventilators: Available (Region 8),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Vent_StillAvailableRegion9,Hospital,Ventilators: Available (Region 9),int64
 ../../../covid19demographics-fall/LA/data/dataV1.csv,LA,Case_Pct_Female,Cases,% Total Cases: Female,int64
 ../../../covid19demographics-fall/LA/data/dataV1.csv,LA,Case_Pct_Male,Cases,% Total Cases: Male,int64
 ../../../covid19demographics-fall/LA/data/dataV1.csv,LA,Case_Pct_Other,Cases,% Total Cases: Other Sex,int64
@@ -3283,10 +3278,10 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [40-49],Cases,% Cases Age [40-49],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [50-59],Cases,% Cases Age [50-59],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [60-69],Cases,% Cases Age [60-69],float64
-../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [70-79],Cases,% Cases Age [70-79],object
+../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [70-79],Cases,% Cases Age [70-79],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [80+],Cases,% Cases Age [80+],object
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Scrape_Time,Scrape Time,Scrape Time,object
-../../../covid19demographics-fall/ME/data/data.csv,ME,Total Cases: Female,Cases,Total Cases: Female,object
+../../../covid19demographics-fall/ME/data/data.csv,ME,Total Cases: Female,Cases,Total Cases: Female,int64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Cases: Male,Cases,Total Cases: Male,int64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Confirmed Cases: Female,Cases,Total Confirmed Cases: Female,int64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Confirmed Cases: Male,Cases,Total Confirmed Cases: Male,int64
@@ -3736,7 +3731,7 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/MO/data/data.csv,MO,% Total Cases: race_WHITE,Cases,% Cases Race/Ethnicity: WHITE,float64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,% Total Deaths: ethn_HISPANIC,Death,% Deaths Race/Ethnicity: HISPANIC,float64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,% Total Deaths: ethn_NON HISPANIC,Death,% Deaths Race/Ethnicity: NON HISPANIC,float64
-../../../covid19demographics-fall/MO/data/data.csv,MO,% Total Deaths: ethn_OTHER,Death,% Deaths Race/Ethnicity: Other Ethnicity,float64
+../../../covid19demographics-fall/MO/data/data.csv,MO,% Total Deaths: ethn_UNKNOWN,Death,% Deaths Race/Ethnicity: UNKNOWN ETHNICITY,float64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,% Total Deaths: race_Black,Death,% Deaths Race/Ethnicity: BLACK,float64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,% Total Deaths: race_Multi race,Death,% Deaths Race/Ethnicity: MULTI RACE,float64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,% Total Deaths: race_Other race,Death,% Deaths Race/Ethnicity: OTHER RACE,float64
@@ -3759,7 +3754,7 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/MO/data/data.csv,MO,Total Deaths,Death,Total Deaths,int64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,Total Deaths: ethn_HISPANIC,Death,# Deaths Race/Ethnicity: HISPANIC,int64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,Total Deaths: ethn_NON HISPANIC,Death,# Deaths Race/Ethnicity: NON HISPANIC,int64
-../../../covid19demographics-fall/MO/data/data.csv,MO,Total Deaths: ethn_OTHER,Death,# Deaths Race/Ethnicity: Other Ethnicity,int64
+../../../covid19demographics-fall/MO/data/data.csv,MO,Total Deaths: ethn_UNKNOWN,Death,# Deaths Race/Ethnicity: UNKNOWN ETHNICITY,int64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,Total Deaths: race_Black,Death,# Deaths Race/Ethnicity: BLACK,int64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,Total Deaths: race_Multi race,Death,# Deaths Race/Ethnicity: MULTI RACE,int64
 ../../../covid19demographics-fall/MO/data/data.csv,MO,Total Deaths: race_Other race,Death,# Deaths Race/Ethnicity: OTHER RACE,int64
@@ -3884,70 +3879,6 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/MO/data/data_V1.csv,MO,Age_fatality60-69,Death,# Deaths Age [60-69],float64
 ../../../covid19demographics-fall/MO/data/data_V1.csv,MO,Age_fatality70-79,Death,# Deaths Age [70-79],float64
 ../../../covid19demographics-fall/MO/data/data_V1.csv,MO,Age_fatality80+,Death,# Deaths Age [80+],float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [0-19],Cases,# Cases Age [0-19],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [20-24],Cases,# Cases Age [20-24],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [25-29],Cases,# Cases Age [25-29],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [30-34],Cases,# Cases Age [30-34],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [35-39],Cases,# Cases Age [35-39],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [40-44],Cases,# Cases Age [40-44],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [45-49],Cases,# Cases Age [45-49],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [50-54],Cases,# Cases Age [50-54],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [55-59],Cases,# Cases Age [55-59],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [60-64],Cases,# Cases Age [60-64],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [65-69],Cases,# Cases Age [65-69],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [70-74],Cases,# Cases Age [70-74],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [75-79],Cases,# Cases Age [75-79],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Cases Age [80+],Cases,# Cases Age [80+],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Deaths Age [0-19],Death,# Deaths Age [0-19],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Deaths Age [20-29],Death,# Deaths Age [20-29],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Deaths Age [30-39],Death,# Deaths Age [30-39],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Deaths Age [40-49],Death,# Deaths Age [40-49],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Deaths Age [50-59],Death,# Deaths Age [50-59],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Deaths Age [60-69],Death,# Deaths Age [60-69],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Deaths Age [70-79],Death,# Deaths Age [70-79],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,# Deaths Age [80+],Death,# Deaths Age [80+],int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: ethn_HISPANIC,Cases,% Cases Race/Ethnicity: HISPANIC,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: ethn_NON HISPANIC,Cases,% Cases Race/Ethnicity: NON HISPANIC,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: ethn_OTHER,Cases,% Cases Race/Ethnicity: Other Ethnicity,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: race_BLACK,Cases,% Cases Race/Ethnicity: BLACK,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: race_MULTI RACE,Cases,% Cases Race/Ethnicity: MULTI RACE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: race_Other Race,Cases,% Cases Race/Ethnicity: OTHER RACE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: race_REFUSED TO ANSWER RACE,Cases,% Cases Race/Ethnicity: REFUSED TO ANSWER RACE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: race_UNKNOWN RACE,Cases,% Cases Race/Ethnicity: UNKNOWN RACE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Cases: race_WHITE,Cases,% Cases Race/Ethnicity: WHITE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Deaths: ethn_HISPANIC,Death,% Deaths Race/Ethnicity: HISPANIC,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Deaths: ethn_NON HISPANIC,Death,% Deaths Race/Ethnicity: NON HISPANIC,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Deaths: ethn_UNKNOWN,Death,% Deaths Race/Ethnicity: UNKNOWN ETHNICITY,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Deaths: race_Black,Death,% Deaths Race/Ethnicity: BLACK,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Deaths: race_Multi race,Death,% Deaths Race/Ethnicity: MULTI RACE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Deaths: race_Other race,Death,% Deaths Race/Ethnicity: OTHER RACE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Deaths: race_Unknown race,Death,% Deaths Race/Ethnicity: UNKNOWN RACE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,% Total Deaths: race_White,Death,% Deaths Race/Ethnicity: WHITE,float64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Scrape_Time,Scrape Time,Scrape Time,object
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases,Cases,Total Cases,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: Female,Cases,Total Cases: Female,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: Male,Cases,Total Cases: Male,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: UnknownGender,Cases,Total Cases: UnknownGender,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: ethn_HISPANIC,Cases,# Cases Race/Ethnicity: HISPANIC,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: ethn_NON HISPANIC,Cases,# Cases Race/Ethnicity: NON HISPANIC,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: ethn_OTHER,Cases,# Cases Race/Ethnicity: Other Ethnicity,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: race_BLACK,Cases,# Cases Race/Ethnicity: BLACK,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: race_MULTI RACE,Cases,# Cases Race/Ethnicity: MULTI RACE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: race_Other Race,Cases,# Cases Race/Ethnicity: OTHER RACE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: race_REFUSED TO ANSWER RACE,Cases,# Cases Race/Ethnicity: REFUSED TO ANSWER RACE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: race_UNKNOWN RACE,Cases,# Cases Race/Ethnicity: UNKNOWN RACE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Cases: race_WHITE,Cases,# Cases Race/Ethnicity: WHITE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths,Death,Total Deaths,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths: ethn_HISPANIC,Death,# Deaths Race/Ethnicity: HISPANIC,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths: ethn_NON HISPANIC,Death,# Deaths Race/Ethnicity: NON HISPANIC,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths: ethn_UNKNOWN,Death,# Deaths Race/Ethnicity: UNKNOWN ETHNICITY,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths: race_Black,Death,# Deaths Race/Ethnicity: BLACK,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths: race_Multi race,Death,# Deaths Race/Ethnicity: MULTI RACE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths: race_Other race,Death,# Deaths Race/Ethnicity: OTHER RACE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths: race_Unknown race,Death,# Deaths Race/Ethnicity: UNKNOWN RACE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Deaths: race_White,Death,# Deaths Race/Ethnicity: WHITE,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Tested: PCR,Testing,Total Tested: PCR,int64
-../../../covid19demographics-fall/MO/data/data_V10.csv,MO,Total Tested: Serology,Testing,Total Tested: Serology,int64
 ../../../covid19demographics-fall/MO/data/data_V2.csv,MO,# Cases Age [0-19],Cases,# Cases Age [0-19],int64
 ../../../covid19demographics-fall/MO/data/data_V2.csv,MO,# Cases Age [20-24],Cases,# Cases Age [20-24],int64
 ../../../covid19demographics-fall/MO/data/data_V2.csv,MO,# Cases Age [25-29],Cases,# Cases Age [25-29],int64
@@ -4810,8 +4741,8 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive: Female,Cases,Total Positive: Female,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive: Male,Cases,Total Positive: Male,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Recovered,Recovered,Total Recovered,int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Tested: Unique Individuals,Testing,Total Tested: Unique Individuals,float64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Tests,Testing,Total Tests,float64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Tested: Unique Individuals,Testing,Total Tested: Unique Individuals,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Tests,Testing,Total Tests,int64
 ../../../covid19demographics-fall/ND/data/dataV1.csv,ND,Age_0_9,Cases,# Cases Age [0-9],int64
 ../../../covid19demographics-fall/ND/data/dataV1.csv,ND,Age_10_19,Cases,# Cases Age [10-19],int64
 ../../../covid19demographics-fall/ND/data/dataV1.csv,ND,Age_20_29,Cases,# Cases Age [20-29],int64
@@ -7506,7 +7437,7 @@ Grouping]",object
 ../../../covid19demographics-fall/WV/data/data_county_V4.csv,WV,Total Probable Cases,Cases,Total Probable Cases,int64
 ../../../covid19demographics-fall/WV/data/data_county_V4.csv,WV,Total Recovered,Recovered,Total Recovered,int64
 ../../../covid19demographics-fall/WY/data/data.csv,WY,CommercialLabTotalTest,Testing,Total Tested: Commercial Lab,int64
-../../../covid19demographics-fall/WY/data/data.csv,WY,Deaths,Death,Total Deaths,float64
+../../../covid19demographics-fall/WY/data/data.csv,WY,Deaths,Death,Total Deaths,int64
 ../../../covid19demographics-fall/WY/data/data.csv,WY,Pct_Age_0_17,Cases,% Cases Age [0-17],float64
 ../../../covid19demographics-fall/WY/data/data.csv,WY,Pct_Age_18_29,Cases,% Cases Age [18-29],float64
 ../../../covid19demographics-fall/WY/data/data.csv,WY,Pct_Age_30_39,Cases,% Cases Age [30-39],float64
