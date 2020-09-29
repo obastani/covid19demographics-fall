@@ -143,11 +143,33 @@ def run_TX(args):
                 if 'Location' not in tests_df.columns:
                     tests_df.columns = ['Location', 'Count']
                 tests = int(tests_df.loc[tests_df.Location=='Total Tests', 'Count'])
-            else:
+            elif row_date<='2020-09-23':
                 tests_df = pd.read_excel(raw_xlsx, engine='xlrd', sheet_name='Tests by Day').T.set_index(0).T
                 tests_df = tests_df.iloc[:-2,:5].T.set_index(1).T
                 tests_df['date'] = pd.to_datetime(tests_df['Lab Reported Date']).dt.date
                 tests = tests_df['Test Results'].sum()
+            else:
+                # After this date, it seems tests data aren't included in every spreadsheet
+                # may be that testing data is only included on weekdays
+                try:
+                    tests_df = pd.read_excel(raw_xlsx, engine='xlrd', sheet_name='Tests by Day').T.set_index(0).T
+                    tests_df = tests_df.iloc[:-2,:5].T.set_index(1).T
+                    tests_df['date'] = pd.to_datetime(tests_df['Lab Reported Date']).dt.date
+                    tests = tests_df['Test Results'].sum()
+                except:
+                    tests = None
+
+        # Starting 9/25/2020, demographic data is reported in separate
+        # spreadsheet and only updated on Fridays
+        sex_data = {}
+        age_data = {}
+        race_data = {}
+        is_friday = (datetime.date.today().weekday() == 4)
+        if ('2020-05-09' < row_date <'2020-09-25') or (row_date >= '2020-09-25' and is_friday):
+            if (row_date >= '2020-09-25' and is_friday):
+                demo_url = 'https://dshs.texas.gov/coronavirus/TexasCOVID19Demographics.xlsx.asp'
+                raw_demo_xlsx = fetch(demo_url, date=row_date, extension='xlsx')
+                raw_xlsx = raw_demo_xlsx
 
             age_cases_df = pd.read_excel(raw_xlsx, engine='xlrd', sheet_name='Cases by Age Group').T.set_index(0).T.iloc[:13,:]
             age_cases_df.columns = ['Group', 'Counts', '%']

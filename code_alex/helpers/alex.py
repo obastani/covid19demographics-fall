@@ -87,6 +87,7 @@ def fetch_(url,
         if (dparser.parse(date).date() < datetime.date.today()):
             if time_travel==False:
                 print('Requested date/file not cached (cannot travel back in time!)')
+                print(filepath)
                 return(False)
 
             elif time_travel=='wayback':
@@ -143,7 +144,7 @@ def fetch_(url,
             return(False)
 
         
-        if url.endswith('.xlsx'):
+        if url.endswith('.xlsx') or extension=='xlsx':
             if save:
                 with open(filepath, 'wb+') as file:
                     file.write(response.content)

@@ -61,7 +61,7 @@ def run_UT(args):
         existing_df = pd.read_csv(csv_location)
         date_rows = existing_df.to_dict('records')
 
-    
+    #date_list = ['2020-09-26']
     for row_date in date_list:
         url = 'https://coronavirus-dashboard.utah.gov/'
 
@@ -122,6 +122,7 @@ def run_UT(args):
 
         # Overall age breakdown
         patterns = [
+            re.compile('utah\-residents\-diagnosed\-with\-covid\-19\-by\-age'),
             re.compile('utah\-residents\-with\-covid\-19\-demographics\-table'),
             re.compile('total\-utah\-residents\-with\-covid\-19\-by\-age'),
             re.compile('total\-people\-living\-in\-utah\-with\-covid\-19\-by\-age')
@@ -133,6 +134,7 @@ def run_UT(args):
         
         age_json = json.loads(age_html.find('script').text)
         age_df = pd.DataFrame(age_json['x']['data']).T
+        #print(age_json)
         age_df.columns = pd.read_html(age_json['x']['container'])[0].columns
         age_df['Age Group'] = age_df['Age Group'].apply(lambda r: r.rstrip(' years'))
         age_df.loc[0, 'Age Group'] = '0-1'
