@@ -3263,7 +3263,7 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/ME/data/data.csv,ME,# Cases Age [30-39],Cases,# Cases Age [30-39],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,# Cases Age [40-49],Cases,# Cases Age [40-49],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,# Cases Age [50-59],Cases,# Cases Age [50-59],float64
-../../../covid19demographics-fall/ME/data/data.csv,ME,# Cases Age [60-69],Cases,# Cases Age [60-69],float64
+../../../covid19demographics-fall/ME/data/data.csv,ME,# Cases Age [60-69],Cases,# Cases Age [60-69],object
 ../../../covid19demographics-fall/ME/data/data.csv,ME,# Cases Age [70-79],Cases,# Cases Age [70-79],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,# Cases Age [80+],Cases,# Cases Age [80+],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,# Cases Race/Ethnicity: American Indian or Alaska Native,Cases,# Cases Race/Ethnicity: American Indian or Alaska Native,int64
@@ -3284,7 +3284,7 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [50-59],Cases,% Cases Age [50-59],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [60-69],Cases,% Cases Age [60-69],float64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [70-79],Cases,% Cases Age [70-79],object
-../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [80+],Cases,% Cases Age [80+],float64
+../../../covid19demographics-fall/ME/data/data.csv,ME,% Cases Age [80+],Cases,% Cases Age [80+],object
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Scrape_Time,Scrape Time,Scrape Time,object
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Cases: Female,Cases,Total Cases: Female,object
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Cases: Male,Cases,Total Cases: Male,int64
@@ -4755,15 +4755,15 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Hospitalized Age [80+],Hospital,# Hospitalized Age [80+],int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [0-5],Cases,# Positive Cases Age [0-5],int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [12-14],Cases,# Positive Cases Age [12-14],int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [15-19],Cases,# Positive Cases Age [15-19],object
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [20-29],Cases,# Positive Cases Age [20-29],object
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [30-39],Cases,# Positive Cases Age [30-39],object
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [40-49],Cases,# Positive Cases Age [40-49],object
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [50-59],Cases,# Positive Cases Age [50-59],object
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [15-19],Cases,# Positive Cases Age [15-19],int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [20-29],Cases,# Positive Cases Age [20-29],int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [30-39],Cases,# Positive Cases Age [30-39],int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [40-49],Cases,# Positive Cases Age [40-49],int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [50-59],Cases,# Positive Cases Age [50-59],int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [6-11],Cases,# Positive Cases Age [6-11],int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [60-69],Cases,# Positive Cases Age [60-69],object
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [70-79],Cases,# Positive Cases Age [70-79],object
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [80+],Cases,# Positive Cases Age [80+],object
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [60-69],Cases,# Positive Cases Age [60-69],int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [70-79],Cases,# Positive Cases Age [70-79],int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Positive Cases Age [80+],Cases,# Positive Cases Age [80+],int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,% ICU occupied due to COVID,Hospital,% ICU occupied due to COVID,float64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,% Non-ICU occupied due to COVID,Hospital,% Non-ICU occupied due to COVID,float64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Active Positive Cases,Hospital,Active Positive Cases,int64
@@ -4781,34 +4781,34 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Race: Asian,Cases,# Active Cases Race/Ethnicity: Asian,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Race: Black,Cases,# Active Cases Race/Ethnicity: Black,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Race: Other,Cases,# Active Cases Race/Ethnicity: Other Race,int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Race: Unknown,Cases,# Active Cases Race/Ethnicity: Unknown Race,object
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Race: White,Cases,# Active Cases Race/Ethnicity: White,object
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Race: Unknown,Cases,# Active Cases Race/Ethnicity: Unknown Race,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Race: White,Cases,# Active Cases Race/Ethnicity: White,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Spread Type: Close Contact,Cases,Total Active Spread Type: Close Contact,int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Spread Type: Community,Cases,Total Active Spread Type: Community,object
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Spread Type: Community,Cases,Total Active Spread Type: Community,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Spread Type: Household Contact,Cases,Total Active Spread Type: Household Contact,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Spread Type: Travel,Cases,Total Active Spread Type: Travel,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Spread Type: Under Investigation,Cases,Total Active Spread Type: Under Investigation,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active Spread Type: Unknown,Cases,Total Active Spread Type: Unknown,int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active: Female,Cases,Total Active: Female,object
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active: Male,Cases,Total Active: Male,object
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active: Female,Cases,Total Active: Female,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Active: Male,Cases,Total Active: Male,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Deaths,Death,Total Deaths,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Cases,Cases,Total Positive Cases,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Cases: Tested Negative before Positive,Cases,Total Positive Cases: Tested Negative before Positive,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: 2 or More,Cases,# Positive Cases Race/Ethnicity: 2 or More Races,int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: American Indian,Cases,# Positive Cases Race/Ethnicity: American Indian,object
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: American Indian,Cases,# Positive Cases Race/Ethnicity: American Indian,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: Asian,Cases,# Positive Cases Race/Ethnicity: Asian,int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: Black,Cases,# Positive Cases Race/Ethnicity: Black,object
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: Black,Cases,# Positive Cases Race/Ethnicity: Black,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: Other,Cases,# Positive Cases Race/Ethnicity: Other Race,int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: Unknown,Cases,# Positive Cases Race/Ethnicity: Unknown Race,object
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: White,Cases,# Positive Cases Race/Ethnicity: White,object
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Close Contact,Cases,Total Positive Spread Type: Close Contact,object
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Community,Cases,Total Positive Spread Type: Community,object
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Household Contact,Cases,Total Positive Spread Type: Household Contact,object
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: Unknown,Cases,# Positive Cases Race/Ethnicity: Unknown Race,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Race: White,Cases,# Positive Cases Race/Ethnicity: White,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Close Contact,Cases,Total Positive Spread Type: Close Contact,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Community,Cases,Total Positive Spread Type: Community,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Household Contact,Cases,Total Positive Spread Type: Household Contact,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Travel,Cases,Total Positive Spread Type: Travel,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Under Investigation,Cases,Total Positive Spread Type: Under Investigation,int64
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Unknown,Cases,Total Positive Spread Type: Unknown,object
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive: Female,Cases,Total Positive: Female,object
-../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive: Male,Cases,Total Positive: Male,object
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive Spread Type: Unknown,Cases,Total Positive Spread Type: Unknown,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive: Female,Cases,Total Positive: Female,int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,Total Positive: Male,Cases,Total Positive: Male,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Recovered,Recovered,Total Recovered,int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Tested: Unique Individuals,Testing,Total Tested: Unique Individuals,float64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,Total Tests,Testing,Total Tests,float64
@@ -6324,7 +6324,7 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/RI/data/data.csv,RI,# Cases Age [70-79],Cases,# Cases Age [70-79],int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,# Cases Age [80-89],Cases,# Cases Age [80-89],int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,# Cases Age [90+],Cases,# Cases Age [90+],int64
-../../../covid19demographics-fall/RI/data/data.csv,RI,# Cases Age [Pending further information],Cases,# Cases Age [Pending further information],object
+../../../covid19demographics-fall/RI/data/data.csv,RI,# Cases Age [Pending further information],Cases,# Cases Age [Pending further information],int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,# Deaths Age [0-4],Death,# Deaths Age [0-4],int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,# Deaths Age [10-14],Death,# Deaths Age [10-14],object
 ../../../covid19demographics-fall/RI/data/data.csv,RI,# Deaths Age [15-18],Death,# Deaths Age [15-18],int64
@@ -6384,8 +6384,8 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_Sex: Female,Hospital,Total Hospitalized:  Female,int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_Sex: Male,Hospital,Total Hospitalized:  Male,int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_Sex: Other,Hospital,Total Hospitalized:  Other Sex,int64
-../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_Sex: Pending further information,Hospital,Total Hospitalized: Unknown Sex,object
-../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_race/ethn: American Indian or Alaska Native*,Hospital,# Hospitalized Race/Ethnicity: American Indian or Alaska Native,object
+../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_Sex: Pending further information,Hospital,Total Hospitalized: Unknown Sex,int64
+../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_race/ethn: American Indian or Alaska Native*,Hospital,# Hospitalized Race/Ethnicity: American Indian or Alaska Native,int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_race/ethn: Asian*,Hospital,# Hospitalized Race/Ethnicity: Asian,int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_race/ethn: Black or African American*,Hospital,# Hospitalized Race/Ethnicity: Black or African American,int64
 ../../../covid19demographics-fall/RI/data/data.csv,RI,Hospitalizations_race/ethn: Declined,Hospital,# Hospitalized Race/Ethnicity: Declined,int64
@@ -6970,7 +6970,7 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/TX/data/data.csv,TX,date,Date,Report Date,object
 ../../../covid19demographics-fall/TX/data/data.csv,TX,Cases,Cases,Total Cases,int64
 ../../../covid19demographics-fall/TX/data/data.csv,TX,Deaths,Death,Total Deaths,int64
-../../../covid19demographics-fall/TX/data/data.csv,TX,Tests,Testing,Total Tested,float64
+../../../covid19demographics-fall/TX/data/data.csv,TX,Tests,Testing,Total Tested,int64
 ../../../covid19demographics-fall/TX/data/data.csv,TX,Sex_Cases [Male],Cases,Total Cases: Male,float64
 ../../../covid19demographics-fall/TX/data/data.csv,TX,Sex_Cases [Female],Cases,Total Cases: Female,float64
 ../../../covid19demographics-fall/TX/data/data.csv,TX,Sex_Cases [Unknown],Cases,Total Cases: Unknown Sex,float64
@@ -7027,12 +7027,6 @@ Grouping]",object
 ../../../covid19demographics-fall/TX/data/data.csv,TX,Race_Cases [Race/Ethnicity],Cases,Race_Cases [Race/Ethnicity],object
 ../../../covid19demographics-fall/TX/data/data.csv,TX,Race_Deaths [Race/Ethnicity],Death,Race_Deaths [Race/Ethnicity],object
 ../../../covid19demographics-fall/TX/data/data.csv,TX,Age_Cases [Pending DOB],Cases,# Cases Age [Pending DOB],float64
-../../../covid19demographics-fall/TX/data/data.csv,TX,Sex_Cases [Total],Cases,Total Cases: All Sexes,float64
-../../../covid19demographics-fall/TX/data/data.csv,TX,Sex_Deaths [Total],Death,Total Deaths: All Sexes,float64
-../../../covid19demographics-fall/TX/data/data.csv,TX,Age_Cases [Total],Cases,Total Cases: All Ages,float64
-../../../covid19demographics-fall/TX/data/data.csv,TX,Age_Deaths [Grand Total],Death,Total Deaths: All Ages,float64
-../../../covid19demographics-fall/TX/data/data.csv,TX,Race_Cases [Total],Cases,Total Cases: All Races,float64
-../../../covid19demographics-fall/TX/data/data.csv,TX,Race_Deaths [Total ],Death,Total Deaths: All Races,float64
 ../../../covid19demographics-fall/UT/data/data.csv,UT,state,State,State Name,object
 ../../../covid19demographics-fall/UT/data/data.csv,UT,stateAbbrev,State,State,object
 ../../../covid19demographics-fall/UT/data/data.csv,UT,date,Date,Report Date,object
