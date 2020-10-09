@@ -10,6 +10,33 @@ def fetch(url, **kwargs):
         kwargs['state'] = state
     return(fetch_(url, **kwargs))
 
+def get_data_from_url(url, data_type=float, index_key=False):
+    r = fetch(url)
+    data = json.loads(r)
+    if data_type==float:
+        output = data['features'][0]['attributes']['value']
+    elif data_type==dict and index_key!='all':
+        features = data['features']
+        output = {}
+        for f in features:
+            if not index_key:
+                index_key = [k for k in f['attributes'].keys() if k!='value'][0]
+            key = f['attributes'][index_key]
+            if 'value' in f['attributes'].keys():
+                val = f['attributes']['value']
+            elif 'Count_' in f['attributes'].keys():
+                val = f['attributes']['Count_']
+            else:
+                raise Exception(f'JSON has new format with unexpected key: {f["attributes"]}')
+            output[key] = val
+    elif data_type==dict:
+        if len(data['features'])==1:
+            output = data['features'][0]['attributes']
+        else:
+            output = [f['attributes'] for f in data['features']]
+    return(output)
+
+
 def run_PA(args):
     # Load existing data
     data_folder = Path(project_root, state, 'data')
@@ -212,50 +239,46 @@ def run_PA(args):
                 race_data = {}
 
         else:
+            if row_date<'2020-10-07':
 
-            def get_data_from_url(url, data_type=float, index_key=False):
-                r = fetch(url)
-                data = json.loads(r)
-                if data_type==float:
-                    output = data['features'][0]['attributes']['value']
-                elif data_type==dict:
-                    features = data['features']
-                    output = {}
-                    for f in features:
-                        if not index_key:
-                            index_key = [k for k in f['attributes'].keys() if k!='value'][0]
-                        key = f['attributes'][index_key]
-                        if 'value' in f['attributes'].keys():
-                            val = f['attributes']['value']
-                        elif 'Count_' in f['attributes'].keys():
-                            val = f['attributes']['Count_']
-                        else:
-                            raise Exception(f'JSON has new format with unexpected key: {f["attributes"]}')
-                        output[key] = val
-                return(output)
+                cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Confirmed%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+                probable_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Probable%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+                negative_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Negative%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+                deaths_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+                hosp_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Adam_County_Summary_Table_v5/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22numc19hosppats%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
 
+                confirmed_cases = get_data_from_url(cases_url, data_type=float)
+                probable_cases = get_data_from_url(probable_url, data_type=float)
+                negative = get_data_from_url(negative_url, data_type=float)
+                deaths = get_data_from_url(deaths_url, data_type=float)
+                hosp = get_data_from_url(hosp_url, data_type=float)
 
-            cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Confirmed%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
-            probable_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Probable%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
-            negative_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Negative%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
-            deaths_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
-            hosp_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Adam_County_Summary_Table_v5/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22numc19hosppats%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+                cases_data = {
+                    'Cases': confirmed_cases + probable_cases,
+                    'ProbableCases': probable_cases,
+                    'Tested': confirmed_cases + negative,
+                    'Deaths': deaths
+                }
 
-            confirmed_cases = get_data_from_url(cases_url, data_type=float)
-            probable_cases = get_data_from_url(probable_url, data_type=float)
-            negative = get_data_from_url(negative_url, data_type=float)
-            deaths = get_data_from_url(deaths_url, data_type=float)
-            hosp = get_data_from_url(hosp_url, data_type=float)
+            else:
+                totals_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/COVID_PA_Counties/FeatureServer/0/query?f=json&where=County%3D%27Pennsylvania%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=0&resultRecordCount=1&resultType=standard&cacheHint=true'
+                totals_dict = get_data_from_url(totals_url, data_type=dict, index_key='all')
 
-            cases_data = {
-                'Cases': confirmed_cases + probable_cases,
-                'ProbableCases': probable_cases,
-                'Tested': confirmed_cases + negative,
-                'Deaths': deaths
-            }
+                cases_data = {
+                    'Cases': totals_dict['Confirmed'] + totals_dict['Probable'],
+                    'ProbableCases': totals_dict['Probable'],
+                    'Tested': totals_dict['Confirmed'] + totals_dict['Negative'],
+                    'Deaths': totals_dict['Deaths']
+                }
+
+                hosp_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/covid_hosp_single_day/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22covid_patients%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+                hosp = get_data_from_url(hosp_url, data_type=float)
 
 
-            age_cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/2/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Age_Range&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            if row_date<'2020-10-07':
+                age_cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/2/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Age_Range&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            else:
+                age_cases_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/AgeCases/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Age_Range&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
             age_cases_dict = get_data_from_url(age_cases_url, data_type=dict)
             age_cases_series = pd.Series(age_cases_dict).fillna(0).astype(int)
             age_cases_series.index = 'Age_Cases [' + pd.Series(age_cases_series.index) + ']'
@@ -263,8 +286,10 @@ def run_PA(args):
 
             if row_date<'2020-06-14':
                 age_deaths_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/deathsage/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Age_Range&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Number_of_Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
-            else:
+            elif row_date<'2020-10-07':
                 age_deaths_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/deathsagenew/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Sorting%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard&cacheHint=true'
+            else:
+                age_deaths_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/Deaths_Age/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Sorting%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard&cacheHint=true'
             age_deaths_dict = get_data_from_url(age_deaths_url, data_type=dict, index_key='Age_Range')
             age_deaths_series = pd.Series(age_deaths_dict).fillna(0).astype(int)
             #print(age_deaths_series)
@@ -276,14 +301,19 @@ def run_PA(args):
                 **age_deaths_data
             }
 
-
-            sex_cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/3/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Gender&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Positive%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            if row_date<'2020-10-07':
+                sex_cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/3/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Gender&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Positive%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            else:
+                sex_cases_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/gendercases/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Gender&orderByFields=value%20desc&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Positive%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
             sex_cases_dict = get_data_from_url(sex_cases_url, data_type=dict)
             sex_cases_series = pd.Series(sex_cases_dict).fillna(0).astype(int)
             sex_cases_series.index = 'Sex_Cases [' + pd.Series(sex_cases_series.index) + ']'
             sex_cases_data = sex_cases_series.to_dict()
 
-            sex_deaths_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/deathgender/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Gender&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22F__of_Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            if row_date<'2020-10-07':
+                sex_deaths_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/deathgender/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Gender&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22F__of_Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            else:
+                sex_deaths_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/Death_Gender/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Gender&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22F__of_Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
             sex_deaths_dict = get_data_from_url(sex_deaths_url, data_type=dict)
             sex_deaths_series = pd.Series(sex_deaths_dict).fillna(0).astype(int)
             sex_deaths_series.index = 'Sex_Deaths [' + pd.Series(sex_deaths_series.index) + ']'
@@ -294,37 +324,53 @@ def run_PA(args):
                 **sex_deaths_data
             }
 
-            race_cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/8/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Race&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Positive_Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            if row_date<'2020-10-07':
+                race_cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/8/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Race&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Positive_Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            else:
+                race_cases_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/racedata/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Race&orderByFields=value%20desc&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Positive_Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
             race_cases_dict = get_data_from_url(race_cases_url, data_type=dict)
             race_cases_series = pd.Series(race_cases_dict).fillna(0).astype(int)
             race_cases_series = race_cases_series.reset_index().replace({
                 'African American': 'African American/Black',
                 'Not Reported': 'Not reported',
+                'Black': 'African American/Black',
+                'Unknown': 'Not reported'
             }).set_index('index')
             race_cases_series.index = 'Race_Cases [' + pd.Series(race_cases_series.index) + ']'
             race_cases_data = race_cases_series.to_dict()[0]
 
             #print(race_cases_data)
 
-            race_death_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/deathrace/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Race&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            if row_date<'2020-10-07':
+                race_death_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/deathrace/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Race&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            else:
+                race_death_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/Death_Race/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Race&orderByFields=value%20desc&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
             race_death_dict = get_data_from_url(race_death_url, data_type=dict)
             race_death_series = pd.Series(race_death_dict).fillna(0).astype(int)
             race_death_series = race_death_series.reset_index().replace({
                 'African American': 'African American/Black',
                 'Not Reported': 'Not reported',
+                'Black': 'African American/Black',
+                'Unknown': 'Not reported'
             }).set_index('index')
             race_death_series.index = 'Race_Deaths [' + pd.Series(race_death_series.index) + ']'
             race_death_data = race_death_series.to_dict()[0]
 
             #print(race_death_data)
 
-            eth_cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/5/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Ethnicity&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true' 
+            if row_date<'2020-10-07':
+                eth_cases_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/Pennsylvania_Public_COVID19_Dashboard_Data/FeatureServer/5/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Ethnicity&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true' 
+            else:
+                eth_cases_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/ethniccases/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Ethnicity&orderByFields=value%20desc&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
             eth_cases_dict = get_data_from_url(eth_cases_url, data_type=dict)
             eth_cases_series = pd.Series(eth_cases_dict).fillna(0).astype(int)
             eth_cases_series.index = 'Ethnicity_Cases [' + pd.Series(eth_cases_series.index) + ']'
             eth_cases_data = eth_cases_series.to_dict()
 
-            eth_deaths_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/deathethnicity/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Ethnicity&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22F__of_Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            if row_date<'2020-10-07':
+                eth_deaths_url = 'https://services2.arcgis.com/xtuWQvb2YQnp0z3F/arcgis/rest/services/deathethnicity/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Ethnicity&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22F__of_Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
+            else:
+                eth_deaths_url = 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/Death_Ethnicity/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Ethnicity&orderByFields=value%20desc&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22F__of_Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true'
             eth_deaths_dict = get_data_from_url(eth_deaths_url, data_type=dict)
             eth_deaths_series = pd.Series(eth_deaths_dict).fillna(0).astype(int)
             eth_deaths_series.index = 'Ethnicity_Cases [' + pd.Series(eth_deaths_series.index) + ']'
@@ -338,6 +384,7 @@ def run_PA(args):
             }
 
             hosp_age_data = {}
+
 
             
         pullTime = get_pull_time(existing_df, row_date)
