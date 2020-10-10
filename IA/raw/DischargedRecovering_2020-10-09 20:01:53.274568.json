@@ -1,0 +1,1 @@
+{"objectIdFieldName": "FID", "uniqueIdField": {"name": "FID", "isSystemMaintained": true}, "globalIdFieldName": "", "fields": [{"name": "DischRecov_sum", "type": "esriFieldTypeDouble", "alias": "DischRecov_sum", "sqlType": "sqlTypeFloat", "domain": null, "defaultValue": null}], "features": [{"attributes": {"DischRecov_sum": 75041}}]}
