@@ -56,8 +56,8 @@ def run_DE(args):
     driver.execute_script("arguments[0].scrollIntoView();", element)
     driver.save_screenshot(raw_name + "/negative_cases_" + now + ".png")
 
-    total_tested = (driver.find_element_by_xpath('//*[@id="testing-trends"]/div/div/div[2]/div/div[1]/div/div[2]/div/div[1]/div[1]/div/div[1]/div[1]').text).replace(",", "")
-    hospitalized = (driver.find_element_by_xpath('//*[@id="overview"]/div/article/div/div/div[2]/div[1]/div[2]/div/div/div[2]/a/div[1]/div[1]/div/div[1]').text).replace(",", "")
+    # total_tested = (driver.find_element_by_xpath('//*[@id="testing-trends"]/div/div/div[2]/div/div[1]/div/div[2]/div/div[1]/div[1]/div/div[1]/div[1]').text).replace(",", "")
+    # hospitalized = (driver.find_element_by_xpath('//*[@id="overview"]/div/article/div/div/div[2]/div[1]/div[2]/div/div/div[2]/a/div[1]/div[1]/div/div[1]').text).replace(",", "")
 
     element = driver.find_element_by_xpath('//*[@id="overview"]/div/article/div/div/div[2]/div[1]/div[2]/div/div/div[3]/a/div[1]')
     driver.execute_script("arguments[0].scrollIntoView();", element)
@@ -69,8 +69,8 @@ def run_DE(args):
     statewide["Total Deaths"] = int(total_deaths.split('\n')[0])
     statewide['Total Recovered'] = int(total_recovered.split('\n')[0])
     statewide["Total Negative"] = int(total_negative.split('\n')[0])
-    statewide["Total Tested"] = int(total_tested.split('\n')[0])
-    statewide["Total Hospitalized"] = int(hospitalized.strip('\n').replace("Hospitalized",""))
+    # statewide["Total Tested"] = int(total_tested.split('\n')[0])
+    # statewide["Total Hospitalized"] = int(hospitalized.strip('\n').replace("Hospitalized",""))
     statewide["Scrape_Time"] = now.strip('\n')
 
     # Click on count button
@@ -308,6 +308,7 @@ def run_DE(args):
         # Add to statewide
         statewide["# Deaths Race/Ethnicity: " + race] = abs_death.strip('\n')
         statewide["% Deaths Race/Ethnicity: " + race] = pct_death.strip('\n')
+
 
     fields = sorted([x for x in statewide])
     exists = os.path.exists(data_name)
