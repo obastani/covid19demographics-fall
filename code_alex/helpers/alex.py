@@ -49,7 +49,7 @@ def get_timeseries_files(url, end_date=False, state=False):
 def fetch_(url, 
     date=False, state=False, extension='',
     force=False, verbose=False, time_travel=False,
-    headers={}, save=True
+    headers={}, save=True, method='GET', payload=None
     ):
     assert date 
     assert state
@@ -132,11 +132,13 @@ def fetch_(url,
                 **headers,
                 'User-Agent': spoofed_ua
             }
-        try:
-            response = requests.get(url, headers=headers)
-        except requests.exceptions.SSLError:
-            response = requests.get(url, headers=headers, verify=False)
-
+        if method=='GET':
+            try:
+                response = requests.get(url, headers=headers)
+            except requests.exceptions.SSLError:
+                response = requests.get(url, headers=headers, verify=False)
+        elif method=='POST':
+            response = requests.post(url, headers=headers, data=payload)
 
         if response.status_code!=200:
             print(f'Error code: {response.status_code}')
