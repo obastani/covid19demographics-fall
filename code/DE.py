@@ -29,6 +29,12 @@ def run_DE(args):
     
     statewide = {}
 
+    # Accept Policy Use
+    driver.find_element_by_xpath('//*[@id="accept"]').click()
+    time.sleep(4)
+    driver.find_element_by_xpath('/html/body/main/div/div/div[2]/section/form/button').click()
+    time.sleep(4)
+    
     # General Metrics
     total_cases = ((driver.find_element_by_xpath('//*[@id="cases-latest-status"]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[1]/div[1]/div[2]/span[1]').text).replace(",", "")).replace('*', '')
     confirmed_cases = (driver.find_element_by_xpath('//*[@id="cases-latest-status"]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[1]/div[3]/div[2]/span').text).replace(",", "")
