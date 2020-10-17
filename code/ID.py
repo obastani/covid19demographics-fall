@@ -16,6 +16,10 @@ import sys
 import time
 
 def run_ID(args):
+    # Broken
+    if True:
+        raise Exception("ID still not fixed")
+
     # Parameters
     raw_name = '../ID/raw'
     data_name = '../ID/data/data.csv'
