@@ -235,14 +235,16 @@ def run_MS(args):
             county_tables.export(new_path.replace(".pdf", "_cases.csv"), compress=True)
             deaths_tables.export(new_path.replace(".pdf", "_deaths.csv"), compress=True)
 
-            # Adding to data file
-            out_cases = []
-            out_deaths = []
-            file_cases = "0" + str(today.month) + "_" + str(today.day) + "_summary_cases.zip"
-            file_deaths = "0" + str(today.month) + "_" + str(today.day) + "_summary_deaths.zip"
-            out_cases, out_deaths = format_df(raw_name, file_cases, out_cases, out_deaths)
-            out_cases, out_deaths = format_df(raw_name, file_deaths, out_cases, out_deaths)
-            export(out_cases, out_deaths)
+            print("Collected raw for MS")
+
+            # # Adding to data file
+            # out_cases = []
+            # out_deaths = []
+            # file_cases = "0" + str(today.month) + "_" + str(today.day) + "_summary_cases.zip"
+            # file_deaths = "0" + str(today.month) + "_" + str(today.day) + "_summary_deaths.zip"
+            # out_cases, out_deaths = format_df(raw_name, file_cases, out_cases, out_deaths)
+            # out_cases, out_deaths = format_df(raw_name, file_deaths, out_cases, out_deaths)
+            # export(out_cases, out_deaths)
 
 if __name__ == '__main__':
     run_MS({})
