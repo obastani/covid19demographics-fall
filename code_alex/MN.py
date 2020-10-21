@@ -60,8 +60,8 @@ def run_MN(args):
         existing_df = pd.read_csv(csv_location)
         date_rows = existing_df.to_dict('records')
 
-    
     for row_date in date_list:
+        #print(row_date)
         url = 'https://www.health.state.mn.us/diseases/coronavirus/situation.html'
 
         if run_mode=='backfill':
@@ -77,39 +77,55 @@ def run_MN(args):
 
         soup = BeautifulSoup(raw, 'html.parser')
         
-        positive_case_search = soup.find(text=re.compile('Total positive:|Total positive cases:'))
+        positive_case_search = soup.find(text=re.compile('Total positive:|Total positive cases:|Total positive cases \(cumulative\)'))
         if positive_case_search.find_parent('li'):
             cases_str = positive_case_search.find_parent('li').get_text()
         elif positive_case_search.find_parent('p'):
             cases_str = positive_case_search.find_parent('p').get_text()
+        elif positive_case_search.find_parent('tr'):
+            cases_str = positive_case_search.find_next('td').get_text()
         else:
             raise Exception('Trouble parsing "Total positives"')
         cases_str = cases_str.split('\n')[0]
         cases = int(re.sub(r'[^0-9]', '', cases_str))
 
-        test_html = soup.find(text='Total approximate number of completed tests:')
-        test_str = test_html.find_parent('p').get_text()
+        if row_date<'2020-10-14':
+            test_html = soup.find(text='Total approximate number of completed tests:')
+            test_str = test_html.find_parent('p').get_text()
+        else:
+            test_html = soup.find(text='Total approximate completed tests (cumulative)')
+            test_str = test_html.find_next('td').get_text()
         tested = int(re.sub(r'[^0-9]', '', test_str))
 
-        deaths_html = soup.find('strong', text=re.compile('Total deaths:|Deaths:'))
-        deaths_str = deaths_html.find_parent('li').get_text()
+        if row_date<'2020-10-14':
+            deaths_html = soup.find('strong', text=re.compile('Total deaths:|Deaths:'))
+            deaths_str = deaths_html.find_parent('li').get_text()
+        else:
+            deaths_html = soup.find('th', text='Total deaths (cumulative)')
+            deaths_str = deaths_html.find_next('td').get_text()
         deaths = int(re.sub(r'[^0-9]', '', deaths_str))
 
         if row_date<'2020-04-10':
             hosp_html = soup.find(text='Total cases requiring hospitalization:')
             hosp_str = hosp_html.find_parent('li').get_text().split('\n')[0]
-        else:
+        else:# row_date<'2020-10-14':
             hosp_patterns = [
                 re.compile('Total cases requiring hospitalization:'),
-                re.compile('Total cases hospitalized:')
+                re.compile('Total cases hospitalized:'),
+                'Total cases hospitalized (cumulative)'
             ]
             for pattern in hosp_patterns:
                 hosp_search = soup.find(text=pattern)
                 if type(hosp_search)!=type(None):
                     break
-
-            hosp_html = hosp_search.next
+            if pattern == 'Total cases hospitalized (cumulative)':
+                hosp_html = hosp_search.find_next('td').get_text()
+            else:
+                hosp_html = hosp_search.next
             hosp_str = str(hosp_html)
+        #else:
+        #    hosp_html = soup.find('th', text='Total deaths (cumulative)')
+        #    hosp_str = hosp_html.find_next('td').get_text()
 
         hosp = int(re.sub(r'[^0-9]', '', hosp_str))
 
