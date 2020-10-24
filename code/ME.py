@@ -58,7 +58,7 @@ def run_ME(args):
     if headers != "CasesShareofcases":
         raise Exception("Check age table headers")
 
-    exp_ages = ['<20', '20s', '30s', '40s', '50s', '60s', '70s', '80+', '120s']
+    exp_ages = ['<20', '20s', '30s', '40s', '50s', '60s', '70s', '80+']
     age_cats = [x for x in age_canvas.split("\n") if x != ""]
     
     # Error Proofing
