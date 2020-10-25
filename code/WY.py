@@ -67,11 +67,10 @@ def run_WY(args):
 
     genders = getGraph(driver.find_element_by_xpath('//*[@id="view3855800012607193825_14275175901841894353"]/div[1]/div[2]/canvas[1]'), (78, 121, 167, 255), driver)
     genderLabels = [x.title() for x in getCanvas(driver.find_element_by_xpath('//*[@id="tabZoneId32"]/div/div/div/div[1]/div[5]/div[1]/canvas'), driver).strip().split()]
-    if len(genders) != 2 or len(genderLabels) != 2 or " ".join(sorted(genderLabels)) != "Female Male":
+    if len(genders) != 4 or len(genderLabels) != 4 or " ".join(sorted(genderLabels)) != "Female Male Other Unknown":
         raise Exception("Wrong gender vals for WY")
     for gender, val in zip(genderLabels, genders):
         out["Pct_Gender_" + gender] = round(val, 1)
-
     symptoms = getGraph(driver.find_element_by_xpath('//*[@id="view3855800012607193825_13010788587209822541"]/div[1]/div[2]/canvas[1]'), (78, 121, 167, 255), driver)
     symptomLabels = getCanvas(driver.find_element_by_xpath('//*[@id="tabZoneId49"]/div/div/div/div[1]/div[5]/div[1]/canvas'), driver).strip()
     symptomLabels = [x.strip().title().replace(" ", "") for x in symptomLabels.split("\n") if x != ""]
