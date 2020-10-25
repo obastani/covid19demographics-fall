@@ -78,7 +78,7 @@ def run_new_scrape():
     expected_table1_fields = ["Active Cases", "Currently Hospitalized", "Recovered Cases", "Total Cases", "Total Persons Negative", "Ever Hospitalized", "Deaths"]
     expected_ages = ["0-9 years", "10-19 years", "20-29 years", "30-39 years", "40-49 years", "50-59 years", "60-69 years", "70-79 years", "80+ years"]
     expected_sexes = ["Female", "Male"]
-    expected_races = ["Asian, Non-Hispanic", "Black, Non-Hispanic", "Hispanic", "Native American, Non-Hispanic", "Other", "White, Non-Hispanic"]
+    expected_races = ["Unknown, Non-Hispanic", "Black, Non-Hispanic", "Hispanic", "Native American, Non-Hispanic", "Other, Non-Hispanic", "White, Non-Hispanic", "Asian, Non-Hispanic"]
 
     # Table 1 - COVID-19 in South Dakota
     out = {}
@@ -149,13 +149,17 @@ def run_new_scrape():
     if len(race_val_div) != len(cases_val_div) or len(percent_val_div) != len(cases_val_div) or len(race_val_div) != len(percent_val_div):
         raise Exception("Size of table fields and values are not the same in table 4")
 
+    count = 0
     for race_el, cases_el, percent_el in zip(race_val_div, cases_val_div, percent_val_div):
+        count += 1
         race = race_el.get_attribute("title")
         if race not in expected_races:
-            raise Exception("Unexpected race/ethnicity category in table 4")
+            raise Exception("Unexpected race/ethnicity category in table 4: " + race)
         out[cases_header + ": " + race] = cases_el.text
         out[percent_header + ": " + race] = percent_el.text
 
+    if count != len(expected_races):
+        raise Exception("Unequal number of races")
     # Get county data
     out_county = []
 
