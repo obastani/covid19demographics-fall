@@ -19,7 +19,7 @@ def run_DC(args):
         fp.write(r.content)
         filename = fp.name
 
-    # filename = raw_name + "/2020-10-25.xlsx"
+    # filename = raw_name + "/2020-10-26.xlsx"
     
     age_gender_df = pd.read_excel(filename, sheet_name="Total Cases by Age and Gender")
     race_case_df = pd.read_excel(filename, sheet_name="Total Cases by Race")
