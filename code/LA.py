@@ -66,15 +66,41 @@ def run_LA(args):
     raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27Age%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Group_Num%2CValueType&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
     with open("%s/age_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
-    groups = ["%s_0_17", "%s_18_29", "%s_30_39", "%s_40_49", "%s_50_59", "%s_60_69", "%s_70_plus"]
-    if len(raw["features"]) != 14:
-        raise Exception("Unexpected number of ages in LA")
+    groups_death = ["%s_0_17", "%s_18_29", "%s_30_39", "%s_40_49", "%s_50_59", "%s_60_69", "%s_70_plus"]
+    groups_case = ["%s_0_4", "%s_5_17", "%s_18_29", "%s_30_39", "%s_40_49", "%s_50_59", "%s_60_69", "%s_70_plus"] 
+    if len(raw["features"]) != 15:
+        raise Exception("Unexpected number of ages in LA: " + str(len(raw["features"])))
+    
+    raw_cases = []
+    raw_deaths = []
+    for entry in raw["features"]:
+        if entry["attributes"]["ValueType"] == "case":
+            raw_cases.append(entry["attributes"])
+        else:
+            raw_deaths.append(entry["attributes"])
+    if len(raw_cases) != 8:
+        raise Exception("Unexpected number of entries for age cases: " + str(len(raw_cases)))
+    if len(raw_deaths) != 7:
+        raise Exception("Unexpected number of entries for age deaths: " + str(len(raw_deaths)))
+
+    for apos in range(8):
+        fulldat[groups_case[apos] % "Case"] = raw_cases[apos]["value"]
     for apos in range(7):
-        for atype, aname in [("case", "Cases"), ("death", "Deaths")]:
-            dat = [x["attributes"] for x in raw["features"] if x["attributes"]["Group_Num"] == apos+1 and x["attributes"]["ValueType"] == atype]
-            if len(dat) != 1:
-                raise Exception("Missing some age data")
-            fulldat[groups[apos] % aname] = dat[0]["value"]
+        fulldat[groups_death[apos] % "Deaths"] = raw_deaths[apos]["value"]
+
+    # for apos in range(8):
+    #     for atype, aname in [("case", "Cases"), ("death", "Deaths")]:
+    #         print(len(raw["features"]))
+    #         exit()
+    #         dat = [x["attributes"] for x in raw["features"] if x["attributes"]["Group_Num"] == apos+1 and x["attributes"]["ValueType"] == atype]
+    #         if len(dat) != 1:
+    #             print(dat)
+    #             raise Exception("Missing some age data")
+    #         if atype == "case":
+    #             fulldat[groups_case[apos] % aname] = dat[0]["value"]
+    #         else:
+    #             fulldat[groups_death[apos] % aname] = dat[0]["value"]
+
 
     raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27Gender%27%20AND%20ValueType%3D%27case%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Group_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
     with open("%s/gender_%s.json" % (raw_name, now), "w") as fp:
