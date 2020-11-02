@@ -2053,35 +2053,34 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/LA/data/data.csv,LA,% Probable Deaths by Underlying Condition: Neurological,Probable Deaths,% Probable Deaths by Underlying Condition: Neurological,float64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,% Probable Deaths by Underlying Condition: Obesity,Probable Deaths,% Probable Deaths by Underlying Condition: Obesity,float64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,% Probable Deaths by Underlying Condition: Pulmonary,Probable Deaths,% Probable Deaths by Underlying Condition: Pulmonary,float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion1,Hospital,Non-ICU Beds: In Use (Region 1),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion2,Hospital,Non-ICU Beds: In Use (Region 2),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion3,Hospital,Non-ICU Beds: In Use (Region 3),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion4,Hospital,Non-ICU Beds: In Use (Region 4),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion5,Hospital,Non-ICU Beds: In Use (Region 5),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion6,Hospital,Non-ICU Beds: In Use (Region 6),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion7,Hospital,Non-ICU Beds: In Use (Region 7),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion8,Hospital,Non-ICU Beds: In Use (Region 8),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion9,Hospital,Non-ICU Beds: In Use (Region 9),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion1,Hospital,Non-ICU Beds: Available (Region 1),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion2,Hospital,Non-ICU Beds: Available (Region 2),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion3,Hospital,Non-ICU Beds: Available (Region 3),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion4,Hospital,Non-ICU Beds: Available (Region 4),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion5,Hospital,Non-ICU Beds: Available (Region 5),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion6,Hospital,Non-ICU Beds: Available (Region 6),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion7,Hospital,Non-ICU Beds: Available (Region 7),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion8,Hospital,Non-ICU Beds: Available (Region 8),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion9,Hospital,Non-ICU Beds: Available (Region 9),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Case_0_4,Cases,# Cases Age [0-4],int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Case_18_29,Cases,# Cases Age [18-29],int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Case_30_39,Cases,# Cases Age [30-39],int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Case_40_49,Cases,# Cases Age [40-49],int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Case_50_59,Cases,# Cases Age [50-59],int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Case_5_17,Cases,# Cases Age [5-17],int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Case_60_69,Cases,# Cases Age [60-69],int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,Case_70_plus,Cases,# Cases Age [70+],int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion1,Hospital,Non-ICU Beds: In Use (Region 1),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion2,Hospital,Non-ICU Beds: In Use (Region 2),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion3,Hospital,Non-ICU Beds: In Use (Region 3),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion4,Hospital,Non-ICU Beds: In Use (Region 4),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion5,Hospital,Non-ICU Beds: In Use (Region 5),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion6,Hospital,Non-ICU Beds: In Use (Region 6),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion7,Hospital,Non-ICU Beds: In Use (Region 7),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion8,Hospital,Non-ICU Beds: In Use (Region 8),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_InUseRegion9,Hospital,Non-ICU Beds: In Use (Region 9),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion1,Hospital,Non-ICU Beds: Available (Region 1),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion2,Hospital,Non-ICU Beds: Available (Region 2),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion3,Hospital,Non-ICU Beds: Available (Region 3),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion4,Hospital,Non-ICU Beds: Available (Region 4),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion5,Hospital,Non-ICU Beds: Available (Region 5),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion6,Hospital,Non-ICU Beds: Available (Region 6),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion7,Hospital,Non-ICU Beds: Available (Region 7),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion8,Hospital,Non-ICU Beds: Available (Region 8),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Beds_StillAvailableRegion9,Hospital,Non-ICU Beds: Available (Region 9),int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Case_Pct_Female,Cases,% Total Cases: Female,int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Case_Pct_Male,Cases,% Total Cases: Male,int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Case_Pct_Other,Cases,% Total Cases: Other Sex,int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Cases_0_17,Cases,# Cases Age [0-17],int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Cases_18_29,Cases,# Cases Age [18-29],int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Cases_30_39,Cases,# Cases Age [30-39],int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Cases_40_49,Cases,# Cases Age [40-49],int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Cases_50_59,Cases,# Cases Age [50-59],int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Cases_60_69,Cases,# Cases Age [60-69],int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,Cases_70_plus,Cases,# Cases Age [70+],int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,CommercialTests,Testing,Total Tested: Commercial Lab,int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Deaths_0_17,Death,# Deaths Age [0-17],int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Deaths_18_29,Death,# Deaths Age [18-29],int64
@@ -2153,24 +2152,24 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Deaths_Region 9_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 9),int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Deaths_Region 9_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 9),int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Deaths_Region 9_race_White,Death,# Deaths Race/Ethnicity: White (Region 9),int64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion1,Hospital,ICU Beds: In Use (Region 1),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion2,Hospital,ICU Beds: In Use (Region 2),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion3,Hospital,ICU Beds: In Use (Region 3),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion4,Hospital,ICU Beds: In Use (Region 4),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion5,Hospital,ICU Beds: In Use (Region 5),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion6,Hospital,ICU Beds: In Use (Region 6),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion7,Hospital,ICU Beds: In Use (Region 7),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion8,Hospital,ICU Beds: In Use (Region 8),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion9,Hospital,ICU Beds: In Use (Region 9),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion1,Hospital,ICU Beds: Available (Region 1),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion2,Hospital,ICU Beds: Available (Region 2),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion3,Hospital,ICU Beds: Available (Region 3),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion4,Hospital,ICU Beds: Available (Region 4),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion5,Hospital,ICU Beds: Available (Region 5),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion6,Hospital,ICU Beds: Available (Region 6),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion7,Hospital,ICU Beds: Available (Region 7),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion8,Hospital,ICU Beds: Available (Region 8),float64
-../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion9,Hospital,ICU Beds: Available (Region 9),float64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion1,Hospital,ICU Beds: In Use (Region 1),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion2,Hospital,ICU Beds: In Use (Region 2),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion3,Hospital,ICU Beds: In Use (Region 3),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion4,Hospital,ICU Beds: In Use (Region 4),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion5,Hospital,ICU Beds: In Use (Region 5),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion6,Hospital,ICU Beds: In Use (Region 6),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion7,Hospital,ICU Beds: In Use (Region 7),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion8,Hospital,ICU Beds: In Use (Region 8),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_InUseRegion9,Hospital,ICU Beds: In Use (Region 9),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion1,Hospital,ICU Beds: Available (Region 1),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion2,Hospital,ICU Beds: Available (Region 2),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion3,Hospital,ICU Beds: Available (Region 3),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion4,Hospital,ICU Beds: Available (Region 4),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion5,Hospital,ICU Beds: Available (Region 5),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion6,Hospital,ICU Beds: Available (Region 6),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion7,Hospital,ICU Beds: Available (Region 7),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion8,Hospital,ICU Beds: Available (Region 8),int64
+../../../covid19demographics-fall/LA/data/data.csv,LA,ICUBeds_StillAvailableRegion9,Hospital,ICU Beds: Available (Region 9),int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Probable Deaths Age: Average,Probable Deaths,Probable Deaths Age: Average,int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Probable Deaths Age: Median,Probable Deaths,Probable Deaths Age: Median,int64
 ../../../covid19demographics-fall/LA/data/data.csv,LA,Scrape_Time,Scrape Time,Scrape Time,object
@@ -3248,169 +3247,6 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/LA/data/dataV8.csv,LA,Vent_StillAvailableRegion7,Hospital,Ventilators: Available (Region 7),int64
 ../../../covid19demographics-fall/LA/data/dataV8.csv,LA,Vent_StillAvailableRegion8,Hospital,Ventilators: Available (Region 8),int64
 ../../../covid19demographics-fall/LA/data/dataV8.csv,LA,Vent_StillAvailableRegion9,Hospital,Ventilators: Available (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Ethnicity: Hispanic/Latino,Probable Deaths,% Probable Deaths by Ethnicity: Hispanic/Latino,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Ethnicity: Non-Hispanic/Latino,Probable Deaths,% Probable Deaths by Ethnicity: Non-Hispanic/Latino,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Ethnicity: Unknown,Probable Deaths,% Probable Deaths by Ethnicity: Unknown,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Gender: Female,Probable Deaths,% Probable Deaths by Gender: Female,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Gender: Male,Probable Deaths,% Probable Deaths by Gender: Male,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Gender: Unknown/Other,Probable Deaths,% Probable Deaths by Gender: Unknown/Other,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Race: American Indian/Alaska N..,Probable Deaths,% Probable Deaths by Race: American Indian/Alaska N..,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Race: Asian,Probable Deaths,% Probable Deaths by Race: Asian,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Race: Black,Probable Deaths,% Probable Deaths by Race: Black,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Race: Native Hawaiian/Pl,Probable Deaths,% Probable Deaths by Race: Native Hawaiian/Pl,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Race: Other,Probable Deaths,% Probable Deaths by Race: Other,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Race: Unknown,Probable Deaths,% Probable Deaths by Race: Unknown,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Race: White,Probable Deaths,% Probable Deaths by Race: White,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Asthma,Probable Deaths,% Probable Deaths by Underlying Condition: Asthma,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Cancer,Probable Deaths,% Probable Deaths by Underlying Condition: Cancer,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Cardiac Disease,Probable Deaths,% Probable Deaths by Underlying Condition: Cardiac Disease,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Chronic Kidney Disease,Probable Deaths,% Probable Deaths by Underlying Condition: Chronic Kidney Disease,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Congestive Heart Failure,Probable Deaths,% Probable Deaths by Underlying Condition: Congestive Heart Failure,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Diabetes,Probable Deaths,% Probable Deaths by Underlying Condition: Diabetes,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Hypertension,Probable Deaths,% Probable Deaths by Underlying Condition: Hypertension,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Neurological,Probable Deaths,% Probable Deaths by Underlying Condition: Neurological,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Obesity,Probable Deaths,% Probable Deaths by Underlying Condition: Obesity,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,% Probable Deaths by Underlying Condition: Pulmonary,Probable Deaths,% Probable Deaths by Underlying Condition: Pulmonary,float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion1,Hospital,Non-ICU Beds: In Use (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion2,Hospital,Non-ICU Beds: In Use (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion3,Hospital,Non-ICU Beds: In Use (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion4,Hospital,Non-ICU Beds: In Use (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion5,Hospital,Non-ICU Beds: In Use (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion6,Hospital,Non-ICU Beds: In Use (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion7,Hospital,Non-ICU Beds: In Use (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion8,Hospital,Non-ICU Beds: In Use (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_InUseRegion9,Hospital,Non-ICU Beds: In Use (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion1,Hospital,Non-ICU Beds: Available (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion2,Hospital,Non-ICU Beds: Available (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion3,Hospital,Non-ICU Beds: Available (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion4,Hospital,Non-ICU Beds: Available (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion5,Hospital,Non-ICU Beds: Available (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion6,Hospital,Non-ICU Beds: Available (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion7,Hospital,Non-ICU Beds: Available (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion8,Hospital,Non-ICU Beds: Available (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Beds_StillAvailableRegion9,Hospital,Non-ICU Beds: Available (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Case_Pct_Female,Cases,% Total Cases: Female,int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Case_Pct_Male,Cases,% Total Cases: Male,int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Case_Pct_Other,Cases,% Total Cases: Other Sex,int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Cases_0_17,Cases,# Cases Age [0-17],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Cases_18_29,Cases,# Cases Age [18-29],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Cases_30_39,Cases,# Cases Age [30-39],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Cases_40_49,Cases,# Cases Age [40-49],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Cases_50_59,Cases,# Cases Age [50-59],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Cases_60_69,Cases,# Cases Age [60-69],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Cases_70_plus,Cases,# Cases Age [70+],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,CommercialTests,Testing,Total Tested: Commercial Lab,int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_0_17,Death,# Deaths Age [0-17],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_18_29,Death,# Deaths Age [18-29],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_30_39,Death,# Deaths Age [30-39],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_40_49,Death,# Deaths Age [40-49],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_50_59,Death,# Deaths Age [50-59],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_60_69,Death,# Deaths Age [60-69],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_70_plus,Death,# Deaths Age [70+],int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 1_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 1_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 1_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 1_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 1_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 1_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 1_race_White,Death,# Deaths Race/Ethnicity: White (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 2_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 2_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 2_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 2_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 2_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 2_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 2_race_White,Death,# Deaths Race/Ethnicity: White (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 3_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 3_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 3_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 3_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 3_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 3_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 3_race_White,Death,# Deaths Race/Ethnicity: White (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 4_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 4_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 4_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 4_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 4_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 4_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 4_race_White,Death,# Deaths Race/Ethnicity: White (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 5_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 5_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 5_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 5_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 5_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 5_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 5_race_White,Death,# Deaths Race/Ethnicity: White (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 6_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 6_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 6_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 6_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 6_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 6_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 6_race_White,Death,# Deaths Race/Ethnicity: White (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 7_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 7_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 7_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 7_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 7_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 7_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 7_race_White,Death,# Deaths Race/Ethnicity: White (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 8_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 8_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 8_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 8_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 8_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 8_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 8_race_White,Death,# Deaths Race/Ethnicity: White (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 9_race_American Indian/Alaskan Native,Death,# Deaths Race/Ethnicity: American Indian/Alaskan Native (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 9_race_Asian,Death,# Deaths Race/Ethnicity: Asian (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 9_race_Black,Death,# Deaths Race/Ethnicity: Black (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 9_race_Native Hawaiian/Other Pacific Islander,Death,# Deaths Race/Ethnicity: Native Hawaiian/Other Pacific Islander (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 9_race_Other,Death,# Deaths Race/Ethnicity: Other (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 9_race_Unknown,Death,# Deaths Race/Ethnicity: Unknown (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Deaths_Region 9_race_White,Death,# Deaths Race/Ethnicity: White (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion1,Hospital,ICU Beds: In Use (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion2,Hospital,ICU Beds: In Use (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion3,Hospital,ICU Beds: In Use (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion4,Hospital,ICU Beds: In Use (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion5,Hospital,ICU Beds: In Use (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion6,Hospital,ICU Beds: In Use (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion7,Hospital,ICU Beds: In Use (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion8,Hospital,ICU Beds: In Use (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_InUseRegion9,Hospital,ICU Beds: In Use (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion1,Hospital,ICU Beds: Available (Region 1),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion2,Hospital,ICU Beds: Available (Region 2),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion3,Hospital,ICU Beds: Available (Region 3),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion4,Hospital,ICU Beds: Available (Region 4),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion5,Hospital,ICU Beds: Available (Region 5),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion6,Hospital,ICU Beds: Available (Region 6),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion7,Hospital,ICU Beds: Available (Region 7),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion8,Hospital,ICU Beds: Available (Region 8),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,ICUBeds_StillAvailableRegion9,Hospital,ICU Beds: Available (Region 9),int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Probable Deaths Age: Average,Probable Deaths,Probable Deaths Age: Average,int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Probable Deaths Age: Median,Probable Deaths,Probable Deaths Age: Median,int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Scrape_Time,Scrape Time,Scrape Time,object
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,TestsByStateLab,Testing,Total Tested: State Lab,int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Total Probable Deaths,Probable Deaths,Total Probable Deaths,int64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion1,Hospital,Ventilators: In Use (Region 1),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion2,Hospital,Ventilators: In Use (Region 2),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion3,Hospital,Ventilators: In Use (Region 3),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion4,Hospital,Ventilators: In Use (Region 4),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion5,Hospital,Ventilators: In Use (Region 5),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion6,Hospital,Ventilators: In Use (Region 6),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion7,Hospital,Ventilators: In Use (Region 7),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion8,Hospital,Ventilators: In Use (Region 8),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_InUseRegion9,Hospital,Ventilators: In Use (Region 9),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion1,Hospital,Ventilators: Available (Region 1),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion2,Hospital,Ventilators: Available (Region 2),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion3,Hospital,Ventilators: Available (Region 3),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion4,Hospital,Ventilators: Available (Region 4),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion5,Hospital,Ventilators: Available (Region 5),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion6,Hospital,Ventilators: Available (Region 6),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion7,Hospital,Ventilators: Available (Region 7),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion8,Hospital,Ventilators: Available (Region 8),float64
-../../../covid19demographics-fall/LA/data/dataV9.csv,LA,Vent_StillAvailableRegion9,Hospital,Ventilators: Available (Region 9),float64
 ../../../covid19demographics-fall/LA/data/merged_parish_race.csv,LA,Cases_Black_race,Cases,# Cases Race/Ethnicity: Black,float64
 ../../../covid19demographics-fall/LA/data/merged_parish_race.csv,LA,Cases_Other_race,Cases,# Cases Race/Ethnicity: Other Race,float64
 ../../../covid19demographics-fall/LA/data/merged_parish_race.csv,LA,Cases_Unknown_race,Cases,# Cases Race/Ethnicity: Unknown Race,float64
@@ -3587,7 +3423,7 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Cases: Female,Cases,Total Cases: Female,int64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Cases: Male,Cases,Total Cases: Male,int64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Confirmed Cases: Female,Cases,Total Confirmed Cases: Female,object
-../../../covid19demographics-fall/ME/data/data.csv,ME,Total Confirmed Cases: Male,Cases,Total Confirmed Cases: Male,object
+../../../covid19demographics-fall/ME/data/data.csv,ME,Total Confirmed Cases: Male,Cases,Total Confirmed Cases: Male,int64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Deaths: Female,Death,Total Deaths: Female,int64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Deaths: Male,Death,Total Deaths: Male,int64
 ../../../covid19demographics-fall/ME/data/data.csv,ME,Total Hospitalized: Female,Hospital,Total Hospitalized: Female,int64
@@ -5109,8 +4945,8 @@ File,State,Column Name,Category,New Key,Data Type
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [15-19],Cases,# Active Cases Age [15-19],int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [20-29],Cases,# Active Cases Age [20-29],object
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [30-39],Cases,# Active Cases Age [30-39],object
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [40-49],Cases,# Active Cases Age [40-49],object
-../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [50-59],Cases,# Active Cases Age [50-59],object
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [40-49],Cases,# Active Cases Age [40-49],int64
+../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [50-59],Cases,# Active Cases Age [50-59],int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [6-11],Cases,# Active Cases Age [6-11],int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [60-69],Cases,# Active Cases Age [60-69],int64
 ../../../covid19demographics-fall/ND/data/data.csv,ND,# Active Cases Age [70-79],Cases,# Active Cases Age [70-79],int64
