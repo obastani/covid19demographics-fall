@@ -14230,3 +14230,136 @@ deaths,fips,hospitalizations,locality,report_date,total_cases,vdh_health_distric
 4,51820,13,Waynesboro,2020-11-05 00:00:00,412,Central Shenandoah
 8,51830,14,Williamsburg,2020-11-05 00:00:00,232,Peninsula
 4,51840,43,Winchester,2020-11-05 00:00:00,668,Lord Fairfax
+19,51001,99,Accomack,2020-11-06 00:00:00,1237,Eastern Shore
+24,51003,96,Albemarle,2020-11-06 00:00:00,1645,Thomas Jefferson
+4,51005,13,Alleghany,2020-11-06 00:00:00,168,Alleghany
+6,51007,18,Amelia,2020-11-06 00:00:00,151,Piedmont
+6,51009,26,Amherst,2020-11-06 00:00:00,642,Central Virginia
+6,51011,19,Appomattox,2020-11-06 00:00:00,327,Central Virginia
+154,51013,543,Arlington,2020-11-06 00:00:00,4919,Arlington
+9,51015,30,Augusta,2020-11-06 00:00:00,750,Central Shenandoah
+0,51017,1,Bath,2020-11-06 00:00:00,31,Central Shenandoah
+18,51019,62,Bedford,2020-11-06 00:00:00,1385,Central Virginia
+5,51021,4,Bland,2020-11-06 00:00:00,90,Mount Rogers
+13,51023,26,Botetourt,2020-11-06 00:00:00,521,Alleghany
+5,51025,30,Brunswick,2020-11-06 00:00:00,434,Southside
+4,51027,17,Buchanan,2020-11-06 00:00:00,284,Cumberland Plateau
+9,51029,29,Buckingham,2020-11-06 00:00:00,806,Piedmont
+9,51031,33,Campbell,2020-11-06 00:00:00,836,Central Virginia
+6,51033,32,Caroline,2020-11-06 00:00:00,467,Rappahannock
+29,51035,53,Carroll,2020-11-06 00:00:00,670,Mount Rogers
+5,51036,23,Charles City,2020-11-06 00:00:00,107,Chickahominy
+1,51037,20,Charlotte,2020-11-06 00:00:00,230,Piedmont
+120,51041,438,Chesterfield,2020-11-06 00:00:00,7481,Chesterfield
+1,51043,15,Clarke,2020-11-06 00:00:00,132,Lord Fairfax
+0,51045,3,Craig,2020-11-06 00:00:00,65,Alleghany
+18,51047,99,Culpeper,2020-11-06 00:00:00,1479,Rappahannock Rapidan
+2,51049,9,Cumberland,2020-11-06 00:00:00,130,Piedmont
+1,51051,10,Dickenson,2020-11-06 00:00:00,169,Cumberland Plateau
+12,51053,45,Dinwiddie,2020-11-06 00:00:00,567,Crater
+2,51057,13,Essex,2020-11-06 00:00:00,203,Three Rivers
+595,51059,2325,Fairfax,2020-11-06 00:00:00,24909,Fairfax
+27,51061,56,Fauquier,2020-11-06 00:00:00,1146,Rappahannock Rapidan
+15,51063,14,Floyd,2020-11-06 00:00:00,267,New River
+9,51065,42,Fluvanna,2020-11-06 00:00:00,442,Thomas Jefferson
+7,51067,38,Franklin County,2020-11-06 00:00:00,1090,West Piedmont
+15,51069,92,Frederick,2020-11-06 00:00:00,1289,Lord Fairfax
+0,51071,4,Giles,2020-11-06 00:00:00,160,New River
+3,51073,17,Gloucester,2020-11-06 00:00:00,366,Three Rivers
+7,51075,32,Goochland,2020-11-06 00:00:00,350,Chickahominy
+20,51077,32,Grayson,2020-11-06 00:00:00,406,Mount Rogers
+3,51079,16,Greene,2020-11-06 00:00:00,303,Thomas Jefferson
+15,51081,40,Greensville,2020-11-06 00:00:00,911,Crater
+8,51083,16,Halifax,2020-11-06 00:00:00,614,Southside
+45,51085,137,Hanover,2020-11-06 00:00:00,1802,Chickahominy
+240,51087,510,Henrico,2020-11-06 00:00:00,6762,Henrico
+33,51089,147,Henry,2020-11-06 00:00:00,1450,West Piedmont
+0,51091,0,Highland,2020-11-06 00:00:00,12,Central Shenandoah
+26,51093,47,Isle of Wight,2020-11-06 00:00:00,898,Western Tidewater
+22,51095,69,James City,2020-11-06 00:00:00,990,Peninsula
+2,51097,12,King and Queen,2020-11-06 00:00:00,92,Three Rivers
+5,51099,25,King George,2020-11-06 00:00:00,298,Rappahannock
+5,51101,19,King William,2020-11-06 00:00:00,225,Three Rivers
+1,51103,9,Lancaster,2020-11-06 00:00:00,210,Three Rivers
+11,51105,35,Lee,2020-11-06 00:00:00,616,Lenowisco
+134,51107,498,Loudoun,2020-11-06 00:00:00,8225,Loudoun
+8,51109,41,Louisa,2020-11-06 00:00:00,420,Thomas Jefferson
+5,51111,9,Lunenburg,2020-11-06 00:00:00,156,Piedmont
+3,51113,10,Madison,2020-11-06 00:00:00,152,Rappahannock Rapidan
+0,51115,12,Mathews,2020-11-06 00:00:00,141,Three Rivers
+35,51117,45,Mecklenburg,2020-11-06 00:00:00,925,Southside
+11,51119,9,Middlesex,2020-11-06 00:00:00,148,Three Rivers
+6,51121,39,Montgomery,2020-11-06 00:00:00,3114,New River
+2,51125,8,Nelson,2020-11-06 00:00:00,142,Thomas Jefferson
+3,51127,16,New Kent,2020-11-06 00:00:00,309,Chickahominy
+31,51131,49,Northampton,2020-11-06 00:00:00,325,Eastern Shore
+8,51133,13,Northumberland,2020-11-06 00:00:00,228,Three Rivers
+21,51135,52,Nottoway,2020-11-06 00:00:00,380,Piedmont
+5,51137,27,Orange,2020-11-06 00:00:00,451,Rappahannock Rapidan
+31,51139,53,Page,2020-11-06 00:00:00,497,Lord Fairfax
+27,51141,61,Patrick,2020-11-06 00:00:00,352,West Piedmont
+17,51143,91,Pittsylvania,2020-11-06 00:00:00,1416,Pittsylvania-Danville
+5,51145,21,Powhatan,2020-11-06 00:00:00,324,Chesterfield
+13,51147,42,Prince Edward,2020-11-06 00:00:00,790,Piedmont
+7,51149,26,Prince George,2020-11-06 00:00:00,1211,Crater
+224,51153,1024,Prince William,2020-11-06 00:00:00,15013,Prince William
+7,51155,22,Pulaski,2020-11-06 00:00:00,343,New River
+2,51157,5,Rappahannock,2020-11-06 00:00:00,69,Rappahannock Rapidan
+4,51159,14,Richmond County,2020-11-06 00:00:00,365,Three Rivers
+16,51161,51,Roanoke County,2020-11-06 00:00:00,1848,Alleghany
+3,51163,8,Rockbridge,2020-11-06 00:00:00,167,Central Shenandoah
+27,51165,132,Rockingham,2020-11-06 00:00:00,1862,Central Shenandoah
+8,51167,48,Russell,2020-11-06 00:00:00,594,Cumberland Plateau
+7,51169,33,Scott,2020-11-06 00:00:00,512,Lenowisco
+61,51171,104,Shenandoah,2020-11-06 00:00:00,1067,Lord Fairfax
+27,51173,57,Smyth,2020-11-06 00:00:00,708,Mount Rogers
+38,51175,29,Southampton,2020-11-06 00:00:00,942,Western Tidewater
+55,51177,157,Spotsylvania,2020-11-06 00:00:00,2583,Rappahannock
+21,51179,174,Stafford,2020-11-06 00:00:00,2552,Rappahannock
+5,51181,10,Surry,2020-11-06 00:00:00,146,Crater
+13,51183,30,Sussex,2020-11-06 00:00:00,646,Crater
+2,51185,31,Tazewell,2020-11-06 00:00:00,584,Cumberland Plateau
+22,51187,48,Warren,2020-11-06 00:00:00,649,Lord Fairfax
+28,51191,96,Washington,2020-11-06 00:00:00,1188,Mount Rogers
+5,51193,26,Westmoreland,2020-11-06 00:00:00,365,Three Rivers
+11,51195,46,Wise,2020-11-06 00:00:00,787,Lenowisco
+7,51197,31,Wythe,2020-11-06 00:00:00,368,Mount Rogers
+9,51199,22,York,2020-11-06 00:00:00,686,Peninsula
+76,51510,331,Alexandria,2020-11-06 00:00:00,4444,Alexandria
+7,51520,21,Bristol,2020-11-06 00:00:00,350,Mount Rogers
+1,51530,6,Buena Vista City,2020-11-06 00:00:00,137,Central Shenandoah
+31,51540,39,Charlottesville,2020-11-06 00:00:00,1662,Thomas Jefferson
+80,51550,491,Chesapeake,2020-11-06 00:00:00,5168,Chesapeake
+26,51570,29,Colonial Heights,2020-11-06 00:00:00,329,Chesterfield
+0,51580,1,Covington,2020-11-06 00:00:00,62,Alleghany
+46,51590,123,Danville,2020-11-06 00:00:00,1313,Pittsylvania-Danville
+28,51595,36,Emporia,2020-11-06 00:00:00,303,Crater
+8,51600,15,Fairfax City,2020-11-06 00:00:00,166,Fairfax
+6,51610,13,Falls Church,2020-11-06 00:00:00,77,Fairfax
+14,51620,26,Franklin City,2020-11-06 00:00:00,518,Western Tidewater
+6,51630,54,Fredericksburg,2020-11-06 00:00:00,612,Rappahannock
+30,51640,42,Galax,2020-11-06 00:00:00,475,Mount Rogers
+33,51650,99,Hampton,2020-11-06 00:00:00,2233,Hampton
+35,51660,102,Harrisonburg,2020-11-06 00:00:00,3183,Central Shenandoah
+8,51670,42,Hopewell,2020-11-06 00:00:00,538,Crater
+1,51678,4,Lexington,2020-11-06 00:00:00,272,Central Shenandoah
+27,51680,69,Lynchburg,2020-11-06 00:00:00,2153,Central Virginia
+27,51683,132,Manassas City,2020-11-06 00:00:00,2083,Prince William
+8,51685,58,Manassas Park,2020-11-06 00:00:00,665,Prince William
+24,51690,68,Martinsville,2020-11-06 00:00:00,509,West Piedmont
+51,51700,121,Newport News,2020-11-06 00:00:00,3357,Peninsula
+85,51710,416,Norfolk,2020-11-06 00:00:00,5649,Norfolk
+0,51720,5,Norton,2020-11-06 00:00:00,59,Lenowisco
+30,51730,89,Petersburg,2020-11-06 00:00:00,987,Crater
+2,51735,3,Poquoson,2020-11-06 00:00:00,107,Peninsula
+69,51740,325,Portsmouth,2020-11-06 00:00:00,2902,Portsmouth
+1,51750,16,Radford,2020-11-06 00:00:00,995,New River
+78,51760,466,Richmond City,2020-11-06 00:00:00,5625,Richmond
+47,51770,111,Roanoke City,2020-11-06 00:00:00,3176,Roanoke
+12,51775,30,Salem,2020-11-06 00:00:00,659,Alleghany
+5,51790,17,Staunton,2020-11-06 00:00:00,454,Central Shenandoah
+78,51800,140,Suffolk,2020-11-06 00:00:00,2395,Western Tidewater
+110,51810,463,Virginia Beach,2020-11-06 00:00:00,8540,Virginia Beach
+4,51820,13,Waynesboro,2020-11-06 00:00:00,414,Central Shenandoah
+8,51830,14,Williamsburg,2020-11-06 00:00:00,235,Peninsula
+4,51840,46,Winchester,2020-11-06 00:00:00,680,Lord Fairfax
