@@ -43,8 +43,8 @@ def format_df(raw_name, file, out_cases, out_deaths):
 
     # Expected headers
     expected_headers_0 = [np.nan, np.nan, 'Not Hispanic', np.nan, np.nan, np.nan, np.nan, np.nan, 'Hispanic', np.nan, np.nan, np.nan, np.nan, np.nan, 'Unknown Ethnicity', np.nan, np.nan, np.nan, np.nan, np.nan]
-    expected_headers_1 = ['County', 'Total Cases', 'Black or African \nAmerican', 'White', 'American \nIndian or Alaska \nNative', 'Asian', 'Other', 'Unknown', 'Black or African \nAmerican', 'White', 'American \nIndian or Alaska \nNative', 'Asian', 'Other', 'Unknown', 'Black or African \nAmerican', 'White', 'American \nIndian or Alaska \nNative', 'Asian', 'Other', 'Unknown']
-    expected_headers_1_deaths = ['County', 'Total Deaths', 'Black or African \nAmerican', 'White', 'American \nIndian or Alaska \nNative', 'Asian', 'Other', 'Unknown', 'Black or African \nAmerican', 'White', 'American \nIndian or Alaska \nNative', 'Asian', 'Other', 'Unknown', 'Black or African \nAmerican', 'White', 'American \nIndian or Alaska \nNative', 'Asian', 'Other', 'Unknown']
+    expected_headers_1 = ['County', 'Total Cases', 'Black or African \nAmerican', 'White', 'American \nIndian or \nAlaska Native', 'Asian', 'Other', 'Unknown', 'Black or African \nAmerican', 'White', 'American \nIndian or \nAlaska Native', 'Asian', 'Other', 'Unknown', 'Black or African \nAmerican', 'White', 'American \nIndian or \nAlaska Native', 'Asian', 'Other', 'Unknown']
+    expected_headers_1_deaths = ['County', 'Total Deaths', 'Black or African \nAmerican', 'White', 'American \nIndian or \nAlaska Native', 'Asian', 'Other', 'Unknown', 'Black or African \nAmerican', 'White', 'American \nIndian or \nAlaska Native', 'Asian', 'Other', 'Unknown', 'Black or African \nAmerican', 'White', 'American \nIndian or \nAlaska Native', 'Asian', 'Other', 'Unknown']
     # Read csvs to pandas
     zip_file = ZipFile(raw_name + "/" + file)
     for csv_file in zip_file.infolist():
@@ -57,6 +57,7 @@ def format_df(raw_name, file, out_cases, out_deaths):
                 # Checking the columns match to expected
                 if index == 0:
                     this = [x for x in row]
+                    # print(this)
                     if len(this) != len(expected_headers_0):
                         raise Exception("Unequal number of headers in " + cat + " for " + full_date)
                     else:
@@ -68,6 +69,7 @@ def format_df(raw_name, file, out_cases, out_deaths):
                             raise Exception("Unexpected order of headers in " + cat + " for " + full_date)
                 elif index == 1:
                     this = [x for x in row]
+                    # print(this)
                     if len(this) != len(expected_headers_1):
                         raise Exception("Unequal number of headers in " + cat + " for " + full_date)
                     else:
@@ -235,16 +237,16 @@ def run_MS(args):
             county_tables.export(new_path.replace(".pdf", "_cases.csv"), compress=True)
             deaths_tables.export(new_path.replace(".pdf", "_deaths.csv"), compress=True)
 
-            print("Collected raw for MS")
+            # print("Collected raw for MS")
 
-            # # Adding to data file
-            # out_cases = []
-            # out_deaths = []
-            # file_cases = "0" + str(today.month) + "_" + str(today.day) + "_summary_cases.zip"
-            # file_deaths = "0" + str(today.month) + "_" + str(today.day) + "_summary_deaths.zip"
-            # out_cases, out_deaths = format_df(raw_name, file_cases, out_cases, out_deaths)
-            # out_cases, out_deaths = format_df(raw_name, file_deaths, out_cases, out_deaths)
-            # export(out_cases, out_deaths)
+            # Adding to data file
+            out_cases = []
+            out_deaths = []
+            file_cases = "0" + str(today.month) + "_" + str(today.day) + "_summary_cases.zip"
+            file_deaths = "0" + str(today.month) + "_" + str(today.day) + "_summary_deaths.zip"
+            out_cases, out_deaths = format_df(raw_name, file_cases, out_cases, out_deaths)
+            out_cases, out_deaths = format_df(raw_name, file_deaths, out_cases, out_deaths)
+            export(out_cases, out_deaths)
 
 if __name__ == '__main__':
     run_MS({})
