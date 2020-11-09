@@ -174,8 +174,8 @@ def run_LA(args):
             fulldat["Vent_" + cat + "Region" + str(region)] = dat[0]["value"]
     
     # New data - Race by region
-    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_and_Deaths_by_Race_by_Region/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=LDH_Region%2CRace&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true').json()
-    with open("%s/RacebyRegion_%s.json" % (raw_name, now), "w") as fp:
+    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Case_Deaths_Race_Region_new/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=LDH_Region%2CRace&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true').json()
+    with open("%s/DeathRacebyRegion_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     race_data = raw["features"]
     if len(race_data) != 63:
@@ -189,6 +189,23 @@ def run_LA(args):
         if race_data["Race"] not in expected_races:
             raise Exception("Unexpected race " + race_data["Race"])
         fulldat["Deaths_" + race_data["LDH_Region"].strip() + "_race_" + race_data["Race"]] = race_data["value"]
+
+    #Case Race by region
+    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Case_Deaths_Race_Region_new/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=LDH_Region%2CRace&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true').json()
+    with open("%s/CaseRacebyRegion_%s.json" % (raw_name, now), "w") as fp:
+        json.dump(raw, fp)
+    race_data = raw["features"]
+    if len(race_data) != 63:
+        raise Exception("Unexpected number of regions/races")
+    expected_regions = ["Region 1", "Region 2", "Region 3", "Region 4", "Region 5", "Region 6", "Region 7", "Region 8", "Region 9"]
+    expected_races = ["White", "Black", "Unknown", "Asian", "Native Hawaiian/Other Pacific Islander", "American Indian/Alaskan Native", "Other"]
+    for attribute in race_data:
+        race_data = attribute["attributes"]
+        if race_data["LDH_Region"] not in expected_regions:
+            raise Exception("Unexpeted region " + race_data["LDH_Region"])
+        if race_data["Race"] not in expected_races:
+            raise Exception("Unexpected race " + race_data["Race"])
+        fulldat["Casess_" + race_data["LDH_Region"].strip() + "_race_" + race_data["Race"]] = race_data["value"]
 
     # New data - Race by parish
     out_parish = []
