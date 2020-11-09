@@ -37,36 +37,45 @@ def get_testing_results(driver):
 
 
     
-def getinfo(current_lab, out, driver, raw_name, now):
-    # Boxes division
-    div_test_performed = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[7]/transform/div/div[3]/div/visual-modern/div')
-    div_hosp_conf = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[22]/transform/div/div[3]/div/visual-modern/div')
-    div_hosp_sus = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[9]/transform/div/div[3]/div/visual-modern/div')
-    div_confirmed_cases = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[6]/transform/div/div[3]/div/visual-modern/div')
-    div_deaths = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[9]/transform/div/div[3]/div/visual-modern/div')
-    div_icu = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[23]/transform/div/div[3]/div/visual-modern/div')
-    # Category strings
-    testPerformed = "TotalTests"
-    confirmed_cases = "ConfirmedCases"
-    deaths = "Deaths"
-    conf_hosp = "ConfirmedHospitalized"
-    sus_hosp = "SuspectedHospitalized"
-    icu = "ICU"
+def getinfo(out, driver, raw_name, now):
+    # Statewide Cases, Deaths and Testing
+    # driver.switch_to.frame(driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/iframe'))
+    # cases  = driver.find_element_by_xpath('//*[@id="sandbox-host"]/svg/g/g/text')
+    # print(cases, len(cases))
+    # exit()
+    # out["Total Cases"] = (driver.find_element_by_xpath('//*[@id="sandbox-host"]/svg/g/g/text/tspan').text).replace(",","")
+    # print(out)
+    # exit()
+    # out["Total Deaths"] = (driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[3]/transform/div/div[3]/div/visual-modern/div').text).replace(",","")
+    # out["Total Tested"] = (driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[2]/transform/div/div[3]/div/visual-modern/div').text).replace(",","")
+    # print(out)
+    # exit()
+    # # Boxes division
+    # div_test_performed = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[7]/transform/div/div[3]/div/visual-modern/div')
+    # div_hosp_conf = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[22]/transform/div/div[3]/div/visual-modern/div')
+    # div_hosp_sus = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[9]/transform/div/div[3]/div/visual-modern/div')
+    # div_confirmed_cases = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[6]/transform/div/div[3]/div/visual-modern/div')
+    # div_deaths = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[9]/transform/div/div[3]/div/visual-modern/div')
+    # div_icu = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[23]/transform/div/div[3]/div/visual-modern/div')
+    # # Category strings
+    # testPerformed = "TotalTests"
+    # confirmed_cases = "ConfirmedCases"
+    # deaths = "Deaths"
+    # conf_hosp = "ConfirmedHospitalized"
+    # sus_hosp = "SuspectedHospitalized"
+    # icu = "ICU"
 
     # General Information
     # count = 0
     # for el in div_test_performed.find_elements_by_xpath(".//*"):
     #     print(count, el.text)
     #     count+=1
-    out[current_lab + testPerformed] = div_test_performed.find_elements_by_xpath(".//*")[4].text
-    out[current_lab + confirmed_cases] = div_confirmed_cases.find_elements_by_xpath(".//*")[4].text
-    out[current_lab + deaths] = div_deaths.find_elements_by_xpath(".//*")[4].text
-    out[current_lab + conf_hosp] = div_hosp_conf.find_elements_by_xpath(".//*")[4].text
-    out[current_lab + sus_hosp] = div_hosp_sus.find_elements_by_xpath(".//*")[4].text
-    out[current_lab + icu] = div_icu.find_elements_by_xpath(".//*")[4].text
-
-    # Get Screenshot
-    driver.save_screenshot(raw_name + "/summary_" + now + ".png")
+    # out[current_lab + testPerformed] = div_test_performed.find_elements_by_xpath(".//*")[4].text
+    # out[current_lab + confirmed_cases] = div_confirmed_cases.find_elements_by_xpath(".//*")[4].text
+    # out[current_lab + deaths] = div_deaths.find_elements_by_xpath(".//*")[4].text
+    # out[current_lab + conf_hosp] = div_hosp_conf.find_elements_by_xpath(".//*")[4].text
+    # out[current_lab + sus_hosp] = div_hosp_sus.find_elements_by_xpath(".//*")[4].text
+    # out[current_lab + icu] = div_icu.find_elements_by_xpath(".//*")[4].text
 
     # print(out[current_lab + testPerformed], out[current_lab + confirmed_cases], out[current_lab + deaths])
     # if current_lab == "":
@@ -110,7 +119,7 @@ def collect(current_lab, main, dropdown, xpath, out, driver):
     return_button = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[7]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button')
     goback(return_button)
     # Add to Out
-    return getinfo(current_lab, out, driver)
+    return getinfo(out, driver)
     
 def get_age_gender_race(driver, out, cat):
     raw_name = '../NV/raw'
@@ -260,102 +269,42 @@ def run_NV(args):
     
     out = {}
 
-    # Go to previous page
-    driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[1]/i').click()
+    # Go to previous page - Current Status
+    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[41]/transform/div/div[3]/div/visual-modern/div/button').click()
     time.sleep(2)
     # # Click left
     # driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[1]/i').click()
     # time.sleep(2)
 
-    # General Info
-    out = getinfo("", out, driver, raw_name, now)
+    # Get Screenshot
+    driver.save_screenshot(raw_name + "/summary_" + now + ".png")
 
-    # Go to next page
-    driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
+    # Go to next page - Demographics
+    for i in range(6):
+        driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
     time.sleep(2)
-
-    # Get county data
-    out_county = []
-    county_names = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[1]/*')
-    county_tests = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[3]/*')
-    county_cases = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[6]/*')
-    county_deaths = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[8]/*')
-    county_tested = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[4]/*')
-    if len(county_names) != len(county_tests) or len(county_names) != len(county_cases) or len(county_names) != len(county_deaths) or len(county_names) != len(county_tested):
-        raise Exception("Irregular county table")
-
-    for name, test, case, death, tested in zip(county_names, county_tests, county_cases, county_deaths, county_tested):
-        county = {
-            "County Name": name.text,
-            "Total Tests": test.text,
-            "Total People Tested": tested.text,
-            "Total Cases": case.text,
-            "Total Deaths": death.text,
-            "Scrape Time": now
-        }
-        out_county.append(county)
     
-    # Raw
-    driver.save_screenshot(raw_name + "/county_" + now + ".png")
-
-    # # PCR testing by location
-    # chart_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div')
-    # driver.execute_script("arguments[0].scrollIntoView();", chart_div)
-    # actionChains = ActionChains(driver)
-    # actionChains.context_click(chart_div).pause(3).send_keys(Keys.DOWN).send_keys(Keys.ENTER).perform()
-    # time.sleep(3)
-    # # Show table
-    # # show_table = driver.find_element_by_xpath('/html/body/div[5]/drop-down-list/ng-transclude/ng-repeat/drop-down-list-item/ng-transclude/ng-switch/div')
-    # # show_table.click()
-    # # time.sleep(4)
-    #  # Get table
-    # headers_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[3]/div/*')
-    # values_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div/*')
-
-
-    # if len(headers_div) == 0 or  len(values_div) == 0:
-    #     raise Exception("No values or headers scraped for NV Testing")
-
-    # if len(headers_div) != len(values_div):
-    #     raise Exception("Lab Testing data not right")
-
-    # expected_labs = ["UMC", "NSPHL", "SNPHL", "LabCorp", "Quest", "Quest", "CPL", "RRMC", "Other"]
-
-    # for header, value in zip(headers_div, values_div):
-    #     header_val = header.find_element_by_class_name('pivotTableCellWrap ').text
-    #     val_val = value.text
-    #     # print(header_val, val_val)
-    #     if header_val not in expected_labs:
-    #         raise Exception("Unexpected lab")
-    #     out["Total Tested: Lab_" + header_val] = val_val
-
-    # # Go back
-    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
-    # time.sleep(2)
-
-    # Go to next page
-    driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
-    time.sleep(2)
-
     # # Age, Gender, Race/Ethnicity - Total tested
-    filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div')
+    filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]')
     filter_div.click()
     time.sleep(2)
-    select_button = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/visual-container-header-modern/div/div[1]/div/visual-header-item-container/div/button')
+    driver.find_element_by_xpath('/html/body/div[6]').click()
+    time.sleep(2)
+    select_button = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/span')
     select_button.click()
     time.sleep(2)
 
-    # Select 
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
-    time.sleep(2)
-    driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[2]/div/div[1]/div/div/div[5]/div/span').click()
-    time.sleep(2)
+    # # Select 
+    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
+    # time.sleep(5)
+    # driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/span').click()
+    # time.sleep(2)
 
-    # Go back
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
-    time.sleep(2)
+    # # Go back
+    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
+    # time.sleep(2)
 
-    out = get_age_gender_race(driver, out, "TotalTested_")
+    out = get_age_gender_race(driver, out, "ConfirmedCases_")
 
     # Age, Gender, Race/Ethnicity - Deaths
     # Filter elements
@@ -419,6 +368,30 @@ def run_NV(args):
     time.sleep(2)
 
     out = get_age_gender_race(driver, out, "ConfirmedCases_")
+
+    # Get county data
+    out_county = []
+    county_names = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[1]/*')
+    county_tests = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[7]/*')
+    county_cases = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[3]/*')
+    county_deaths = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[5]/*')
+    # county_tested = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[8]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div[4]/*')
+    if len(county_names) != len(county_tests) or len(county_names) != len(county_cases) or len(county_names) != len(county_deaths):
+        raise Exception("Irregular county table")
+
+    for name, test, case, death in zip(county_names, county_tests, county_cases, county_deaths):
+        county = {
+            "County Name": name.text,
+            "Total Tests": test.text,
+            "Total Cases": case.text,
+            "Total Deaths": death.text,
+            "Scrape Time": now
+        }
+        out_county.append(county)
+    
+    # Raw
+    driver.save_screenshot(raw_name + "/county_" + now + ".png")
+
 
     out["Scrape_Time"] = now
     fields = sorted([x for x in out])
