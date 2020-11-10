@@ -126,10 +126,14 @@ def run_CT(args):
         county = {
             "County Name": county,
             "Reported Date": str(date),
-            "Total Tested": row["number_of_tests"],
-            "Total Tested Positive": row["number_of_positives"],
-            "Total Tested Negative": row["number_of_negatives"],
-            "Total Tested Unknown": row["number_of_indeterminates"]
+            "Total Tested: PCR" : row["number_of_pcr_tests"],
+            "Total Positive Tested: PCR" : row["number_of_pcr_positives"],
+            "Total Negative Tested: PCR" : row["number_of_pcr_negatives"],
+            "Total Indeterminates Tested: PCR" : row["number_of_pcr_indeterminates"],
+            "Total Tested: AG" : row["number_of_ag_tests"],
+            "Total Positive Tested: AG" : row["number_of_ag_positives"],
+            "Total Negative Tested: AG" : row["number_of_ag_negatives"],
+            "Total Indeterminates Tested: AG" : row["number_of_ag_indeterminates"],
         }
         out_testing_county.append(county)
     
