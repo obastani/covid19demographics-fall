@@ -280,94 +280,94 @@ def run_NV(args):
     driver.save_screenshot(raw_name + "/summary_" + now + ".png")
 
     # Go to next page - Demographics
-    for i in range(6):
+    for i in range(12):
         driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
     time.sleep(2)
     
-    # # Age, Gender, Race/Ethnicity - Total tested
-    filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]')
-    filter_div.click()
-    time.sleep(2)
-    driver.find_element_by_xpath('/html/body/div[6]').click()
-    time.sleep(2)
-    select_button = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/span')
-    select_button.click()
-    time.sleep(2)
+    # # # Age, Gender, Race/Ethnicity - Total tested
+    # filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]')
+    # filter_div.click()
+    # time.sleep(2)
+    # driver.find_element_by_xpath('/html/body/div[6]').click()
+    # time.sleep(2)
+    # select_button = driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/span')
+    # select_button.click()
+    # time.sleep(2)
+
+    # # # Select 
+    # # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
+    # # time.sleep(5)
+    # # driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/span').click()
+    # # time.sleep(2)
+
+    # # # Go back
+    # # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
+    # # time.sleep(2)
+
+    # out = get_age_gender_race(driver, out, "ConfirmedCases_")
+
+    # # Age, Gender, Race/Ethnicity - Deaths
+    # # Filter elements
+    # filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div')
+    # filter_div.click()
+    # time.sleep(2)
+    # select_button = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/visual-container-header-modern/div/div[1]/div/visual-header-item-container/div/button')
+    # select_button.click()
+    # time.sleep(2)
 
     # # Select 
-    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
-    # time.sleep(5)
-    # driver.find_element_by_xpath('/html/body/div[6]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/span').click()
+    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
+    # time.sleep(2)
+    # driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[2]/div/div[1]/div/div/div[2]/div/span').click()
     # time.sleep(2)
 
     # # Go back
-    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[1]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
+    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
     # time.sleep(2)
 
-    out = get_age_gender_race(driver, out, "ConfirmedCases_")
+    # out = get_age_gender_race(driver, out, "Deaths_")
 
-    # Age, Gender, Race/Ethnicity - Deaths
-    # Filter elements
-    filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div')
-    filter_div.click()
-    time.sleep(2)
-    select_button = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/visual-container-header-modern/div/div[1]/div/visual-header-item-container/div/button')
-    select_button.click()
-    time.sleep(2)
+    # # Age, Gender, Race/Ethnicity - Negative Tests 
+    # # Filter elements
+    # filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div')
+    # filter_div.click()
+    # time.sleep(2)
+    # select_button = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/visual-container-header-modern/div/div[1]/div/visual-header-item-container/div/button')
+    # select_button.click()
+    # time.sleep(2)
 
-    # Select 
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
-    time.sleep(2)
-    driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[2]/div/div[1]/div/div/div[2]/div/span').click()
-    time.sleep(2)
+    # # Select 
+    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
+    # time.sleep(2)
+    # driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[2]/div/div[1]/div/div/div[4]/div/span').click()
+    # time.sleep(2)
 
-    # Go back
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
-    time.sleep(2)
+    # # Go back
+    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
+    # time.sleep(2)
 
-    out = get_age_gender_race(driver, out, "Deaths_")
+    # out = get_age_gender_race(driver, out, "TotalNegative_")
 
-    # Age, Gender, Race/Ethnicity - Negative Tests 
-    # Filter elements
-    filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div')
-    filter_div.click()
-    time.sleep(2)
-    select_button = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/visual-container-header-modern/div/div[1]/div/visual-header-item-container/div/button')
-    select_button.click()
-    time.sleep(2)
+    # # # Age, Gender, Race/Ethnicity - Confirmed Cases
+    # # Filter elements
+    # filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div')
+    # filter_div.click()
+    # time.sleep(2)
+    # select_button = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/visual-container-header-modern/div/div[1]/div/visual-header-item-container/div/button')
+    # select_button.click()
+    # time.sleep(2)
 
-    # Select 
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
-    time.sleep(2)
-    driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[2]/div/div[1]/div/div/div[4]/div/span').click()
-    time.sleep(2)
+    # # Select 
+    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
+    # time.sleep(2)
+    # driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/span').click()
+    # time.sleep(2)
 
-    # Go back
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
-    time.sleep(2)
+    # # Go back
+    # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
+    # time.sleep(2)
 
-    out = get_age_gender_race(driver, out, "TotalNegative_")
-
-    # # Age, Gender, Race/Ethnicity - Confirmed Cases
-    # Filter elements
-    filter_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div')
-    filter_div.click()
-    time.sleep(2)
-    select_button = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/visual-container-header-modern/div/div[1]/div/visual-header-item-container/div/button')
-    select_button.click()
-    time.sleep(2)
-
-    # Select 
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/div/visual-modern/div/div/div[2]/div').click()
-    time.sleep(2)
-    driver.find_element_by_xpath('/html/body/div[5]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/div/span').click()
-    time.sleep(2)
-
-    # Go back
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[5]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
-    time.sleep(2)
-
-    out = get_age_gender_race(driver, out, "ConfirmedCases_")
+    # out = get_age_gender_race(driver, out, "ConfirmedCases_")
 
     # Get county data
     out_county = []
@@ -393,14 +393,14 @@ def run_NV(args):
     driver.save_screenshot(raw_name + "/county_" + now + ".png")
 
 
-    out["Scrape_Time"] = now
-    fields = sorted([x for x in out])
-    exists = os.path.exists(data_name)
-    with open(data_name, "a") as fp:
-        writer = csv.writer(fp)
-        if not exists:
-            writer.writerow(fields)
-        writer.writerow([out[x] for x in fields])
+    # out["Scrape_Time"] = now
+    # fields = sorted([x for x in out])
+    # exists = os.path.exists(data_name)
+    # with open(data_name, "a") as fp:
+    #     writer = csv.writer(fp)
+    #     if not exists:
+    #         writer.writerow(fields)
+    #     writer.writerow([out[x] for x in fields])
     # Output - county
     for county in out_county:
         fields = sorted([x for x in county])
