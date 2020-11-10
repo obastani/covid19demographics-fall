@@ -1,4 +1,5 @@
-# https://github.com/nychealth/coronavirus-data
+# https://github.com/nychealth/co
+# ronavirus-data
 import io
 import requests
 import pandas as pd
@@ -150,10 +151,10 @@ def run_NY(args):
     raw_name = '../NY/raw'
     data_name = '../NY/data/data.csv'
     now = str(datetime.now())
-    baseurl = "https://raw.githubusercontent.com/nychealth/coronavirus-data/master/"
+    baseurl = "https://raw.githubusercontent.com/nychealth/coronavirus-data/master/totals/"
     csv_files = ["by-age.csv",
                  "by-sex.csv",
-                 "case-hosp-death.csv",
+                #  "case-hosp-death.csv",
                  "by-race.csv"
                 ]
 
@@ -168,101 +169,104 @@ def run_NY(args):
         list_df.append(buffer_list)
     else:
         list_df = grabHistorical(csv_files, raw_name)
-    # Output   
-    # Expected fields from the data
-    fields = [
-              "0_17_COVID_CASE_RATE",
-              "18_44_COVID_CASE_RATE",
-              "45_64_COVID_CASE_RATE",
-              "65_74_COVID_CASE_RATE",
-              "75+_COVID_CASE_RATE",
-              "City_Total_COVID_CASE_RATE",
-              "0_17_HOSPITALIZED_CASE_RATE",
-              "18_44_HOSPITALIZED_CASE_RATE",
-              "45_64_HOSPITALIZED_CASE_RATE",
-              "65_74_HOSPITALIZED_CASE_RATE",
-              "75+_HOSPITALIZED_CASE_RATE",
-              "City_Total_HOSPITALIZED_CASE_RATE",
-              "0_17_DEATH_RATE",
-              "18_44_DEATH_RATE",
-              "45_64_DEATH_RATE",
-              "65_74_DEATH_RATE",
-              "75+_DEATH_RATE",              
-              "City_Total_DEATH_RATE",
-              "0_17_CASE_COUNT",
-              "18_44_CASE_COUNT",
-              "45_64_CASE_COUNT",
-              "65_74_CASE_COUNT",
-              "75+_CASE_COUNT",             
-              "City_Total_CASE_COUNT",
-              "0_17_HOSP_COUNT",
-              "18_44_HOSP_COUNT",
-              "45_64_HOSP_COUNT",
-              "65_74_HOSP_COUNT",
-              "75+_HOSP_COUNT",             
-              "City_Total_HOSP_COUNT",
-              "0_17_DEATH_COUNT",
-              "18_44_DEATH_COUNT",
-              "45_64_DEATH_COUNT",
-              "65_74_DEATH_COUNT",
-              "75+_DEATH_COUNT",             
-              "City_Total_DEATH_COUNT",
-              "Female_COVID_CASE_RATE",
-              "Male_COVID_CASE_RATE",
-              "Female_HOSPITALIZED_CASE_RATE",
-              "Male_HOSPITALIZED_CASE_RATE",
-              "Female_DEATH_RATE",
-              "Male_DEATH_RATE",
-              "Female_CASE_COUNT",
-              "Male_CASE_COUNT",
-              "Female_HOSP_COUNT",
-              "Male_HOSP_COUNT",
-              "Female_DEATH_COUNT",
-              "Male_DEATH_COUNT",
-              "CASE_COUNT",
-              "HOSPITALIZED_COUNT",
-              "DEATH_COUNT",
-              "Race_Asian/Pacific-Islander_COVID_CASE_RATE",
-              "Race_Black/African-American_COVID_CASE_RATE",
-              "Race_Hispanic/Latino_COVID_CASE_RATE",
-              "Race_White_COVID_CASE_RATE",
-              "Race_Asian/Pacific-Islander_HOSPITALIZED_RATE",
-              "Race_Black/African-American_HOSPITALIZED_RATE",
-              "Race_Hispanic/Latino_HOSPITALIZED_RATE",
-              "Race_White_HOSPITALIZED_RATE",
-              "Race_Asian/Pacific-Islander_DEATH_RATE",
-              "Race_Black/African-American_DEATH_RATE",
-              "Race_Hispanic/Latino_DEATH_RATE",
-              "Race_White_DEATH_RATE",
-              "Race_Asian/Pacific-Islander_CASE_COUNT",
-              "Race_Black/African-American_CASE_COUNT",
-              "Race_Hispanic/Latino_CASE_COUNT",
-              "Race_White_CASE_COUNT",
-              "Race_Asian/Pacific-Islander_HOSPITALIZED_COUNT",
-              "Race_Black/African-American_HOSPITALIZED_COUNT",
-              "Race_Hispanic/Latino_HOSPITALIZED_COUNT",
-              "Race_White_HOSPITALIZED_COUNT",
-              "Race_Asian/Pacific-Islander_DEATH_COUNT",
-              "Race_Black/African-American_DEATH_COUNT",
-              "Race_Hispanic/Latino_DEATH_COUNT",
-              "Race_White_DEATH_COUNT",
-             ]
+    
+    # Only getting raw
+    
+    # # Output   
+    # # Expected fields from the data
+    # fields = [
+    #           "0_17_COVID_CASE_RATE",
+    #           "18_44_COVID_CASE_RATE",
+    #           "45_64_COVID_CASE_RATE",
+    #           "65_74_COVID_CASE_RATE",
+    #           "75+_COVID_CASE_RATE",
+    #           "City_Total_COVID_CASE_RATE",
+    #           "0_17_HOSPITALIZED_CASE_RATE",
+    #           "18_44_HOSPITALIZED_CASE_RATE",
+    #           "45_64_HOSPITALIZED_CASE_RATE",
+    #           "65_74_HOSPITALIZED_CASE_RATE",
+    #           "75+_HOSPITALIZED_CASE_RATE",
+    #           "City_Total_HOSPITALIZED_CASE_RATE",
+    #           "0_17_DEATH_RATE",
+    #           "18_44_DEATH_RATE",
+    #           "45_64_DEATH_RATE",
+    #           "65_74_DEATH_RATE",
+    #           "75+_DEATH_RATE",              
+    #           "City_Total_DEATH_RATE",
+    #           "0_17_CASE_COUNT",
+    #           "18_44_CASE_COUNT",
+    #           "45_64_CASE_COUNT",
+    #           "65_74_CASE_COUNT",
+    #           "75+_CASE_COUNT",             
+    #           "City_Total_CASE_COUNT",
+    #           "0_17_HOSP_COUNT",
+    #           "18_44_HOSP_COUNT",
+    #           "45_64_HOSP_COUNT",
+    #           "65_74_HOSP_COUNT",
+    #           "75+_HOSP_COUNT",             
+    #           "City_Total_HOSP_COUNT",
+    #           "0_17_DEATH_COUNT",
+    #           "18_44_DEATH_COUNT",
+    #           "45_64_DEATH_COUNT",
+    #           "65_74_DEATH_COUNT",
+    #           "75+_DEATH_COUNT",             
+    #           "City_Total_DEATH_COUNT",
+    #           "Female_COVID_CASE_RATE",
+    #           "Male_COVID_CASE_RATE",
+    #           "Female_HOSPITALIZED_CASE_RATE",
+    #           "Male_HOSPITALIZED_CASE_RATE",
+    #           "Female_DEATH_RATE",
+    #           "Male_DEATH_RATE",
+    #           "Female_CASE_COUNT",
+    #           "Male_CASE_COUNT",
+    #           "Female_HOSP_COUNT",
+    #           "Male_HOSP_COUNT",
+    #           "Female_DEATH_COUNT",
+    #           "Male_DEATH_COUNT",
+    #           "CASE_COUNT",
+    #           "HOSPITALIZED_COUNT",
+    #           "DEATH_COUNT",
+    #           "Race_Asian/Pacific-Islander_COVID_CASE_RATE",
+    #           "Race_Black/African-American_COVID_CASE_RATE",
+    #           "Race_Hispanic/Latino_COVID_CASE_RATE",
+    #           "Race_White_COVID_CASE_RATE",
+    #           "Race_Asian/Pacific-Islander_HOSPITALIZED_RATE",
+    #           "Race_Black/African-American_HOSPITALIZED_RATE",
+    #           "Race_Hispanic/Latino_HOSPITALIZED_RATE",
+    #           "Race_White_HOSPITALIZED_RATE",
+    #           "Race_Asian/Pacific-Islander_DEATH_RATE",
+    #           "Race_Black/African-American_DEATH_RATE",
+    #           "Race_Hispanic/Latino_DEATH_RATE",
+    #           "Race_White_DEATH_RATE",
+    #           "Race_Asian/Pacific-Islander_CASE_COUNT",
+    #           "Race_Black/African-American_CASE_COUNT",
+    #           "Race_Hispanic/Latino_CASE_COUNT",
+    #           "Race_White_CASE_COUNT",
+    #           "Race_Asian/Pacific-Islander_HOSPITALIZED_COUNT",
+    #           "Race_Black/African-American_HOSPITALIZED_COUNT",
+    #           "Race_Hispanic/Latino_HOSPITALIZED_COUNT",
+    #           "Race_White_HOSPITALIZED_COUNT",
+    #           "Race_Asian/Pacific-Islander_DEATH_COUNT",
+    #           "Race_Black/African-American_DEATH_COUNT",
+    #           "Race_Hispanic/Latino_DEATH_COUNT",
+    #           "Race_White_DEATH_COUNT",
+    #          ]
 
-    # Output dictionary is created to be able to write to file - iterates through all the different dates in the list_df
-    for date_file in list_df:
-        exists = os.path.exists(data_name)    
-        out = processData(date_file, fields)
-        # Set scrape time to date of commit or now if current 
-        if not fetch_historical:
-            out["Scrape_Time"] = now
-        else: 
-            out["Scrape_Time"] = date_file[0]["date"]
-        out_fields = [x for x in out]
-        with open(data_name, "a") as fp:
-            writer = csv.writer(fp)
-            if not exists:
-                writer.writerow(out_fields)
-            writer.writerow([out[x] for x in out_fields])
+    # # Output dictionary is created to be able to write to file - iterates through all the different dates in the list_df
+    # for date_file in list_df:
+    #     exists = os.path.exists(data_name)    
+    #     out = processData(date_file, fields)
+    #     # Set scrape time to date of commit or now if current 
+    #     if not fetch_historical:
+    #         out["Scrape_Time"] = now
+    #     else: 
+    #         out["Scrape_Time"] = date_file[0]["date"]
+    #     out_fields = [x for x in out]
+    #     with open(data_name, "a") as fp:
+    #         writer = csv.writer(fp)
+    #         if not exists:
+    #             writer.writerow(out_fields)
+    #         writer.writerow([out[x] for x in out_fields])
 
 if __name__ == '__main__':
     run_NY({})
