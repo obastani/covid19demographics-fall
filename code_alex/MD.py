@@ -10,7 +10,9 @@ def fetch(url, **kwargs):
         kwargs['state'] = state
     return(fetch_(url, **kwargs))
 
-def run_MD(args):
+#def run_MD(args):
+if True:
+    args = {}
     # Load existing data
     data_folder = Path(project_root, state, 'data')
     csv_location = Path(data_folder, 'data.csv')
@@ -34,10 +36,11 @@ def run_MD(args):
             date_obj = datetime.date.today() - datetime.timedelta(days=1)
         date = date_obj.strftime('%Y-%m-%d')
 
-    earliest_date_w_demographics = '2020-03-28'
+    #earliest_date_w_demographics = '2020-03-28'
+    earliest_date_w_demographics = '2020-11-03'
 
     # Whether to fetch current date, re-do all from raw data, or backfill with Wayback
-    run_mode =  'normal' # normal, from scratch, backfill
+    run_mode =  'backfill' # normal, from scratch, backfill
 
     if run_mode == 'from scratch':
         date_list = pd.date_range(start=earliest_date_w_demographics, end=date).astype(str).to_list()
@@ -87,9 +90,13 @@ def run_MD(args):
         sections = site_injection_data['site']['data']['values']['layout']['sections']
         components = [s for s in sections if 'by age range' in json.dumps(s).lower()][0]['rows'][0]['cards']
 
+        if row_date<'2020-11-05':
+            tables_html = components[1]['component']['settings']['markdown']
+        else:
+            tables_html = components[0]['component']['settings']['markdown']
         # Get total counts
-        soup = BeautifulSoup(components[1]['component']['settings']['markdown'], 'html.parser')
         
+        soup = BeautifulSoup(tables_html, 'html.parser')
         totals_tag = soup.find('p', {'class':'topBoxH1Text'})
         if not totals_tag:
             totals_tag = soup.find('p', {'class':'topBlackBoxHeader'})
@@ -124,7 +131,7 @@ def run_MD(args):
                 
 
         # Get age and gender breakdown
-        tables = pd.read_html(components[1]['component']['settings']['markdown'])
+        tables = pd.read_html(tables_html)
         #Deaths columns added 2020-04-09
         if row_date<'2020-04-09':
             age_df = tables[1].copy()
