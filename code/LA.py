@@ -258,10 +258,10 @@ def run_LA(args):
     frame = driver.find_element_by_xpath('//*[@id="ng-app"]/body/div[1]/div[2]/section/div/div[2]/section[2]/figure/js-api-viz/div/iframe')
     driver.switch_to.frame(frame)
    
-    # Total Probable Deaths
-    total_prob_deaths = driver.find_element_by_xpath('//*[@id="tabZoneId19"]/div/div/div/div[1]/div/span/div[1]/span').text
-    total_prob_deaths_num = re.sub('[^0-9]', '', total_prob_deaths)
-    fulldat["Total Probable Deaths"] = total_prob_deaths_num
+    # # Total Probable Deaths
+    # total_prob_deaths = driver.find_element_by_xpath('//*[@id="tabZoneId19"]/div/div/div/div[1]/div/span/div[1]/span').text
+    # total_prob_deaths_num = re.sub('[^0-9]', '', total_prob_deaths)
+    # fulldat["Total Probable Deaths"] = total_prob_deaths_num
 
     # Probable Deaths by Race
     headers_race = driver.find_element_by_xpath('//*[@id="tabZoneId3"]/div/div/div/div[1]/div[5]/div[1]/canvas')
