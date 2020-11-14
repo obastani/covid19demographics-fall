@@ -323,7 +323,8 @@ def run_LA(args):
                             "Hypertension",
                             "Neurological",
                             "Obesity",
-                            "Pulmonary"]
+                            "Pulmonary",
+                            "None"]
     for con, pct in zip(head.splitlines(), val.splitlines()):
         if con.strip() not in expected_conditions:
             raise Exception("Unexpected Underlying Condition " + con)
