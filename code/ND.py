@@ -18,14 +18,14 @@ import time
 
 def get_age(out, driver, cat, now, raw_name):
     # Right Click
-    chart_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[62]/transform/div/div[3]/div')
+    chart_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[59]/transform/div/div[3]/div')
     driver.execute_script("arguments[0].scrollIntoView();", chart_div)
     actionChains = ActionChains(driver)
     actionChains.context_click(chart_div).pause(3).send_keys(Keys.ENTER).perform()
     time.sleep(2)
     # Scrape
-    age_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[62]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[3]/div/*')
-    val_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[62]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div/*')
+    age_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[59]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[3]/div/*')
+    val_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[59]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div/*')
     if len(age_div) != len(val_div):
         raise Exception('Uneven values and ages')
     expected_ages = ['0-5', '6-11', '12-14', '15-19', '20-29', '30-39', '40-49', '50-59', '60-69', '70-79', '80+']
@@ -36,7 +36,7 @@ def get_age(out, driver, cat, now, raw_name):
     # Raw
     driver.save_screenshot(raw_name + "/age_" + cat + "_" + now + ".png")
     # Return to original page
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[62]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
+    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[59]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
     time.sleep(2)
     # Return
     return out
@@ -80,13 +80,13 @@ def get_gender_sp_race(out, driver, cat, now, raw_name):
     time.sleep(2)
     # Race
     # Right Click
-    chart_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[63]/transform/div/div[3]/div/visual-modern/div')
+    chart_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[60]/transform/div/div[3]/div/visual-modern/div')
     driver.execute_script("arguments[0].scrollIntoView();", chart_div)
     actionChains = ActionChains(driver)
     actionChains.context_click(chart_div).pause(3).send_keys(Keys.ENTER).perform()
     time.sleep(2)
-    cat_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[63]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[3]/div/*')
-    val_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[63]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div/*')
+    cat_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[60]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[3]/div/*')
+    val_div = driver.find_elements_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[60]/transform/div/div[3]/div/detail-visual-modern/div/visual-modern/div/div/div[2]/div[1]/div[4]/div/div/div/*')
     expected_cats = ["White", "Unknown", "American Indian", "2 or More", "Asian", "Other", "Black"]
     for ct, val in zip(cat_div, val_div):
         if ct.text not in expected_cats:
@@ -94,7 +94,7 @@ def get_gender_sp_race(out, driver, cat, now, raw_name):
         out[cat + " Race: " + ct.text] = val.text
     # Raw
     driver.save_screenshot(raw_name + "/race_" + cat + "_" + now + ".png")
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[63]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
+    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[60]/transform/div/div[3]/visual-container-pop-out-bar/div/div[1]/button').click()
     time.sleep(2)
     
     return out
@@ -156,22 +156,23 @@ def run_ND(args):
     # Collect raw
     driver.save_screenshot(raw_name + "/overview_" + now + ".png")
     # New Tests, New Positive, Cum Tests, Cum Positive, Active Positives, % Population Tested
-    out["Active Positive Cases"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[45]').text).replace(',','').split('\n')[1])
-    out["New Tests: Total Processed"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[59]').text).replace(',','').split('\n')[1])
-    out["New Tests: First Time Tested"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[130]').text).replace(',','').split('\n')[1])
-    out["New Positives: Total"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[70]').text).replace(',','').split('\n')[1])
-    out["New Positives: Tested Negative before Positive"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[61]').text).replace(',','').split('\n')[1])
-    out["Total Tests"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[132]').text).replace(',','').split('\n')[1])
-    out["Total Tested: Unique Individuals"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[134]').text).replace(',','').split('\n')[1])
-    out["Total Positive Cases"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[136]').text).replace(',','').split('\n')[1])
-    out["Total Positive Cases: Tested Negative before Positive"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[137]').text).replace(',','').split('\n')[1])
-    out["Total Deaths"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[55]').text).replace(',','').split('\n')[1])
-    out["Total Recovered"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[140]').text).replace(',','').split('\n')[1])
+    out["Active Positive Cases"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[42]').text).replace(',','').split('\n')[1])
+    out["New Tests: Total Processed"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[56]').text).replace(',','').split('\n')[1])
+    out["New Tests: First Time Tested"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[124]').text).replace(',','').split('\n')[1])
+    out["New Positives: Total"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[67]').text).replace(',','').split('\n')[1])
+    out["New Positives: Tested Negative before Positive"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[58]').text).replace(',','').split('\n')[1])
+    out["Total Tests"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[126]').text).replace(',','').split('\n')[1])
+    out["Total Tested: Unique Individuals"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[128]').text).replace(',','').split('\n')[1])
+    out["Total Positive Cases"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[130]').text).replace(',','').split('\n')[1])
+    out["Total Positive Cases: Tested Negative before Positive"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[131]').text).replace(',','').split('\n')[1])
+    out["Total Deaths"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[52]').text).replace(',','').split('\n')[1])
+    out["Total Recovered"] = int((driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[134]').text).replace(',','').split('\n')[1])
+
     # Age for Actives, Age for Positives
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[37]/transform/div/div[3]/div/visual-modern/div/button').click()
+    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[35]/transform/div/div[3]/div/visual-modern/div/button').click()
     time.sleep(7)
     out = get_age(out, driver, '# Positive Cases Age [', now, raw_name)
-    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[36]/transform/div/div[3]/div/visual-modern/div/button').click()
+    driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[34]/transform/div/div[3]/div/visual-modern/div/button').click()
     time.sleep(7)
     out = get_age(out, driver, '# Active Cases Age [', now, raw_name)
     # Gender, Spreadtype, Race (Active and Cum Positives)
@@ -183,7 +184,7 @@ def run_ND(args):
     out = get_gender_sp_race(out, driver, "Total Active", now, raw_name)
 
     # Hospitalizations 
-    chart_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[22]/transform/div/div[3]/div/visual-modern')
+    chart_div = driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[21]/transform/div/div[3]/div/visual-modern')
     driver.execute_script("arguments[0].scrollIntoView();", chart_div)
     # Raw
     driver.save_screenshot(raw_name + "/hosp_death_" + now + ".png")
