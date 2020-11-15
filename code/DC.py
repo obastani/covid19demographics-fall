@@ -11,15 +11,15 @@ def run_DC(args):
     data_name = '../DC/data/data.csv'
     now = str(datetime.now())
 
-    r = requests.get("https://dcgov.app.box.com/index.php?rm=box_download_shared_file&vanity_name=DCHealthStatisticsData&file_id=f_645422184765")
-    filename = ""
-    if not r.ok:
-        raise Exception("DC data download failed")
-    with open("%s/%s.xlsx" % (raw_name, now), "wb") as fp:
-        fp.write(r.content)
-        filename = fp.name
+    # r = requests.get("https://dcgov.app.box.com/index.php?rm=box_download_shared_file&vanity_name=DCHealthStatisticsData&file_id=f_645422184765")
+    # filename = ""
+    # if not r.ok:
+    #     raise Exception("DC data download failed")
+    # with open("%s/%s.xlsx" % (raw_name, now), "wb") as fp:
+    #     fp.write(r.content)
+    #     filename = fp.name
 
-    # filename = raw_name + "/2020-11-13.xlsx"
+    filename = raw_name + "/2020-11-14.xlsx"
     
     age_gender_df = pd.read_excel(filename, sheet_name="Total Cases by Age and Gender")
     race_case_df = pd.read_excel(filename, sheet_name="Total Cases by Race")
