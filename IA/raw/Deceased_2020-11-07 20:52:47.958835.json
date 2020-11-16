@@ -1,1 +1,0 @@
-{"objectIdFieldName": "FID", "uniqueIdField": {"name": "FID", "isSystemMaintained": true}, "globalIdFieldName": "", "fields": [{"name": "Deceased_sum", "type": "esriFieldTypeDouble", "alias": "Deceased_sum", "sqlType": "sqlTypeFloat", "domain": null, "defaultValue": null}], "features": [{"attributes": {"Deceased_sum": 1815}}]}
