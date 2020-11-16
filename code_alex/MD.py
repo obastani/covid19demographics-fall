@@ -10,9 +10,7 @@ def fetch(url, **kwargs):
         kwargs['state'] = state
     return(fetch_(url, **kwargs))
 
-#def run_MD(args):
-if True:
-    args = {}
+def run_MD(args):
     # Load existing data
     data_folder = Path(project_root, state, 'data')
     csv_location = Path(data_folder, 'data.csv')
@@ -36,11 +34,10 @@ if True:
             date_obj = datetime.date.today() - datetime.timedelta(days=1)
         date = date_obj.strftime('%Y-%m-%d')
 
-    #earliest_date_w_demographics = '2020-03-28'
-    earliest_date_w_demographics = '2020-11-03'
-
+    earliest_date_w_demographics = '2020-03-28'
+    
     # Whether to fetch current date, re-do all from raw data, or backfill with Wayback
-    run_mode =  'backfill' # normal, from scratch, backfill
+    run_mode =  'normal' # normal, from scratch, backfill
 
     if run_mode == 'from scratch':
         date_list = pd.date_range(start=earliest_date_w_demographics, end=date).astype(str).to_list()
