@@ -1,0 +1,1001 @@
+,report_date,health_district_or_health,race_and_ethnicity,number_of_cases,number_of_hospitalizations,number_of_deaths
+0,2020-11-18T00:00:00.000,Alexandria,Asian or Pacific Islander,173,11,1
+1,2020-11-18T00:00:00.000,Alexandria,Black,987,109,19
+2,2020-11-18T00:00:00.000,Alexandria,Latino,2138,142,13
+3,2020-11-18T00:00:00.000,Alexandria,Native American,4,0,0
+4,2020-11-18T00:00:00.000,Alexandria,Not Reported,291,3,1
+5,2020-11-18T00:00:00.000,Alexandria,Other Race,126,10,2
+6,2020-11-18T00:00:00.000,Alexandria,Two or more races,33,2,0
+7,2020-11-18T00:00:00.000,Alexandria,White,1016,67,40
+8,2020-11-18T00:00:00.000,Alleghany,Asian or Pacific Islander,52,1,0
+9,2020-11-18T00:00:00.000,Alleghany,Black,262,10,5
+10,2020-11-18T00:00:00.000,Alleghany,Latino,230,13,0
+11,2020-11-18T00:00:00.000,Alleghany,Not Reported,1149,7,1
+12,2020-11-18T00:00:00.000,Alleghany,Other Race,37,2,0
+13,2020-11-18T00:00:00.000,Alleghany,Two or more races,27,1,1
+14,2020-11-18T00:00:00.000,Alleghany,White,2336,108,57
+15,2020-11-18T00:00:00.000,Alleghany and Roanoke,Native American,5,0,0
+16,2020-11-18T00:00:00.000,Arlington,Asian or Pacific Islander,266,29,13
+17,2020-11-18T00:00:00.000,Arlington,Black,513,93,36
+18,2020-11-18T00:00:00.000,Arlington,Latino,2178,266,29
+19,2020-11-18T00:00:00.000,Arlington,Native American,6,0,0
+20,2020-11-18T00:00:00.000,Arlington,Not Reported,605,4,0
+21,2020-11-18T00:00:00.000,Arlington,Other Race,141,13,4
+22,2020-11-18T00:00:00.000,Arlington,Two or more races,62,4,0
+23,2020-11-18T00:00:00.000,Arlington,White,1741,154,74
+24,2020-11-18T00:00:00.000,Central Shenandoah,Asian or Pacific Islander,104,2,0
+25,2020-11-18T00:00:00.000,Central Shenandoah,Black,317,17,6
+26,2020-11-18T00:00:00.000,Central Shenandoah,Latino,1330,63,7
+27,2020-11-18T00:00:00.000,Central Shenandoah,Native American,4,1,0
+28,2020-11-18T00:00:00.000,Central Shenandoah,Not Reported,1304,6,1
+29,2020-11-18T00:00:00.000,Central Shenandoah,Other Race,112,2,0
+30,2020-11-18T00:00:00.000,Central Shenandoah,Two or more races,68,1,1
+31,2020-11-18T00:00:00.000,Central Shenandoah,White,4797,243,83
+32,2020-11-18T00:00:00.000,Central Virginia,Asian or Pacific Islander,42,1,0
+33,2020-11-18T00:00:00.000,Central Virginia,Black,588,45,17
+34,2020-11-18T00:00:00.000,Central Virginia,Latino,126,7,4
+35,2020-11-18T00:00:00.000,Central Virginia,Native American,9,0,0
+36,2020-11-18T00:00:00.000,Central Virginia,Not Reported,2444,28,7
+37,2020-11-18T00:00:00.000,Central Virginia,Other Race,39,0,0
+38,2020-11-18T00:00:00.000,Central Virginia,Two or more races,31,0,0
+39,2020-11-18T00:00:00.000,Central Virginia,White,2717,139,41
+40,2020-11-18T00:00:00.000,Chesapeake,Asian or Pacific Islander,110,12,6
+41,2020-11-18T00:00:00.000,Chesapeake,Black,2164,273,37
+42,2020-11-18T00:00:00.000,Chesapeake,Latino,447,31,2
+43,2020-11-18T00:00:00.000,Chesapeake,Native American,12,0,0
+44,2020-11-18T00:00:00.000,Chesapeake,Not Reported,652,3,0
+45,2020-11-18T00:00:00.000,Chesapeake,Other Race,74,5,1
+46,2020-11-18T00:00:00.000,Chesapeake,Two or more races,73,3,0
+47,2020-11-18T00:00:00.000,Chesapeake,White,2163,183,34
+48,2020-11-18T00:00:00.000,Chesterfield,Asian or Pacific Islander,149,7,1
+49,2020-11-18T00:00:00.000,Chesterfield,Black,1786,152,36
+50,2020-11-18T00:00:00.000,Chesterfield,Latino,2321,125,9
+51,2020-11-18T00:00:00.000,Chesterfield,Native American,10,1,0
+52,2020-11-18T00:00:00.000,Chesterfield,Not Reported,1585,4,12
+53,2020-11-18T00:00:00.000,Chesterfield,Other Race,237,15,0
+54,2020-11-18T00:00:00.000,Chesterfield,Two or more races,67,8,0
+55,2020-11-18T00:00:00.000,Chesterfield,White,2884,201,97
+56,2020-11-18T00:00:00.000,Chickahominy,Asian or Pacific Islander,22,2,0
+57,2020-11-18T00:00:00.000,Chickahominy,Black,506,64,13
+58,2020-11-18T00:00:00.000,Chickahominy,Latino,141,8,0
+59,2020-11-18T00:00:00.000,Chickahominy,Native American,12,1,0
+60,2020-11-18T00:00:00.000,Chickahominy,Not Reported,597,3,2
+61,2020-11-18T00:00:00.000,Chickahominy,Other Race,33,3,0
+62,2020-11-18T00:00:00.000,Chickahominy,Two or more races,12,1,0
+63,2020-11-18T00:00:00.000,Chickahominy,White,1584,138,49
+64,2020-11-18T00:00:00.000,Crater,Asian or Pacific Islander,37,0,0
+65,2020-11-18T00:00:00.000,Crater,Black,2674,230,76
+66,2020-11-18T00:00:00.000,Crater,Latino,275,11,5
+67,2020-11-18T00:00:00.000,Crater,Native American,7,1,1
+68,2020-11-18T00:00:00.000,Crater,Not Reported,1142,10,5
+69,2020-11-18T00:00:00.000,Crater,Other Race,74,0,1
+70,2020-11-18T00:00:00.000,Crater,Two or more races,17,1,1
+71,2020-11-18T00:00:00.000,Crater,White,1326,73,31
+72,2020-11-18T00:00:00.000,Cumberland Plateau,Black,62,0,0
+73,2020-11-18T00:00:00.000,Cumberland Plateau,Latino,19,0,0
+74,2020-11-18T00:00:00.000,Cumberland Plateau,Not Reported,213,4,0
+75,2020-11-18T00:00:00.000,Cumberland Plateau,Other Race,7,1,0
+76,2020-11-18T00:00:00.000,Cumberland Plateau,Two or more races,11,0,0
+77,2020-11-18T00:00:00.000,Cumberland Plateau,White,1801,115,18
+78,2020-11-18T00:00:00.000,Cumberland Plateau and Lenowisco,Asian or Pacific Islander,9,0,0
+79,2020-11-18T00:00:00.000,"Cumberland Plateau, Lenowisco, and Mount Rogers",Native American,9,0,0
+80,2020-11-18T00:00:00.000,Eastern Shore,Black,889,103,29
+81,2020-11-18T00:00:00.000,Eastern Shore,Latino,287,12,3
+82,2020-11-18T00:00:00.000,Eastern Shore,Not Reported,77,0,0
+83,2020-11-18T00:00:00.000,Eastern Shore,Other Race,13,1,0
+84,2020-11-18T00:00:00.000,Eastern Shore,Two or more races,1,1,0
+85,2020-11-18T00:00:00.000,Eastern Shore,White,331,34,20
+86,2020-11-18T00:00:00.000,Eastern Shore and Three Rivers,Asian or Pacific Islander,15,1,0
+87,2020-11-18T00:00:00.000,Eastern Shore and Three Rivers,Native American,5,0,0
+88,2020-11-18T00:00:00.000,Fairfax,Asian or Pacific Islander,2495,303,80
+89,2020-11-18T00:00:00.000,Fairfax,Black,2251,272,66
+90,2020-11-18T00:00:00.000,Fairfax,Latino,12275,1122,106
+91,2020-11-18T00:00:00.000,Fairfax,Native American,43,1,1
+92,2020-11-18T00:00:00.000,Fairfax,Not Reported,2959,41,29
+93,2020-11-18T00:00:00.000,Fairfax,Other Race,1130,102,20
+94,2020-11-18T00:00:00.000,Fairfax,Two or more races,196,9,0
+95,2020-11-18T00:00:00.000,Fairfax,White,6196,612,324
+96,2020-11-18T00:00:00.000,Hampton,Asian or Pacific Islander,20,0,0
+97,2020-11-18T00:00:00.000,Hampton,Black,1148,82,23
+98,2020-11-18T00:00:00.000,Hampton,Latino,102,5,0
+99,2020-11-18T00:00:00.000,Hampton,Native American,3,0,1
+100,2020-11-18T00:00:00.000,Hampton,Not Reported,616,2,1
+101,2020-11-18T00:00:00.000,Hampton,Other Race,79,3,1
+102,2020-11-18T00:00:00.000,Hampton,Two or more races,24,0,0
+103,2020-11-18T00:00:00.000,Hampton,White,457,16,8
+104,2020-11-18T00:00:00.000,Henrico,Asian or Pacific Islander,313,13,4
+105,2020-11-18T00:00:00.000,Henrico,Black,2313,260,100
+106,2020-11-18T00:00:00.000,Henrico,Latino,1061,64,11
+107,2020-11-18T00:00:00.000,Henrico,Native American,15,0,0
+108,2020-11-18T00:00:00.000,Henrico,Not Reported,1244,7,3
+109,2020-11-18T00:00:00.000,Henrico,Other Race,239,19,1
+110,2020-11-18T00:00:00.000,Henrico,Two or more races,106,7,2
+111,2020-11-18T00:00:00.000,Henrico,White,2165,177,120
+112,2020-11-18T00:00:00.000,Lenowisco,Black,73,3,1
+113,2020-11-18T00:00:00.000,Lenowisco,Latino,52,0,0
+114,2020-11-18T00:00:00.000,Lenowisco,Not Reported,304,8,6
+115,2020-11-18T00:00:00.000,Lenowisco,Other Race,12,0,0
+116,2020-11-18T00:00:00.000,Lenowisco,Two or more races,31,1,1
+117,2020-11-18T00:00:00.000,Lenowisco,White,2059,130,38
+118,2020-11-18T00:00:00.000,Lord Fairfax,Asian or Pacific Islander,28,2,0
+119,2020-11-18T00:00:00.000,Lord Fairfax,Black,213,29,8
+120,2020-11-18T00:00:00.000,Lord Fairfax,Latino,967,64,10
+121,2020-11-18T00:00:00.000,Lord Fairfax,Native American,4,1,1
+122,2020-11-18T00:00:00.000,Lord Fairfax,Not Reported,580,6,6
+123,2020-11-18T00:00:00.000,Lord Fairfax,Other Race,108,6,1
+124,2020-11-18T00:00:00.000,Lord Fairfax,Two or more races,35,0,1
+125,2020-11-18T00:00:00.000,Lord Fairfax,White,3180,293,113
+126,2020-11-18T00:00:00.000,Loudoun,Asian or Pacific Islander,668,67,14
+127,2020-11-18T00:00:00.000,Loudoun,Black,418,37,7
+128,2020-11-18T00:00:00.000,Loudoun,Latino,2891,249,17
+129,2020-11-18T00:00:00.000,Loudoun,Native American,7,0,0
+130,2020-11-18T00:00:00.000,Loudoun,Not Reported,2116,5,0
+131,2020-11-18T00:00:00.000,Loudoun,Other Race,384,18,3
+132,2020-11-18T00:00:00.000,Loudoun,Two or more races,85,4,0
+133,2020-11-18T00:00:00.000,Loudoun,White,2451,147,95
+134,2020-11-18T00:00:00.000,Mount Rogers,Asian or Pacific Islander,10,1,0
+135,2020-11-18T00:00:00.000,Mount Rogers,Black,116,10,3
+136,2020-11-18T00:00:00.000,Mount Rogers,Latino,344,7,0
+137,2020-11-18T00:00:00.000,Mount Rogers,Not Reported,399,11,7
+138,2020-11-18T00:00:00.000,Mount Rogers,Other Race,21,2,2
+139,2020-11-18T00:00:00.000,Mount Rogers,Two or more races,16,1,0
+140,2020-11-18T00:00:00.000,Mount Rogers,White,4284,345,152
+141,2020-11-18T00:00:00.000,New River,Asian or Pacific Islander,149,0,0
+142,2020-11-18T00:00:00.000,New River,Black,300,5,1
+143,2020-11-18T00:00:00.000,New River,Latino,272,5,0
+144,2020-11-18T00:00:00.000,New River,Native American,5,0,0
+145,2020-11-18T00:00:00.000,New River,Not Reported,1285,17,0
+146,2020-11-18T00:00:00.000,New River,Other Race,21,0,0
+147,2020-11-18T00:00:00.000,New River,Two or more races,110,5,2
+148,2020-11-18T00:00:00.000,New River,White,3379,88,32
+149,2020-11-18T00:00:00.000,Norfolk,Asian or Pacific Islander,88,9,0
+150,2020-11-18T00:00:00.000,Norfolk,Black,2810,298,61
+151,2020-11-18T00:00:00.000,Norfolk,Latino,478,31,0
+152,2020-11-18T00:00:00.000,Norfolk,Native American,11,1,1
+153,2020-11-18T00:00:00.000,Norfolk,Not Reported,1179,5,1
+154,2020-11-18T00:00:00.000,Norfolk,Other Race,122,5,2
+155,2020-11-18T00:00:00.000,Norfolk,Two or more races,70,5,0
+156,2020-11-18T00:00:00.000,Norfolk,White,1325,76,22
+157,2020-11-18T00:00:00.000,Peninsula,Asian or Pacific Islander,81,6,7
+158,2020-11-18T00:00:00.000,Peninsula,Black,1593,98,30
+159,2020-11-18T00:00:00.000,Peninsula,Latino,514,24,2
+160,2020-11-18T00:00:00.000,Peninsula,Native American,7,2,1
+161,2020-11-18T00:00:00.000,Peninsula,Not Reported,1749,3,0
+162,2020-11-18T00:00:00.000,Peninsula,Other Race,212,4,0
+163,2020-11-18T00:00:00.000,Peninsula,Two or more races,71,4,1
+164,2020-11-18T00:00:00.000,Peninsula,White,1625,100,53
+165,2020-11-18T00:00:00.000,Piedmont,Asian or Pacific Islander,13,0,1
+166,2020-11-18T00:00:00.000,Piedmont,Black,791,86,24
+167,2020-11-18T00:00:00.000,Piedmont,Latino,84,9,2
+168,2020-11-18T00:00:00.000,Piedmont,Native American,7,0,0
+169,2020-11-18T00:00:00.000,Piedmont,Not Reported,900,13,4
+170,2020-11-18T00:00:00.000,Piedmont,Other Race,20,0,0
+171,2020-11-18T00:00:00.000,Piedmont,Two or more races,25,2,0
+172,2020-11-18T00:00:00.000,Piedmont,White,993,82,32
+173,2020-11-18T00:00:00.000,Pittsylvania-Danville,Asian or Pacific Islander,5,0,0
+174,2020-11-18T00:00:00.000,Pittsylvania-Danville,Black,996,122,22
+175,2020-11-18T00:00:00.000,Pittsylvania-Danville,Latino,114,5,0
+176,2020-11-18T00:00:00.000,Pittsylvania-Danville,Not Reported,844,16,1
+177,2020-11-18T00:00:00.000,Pittsylvania-Danville,Other Race,5,0,0
+178,2020-11-18T00:00:00.000,Pittsylvania-Danville,Two or more races,8,0,0
+179,2020-11-18T00:00:00.000,Pittsylvania-Danville,White,1035,93,42
+180,2020-11-18T00:00:00.000,Pittsylvania-Danville and Southside,Native American,3,0,0
+181,2020-11-18T00:00:00.000,Portsmouth,Asian or Pacific Islander,24,1,0
+182,2020-11-18T00:00:00.000,Portsmouth,Black,1839,255,49
+183,2020-11-18T00:00:00.000,Portsmouth,Latino,105,11,1
+184,2020-11-18T00:00:00.000,Portsmouth,Native American,4,2,0
+185,2020-11-18T00:00:00.000,Portsmouth,Not Reported,482,9,2
+186,2020-11-18T00:00:00.000,Portsmouth,Other Race,68,11,5
+187,2020-11-18T00:00:00.000,Portsmouth,Two or more races,26,6,0
+188,2020-11-18T00:00:00.000,Portsmouth,White,483,50,13
+189,2020-11-18T00:00:00.000,Prince William,Asian or Pacific Islander,838,64,22
+190,2020-11-18T00:00:00.000,Prince William,Black,2037,199,61
+191,2020-11-18T00:00:00.000,Prince William,Latino,8023,720,81
+192,2020-11-18T00:00:00.000,Prince William,Native American,34,1,1
+193,2020-11-18T00:00:00.000,Prince William,Not Reported,4564,25,1
+194,2020-11-18T00:00:00.000,Prince William,Other Race,801,25,0
+195,2020-11-18T00:00:00.000,Prince William,Two or more races,163,3,0
+196,2020-11-18T00:00:00.000,Prince William,White,2680,215,100
+197,2020-11-18T00:00:00.000,Rappahannock,Asian or Pacific Islander,139,11,3
+198,2020-11-18T00:00:00.000,Rappahannock,Black,1131,115,20
+199,2020-11-18T00:00:00.000,Rappahannock,Latino,1626,120,10
+200,2020-11-18T00:00:00.000,Rappahannock,Native American,9,0,0
+201,2020-11-18T00:00:00.000,Rappahannock,Not Reported,1723,30,0
+202,2020-11-18T00:00:00.000,Rappahannock,Other Race,202,5,0
+203,2020-11-18T00:00:00.000,Rappahannock,Two or more races,71,3,0
+204,2020-11-18T00:00:00.000,Rappahannock,White,2261,184,62
+205,2020-11-18T00:00:00.000,Rappahannock Rapidan,Asian or Pacific Islander,24,2,1
+206,2020-11-18T00:00:00.000,Rappahannock Rapidan,Black,411,45,15
+207,2020-11-18T00:00:00.000,Rappahannock Rapidan,Latino,962,70,8
+208,2020-11-18T00:00:00.000,Rappahannock Rapidan,Native American,3,0,0
+209,2020-11-18T00:00:00.000,Rappahannock Rapidan,Not Reported,888,11,7
+210,2020-11-18T00:00:00.000,Rappahannock Rapidan,Other Race,46,4,0
+211,2020-11-18T00:00:00.000,Rappahannock Rapidan,Two or more races,51,2,0
+212,2020-11-18T00:00:00.000,Rappahannock Rapidan,White,1487,81,28
+213,2020-11-18T00:00:00.000,Richmond,Asian or Pacific Islander,75,5,1
+214,2020-11-18T00:00:00.000,Richmond,Black,2102,288,42
+215,2020-11-18T00:00:00.000,Richmond,Latino,1522,118,8
+216,2020-11-18T00:00:00.000,Richmond,Native American,4,0,0
+217,2020-11-18T00:00:00.000,Richmond,Not Reported,891,2,1
+218,2020-11-18T00:00:00.000,Richmond,Other Race,194,7,2
+219,2020-11-18T00:00:00.000,Richmond,Two or more races,59,3,1
+220,2020-11-18T00:00:00.000,Richmond,White,1257,57,25
+221,2020-11-18T00:00:00.000,Roanoke,Asian or Pacific Islander,58,4,0
+222,2020-11-18T00:00:00.000,Roanoke,Black,781,43,11
+223,2020-11-18T00:00:00.000,Roanoke,Latino,537,33,1
+224,2020-11-18T00:00:00.000,Roanoke,Not Reported,1088,2,1
+225,2020-11-18T00:00:00.000,Roanoke,Other Race,40,1,0
+226,2020-11-18T00:00:00.000,Roanoke,Two or more races,27,2,0
+227,2020-11-18T00:00:00.000,Roanoke,White,1053,37,49
+228,2020-11-18T00:00:00.000,Southside,Asian or Pacific Islander,4,0,0
+229,2020-11-18T00:00:00.000,Southside,Black,711,51,23
+230,2020-11-18T00:00:00.000,Southside,Latino,14,0,0
+231,2020-11-18T00:00:00.000,Southside,Not Reported,691,7,5
+232,2020-11-18T00:00:00.000,Southside,Other Race,19,1,1
+233,2020-11-18T00:00:00.000,Southside,Two or more races,127,0,1
+234,2020-11-18T00:00:00.000,Southside,White,593,40,23
+235,2020-11-18T00:00:00.000,Thomas Jefferson,Asian or Pacific Islander,152,4,1
+236,2020-11-18T00:00:00.000,Thomas Jefferson,Black,671,87,18
+237,2020-11-18T00:00:00.000,Thomas Jefferson,Latino,799,35,3
+238,2020-11-18T00:00:00.000,Thomas Jefferson,Native American,5,0,0
+239,2020-11-18T00:00:00.000,Thomas Jefferson,Not Reported,353,3,0
+240,2020-11-18T00:00:00.000,Thomas Jefferson,Other Race,188,7,1
+241,2020-11-18T00:00:00.000,Thomas Jefferson,Two or more races,111,5,0
+242,2020-11-18T00:00:00.000,Thomas Jefferson,White,2633,118,57
+243,2020-11-18T00:00:00.000,Three Rivers,Black,865,64,15
+244,2020-11-18T00:00:00.000,Three Rivers,Latino,198,6,1
+245,2020-11-18T00:00:00.000,Three Rivers,Not Reported,276,2,1
+246,2020-11-18T00:00:00.000,Three Rivers,Other Race,32,3,0
+247,2020-11-18T00:00:00.000,Three Rivers,Two or more races,16,1,0
+248,2020-11-18T00:00:00.000,Three Rivers,White,1099,72,25
+249,2020-11-18T00:00:00.000,Virginia Beach,Asian or Pacific Islander,386,31,8
+250,2020-11-18T00:00:00.000,Virginia Beach,Black,2208,165,30
+251,2020-11-18T00:00:00.000,Virginia Beach,Latino,679,33,4
+252,2020-11-18T00:00:00.000,Virginia Beach,Native American,16,0,0
+253,2020-11-18T00:00:00.000,Virginia Beach,Not Reported,2261,16,2
+254,2020-11-18T00:00:00.000,Virginia Beach,Other Race,164,5,0
+255,2020-11-18T00:00:00.000,Virginia Beach,Two or more races,118,6,2
+256,2020-11-18T00:00:00.000,Virginia Beach,White,3701,227,65
+257,2020-11-18T00:00:00.000,Western Tidewater,Asian or Pacific Islander,24,2,3
+258,2020-11-18T00:00:00.000,Western Tidewater,Black,2231,164,73
+259,2020-11-18T00:00:00.000,Western Tidewater,Latino,66,1,2
+260,2020-11-18T00:00:00.000,Western Tidewater,Native American,5,0,0
+261,2020-11-18T00:00:00.000,Western Tidewater,Not Reported,1064,6,2
+262,2020-11-18T00:00:00.000,Western Tidewater,Other Race,87,1,2
+263,2020-11-18T00:00:00.000,Western Tidewater,Two or more races,67,1,0
+264,2020-11-18T00:00:00.000,Western Tidewater,White,1437,85,79
+265,2020-11-18T00:00:00.000,West Piedmont,Asian or Pacific Islander,19,2,1
+266,2020-11-18T00:00:00.000,West Piedmont,Black,723,108,23
+267,2020-11-18T00:00:00.000,West Piedmont,Latino,335,13,1
+268,2020-11-18T00:00:00.000,West Piedmont,Native American,4,0,0
+269,2020-11-18T00:00:00.000,West Piedmont,Not Reported,797,16,3
+270,2020-11-18T00:00:00.000,West Piedmont,Other Race,16,2,1
+271,2020-11-18T00:00:00.000,West Piedmont,Two or more races,19,0,0
+272,2020-11-18T00:00:00.000,West Piedmont,White,1999,207,69
+273,2020-11-17T00:00:00.000,Alexandria,Asian or Pacific Islander,170,11,1
+274,2020-11-17T00:00:00.000,Alexandria,Black,974,109,19
+275,2020-11-17T00:00:00.000,Alexandria,Latino,2120,142,13
+276,2020-11-17T00:00:00.000,Alexandria,Native American,4,0,0
+277,2020-11-17T00:00:00.000,Alexandria,Not Reported,294,3,1
+278,2020-11-17T00:00:00.000,Alexandria,Other Race,126,10,2
+279,2020-11-17T00:00:00.000,Alexandria,Two or more races,34,2,0
+280,2020-11-17T00:00:00.000,Alexandria,White,1004,66,40
+281,2020-11-17T00:00:00.000,Alleghany,Asian or Pacific Islander,51,1,0
+282,2020-11-17T00:00:00.000,Alleghany,Black,260,10,5
+283,2020-11-17T00:00:00.000,Alleghany,Latino,230,13,0
+284,2020-11-17T00:00:00.000,Alleghany,Not Reported,1065,7,1
+285,2020-11-17T00:00:00.000,Alleghany,Other Race,37,2,0
+286,2020-11-17T00:00:00.000,Alleghany,Two or more races,26,1,0
+287,2020-11-17T00:00:00.000,Alleghany,White,2273,106,57
+288,2020-11-17T00:00:00.000,Alleghany and Roanoke,Native American,5,0,0
+289,2020-11-17T00:00:00.000,Arlington,Asian or Pacific Islander,264,29,13
+290,2020-11-17T00:00:00.000,Arlington,Black,506,93,36
+291,2020-11-17T00:00:00.000,Arlington,Latino,2159,265,28
+292,2020-11-17T00:00:00.000,Arlington,Native American,5,0,0
+293,2020-11-17T00:00:00.000,Arlington,Not Reported,597,4,1
+294,2020-11-17T00:00:00.000,Arlington,Other Race,144,13,4
+295,2020-11-17T00:00:00.000,Arlington,Two or more races,63,4,0
+296,2020-11-17T00:00:00.000,Arlington,White,1716,153,75
+297,2020-11-17T00:00:00.000,Central Shenandoah,Asian or Pacific Islander,103,2,0
+298,2020-11-17T00:00:00.000,Central Shenandoah,Black,313,17,6
+299,2020-11-17T00:00:00.000,Central Shenandoah,Latino,1323,63,7
+300,2020-11-17T00:00:00.000,Central Shenandoah,Native American,4,1,0
+301,2020-11-17T00:00:00.000,Central Shenandoah,Not Reported,1311,6,1
+302,2020-11-17T00:00:00.000,Central Shenandoah,Other Race,111,2,0
+303,2020-11-17T00:00:00.000,Central Shenandoah,Two or more races,68,1,1
+304,2020-11-17T00:00:00.000,Central Shenandoah,White,4728,239,83
+305,2020-11-17T00:00:00.000,Central Virginia,Asian or Pacific Islander,41,1,0
+306,2020-11-17T00:00:00.000,Central Virginia,Black,582,45,17
+307,2020-11-17T00:00:00.000,Central Virginia,Latino,125,7,4
+308,2020-11-17T00:00:00.000,Central Virginia,Native American,9,0,0
+309,2020-11-17T00:00:00.000,Central Virginia,Not Reported,2443,28,7
+310,2020-11-17T00:00:00.000,Central Virginia,Other Race,39,0,0
+311,2020-11-17T00:00:00.000,Central Virginia,Two or more races,30,0,0
+312,2020-11-17T00:00:00.000,Central Virginia,White,2691,139,41
+313,2020-11-17T00:00:00.000,Chesapeake,Asian or Pacific Islander,105,12,6
+314,2020-11-17T00:00:00.000,Chesapeake,Black,2151,271,37
+315,2020-11-17T00:00:00.000,Chesapeake,Latino,445,29,2
+316,2020-11-17T00:00:00.000,Chesapeake,Native American,12,0,0
+317,2020-11-17T00:00:00.000,Chesapeake,Not Reported,640,3,0
+318,2020-11-17T00:00:00.000,Chesapeake,Other Race,74,5,1
+319,2020-11-17T00:00:00.000,Chesapeake,Two or more races,72,3,0
+320,2020-11-17T00:00:00.000,Chesapeake,White,2137,183,34
+321,2020-11-17T00:00:00.000,Chesterfield,Asian or Pacific Islander,148,7,1
+322,2020-11-17T00:00:00.000,Chesterfield,Black,1773,152,36
+323,2020-11-17T00:00:00.000,Chesterfield,Latino,2303,124,9
+324,2020-11-17T00:00:00.000,Chesterfield,Native American,10,1,0
+325,2020-11-17T00:00:00.000,Chesterfield,Not Reported,1598,4,12
+326,2020-11-17T00:00:00.000,Chesterfield,Other Race,238,15,0
+327,2020-11-17T00:00:00.000,Chesterfield,Two or more races,66,8,0
+328,2020-11-17T00:00:00.000,Chesterfield,White,2859,199,96
+329,2020-11-17T00:00:00.000,Chickahominy,Asian or Pacific Islander,22,1,0
+330,2020-11-17T00:00:00.000,Chickahominy,Black,496,63,13
+331,2020-11-17T00:00:00.000,Chickahominy,Latino,141,8,0
+332,2020-11-17T00:00:00.000,Chickahominy,Native American,13,1,0
+333,2020-11-17T00:00:00.000,Chickahominy,Not Reported,595,3,2
+334,2020-11-17T00:00:00.000,Chickahominy,Other Race,33,3,0
+335,2020-11-17T00:00:00.000,Chickahominy,Two or more races,13,1,0
+336,2020-11-17T00:00:00.000,Chickahominy,White,1568,138,49
+337,2020-11-17T00:00:00.000,Crater,Asian or Pacific Islander,37,0,0
+338,2020-11-17T00:00:00.000,Crater,Black,2668,229,76
+339,2020-11-17T00:00:00.000,Crater,Latino,274,11,5
+340,2020-11-17T00:00:00.000,Crater,Native American,7,1,1
+341,2020-11-17T00:00:00.000,Crater,Not Reported,1147,10,5
+342,2020-11-17T00:00:00.000,Crater,Other Race,74,0,1
+343,2020-11-17T00:00:00.000,Crater,Two or more races,17,1,1
+344,2020-11-17T00:00:00.000,Crater,White,1314,72,31
+345,2020-11-17T00:00:00.000,Cumberland Plateau,Black,61,0,0
+346,2020-11-17T00:00:00.000,Cumberland Plateau,Latino,17,0,0
+347,2020-11-17T00:00:00.000,Cumberland Plateau,Not Reported,191,4,0
+348,2020-11-17T00:00:00.000,Cumberland Plateau,Other Race,7,1,0
+349,2020-11-17T00:00:00.000,Cumberland Plateau,Two or more races,11,0,0
+350,2020-11-17T00:00:00.000,Cumberland Plateau,White,1745,115,18
+351,2020-11-17T00:00:00.000,Cumberland Plateau and Lenowisco,Asian or Pacific Islander,9,0,0
+352,2020-11-17T00:00:00.000,"Cumberland Plateau, Lenowisco, and Mount Rogers",Native American,9,0,0
+353,2020-11-17T00:00:00.000,Eastern Shore,Black,888,103,29
+354,2020-11-17T00:00:00.000,Eastern Shore,Latino,287,12,3
+355,2020-11-17T00:00:00.000,Eastern Shore,Not Reported,77,0,0
+356,2020-11-17T00:00:00.000,Eastern Shore,Other Race,13,1,0
+357,2020-11-17T00:00:00.000,Eastern Shore,Two or more races,1,1,0
+358,2020-11-17T00:00:00.000,Eastern Shore,White,327,34,20
+359,2020-11-17T00:00:00.000,Eastern Shore and Three Rivers,Asian or Pacific Islander,15,1,0
+360,2020-11-17T00:00:00.000,Eastern Shore and Three Rivers,Native American,5,0,0
+361,2020-11-17T00:00:00.000,Fairfax,Asian or Pacific Islander,2454,300,80
+362,2020-11-17T00:00:00.000,Fairfax,Black,2231,271,66
+363,2020-11-17T00:00:00.000,Fairfax,Latino,12207,1117,106
+364,2020-11-17T00:00:00.000,Fairfax,Native American,43,1,1
+365,2020-11-17T00:00:00.000,Fairfax,Not Reported,2942,40,29
+366,2020-11-17T00:00:00.000,Fairfax,Other Race,1132,102,20
+367,2020-11-17T00:00:00.000,Fairfax,Two or more races,188,9,0
+368,2020-11-17T00:00:00.000,Fairfax,White,6094,607,323
+369,2020-11-17T00:00:00.000,Hampton,Asian or Pacific Islander,20,0,0
+370,2020-11-17T00:00:00.000,Hampton,Black,1138,82,23
+371,2020-11-17T00:00:00.000,Hampton,Latino,102,5,0
+372,2020-11-17T00:00:00.000,Hampton,Native American,3,0,1
+373,2020-11-17T00:00:00.000,Hampton,Not Reported,628,2,1
+374,2020-11-17T00:00:00.000,Hampton,Other Race,78,3,1
+375,2020-11-17T00:00:00.000,Hampton,Two or more races,22,0,0
+376,2020-11-17T00:00:00.000,Hampton,White,451,16,8
+377,2020-11-17T00:00:00.000,Henrico,Asian or Pacific Islander,310,13,4
+378,2020-11-17T00:00:00.000,Henrico,Black,2290,259,101
+379,2020-11-17T00:00:00.000,Henrico,Latino,1053,63,11
+380,2020-11-17T00:00:00.000,Henrico,Native American,15,0,0
+381,2020-11-17T00:00:00.000,Henrico,Not Reported,1215,7,3
+382,2020-11-17T00:00:00.000,Henrico,Other Race,239,19,1
+383,2020-11-17T00:00:00.000,Henrico,Two or more races,105,7,2
+384,2020-11-17T00:00:00.000,Henrico,White,2134,176,122
+385,2020-11-17T00:00:00.000,Lenowisco,Black,75,3,1
+386,2020-11-17T00:00:00.000,Lenowisco,Latino,52,0,0
+387,2020-11-17T00:00:00.000,Lenowisco,Not Reported,295,8,6
+388,2020-11-17T00:00:00.000,Lenowisco,Other Race,12,0,0
+389,2020-11-17T00:00:00.000,Lenowisco,Two or more races,31,1,0
+390,2020-11-17T00:00:00.000,Lenowisco,White,2028,129,33
+391,2020-11-17T00:00:00.000,Lord Fairfax,Asian or Pacific Islander,28,2,0
+392,2020-11-17T00:00:00.000,Lord Fairfax,Black,208,29,8
+393,2020-11-17T00:00:00.000,Lord Fairfax,Latino,959,64,10
+394,2020-11-17T00:00:00.000,Lord Fairfax,Native American,4,1,1
+395,2020-11-17T00:00:00.000,Lord Fairfax,Not Reported,541,5,6
+396,2020-11-17T00:00:00.000,Lord Fairfax,Other Race,105,6,1
+397,2020-11-17T00:00:00.000,Lord Fairfax,Two or more races,33,0,1
+398,2020-11-17T00:00:00.000,Lord Fairfax,White,3063,286,112
+399,2020-11-17T00:00:00.000,Loudoun,Asian or Pacific Islander,660,66,14
+400,2020-11-17T00:00:00.000,Loudoun,Black,414,36,7
+401,2020-11-17T00:00:00.000,Loudoun,Latino,2882,248,17
+402,2020-11-17T00:00:00.000,Loudoun,Native American,6,0,0
+403,2020-11-17T00:00:00.000,Loudoun,Not Reported,2085,4,0
+404,2020-11-17T00:00:00.000,Loudoun,Other Race,387,18,3
+405,2020-11-17T00:00:00.000,Loudoun,Two or more races,83,4,0
+406,2020-11-17T00:00:00.000,Loudoun,White,2437,144,95
+407,2020-11-17T00:00:00.000,Mount Rogers,Asian or Pacific Islander,10,1,0
+408,2020-11-17T00:00:00.000,Mount Rogers,Black,114,10,3
+409,2020-11-17T00:00:00.000,Mount Rogers,Latino,342,7,0
+410,2020-11-17T00:00:00.000,Mount Rogers,Not Reported,399,11,7
+411,2020-11-17T00:00:00.000,Mount Rogers,Other Race,21,2,2
+412,2020-11-17T00:00:00.000,Mount Rogers,Two or more races,16,1,0
+413,2020-11-17T00:00:00.000,Mount Rogers,White,4211,341,142
+414,2020-11-17T00:00:00.000,New River,Asian or Pacific Islander,145,0,0
+415,2020-11-17T00:00:00.000,New River,Black,297,5,1
+416,2020-11-17T00:00:00.000,New River,Latino,269,5,0
+417,2020-11-17T00:00:00.000,New River,Native American,5,0,0
+418,2020-11-17T00:00:00.000,New River,Not Reported,1232,15,0
+419,2020-11-17T00:00:00.000,New River,Other Race,21,0,0
+420,2020-11-17T00:00:00.000,New River,Two or more races,109,5,2
+421,2020-11-17T00:00:00.000,New River,White,3320,86,30
+422,2020-11-17T00:00:00.000,Norfolk,Asian or Pacific Islander,85,9,0
+423,2020-11-17T00:00:00.000,Norfolk,Black,2800,297,61
+424,2020-11-17T00:00:00.000,Norfolk,Latino,476,30,0
+425,2020-11-17T00:00:00.000,Norfolk,Native American,11,1,1
+426,2020-11-17T00:00:00.000,Norfolk,Not Reported,1156,4,1
+427,2020-11-17T00:00:00.000,Norfolk,Other Race,124,5,2
+428,2020-11-17T00:00:00.000,Norfolk,Two or more races,68,5,0
+429,2020-11-17T00:00:00.000,Norfolk,White,1317,76,22
+430,2020-11-17T00:00:00.000,Peninsula,Asian or Pacific Islander,80,6,7
+431,2020-11-17T00:00:00.000,Peninsula,Black,1577,98,30
+432,2020-11-17T00:00:00.000,Peninsula,Latino,508,24,2
+433,2020-11-17T00:00:00.000,Peninsula,Native American,7,2,1
+434,2020-11-17T00:00:00.000,Peninsula,Not Reported,1768,3,0
+435,2020-11-17T00:00:00.000,Peninsula,Other Race,210,4,0
+436,2020-11-17T00:00:00.000,Peninsula,Two or more races,71,4,1
+437,2020-11-17T00:00:00.000,Peninsula,White,1600,99,53
+438,2020-11-17T00:00:00.000,Piedmont,Asian or Pacific Islander,13,0,1
+439,2020-11-17T00:00:00.000,Piedmont,Black,785,85,24
+440,2020-11-17T00:00:00.000,Piedmont,Latino,84,9,2
+441,2020-11-17T00:00:00.000,Piedmont,Native American,7,0,0
+442,2020-11-17T00:00:00.000,Piedmont,Not Reported,901,13,4
+443,2020-11-17T00:00:00.000,Piedmont,Other Race,20,0,0
+444,2020-11-17T00:00:00.000,Piedmont,Two or more races,25,2,0
+445,2020-11-17T00:00:00.000,Piedmont,White,988,82,32
+446,2020-11-17T00:00:00.000,Pittsylvania-Danville,Asian or Pacific Islander,5,0,0
+447,2020-11-17T00:00:00.000,Pittsylvania-Danville,Black,990,119,22
+448,2020-11-17T00:00:00.000,Pittsylvania-Danville,Latino,113,5,0
+449,2020-11-17T00:00:00.000,Pittsylvania-Danville,Not Reported,846,16,1
+450,2020-11-17T00:00:00.000,Pittsylvania-Danville,Other Race,5,0,0
+451,2020-11-17T00:00:00.000,Pittsylvania-Danville,Two or more races,8,0,0
+452,2020-11-17T00:00:00.000,Pittsylvania-Danville,White,1023,91,42
+453,2020-11-17T00:00:00.000,Pittsylvania-Danville and Southside,Native American,2,0,0
+454,2020-11-17T00:00:00.000,Portsmouth,Asian or Pacific Islander,24,1,0
+455,2020-11-17T00:00:00.000,Portsmouth,Black,1836,255,49
+456,2020-11-17T00:00:00.000,Portsmouth,Latino,104,11,1
+457,2020-11-17T00:00:00.000,Portsmouth,Native American,4,2,0
+458,2020-11-17T00:00:00.000,Portsmouth,Not Reported,485,9,2
+459,2020-11-17T00:00:00.000,Portsmouth,Other Race,68,11,5
+460,2020-11-17T00:00:00.000,Portsmouth,Two or more races,26,6,0
+461,2020-11-17T00:00:00.000,Portsmouth,White,480,50,13
+462,2020-11-17T00:00:00.000,Prince William,Asian or Pacific Islander,836,64,22
+463,2020-11-17T00:00:00.000,Prince William,Black,2020,198,61
+464,2020-11-17T00:00:00.000,Prince William,Latino,7965,716,81
+465,2020-11-17T00:00:00.000,Prince William,Native American,34,1,1
+466,2020-11-17T00:00:00.000,Prince William,Not Reported,4483,25,1
+467,2020-11-17T00:00:00.000,Prince William,Other Race,809,25,0
+468,2020-11-17T00:00:00.000,Prince William,Two or more races,163,2,0
+469,2020-11-17T00:00:00.000,Prince William,White,2655,213,99
+470,2020-11-17T00:00:00.000,Rappahannock,Asian or Pacific Islander,137,11,3
+471,2020-11-17T00:00:00.000,Rappahannock,Black,1126,114,20
+472,2020-11-17T00:00:00.000,Rappahannock,Latino,1617,120,10
+473,2020-11-17T00:00:00.000,Rappahannock,Native American,9,0,0
+474,2020-11-17T00:00:00.000,Rappahannock,Not Reported,1706,30,0
+475,2020-11-17T00:00:00.000,Rappahannock,Other Race,201,5,0
+476,2020-11-17T00:00:00.000,Rappahannock,Two or more races,70,3,0
+477,2020-11-17T00:00:00.000,Rappahannock,White,2229,183,62
+478,2020-11-17T00:00:00.000,Rappahannock Rapidan,Asian or Pacific Islander,24,1,0
+479,2020-11-17T00:00:00.000,Rappahannock Rapidan,Black,411,45,14
+480,2020-11-17T00:00:00.000,Rappahannock Rapidan,Latino,957,70,8
+481,2020-11-17T00:00:00.000,Rappahannock Rapidan,Native American,3,0,0
+482,2020-11-17T00:00:00.000,Rappahannock Rapidan,Not Reported,900,11,7
+483,2020-11-17T00:00:00.000,Rappahannock Rapidan,Other Race,45,4,0
+484,2020-11-17T00:00:00.000,Rappahannock Rapidan,Two or more races,51,3,0
+485,2020-11-17T00:00:00.000,Rappahannock Rapidan,White,1465,80,28
+486,2020-11-17T00:00:00.000,Richmond,Asian or Pacific Islander,75,5,1
+487,2020-11-17T00:00:00.000,Richmond,Black,2081,286,42
+488,2020-11-17T00:00:00.000,Richmond,Latino,1517,118,8
+489,2020-11-17T00:00:00.000,Richmond,Native American,4,0,0
+490,2020-11-17T00:00:00.000,Richmond,Not Reported,891,2,1
+491,2020-11-17T00:00:00.000,Richmond,Other Race,193,7,2
+492,2020-11-17T00:00:00.000,Richmond,Two or more races,57,3,1
+493,2020-11-17T00:00:00.000,Richmond,White,1237,56,24
+494,2020-11-17T00:00:00.000,Roanoke,Asian or Pacific Islander,56,4,0
+495,2020-11-17T00:00:00.000,Roanoke,Black,763,42,11
+496,2020-11-17T00:00:00.000,Roanoke,Latino,534,33,1
+497,2020-11-17T00:00:00.000,Roanoke,Not Reported,1075,2,0
+498,2020-11-17T00:00:00.000,Roanoke,Other Race,40,1,0
+499,2020-11-17T00:00:00.000,Roanoke,Two or more races,25,2,0
+500,2020-11-17T00:00:00.000,Roanoke,White,1041,37,47
+501,2020-11-17T00:00:00.000,Southside,Asian or Pacific Islander,4,0,0
+502,2020-11-17T00:00:00.000,Southside,Black,710,50,23
+503,2020-11-17T00:00:00.000,Southside,Latino,14,0,0
+504,2020-11-17T00:00:00.000,Southside,Not Reported,688,7,5
+505,2020-11-17T00:00:00.000,Southside,Other Race,19,1,1
+506,2020-11-17T00:00:00.000,Southside,Two or more races,127,0,1
+507,2020-11-17T00:00:00.000,Southside,White,587,38,23
+508,2020-11-17T00:00:00.000,Thomas Jefferson,Asian or Pacific Islander,151,4,1
+509,2020-11-17T00:00:00.000,Thomas Jefferson,Black,669,87,18
+510,2020-11-17T00:00:00.000,Thomas Jefferson,Latino,798,35,3
+511,2020-11-17T00:00:00.000,Thomas Jefferson,Native American,5,0,0
+512,2020-11-17T00:00:00.000,Thomas Jefferson,Not Reported,355,3,0
+513,2020-11-17T00:00:00.000,Thomas Jefferson,Other Race,188,7,1
+514,2020-11-17T00:00:00.000,Thomas Jefferson,Two or more races,110,5,0
+515,2020-11-17T00:00:00.000,Thomas Jefferson,White,2609,118,57
+516,2020-11-17T00:00:00.000,Three Rivers,Black,861,64,15
+517,2020-11-17T00:00:00.000,Three Rivers,Latino,197,6,1
+518,2020-11-17T00:00:00.000,Three Rivers,Not Reported,275,2,1
+519,2020-11-17T00:00:00.000,Three Rivers,Other Race,32,3,0
+520,2020-11-17T00:00:00.000,Three Rivers,Two or more races,16,1,0
+521,2020-11-17T00:00:00.000,Three Rivers,White,1088,72,25
+522,2020-11-17T00:00:00.000,Virginia Beach,Asian or Pacific Islander,383,31,8
+523,2020-11-17T00:00:00.000,Virginia Beach,Black,2165,163,30
+524,2020-11-17T00:00:00.000,Virginia Beach,Latino,669,33,4
+525,2020-11-17T00:00:00.000,Virginia Beach,Native American,16,0,0
+526,2020-11-17T00:00:00.000,Virginia Beach,Not Reported,2303,15,2
+527,2020-11-17T00:00:00.000,Virginia Beach,Other Race,158,5,0
+528,2020-11-17T00:00:00.000,Virginia Beach,Two or more races,118,6,2
+529,2020-11-17T00:00:00.000,Virginia Beach,White,3637,225,65
+530,2020-11-17T00:00:00.000,Western Tidewater,Asian or Pacific Islander,24,2,3
+531,2020-11-17T00:00:00.000,Western Tidewater,Black,2228,163,73
+532,2020-11-17T00:00:00.000,Western Tidewater,Latino,65,1,2
+533,2020-11-17T00:00:00.000,Western Tidewater,Native American,5,0,0
+534,2020-11-17T00:00:00.000,Western Tidewater,Not Reported,1065,6,2
+535,2020-11-17T00:00:00.000,Western Tidewater,Other Race,88,1,2
+536,2020-11-17T00:00:00.000,Western Tidewater,Two or more races,67,1,0
+537,2020-11-17T00:00:00.000,Western Tidewater,White,1433,85,79
+538,2020-11-17T00:00:00.000,West Piedmont,Asian or Pacific Islander,19,2,1
+539,2020-11-17T00:00:00.000,West Piedmont,Black,716,107,23
+540,2020-11-17T00:00:00.000,West Piedmont,Latino,335,13,1
+541,2020-11-17T00:00:00.000,West Piedmont,Native American,4,0,0
+542,2020-11-17T00:00:00.000,West Piedmont,Not Reported,802,16,3
+543,2020-11-17T00:00:00.000,West Piedmont,Other Race,15,2,1
+544,2020-11-17T00:00:00.000,West Piedmont,Two or more races,19,0,0
+545,2020-11-17T00:00:00.000,West Piedmont,White,1966,205,69
+546,2020-11-16T00:00:00.000,Alexandria,Asian or Pacific Islander,168,11,1
+547,2020-11-16T00:00:00.000,Alexandria,Black,973,108,19
+548,2020-11-16T00:00:00.000,Alexandria,Latino,2098,141,13
+549,2020-11-16T00:00:00.000,Alexandria,Native American,4,0,0
+550,2020-11-16T00:00:00.000,Alexandria,Not Reported,300,3,1
+551,2020-11-16T00:00:00.000,Alexandria,Other Race,127,10,2
+552,2020-11-16T00:00:00.000,Alexandria,Two or more races,33,2,0
+553,2020-11-16T00:00:00.000,Alexandria,White,995,66,40
+554,2020-11-16T00:00:00.000,Alleghany,Asian or Pacific Islander,49,1,0
+555,2020-11-16T00:00:00.000,Alleghany,Black,254,10,5
+556,2020-11-16T00:00:00.000,Alleghany,Latino,227,13,0
+557,2020-11-16T00:00:00.000,Alleghany,Not Reported,1004,7,1
+558,2020-11-16T00:00:00.000,Alleghany,Other Race,36,2,0
+559,2020-11-16T00:00:00.000,Alleghany,Two or more races,26,1,0
+560,2020-11-16T00:00:00.000,Alleghany,White,2224,106,55
+561,2020-11-16T00:00:00.000,Alleghany and Roanoke,Native American,5,0,0
+562,2020-11-16T00:00:00.000,Arlington,Asian or Pacific Islander,264,29,13
+563,2020-11-16T00:00:00.000,Arlington,Black,503,93,36
+564,2020-11-16T00:00:00.000,Arlington,Latino,2135,265,28
+565,2020-11-16T00:00:00.000,Arlington,Native American,5,0,0
+566,2020-11-16T00:00:00.000,Arlington,Not Reported,580,4,1
+567,2020-11-16T00:00:00.000,Arlington,Other Race,138,14,4
+568,2020-11-16T00:00:00.000,Arlington,Two or more races,62,4,0
+569,2020-11-16T00:00:00.000,Arlington,White,1693,152,75
+570,2020-11-16T00:00:00.000,Central Shenandoah,Asian or Pacific Islander,102,2,0
+571,2020-11-16T00:00:00.000,Central Shenandoah,Black,307,17,6
+572,2020-11-16T00:00:00.000,Central Shenandoah,Latino,1310,63,7
+573,2020-11-16T00:00:00.000,Central Shenandoah,Native American,4,1,0
+574,2020-11-16T00:00:00.000,Central Shenandoah,Not Reported,1246,6,1
+575,2020-11-16T00:00:00.000,Central Shenandoah,Other Race,109,2,0
+576,2020-11-16T00:00:00.000,Central Shenandoah,Two or more races,66,1,1
+577,2020-11-16T00:00:00.000,Central Shenandoah,White,4643,235,79
+578,2020-11-16T00:00:00.000,Central Virginia,Asian or Pacific Islander,41,1,0
+579,2020-11-16T00:00:00.000,Central Virginia,Black,576,45,17
+580,2020-11-16T00:00:00.000,Central Virginia,Latino,123,7,4
+581,2020-11-16T00:00:00.000,Central Virginia,Native American,9,0,0
+582,2020-11-16T00:00:00.000,Central Virginia,Not Reported,2374,28,7
+583,2020-11-16T00:00:00.000,Central Virginia,Other Race,39,0,0
+584,2020-11-16T00:00:00.000,Central Virginia,Two or more races,30,0,0
+585,2020-11-16T00:00:00.000,Central Virginia,White,2655,138,41
+586,2020-11-16T00:00:00.000,Chesapeake,Asian or Pacific Islander,105,12,6
+587,2020-11-16T00:00:00.000,Chesapeake,Black,2134,268,36
+588,2020-11-16T00:00:00.000,Chesapeake,Latino,439,29,2
+589,2020-11-16T00:00:00.000,Chesapeake,Native American,12,0,0
+590,2020-11-16T00:00:00.000,Chesapeake,Not Reported,622,3,0
+591,2020-11-16T00:00:00.000,Chesapeake,Other Race,73,5,1
+592,2020-11-16T00:00:00.000,Chesapeake,Two or more races,72,3,0
+593,2020-11-16T00:00:00.000,Chesapeake,White,2102,183,34
+594,2020-11-16T00:00:00.000,Chesterfield,Asian or Pacific Islander,146,7,1
+595,2020-11-16T00:00:00.000,Chesterfield,Black,1760,151,36
+596,2020-11-16T00:00:00.000,Chesterfield,Latino,2293,124,9
+597,2020-11-16T00:00:00.000,Chesterfield,Native American,10,1,0
+598,2020-11-16T00:00:00.000,Chesterfield,Not Reported,1565,4,12
+599,2020-11-16T00:00:00.000,Chesterfield,Other Race,239,15,0
+600,2020-11-16T00:00:00.000,Chesterfield,Two or more races,66,8,0
+601,2020-11-16T00:00:00.000,Chesterfield,White,2828,199,95
+602,2020-11-16T00:00:00.000,Chickahominy,Asian or Pacific Islander,22,1,0
+603,2020-11-16T00:00:00.000,Chickahominy,Black,493,63,13
+604,2020-11-16T00:00:00.000,Chickahominy,Latino,140,8,0
+605,2020-11-16T00:00:00.000,Chickahominy,Native American,13,1,0
+606,2020-11-16T00:00:00.000,Chickahominy,Not Reported,595,3,2
+607,2020-11-16T00:00:00.000,Chickahominy,Other Race,32,3,0
+608,2020-11-16T00:00:00.000,Chickahominy,Two or more races,12,1,0
+609,2020-11-16T00:00:00.000,Chickahominy,White,1555,138,49
+610,2020-11-16T00:00:00.000,Crater,Asian or Pacific Islander,37,0,0
+611,2020-11-16T00:00:00.000,Crater,Black,2643,228,76
+612,2020-11-16T00:00:00.000,Crater,Latino,274,11,5
+613,2020-11-16T00:00:00.000,Crater,Native American,7,1,1
+614,2020-11-16T00:00:00.000,Crater,Not Reported,1178,11,5
+615,2020-11-16T00:00:00.000,Crater,Other Race,75,0,1
+616,2020-11-16T00:00:00.000,Crater,Two or more races,18,1,0
+617,2020-11-16T00:00:00.000,Crater,White,1289,72,31
+618,2020-11-16T00:00:00.000,Cumberland Plateau,Black,61,0,0
+619,2020-11-16T00:00:00.000,Cumberland Plateau,Latino,17,0,0
+620,2020-11-16T00:00:00.000,Cumberland Plateau,Not Reported,194,4,0
+621,2020-11-16T00:00:00.000,Cumberland Plateau,Other Race,7,1,0
+622,2020-11-16T00:00:00.000,Cumberland Plateau,Two or more races,11,0,0
+623,2020-11-16T00:00:00.000,Cumberland Plateau,White,1708,113,17
+624,2020-11-16T00:00:00.000,Cumberland Plateau and Lenowisco,Asian or Pacific Islander,9,0,0
+625,2020-11-16T00:00:00.000,"Cumberland Plateau, Lenowisco, and Mount Rogers",Native American,9,0,0
+626,2020-11-16T00:00:00.000,Eastern Shore,Black,886,103,29
+627,2020-11-16T00:00:00.000,Eastern Shore,Latino,284,12,3
+628,2020-11-16T00:00:00.000,Eastern Shore,Not Reported,77,0,0
+629,2020-11-16T00:00:00.000,Eastern Shore,Other Race,13,1,0
+630,2020-11-16T00:00:00.000,Eastern Shore,Two or more races,1,1,0
+631,2020-11-16T00:00:00.000,Eastern Shore,White,324,34,20
+632,2020-11-16T00:00:00.000,Eastern Shore and Three Rivers,Asian or Pacific Islander,15,1,0
+633,2020-11-16T00:00:00.000,Eastern Shore and Three Rivers,Native American,5,0,0
+634,2020-11-16T00:00:00.000,Fairfax,Asian or Pacific Islander,2438,297,80
+635,2020-11-16T00:00:00.000,Fairfax,Black,2211,270,66
+636,2020-11-16T00:00:00.000,Fairfax,Latino,12131,1115,106
+637,2020-11-16T00:00:00.000,Fairfax,Native American,42,1,1
+638,2020-11-16T00:00:00.000,Fairfax,Not Reported,2963,41,30
+639,2020-11-16T00:00:00.000,Fairfax,Other Race,1110,102,20
+640,2020-11-16T00:00:00.000,Fairfax,Two or more races,182,9,0
+641,2020-11-16T00:00:00.000,Fairfax,White,6018,605,322
+642,2020-11-16T00:00:00.000,Hampton,Asian or Pacific Islander,20,0,0
+643,2020-11-16T00:00:00.000,Hampton,Black,1132,81,23
+644,2020-11-16T00:00:00.000,Hampton,Latino,101,5,0
+645,2020-11-16T00:00:00.000,Hampton,Native American,3,0,1
+646,2020-11-16T00:00:00.000,Hampton,Not Reported,626,2,1
+647,2020-11-16T00:00:00.000,Hampton,Other Race,79,3,1
+648,2020-11-16T00:00:00.000,Hampton,Two or more races,22,0,0
+649,2020-11-16T00:00:00.000,Hampton,White,449,16,8
+650,2020-11-16T00:00:00.000,Henrico,Asian or Pacific Islander,305,13,4
+651,2020-11-16T00:00:00.000,Henrico,Black,2266,259,101
+652,2020-11-16T00:00:00.000,Henrico,Latino,1050,63,11
+653,2020-11-16T00:00:00.000,Henrico,Native American,15,0,0
+654,2020-11-16T00:00:00.000,Henrico,Not Reported,1187,7,3
+655,2020-11-16T00:00:00.000,Henrico,Other Race,237,19,1
+656,2020-11-16T00:00:00.000,Henrico,Two or more races,105,7,2
+657,2020-11-16T00:00:00.000,Henrico,White,2116,176,121
+658,2020-11-16T00:00:00.000,Lenowisco,Black,74,3,1
+659,2020-11-16T00:00:00.000,Lenowisco,Latino,52,0,0
+660,2020-11-16T00:00:00.000,Lenowisco,Not Reported,288,7,5
+661,2020-11-16T00:00:00.000,Lenowisco,Other Race,12,0,0
+662,2020-11-16T00:00:00.000,Lenowisco,Two or more races,31,1,0
+663,2020-11-16T00:00:00.000,Lenowisco,White,1993,127,30
+664,2020-11-16T00:00:00.000,Lord Fairfax,Asian or Pacific Islander,26,1,0
+665,2020-11-16T00:00:00.000,Lord Fairfax,Black,203,29,8
+666,2020-11-16T00:00:00.000,Lord Fairfax,Latino,952,64,10
+667,2020-11-16T00:00:00.000,Lord Fairfax,Native American,4,1,1
+668,2020-11-16T00:00:00.000,Lord Fairfax,Not Reported,525,5,6
+669,2020-11-16T00:00:00.000,Lord Fairfax,Other Race,104,6,1
+670,2020-11-16T00:00:00.000,Lord Fairfax,Two or more races,33,0,0
+671,2020-11-16T00:00:00.000,Lord Fairfax,White,2981,285,112
+672,2020-11-16T00:00:00.000,Loudoun,Asian or Pacific Islander,651,66,14
+673,2020-11-16T00:00:00.000,Loudoun,Black,412,36,7
+674,2020-11-16T00:00:00.000,Loudoun,Latino,2872,246,17
+675,2020-11-16T00:00:00.000,Loudoun,Native American,6,0,0
+676,2020-11-16T00:00:00.000,Loudoun,Not Reported,2085,4,0
+677,2020-11-16T00:00:00.000,Loudoun,Other Race,378,18,3
+678,2020-11-16T00:00:00.000,Loudoun,Two or more races,84,4,0
+679,2020-11-16T00:00:00.000,Loudoun,White,2406,142,95
+680,2020-11-16T00:00:00.000,Mount Rogers,Asian or Pacific Islander,9,1,0
+681,2020-11-16T00:00:00.000,Mount Rogers,Black,114,10,3
+682,2020-11-16T00:00:00.000,Mount Rogers,Latino,341,7,0
+683,2020-11-16T00:00:00.000,Mount Rogers,Not Reported,398,11,7
+684,2020-11-16T00:00:00.000,Mount Rogers,Other Race,20,2,2
+685,2020-11-16T00:00:00.000,Mount Rogers,Two or more races,16,1,0
+686,2020-11-16T00:00:00.000,Mount Rogers,White,4155,339,142
+687,2020-11-16T00:00:00.000,New River,Asian or Pacific Islander,145,0,0
+688,2020-11-16T00:00:00.000,New River,Black,296,5,1
+689,2020-11-16T00:00:00.000,New River,Latino,269,5,0
+690,2020-11-16T00:00:00.000,New River,Native American,5,0,0
+691,2020-11-16T00:00:00.000,New River,Not Reported,1225,15,0
+692,2020-11-16T00:00:00.000,New River,Other Race,21,0,0
+693,2020-11-16T00:00:00.000,New River,Two or more races,109,5,1
+694,2020-11-16T00:00:00.000,New River,White,3303,86,30
+695,2020-11-16T00:00:00.000,Norfolk,Asian or Pacific Islander,84,9,0
+696,2020-11-16T00:00:00.000,Norfolk,Black,2785,296,61
+697,2020-11-16T00:00:00.000,Norfolk,Latino,473,30,0
+698,2020-11-16T00:00:00.000,Norfolk,Native American,11,1,1
+699,2020-11-16T00:00:00.000,Norfolk,Not Reported,1128,4,1
+700,2020-11-16T00:00:00.000,Norfolk,Other Race,122,5,2
+701,2020-11-16T00:00:00.000,Norfolk,Two or more races,66,5,0
+702,2020-11-16T00:00:00.000,Norfolk,White,1296,75,22
+703,2020-11-16T00:00:00.000,Peninsula,Asian or Pacific Islander,80,6,7
+704,2020-11-16T00:00:00.000,Peninsula,Black,1560,97,30
+705,2020-11-16T00:00:00.000,Peninsula,Latino,504,24,2
+706,2020-11-16T00:00:00.000,Peninsula,Native American,7,2,1
+707,2020-11-16T00:00:00.000,Peninsula,Not Reported,1773,5,0
+708,2020-11-16T00:00:00.000,Peninsula,Other Race,204,4,0
+709,2020-11-16T00:00:00.000,Peninsula,Two or more races,69,4,1
+710,2020-11-16T00:00:00.000,Peninsula,White,1570,99,53
+711,2020-11-16T00:00:00.000,Piedmont,Asian or Pacific Islander,13,0,1
+712,2020-11-16T00:00:00.000,Piedmont,Black,776,82,24
+713,2020-11-16T00:00:00.000,Piedmont,Latino,84,9,2
+714,2020-11-16T00:00:00.000,Piedmont,Native American,7,0,0
+715,2020-11-16T00:00:00.000,Piedmont,Not Reported,894,13,4
+716,2020-11-16T00:00:00.000,Piedmont,Other Race,20,0,0
+717,2020-11-16T00:00:00.000,Piedmont,Two or more races,24,2,0
+718,2020-11-16T00:00:00.000,Piedmont,White,987,82,31
+719,2020-11-16T00:00:00.000,Pittsylvania-Danville,Asian or Pacific Islander,5,0,0
+720,2020-11-16T00:00:00.000,Pittsylvania-Danville,Black,982,118,22
+721,2020-11-16T00:00:00.000,Pittsylvania-Danville,Latino,112,5,0
+722,2020-11-16T00:00:00.000,Pittsylvania-Danville,Not Reported,834,16,1
+723,2020-11-16T00:00:00.000,Pittsylvania-Danville,Other Race,5,0,0
+724,2020-11-16T00:00:00.000,Pittsylvania-Danville,Two or more races,7,0,0
+725,2020-11-16T00:00:00.000,Pittsylvania-Danville,White,1006,90,42
+726,2020-11-16T00:00:00.000,Pittsylvania-Danville and Southside,Native American,2,0,0
+727,2020-11-16T00:00:00.000,Portsmouth,Asian or Pacific Islander,24,1,0
+728,2020-11-16T00:00:00.000,Portsmouth,Black,1830,255,49
+729,2020-11-16T00:00:00.000,Portsmouth,Latino,102,11,1
+730,2020-11-16T00:00:00.000,Portsmouth,Native American,4,2,0
+731,2020-11-16T00:00:00.000,Portsmouth,Not Reported,487,9,2
+732,2020-11-16T00:00:00.000,Portsmouth,Other Race,68,11,5
+733,2020-11-16T00:00:00.000,Portsmouth,Two or more races,26,6,0
+734,2020-11-16T00:00:00.000,Portsmouth,White,480,50,13
+735,2020-11-16T00:00:00.000,Prince William,Asian or Pacific Islander,824,64,22
+736,2020-11-16T00:00:00.000,Prince William,Black,1991,198,61
+737,2020-11-16T00:00:00.000,Prince William,Latino,7923,710,81
+738,2020-11-16T00:00:00.000,Prince William,Native American,33,1,1
+739,2020-11-16T00:00:00.000,Prince William,Not Reported,4468,25,1
+740,2020-11-16T00:00:00.000,Prince William,Other Race,788,25,0
+741,2020-11-16T00:00:00.000,Prince William,Two or more races,158,2,0
+742,2020-11-16T00:00:00.000,Prince William,White,2622,212,99
+743,2020-11-16T00:00:00.000,Rappahannock,Asian or Pacific Islander,134,11,3
+744,2020-11-16T00:00:00.000,Rappahannock,Black,1117,114,20
+745,2020-11-16T00:00:00.000,Rappahannock,Latino,1607,119,10
+746,2020-11-16T00:00:00.000,Rappahannock,Native American,9,0,0
+747,2020-11-16T00:00:00.000,Rappahannock,Not Reported,1696,30,0
+748,2020-11-16T00:00:00.000,Rappahannock,Other Race,203,5,0
+749,2020-11-16T00:00:00.000,Rappahannock,Two or more races,69,3,0
+750,2020-11-16T00:00:00.000,Rappahannock,White,2202,181,62
+751,2020-11-16T00:00:00.000,Rappahannock Rapidan,Asian or Pacific Islander,24,1,0
+752,2020-11-16T00:00:00.000,Rappahannock Rapidan,Black,409,45,13
+753,2020-11-16T00:00:00.000,Rappahannock Rapidan,Latino,948,69,8
+754,2020-11-16T00:00:00.000,Rappahannock Rapidan,Native American,3,0,0
+755,2020-11-16T00:00:00.000,Rappahannock Rapidan,Not Reported,863,11,7
+756,2020-11-16T00:00:00.000,Rappahannock Rapidan,Other Race,44,4,0
+757,2020-11-16T00:00:00.000,Rappahannock Rapidan,Two or more races,50,3,0
+758,2020-11-16T00:00:00.000,Rappahannock Rapidan,White,1437,78,29
+759,2020-11-16T00:00:00.000,Richmond,Asian or Pacific Islander,73,5,1
+760,2020-11-16T00:00:00.000,Richmond,Black,2064,286,41
+761,2020-11-16T00:00:00.000,Richmond,Latino,1515,118,8
+762,2020-11-16T00:00:00.000,Richmond,Native American,4,0,0
+763,2020-11-16T00:00:00.000,Richmond,Not Reported,874,2,1
+764,2020-11-16T00:00:00.000,Richmond,Other Race,192,7,2
+765,2020-11-16T00:00:00.000,Richmond,Two or more races,57,3,1
+766,2020-11-16T00:00:00.000,Richmond,White,1228,56,24
+767,2020-11-16T00:00:00.000,Roanoke,Asian or Pacific Islander,54,4,0
+768,2020-11-16T00:00:00.000,Roanoke,Black,749,42,9
+769,2020-11-16T00:00:00.000,Roanoke,Latino,527,33,1
+770,2020-11-16T00:00:00.000,Roanoke,Not Reported,1041,2,0
+771,2020-11-16T00:00:00.000,Roanoke,Other Race,40,1,0
+772,2020-11-16T00:00:00.000,Roanoke,Two or more races,24,2,0
+773,2020-11-16T00:00:00.000,Roanoke,White,1017,37,44
+774,2020-11-16T00:00:00.000,Southside,Asian or Pacific Islander,4,0,0
+775,2020-11-16T00:00:00.000,Southside,Black,704,50,23
+776,2020-11-16T00:00:00.000,Southside,Latino,14,0,0
+777,2020-11-16T00:00:00.000,Southside,Not Reported,687,7,5
+778,2020-11-16T00:00:00.000,Southside,Other Race,19,1,1
+779,2020-11-16T00:00:00.000,Southside,Two or more races,127,0,0
+780,2020-11-16T00:00:00.000,Southside,White,582,38,22
+781,2020-11-16T00:00:00.000,Thomas Jefferson,Asian or Pacific Islander,149,4,1
+782,2020-11-16T00:00:00.000,Thomas Jefferson,Black,667,87,18
+783,2020-11-16T00:00:00.000,Thomas Jefferson,Latino,797,35,3
+784,2020-11-16T00:00:00.000,Thomas Jefferson,Native American,5,0,0
+785,2020-11-16T00:00:00.000,Thomas Jefferson,Not Reported,355,3,0
+786,2020-11-16T00:00:00.000,Thomas Jefferson,Other Race,188,7,1
+787,2020-11-16T00:00:00.000,Thomas Jefferson,Two or more races,110,5,0
+788,2020-11-16T00:00:00.000,Thomas Jefferson,White,2591,118,57
+789,2020-11-16T00:00:00.000,Three Rivers,Black,864,64,15
+790,2020-11-16T00:00:00.000,Three Rivers,Latino,199,6,1
+791,2020-11-16T00:00:00.000,Three Rivers,Not Reported,273,2,1
+792,2020-11-16T00:00:00.000,Three Rivers,Other Race,32,3,0
+793,2020-11-16T00:00:00.000,Three Rivers,Two or more races,16,1,0
+794,2020-11-16T00:00:00.000,Three Rivers,White,1071,72,24
+795,2020-11-16T00:00:00.000,Virginia Beach,Asian or Pacific Islander,379,31,8
+796,2020-11-16T00:00:00.000,Virginia Beach,Black,2141,160,30
+797,2020-11-16T00:00:00.000,Virginia Beach,Latino,659,33,4
+798,2020-11-16T00:00:00.000,Virginia Beach,Native American,16,0,0
+799,2020-11-16T00:00:00.000,Virginia Beach,Not Reported,2321,18,2
+800,2020-11-16T00:00:00.000,Virginia Beach,Other Race,154,5,0
+801,2020-11-16T00:00:00.000,Virginia Beach,Two or more races,118,6,2
+802,2020-11-16T00:00:00.000,Virginia Beach,White,3596,224,65
+803,2020-11-16T00:00:00.000,Western Tidewater,Asian or Pacific Islander,23,2,3
+804,2020-11-16T00:00:00.000,Western Tidewater,Black,2220,163,73
+805,2020-11-16T00:00:00.000,Western Tidewater,Latino,65,1,2
+806,2020-11-16T00:00:00.000,Western Tidewater,Native American,5,0,0
+807,2020-11-16T00:00:00.000,Western Tidewater,Not Reported,1058,6,2
+808,2020-11-16T00:00:00.000,Western Tidewater,Other Race,88,1,2
+809,2020-11-16T00:00:00.000,Western Tidewater,Two or more races,67,1,0
+810,2020-11-16T00:00:00.000,Western Tidewater,White,1424,84,78
+811,2020-11-16T00:00:00.000,West Piedmont,Asian or Pacific Islander,19,2,1
+812,2020-11-16T00:00:00.000,West Piedmont,Black,716,107,23
+813,2020-11-16T00:00:00.000,West Piedmont,Latino,334,13,1
+814,2020-11-16T00:00:00.000,West Piedmont,Native American,4,0,0
+815,2020-11-16T00:00:00.000,West Piedmont,Not Reported,795,15,3
+816,2020-11-16T00:00:00.000,West Piedmont,Other Race,15,2,1
+817,2020-11-16T00:00:00.000,West Piedmont,Two or more races,19,0,0
+818,2020-11-16T00:00:00.000,West Piedmont,White,1942,203,68
+819,2020-11-15T00:00:00.000,Alexandria,Asian or Pacific Islander,168,11,1
+820,2020-11-15T00:00:00.000,Alexandria,Black,958,105,19
+821,2020-11-15T00:00:00.000,Alexandria,Latino,2088,141,13
+822,2020-11-15T00:00:00.000,Alexandria,Native American,4,0,0
+823,2020-11-15T00:00:00.000,Alexandria,Not Reported,280,3,1
+824,2020-11-15T00:00:00.000,Alexandria,Other Race,126,10,2
+825,2020-11-15T00:00:00.000,Alexandria,Two or more races,33,2,0
+826,2020-11-15T00:00:00.000,Alexandria,White,978,64,40
+827,2020-11-15T00:00:00.000,Alleghany,Asian or Pacific Islander,49,1,0
+828,2020-11-15T00:00:00.000,Alleghany,Black,253,9,5
+829,2020-11-15T00:00:00.000,Alleghany,Latino,226,13,0
+830,2020-11-15T00:00:00.000,Alleghany,Not Reported,1010,7,1
+831,2020-11-15T00:00:00.000,Alleghany,Other Race,36,2,0
+832,2020-11-15T00:00:00.000,Alleghany,Two or more races,26,1,0
+833,2020-11-15T00:00:00.000,Alleghany,White,2216,105,53
+834,2020-11-15T00:00:00.000,Alleghany and Roanoke,Native American,5,0,0
+835,2020-11-15T00:00:00.000,Arlington,Asian or Pacific Islander,263,29,13
+836,2020-11-15T00:00:00.000,Arlington,Black,502,93,36
+837,2020-11-15T00:00:00.000,Arlington,Latino,2119,265,28
+838,2020-11-15T00:00:00.000,Arlington,Native American,5,0,0
+839,2020-11-15T00:00:00.000,Arlington,Not Reported,546,4,1
+840,2020-11-15T00:00:00.000,Arlington,Other Race,133,14,4
+841,2020-11-15T00:00:00.000,Arlington,Two or more races,62,4,0
+842,2020-11-15T00:00:00.000,Arlington,White,1668,152,75
+843,2020-11-15T00:00:00.000,Central Shenandoah,Asian or Pacific Islander,102,2,0
+844,2020-11-15T00:00:00.000,Central Shenandoah,Black,304,17,6
+845,2020-11-15T00:00:00.000,Central Shenandoah,Latino,1307,63,7
+846,2020-11-15T00:00:00.000,Central Shenandoah,Native American,4,1,0
+847,2020-11-15T00:00:00.000,Central Shenandoah,Not Reported,1234,6,1
+848,2020-11-15T00:00:00.000,Central Shenandoah,Other Race,107,2,0
+849,2020-11-15T00:00:00.000,Central Shenandoah,Two or more races,64,1,1
+850,2020-11-15T00:00:00.000,Central Shenandoah,White,4594,234,79
+851,2020-11-15T00:00:00.000,Central Virginia,Asian or Pacific Islander,41,1,0
+852,2020-11-15T00:00:00.000,Central Virginia,Black,566,45,17
+853,2020-11-15T00:00:00.000,Central Virginia,Latino,123,7,4
+854,2020-11-15T00:00:00.000,Central Virginia,Native American,9,0,0
+855,2020-11-15T00:00:00.000,Central Virginia,Not Reported,2316,28,7
+856,2020-11-15T00:00:00.000,Central Virginia,Other Race,38,0,0
+857,2020-11-15T00:00:00.000,Central Virginia,Two or more races,30,0,0
+858,2020-11-15T00:00:00.000,Central Virginia,White,2619,138,39
+859,2020-11-15T00:00:00.000,Chesapeake,Asian or Pacific Islander,105,12,6
+860,2020-11-15T00:00:00.000,Chesapeake,Black,2128,268,37
+861,2020-11-15T00:00:00.000,Chesapeake,Latino,434,29,2
+862,2020-11-15T00:00:00.000,Chesapeake,Native American,12,0,0
+863,2020-11-15T00:00:00.000,Chesapeake,Not Reported,599,3,0
+864,2020-11-15T00:00:00.000,Chesapeake,Other Race,73,5,1
+865,2020-11-15T00:00:00.000,Chesapeake,Two or more races,71,3,0
+866,2020-11-15T00:00:00.000,Chesapeake,White,2084,183,34
+867,2020-11-15T00:00:00.000,Chesterfield,Asian or Pacific Islander,141,7,1
+868,2020-11-15T00:00:00.000,Chesterfield,Black,1745,152,36
+869,2020-11-15T00:00:00.000,Chesterfield,Latino,2269,124,9
+870,2020-11-15T00:00:00.000,Chesterfield,Native American,10,1,0
+871,2020-11-15T00:00:00.000,Chesterfield,Not Reported,1508,4,12
+872,2020-11-15T00:00:00.000,Chesterfield,Other Race,237,15,0
+873,2020-11-15T00:00:00.000,Chesterfield,Two or more races,63,7,0
+874,2020-11-15T00:00:00.000,Chesterfield,White,2783,197,95
+875,2020-11-15T00:00:00.000,Chickahominy,Asian or Pacific Islander,21,1,0
+876,2020-11-15T00:00:00.000,Chickahominy,Black,489,63,13
+877,2020-11-15T00:00:00.000,Chickahominy,Latino,137,8,0
+878,2020-11-15T00:00:00.000,Chickahominy,Native American,13,1,0
+879,2020-11-15T00:00:00.000,Chickahominy,Not Reported,570,3,2
+880,2020-11-15T00:00:00.000,Chickahominy,Other Race,31,3,0
+881,2020-11-15T00:00:00.000,Chickahominy,Two or more races,11,1,0
+882,2020-11-15T00:00:00.000,Chickahominy,White,1512,136,49
+883,2020-11-15T00:00:00.000,Crater,Asian or Pacific Islander,37,0,0
+884,2020-11-15T00:00:00.000,Crater,Black,2636,228,75
+885,2020-11-15T00:00:00.000,Crater,Latino,272,11,5
+886,2020-11-15T00:00:00.000,Crater,Native American,7,1,1
+887,2020-11-15T00:00:00.000,Crater,Not Reported,1169,11,5
+888,2020-11-15T00:00:00.000,Crater,Other Race,75,0,1
+889,2020-11-15T00:00:00.000,Crater,Two or more races,18,1,0
+890,2020-11-15T00:00:00.000,Crater,White,1276,72,31
+891,2020-11-15T00:00:00.000,Cumberland Plateau,Black,60,0,0
+892,2020-11-15T00:00:00.000,Cumberland Plateau,Latino,16,0,0
+893,2020-11-15T00:00:00.000,Cumberland Plateau,Not Reported,176,4,0
+894,2020-11-15T00:00:00.000,Cumberland Plateau,Other Race,7,1,0
+895,2020-11-15T00:00:00.000,Cumberland Plateau,Two or more races,11,0,0
+896,2020-11-15T00:00:00.000,Cumberland Plateau,White,1673,112,17
+897,2020-11-15T00:00:00.000,Cumberland Plateau and Lenowisco,Asian or Pacific Islander,9,0,0
+898,2020-11-15T00:00:00.000,"Cumberland Plateau, Lenowisco, and Mount Rogers",Native American,9,0,0
+899,2020-11-15T00:00:00.000,Eastern Shore,Black,885,103,29
+900,2020-11-15T00:00:00.000,Eastern Shore,Latino,284,12,3
+901,2020-11-15T00:00:00.000,Eastern Shore,Not Reported,77,0,0
+902,2020-11-15T00:00:00.000,Eastern Shore,Other Race,13,1,0
+903,2020-11-15T00:00:00.000,Eastern Shore,Two or more races,1,1,0
+904,2020-11-15T00:00:00.000,Eastern Shore,White,320,34,20
+905,2020-11-15T00:00:00.000,Eastern Shore and Three Rivers,Asian or Pacific Islander,15,1,0
+906,2020-11-15T00:00:00.000,Eastern Shore and Three Rivers,Native American,5,0,0
+907,2020-11-15T00:00:00.000,Fairfax,Asian or Pacific Islander,2395,297,80
+908,2020-11-15T00:00:00.000,Fairfax,Black,2188,270,66
+909,2020-11-15T00:00:00.000,Fairfax,Latino,12063,1110,106
+910,2020-11-15T00:00:00.000,Fairfax,Native American,39,1,1
+911,2020-11-15T00:00:00.000,Fairfax,Not Reported,2850,41,30
+912,2020-11-15T00:00:00.000,Fairfax,Other Race,1071,101,20
+913,2020-11-15T00:00:00.000,Fairfax,Two or more races,173,8,0
+914,2020-11-15T00:00:00.000,Fairfax,White,5916,605,322
+915,2020-11-15T00:00:00.000,Hampton,Asian or Pacific Islander,20,0,0
+916,2020-11-15T00:00:00.000,Hampton,Black,1114,80,23
+917,2020-11-15T00:00:00.000,Hampton,Latino,99,5,0
+918,2020-11-15T00:00:00.000,Hampton,Native American,3,0,1
+919,2020-11-15T00:00:00.000,Hampton,Not Reported,607,2,1
+920,2020-11-15T00:00:00.000,Hampton,Other Race,76,3,1
+921,2020-11-15T00:00:00.000,Hampton,Two or more races,22,0,0
+922,2020-11-15T00:00:00.000,Hampton,White,435,16,8
+923,2020-11-15T00:00:00.000,Henrico,Asian or Pacific Islander,295,13,4
+924,2020-11-15T00:00:00.000,Henrico,Black,2248,256,101
+925,2020-11-15T00:00:00.000,Henrico,Latino,1046,63,11
+926,2020-11-15T00:00:00.000,Henrico,Native American,15,0,0
+927,2020-11-15T00:00:00.000,Henrico,Not Reported,1160,7,3
+928,2020-11-15T00:00:00.000,Henrico,Other Race,235,19,1
+929,2020-11-15T00:00:00.000,Henrico,Two or more races,103,7,2
+930,2020-11-15T00:00:00.000,Henrico,White,2098,176,121
+931,2020-11-15T00:00:00.000,Lenowisco,Black,74,3,1
+932,2020-11-15T00:00:00.000,Lenowisco,Latino,52,0,0
+933,2020-11-15T00:00:00.000,Lenowisco,Not Reported,277,7,5
+934,2020-11-15T00:00:00.000,Lenowisco,Other Race,12,0,0
+935,2020-11-15T00:00:00.000,Lenowisco,Two or more races,30,1,0
+936,2020-11-15T00:00:00.000,Lenowisco,White,1976,127,30
+937,2020-11-15T00:00:00.000,Lord Fairfax,Asian or Pacific Islander,26,1,0
+938,2020-11-15T00:00:00.000,Lord Fairfax,Black,203,29,8
+939,2020-11-15T00:00:00.000,Lord Fairfax,Latino,947,64,10
+940,2020-11-15T00:00:00.000,Lord Fairfax,Native American,4,1,1
+941,2020-11-15T00:00:00.000,Lord Fairfax,Not Reported,522,5,6
+942,2020-11-15T00:00:00.000,Lord Fairfax,Other Race,106,6,1
+943,2020-11-15T00:00:00.000,Lord Fairfax,Two or more races,33,0,0
+944,2020-11-15T00:00:00.000,Lord Fairfax,White,2951,283,113
+945,2020-11-15T00:00:00.000,Loudoun,Asian or Pacific Islander,646,66,13
+946,2020-11-15T00:00:00.000,Loudoun,Black,413,36,7
+947,2020-11-15T00:00:00.000,Loudoun,Latino,2867,246,17
+948,2020-11-15T00:00:00.000,Loudoun,Native American,6,0,0
+949,2020-11-15T00:00:00.000,Loudoun,Not Reported,2040,4,0
+950,2020-11-15T00:00:00.000,Loudoun,Other Race,368,18,3
+951,2020-11-15T00:00:00.000,Loudoun,Two or more races,84,4,0
+952,2020-11-15T00:00:00.000,Loudoun,White,2386,142,95
+953,2020-11-15T00:00:00.000,Mount Rogers,Asian or Pacific Islander,9,1,0
+954,2020-11-15T00:00:00.000,Mount Rogers,Black,109,10,3
+955,2020-11-15T00:00:00.000,Mount Rogers,Latino,341,7,0
+956,2020-11-15T00:00:00.000,Mount Rogers,Not Reported,371,11,7
+957,2020-11-15T00:00:00.000,Mount Rogers,Other Race,20,2,2
+958,2020-11-15T00:00:00.000,Mount Rogers,Two or more races,15,1,0
+959,2020-11-15T00:00:00.000,Mount Rogers,White,4086,339,141
+960,2020-11-15T00:00:00.000,New River,Asian or Pacific Islander,145,0,0
+961,2020-11-15T00:00:00.000,New River,Black,294,5,1
+962,2020-11-15T00:00:00.000,New River,Latino,269,5,0
+963,2020-11-15T00:00:00.000,New River,Native American,5,0,0
+964,2020-11-15T00:00:00.000,New River,Not Reported,1203,13,0
+965,2020-11-15T00:00:00.000,New River,Other Race,21,0,0
+966,2020-11-15T00:00:00.000,New River,Two or more races,109,5,1
+967,2020-11-15T00:00:00.000,New River,White,3267,84,30
+968,2020-11-15T00:00:00.000,Norfolk,Asian or Pacific Islander,83,9,0
+969,2020-11-15T00:00:00.000,Norfolk,Black,2761,296,61
+970,2020-11-15T00:00:00.000,Norfolk,Latino,461,30,0
+971,2020-11-15T00:00:00.000,Norfolk,Native American,11,1,1
+972,2020-11-15T00:00:00.000,Norfolk,Not Reported,1093,4,1
+973,2020-11-15T00:00:00.000,Norfolk,Other Race,121,5,2
+974,2020-11-15T00:00:00.000,Norfolk,Two or more races,65,5,0
+975,2020-11-15T00:00:00.000,Norfolk,White,1277,75,22
+976,2020-11-15T00:00:00.000,Peninsula,Asian or Pacific Islander,78,6,7
+977,2020-11-15T00:00:00.000,Peninsula,Black,1535,97,30
+978,2020-11-15T00:00:00.000,Peninsula,Latino,498,24,2
+979,2020-11-15T00:00:00.000,Peninsula,Native American,7,2,1
+980,2020-11-15T00:00:00.000,Peninsula,Not Reported,1746,5,0
+981,2020-11-15T00:00:00.000,Peninsula,Other Race,201,4,0
+982,2020-11-15T00:00:00.000,Peninsula,Two or more races,70,4,1
+983,2020-11-15T00:00:00.000,Peninsula,White,1523,98,53
+984,2020-11-15T00:00:00.000,Piedmont,Asian or Pacific Islander,13,0,1
+985,2020-11-15T00:00:00.000,Piedmont,Black,774,82,24
+986,2020-11-15T00:00:00.000,Piedmont,Latino,84,9,2
+987,2020-11-15T00:00:00.000,Piedmont,Native American,7,0,0
+988,2020-11-15T00:00:00.000,Piedmont,Not Reported,889,13,4
+989,2020-11-15T00:00:00.000,Piedmont,Other Race,20,0,0
+990,2020-11-15T00:00:00.000,Piedmont,Two or more races,20,2,0
+991,2020-11-15T00:00:00.000,Piedmont,White,980,81,30
+992,2020-11-15T00:00:00.000,Pittsylvania-Danville,Asian or Pacific Islander,5,0,0
+993,2020-11-15T00:00:00.000,Pittsylvania-Danville,Black,970,116,22
+994,2020-11-15T00:00:00.000,Pittsylvania-Danville,Latino,112,5,0
+995,2020-11-15T00:00:00.000,Pittsylvania-Danville,Not Reported,820,16,1
+996,2020-11-15T00:00:00.000,Pittsylvania-Danville,Other Race,5,0,0
+997,2020-11-15T00:00:00.000,Pittsylvania-Danville,Two or more races,7,0,0
+998,2020-11-15T00:00:00.000,Pittsylvania-Danville,White,989,89,42
+999,2020-11-15T00:00:00.000,Pittsylvania-Danville and Southside,Native American,2,0,0
