@@ -1,1 +1,0 @@
-{"objectIdFieldName": "FID", "uniqueIdField": {"name": "FID", "isSystemMaintained": true}, "globalIdFieldName": "", "fields": [{"name": "Total_Cases_sum", "type": "esriFieldTypeDouble", "alias": "Total_Cases_sum", "sqlType": "sqlTypeFloat", "domain": null, "defaultValue": null}], "features": [{"attributes": {"Total_Cases_sum": 184685}}]}
