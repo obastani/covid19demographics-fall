@@ -17,7 +17,6 @@ unwanted = [".git", ".vscode", "code", "code_alex", "code_uncensor", "logs", "sa
 
 for folder in os.listdir(src):
     raw_dir = src + folder + "/raw/"
-    print("Moving " + folder)
     try:
         if folder in unwanted:
             continue
@@ -27,12 +26,13 @@ for folder in os.listdir(src):
                 dst_fname = dst + folder + "/" + file
                 print(raw_dir + file)
                 shutil.move(path, dst_fname)
+                print("Moving " + folder)
     except:
         print("No dir: " + raw_dir)
     
-    res = input("Continue? y or n")
-    if (res.lower()).strip() == "y":
-        continue
-    else:
-        break
+    # res = input("Continue? y or n")
+    # if (res.lower()).strip() == "y":
+    #     continue
+    # else:
+    #     break
     
