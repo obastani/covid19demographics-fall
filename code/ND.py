@@ -142,8 +142,15 @@ def run_ND(args):
 
     r = requests.get("https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases").text
     soup = BeautifulSoup(r, "html.parser")
-    url = soup.find('iframe')["src"]
-
+    # print(soup)
+    count = 0
+    url = None
+    for i in soup.find_all('iframe'):
+        if "powerbigov" in i['src']:
+            count += 1
+            url = i['src']
+    if count == 0 or count > 1:
+        raise Exception('Multiple or none valid iframes')
     # Using Selenium
     # driver = webdriver.Safari()
     driver = webdriver.Chrome(executable_path="andrew/ChromeDriver/chromedriver.exe")
