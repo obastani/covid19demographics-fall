@@ -19,7 +19,7 @@ def run_DC(args):
         fp.write(r.content)
         filename = fp.name
 
-    # filename = raw_name + "/2020-11-26.xlsx"
+    # filename = raw_name + "/2020-11-28.xlsx"
     
     age_gender_df = pd.read_excel(filename, sheet_name="Total Cases by Age and Gender")
     race_case_df = pd.read_excel(filename, sheet_name="Total Cases by Race")
@@ -124,7 +124,7 @@ def run_DC(args):
         out["# Deaths Race/Ethnicity: " + row[0]] = row[date_race_eth]
 
     # Add testing/Hospital data
-    desired = ['Total Overall Number of Tests', 'Total Residents Tested', 'Total Positives', 'Number of Deaths', 'People Recovered', 'Total ICU Beds in Hospitals', 'ICU Beds Available', 'Total Reported Ventilators in Hospitals', 'In-Use Ventilators in Hospitals', 'Ventilators Available in Hospitals', 'Total COVID-19 Patients in DC Hospitals', 'Total COVID-19 Patients in ICU']
+    desired = ['Total Overall Number of Tests', 'Total Residents Tested', 'Total Positives', 'Total Lives Lost', 'People Recovered', 'Total ICU Beds in Hospitals', 'ICU Beds Available', 'Total Reported Ventilators in Hospitals', 'In-Use Ventilators in Hospitals', 'Ventilators Available in Hospitals', 'Total COVID-19 Patients in DC Hospitals', 'Total COVID-19 Patients in ICU']
     count = 0
     date_hosp = new_test_hosp_df.columns.values.tolist()[-1]
     diff = (datetime.now() - (date_race_eth)).total_seconds()/3600
@@ -134,10 +134,11 @@ def run_DC(args):
 
     for index, row in new_test_hosp_df.iterrows():
         if row[0] in desired:
+            # print(row[0])
             count += 1
             out[row[0]] = row[date_hosp]
     if count != len(desired):
-        print(new_test_hosp_df)
+        print(count, len(desired))
         raise Exception("Did not scrape all of desired testing and hosp data")
 
     # Add scrapetime to out
