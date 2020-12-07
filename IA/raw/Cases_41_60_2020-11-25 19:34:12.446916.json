@@ -1,1 +1,0 @@
-{"objectIdFieldName": "FID", "uniqueIdField": {"name": "FID", "isSystemMaintained": true}, "globalIdFieldName": "", "fields": [{"name": "Middle_Age_41_60_sum", "type": "esriFieldTypeDouble", "alias": "Middle_Age_41_60_sum", "sqlType": "sqlTypeFloat", "domain": null, "defaultValue": null}], "features": [{"attributes": {"Middle_Age_41_60_sum": 62402}}]}
