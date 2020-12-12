@@ -58,19 +58,19 @@ def run_ME(args):
     if headers != "CasesShareofcases":
         raise Exception("Check age table headers")
 
-    exp_ages = ['<20', '20s', '30s', '40s', '50s', '60s', '70s', '80+']
+    exp_ages = ['<20', '20s', '30s', '40s', '50s', '60s', '70s', '80+', '110s']
     age_cats = [x for x in age_canvas.split("\n") if x != ""]
     
     # Error Proofing
     if len(exp_ages) != len(age_cats):
         raise Exception("Unexpected number of age categories")
 
-    # unk_idx = -1
+    unk_idx = -1
 
-    # if age_cats[len(age_cats) - 1] == "unknown":
-    #     unk_idx = len(age_cats) - 1
-    # else:
-    #     raise Exception("Unexpected index for unknown age")
+    if age_cats[len(age_cats) - 1] == "110s":
+        unk_idx = len(age_cats) - 1
+    else:
+        raise Exception("Unexpected index for 110s age")
 
     for i in range(len(age_cats)):
         if exp_ages[i] != age_cats[i]:
@@ -83,7 +83,12 @@ def run_ME(args):
     # Adjusted to put a dummy variable for last abs val because of single digit 
     for val in vals:
         # if count == unk_idx:
-        #     abs_val.append(-1)
+        #     plus_val = None
+        #     try:
+        #         plus_val = int(input('Abs Value for Cases for 110s? '))
+        #     except:
+        #         raise('Invalid input for 110s abs cases value')
+        #     abs_val.append(plus_val)
         #     count += 1
         #     continue
         if val != '':
@@ -92,6 +97,17 @@ def run_ME(args):
             else:
                 abs_val.append(val)
         count += 1
+
+    # Appending Cases for 110s
+    if unk_idx == len(abs_val):
+        plus_val = None
+        try:
+            plus_val = int(input('Abs Value for Cases 110s? '))
+        except:
+            raise('Invalid input for Abs Cases 110s')
+        abs_val.append(plus_val)
+    else:
+        raise('Wrong position for 110s or did not read the right number of ages')
     
     # Error Proofing
     if len(abs_val) != len(pct_val):
@@ -99,7 +115,7 @@ def run_ME(args):
         raise Exception("Unequal number of % and Abs values in Age table")
     if len(age_cats) != len(abs_val):
         raise Exception("Unequal number of age categories and values")
-    
+
     # Mapping to help when consolidating
     mapping = {
         '<20': "Age [0-19]",
@@ -110,7 +126,7 @@ def run_ME(args):
         '60s': "Age [60-69]",
         '70s': "Age [70-79]",
         '80+': "Age [80+]",
-        '120s': "Age [120+]"
+        '110s': "Age [110+]"
         # "unknown": "Unknown Age"
     }
     # Add to out
