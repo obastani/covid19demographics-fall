@@ -1,0 +1,1 @@
+{"objectIdFieldName": "FID", "uniqueIdField": {"name": "FID", "isSystemMaintained": true}, "globalIdFieldName": "", "fields": [{"name": "Female_Cases_sum", "type": "esriFieldTypeDouble", "alias": "Female_Cases_sum", "sqlType": "sqlTypeFloat", "domain": null, "defaultValue": null}], "features": [{"attributes": {"Female_Cases_sum": 129425}}]}
