@@ -63,30 +63,37 @@ def run_LA(args):
     now = str(datetime.now())
 
     fulldat = {}
-    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27Age%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Group_Num%2CValueType&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
-    with open("%s/age_%s.json" % (raw_name, now), "w") as fp:
-        json.dump(raw, fp)
     groups_death = ["%s_0_17", "%s_18_29", "%s_30_39", "%s_40_49", "%s_50_59", "%s_60_69", "%s_70_plus"]
     groups_case = ["%s_0_4", "%s_5_17", "%s_18_29", "%s_30_39", "%s_40_49", "%s_50_59", "%s_60_69", "%s_70_plus"] 
-    if len(raw["features"]) != 15:
-        raise Exception("Unexpected number of ages in LA: " + str(len(raw["features"])))
-    
     raw_cases = []
     raw_deaths = []
+
+    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/test_this_sheet/FeatureServer/0/query?f=json&where=Measure%3D%27Age%27%20AND%20ValueType%3D%27case%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Group_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true").json()
+    with open("%s/age_cases_%s.json" % (raw_name, now), "w") as fp:
+        json.dump(raw, fp)
+    if len(raw["features"]) != 8:
+        raise Exception("Unexpected number of ages in LA cases: " + str(len(raw["features"])))
+    
     for entry in raw["features"]:
-        if entry["attributes"]["ValueType"] == "case":
-            raw_cases.append(entry["attributes"])
-        else:
-            raw_deaths.append(entry["attributes"])
+        raw_cases.append(entry["attributes"]["value"])
+
+    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/test_this_sheet/FeatureServer/0/query?f=json&where=Measure%3D%27Age%27%20AND%20ValueType%3D%27death%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Group_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
+    with open("%s/age_deaths_%s.json" % (raw_name, now), "w") as fp:
+        json.dump(raw, fp)
+    if len(raw["features"]) != 7:
+        raise Exception("Unexpected number of ages in LA deaths: " + str(len(raw["features"])))  
+    for entry in raw["features"]:
+        raw_deaths.append(entry["attributes"]["value"])
+    
     if len(raw_cases) != 8:
         raise Exception("Unexpected number of entries for age cases: " + str(len(raw_cases)))
     if len(raw_deaths) != 7:
         raise Exception("Unexpected number of entries for age deaths: " + str(len(raw_deaths)))
 
     for apos in range(8):
-        fulldat[groups_case[apos] % "Case"] = raw_cases[apos]["value"]
+        fulldat[groups_case[apos] % "Case"] = raw_cases[apos]
     for apos in range(7):
-        fulldat[groups_death[apos] % "Deaths"] = raw_deaths[apos]["value"]
+        fulldat[groups_death[apos] % "Deaths"] = raw_deaths[apos]
 
     # for apos in range(8):
     #     for atype, aname in [("case", "Cases"), ("death", "Deaths")]:
@@ -102,7 +109,7 @@ def run_LA(args):
     #             fulldat[groups_death[apos] % aname] = dat[0]["value"]
 
 
-    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27Gender%27%20AND%20ValueType%3D%27case%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Group_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
+    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/test_this_sheet/FeatureServer/0/query?f=json&where=Measure%3D%27Gender%27%20AND%20ValueType%3D%27case%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Group_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
     with open("%s/gender_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     if len(raw["features"]) != 3:
@@ -114,15 +121,15 @@ def run_LA(args):
             raise Exception("Missing some gender data")
         fulldat[name] = dat[0]["value"]
 
-    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27State%20Tests%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
-    with open("%s/statelab_%s.json" % (raw_name, now), "w") as fp:
-        json.dump(raw, fp)
-    fulldat["TestsByStateLab"] = int(raw["features"][0]["attributes"]["value"])
+    # raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27State%20Tests%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
+    # with open("%s/statelab_%s.json" % (raw_name, now), "w") as fp:
+    #     json.dump(raw, fp)
+    # fulldat["TestsByStateLab"] = int(raw["features"][0]["attributes"]["value"])
 
-    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27Commercial%20Tests%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
-    with open("%s/commercial_%s.json" % (raw_name, now), "w") as fp:
-        json.dump(raw, fp)
-    fulldat["CommercialTests"] = int(raw["features"][0]["attributes"]["value"])
+    # raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27Commercial%20Tests%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
+    # with open("%s/commercial_%s.json" % (raw_name, now), "w") as fp:
+    #     json.dump(raw, fp)
+    # fulldat["CommercialTests"] = int(raw["features"][0]["attributes"]["value"])
 
     # raw = requests.get("https://www.arcgis.com/sharing/rest/content/items/69b726e2b82e408f89c3a54f96e8f776/data?f=json").json()
     # with open("%s/hospital_%s.json" % (raw_name, now), "w") as fp:
@@ -137,11 +144,11 @@ def run_LA(args):
     # fulldat["Hospitalized"] = int(ds[0]["data"])
     fulldat["Scrape_Time"] = now
 
-    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27Beds%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Geography%2CGroup_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()    
+    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/test_this_sheet/FeatureServer/0/query?f=json&where=Measure%3D%27Beds%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Geography%2CGroup_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()    
     with open("%s/bedsbyregion_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     if len(raw["features"]) != 18:
-        raise Exception("Unexpected number of bed/regions in LA")
+        raise Exception("Unexpected number of bed/regions in LA " + str(len(raw["features"])))
     for region in range(1, 10):
         for gnum, cat in [(1, "InUse"), (2, "StillAvailable")]:
             dat = [x["attributes"] for x in raw["features"] if x["attributes"]["Geography"] == "LDH Region %d" % region and x["attributes"]["Group_Num"] == gnum]
@@ -149,7 +156,7 @@ def run_LA(args):
                 raise Exception("Bad bed/region")
             fulldat["Beds_" + cat + "Region" + str(region)] = dat[0]["value"]
 
-    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27ICU%20Beds%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Geography%2CGroup_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
+    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/test_this_sheet/FeatureServer/0/query?f=json&where=Measure%3D%27ICU%20Beds%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Geography%2CGroup_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
     with open("%s/ICUbedsbyregion_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     if len(raw["features"]) != 18:
@@ -161,7 +168,7 @@ def run_LA(args):
                 raise Exception("Bad ICU bed/region")
             fulldat["ICUBeds_" + cat + "Region" + str(region)] = dat[0]["value"]
 
-    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Combined_COVID_Reporting/FeatureServer/0/query?f=json&where=Measure%3D%27Hospital%20Vents%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Geography%2CGroup_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true").json()
+    raw = requests.get("https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/test_this_sheet/FeatureServer/0/query?f=json&where=Measure%3D%27Hospital%20Vents%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Geography%2CGroup_Num&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Value%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true").json()
     with open("%s/ventbyregion_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     if len(raw["features"]) != 18:
@@ -174,7 +181,7 @@ def run_LA(args):
             fulldat["Vent_" + cat + "Region" + str(region)] = dat[0]["value"]
     
     # New data - Race by region
-    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Case_Deaths_Race_Region_new/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=LDH_Region%2CRace&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true').json()
+    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Case_Deaths_Race_Region_new/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=LDH_Region%2CRace&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Deaths%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true').json()
     with open("%s/DeathRacebyRegion_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     race_data = raw["features"]
@@ -191,7 +198,7 @@ def run_LA(args):
         fulldat["Deaths_" + race_data["LDH_Region"].strip() + "_race_" + race_data["Race"]] = race_data["value"]
 
     #Case Race by region
-    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Case_Deaths_Race_Region_new/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=LDH_Region%2CRace&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&resultType=standard&cacheHint=true').json()
+    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Case_Deaths_Race_Region_new/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=LDH_Region%2CRace&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Cases%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&resultType=standard&cacheHint=true').json()
     with open("%s/CaseRacebyRegion_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     race_data = raw["features"]
@@ -209,7 +216,7 @@ def run_LA(args):
 
     # New data - Race by parish
     out_parish = []
-    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_and_Deaths_by_Race_by_Parish_and_Region/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=0&resultRecordCount=65&resultType=standard&cacheHint=true').json()
+    raw = requests.get('https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_and_Deaths_by_Race_by_Parish_and_Region/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=0&resultRecordCount=66&resultType=standard&cacheHint=true').json()
     with open("%s/RacebyParish_%s.json" % (raw_name, now), "w") as fp:
         json.dump(raw, fp)
     race_parish_data = raw["features"]
@@ -343,7 +350,7 @@ def run_LA(args):
         if metric.strip() not in expected_metrics:
             raise Exception("Unexpected Age Metric " + con)
         fulldat["Probable Deaths Age: " + metric] = age
- 
+
     # Output
     fields = sorted([x for x in fulldat])
     exists = os.path.exists(data_name)
