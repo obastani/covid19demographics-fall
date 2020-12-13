@@ -64,13 +64,13 @@ def run_new_scrape():
 
     # Click - Tables tab
     # driver.find_element_by_xpath('//*[@id="pvExplorationHost"]/div/div/exploration/div/explore-canvas-modern/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-modern[2]/transform/div/div[3]/div/visual-modern/div/button').click()
-    driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
+    driver.find_element_by_xpath('//*[@id="embedWrapperID"]/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
     time.sleep(2)
-    driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
+    driver.find_element_by_xpath('//*[@id="embedWrapperID"]/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
     time.sleep(2)
-    driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
+    driver.find_element_by_xpath('//*[@id="embedWrapperID"]/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
     time.sleep(2)
-    driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
+    driver.find_element_by_xpath('//*[@id="embedWrapperID"]/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
     time.sleep(20)
 
     expected_cats = ["# of Cases", "# of Deaths", "% of Cases"]
