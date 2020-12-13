@@ -281,7 +281,7 @@ def run_NV(args):
 
     # Go to next page - Demographics
     for i in range(12):
-        driver.find_element_by_xpath('//*[@id="pbiAppPlaceHolder"]/ui-view/div/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
+        driver.find_element_by_xpath('//*[@id="embedWrapperID"]/div[2]/logo-bar/div/div/div/logo-bar-navigation/span/a[3]/i').click()
     time.sleep(2)
     
     # # # Age, Gender, Race/Ethnicity - Total tested
