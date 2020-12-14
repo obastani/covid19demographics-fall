@@ -41,13 +41,13 @@ def run_ME(args):
     # driver = webdriver.Safari()
     driver = webdriver.Chrome(executable_path="andrew/ChromeDriver/chromedriver.exe")
     driver.maximize_window()
-    driver.get("https://public.tableau.com/profile/maine.cdc.covid.19.response#!/vizhome/case-tables-and-summaries/cases-by-age")
+    driver.get("https://analytics.maine.gov/t/CDCExternal/views/case-tables-and-summaries/cases-by-age?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fanalytics.maine.gov%2F&:embed_code_version=3&:tabs=no&:toolbar=no&:showAppBanner=false&:display_spinner=no&:loadOrderID=5")
     time.sleep(5)
     
     out = {}
 
     # Age
-    driver.switch_to.frame(driver.find_element_by_xpath('//*[@id="ng-app"]/body/div[1]/div[2]/section/div/div[2]/section[2]/figure/js-api-viz/div/iframe'))
+    # driver.switch_to.frame(driver.find_element_by_xpath('//*[@id="ng-app"]/body/div[1]/div[2]/section/div/div[2]/section[2]/figure/js-api-viz/div/iframe'))
     driver.save_screenshot(raw_name + "/" + now + "_cases-by-age.png")
     
     age_canvas = getCanvas(driver.find_element_by_xpath('//*[@id="tabZoneId3"]/div/div/div/div[1]/div[5]/div[1]/canvas'), driver, False).replace(",", "")
@@ -58,19 +58,19 @@ def run_ME(args):
     if headers != "CasesShareofcases":
         raise Exception("Check age table headers")
 
-    exp_ages = ['<20', '20s', '30s', '40s', '50s', '60s', '70s', '80+', '110s']
+    exp_ages = ['<20', '20s', '30s', '40s', '50s', '60s', '70s', '80+']
     age_cats = [x for x in age_canvas.split("\n") if x != ""]
     
     # Error Proofing
     if len(exp_ages) != len(age_cats):
         raise Exception("Unexpected number of age categories")
 
-    unk_idx = -1
+    # unk_idx = -1
 
-    if age_cats[len(age_cats) - 1] == "110s":
-        unk_idx = len(age_cats) - 1
-    else:
-        raise Exception("Unexpected index for 110s age")
+    # if age_cats[len(age_cats) - 1] == "110s":
+    #     unk_idx = len(age_cats) - 1
+    # else:
+    #     raise Exception("Unexpected index for 110s age")
 
     for i in range(len(age_cats)):
         if exp_ages[i] != age_cats[i]:
@@ -98,16 +98,16 @@ def run_ME(args):
                 abs_val.append(val)
         count += 1
 
-    # Appending Cases for 110s
-    if unk_idx == len(abs_val):
-        plus_val = None
-        try:
-            plus_val = int(input('Abs Value for Cases 110s? '))
-        except:
-            raise('Invalid input for Abs Cases 110s')
-        abs_val.append(plus_val)
-    else:
-        raise('Wrong position for 110s or did not read the right number of ages')
+    # # Appending Cases for 110s
+    # if unk_idx == len(abs_val):
+    #     plus_val = None
+    #     try:
+    #         plus_val = int(input('Abs Value for Cases 110s? '))
+    #     except:
+    #         raise('Invalid input for Abs Cases 110s')
+    #     abs_val.append(plus_val)
+    # else:
+    #     raise('Wrong position for 110s or did not read the right number of ages')
     
     # Error Proofing
     if len(abs_val) != len(pct_val):
@@ -140,9 +140,9 @@ def run_ME(args):
         out["% Cases " + mapping[age]] = pct_case
     
     # Gender
-    driver.get("https://public.tableau.com/profile/maine.cdc.covid.19.response#!/vizhome/case-tables-and-summaries/cases-by-sex")
+    driver.get("https://analytics.maine.gov/t/CDCExternal/views/case-tables-and-summaries/cases-by-sex?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fanalytics.maine.gov%2F&:embed_code_version=3&:tabs=no&:toolbar=no&:showAppBanner=false&:display_spinner=no&:loadOrderID=7")
     time.sleep(5)
-    driver.switch_to.frame(driver.find_element_by_xpath('//*[@id="ng-app"]/body/div[1]/div[2]/section/div/div[2]/section[2]/figure/js-api-viz/div/iframe'))
+    # driver.switch_to.frame(driver.find_element_by_xpath('//*[@id="ng-app"]/body/div[1]/div[2]/section/div/div[2]/section[2]/figure/js-api-viz/div/iframe'))
     driver.save_screenshot(raw_name + "/" + now + "_cases-by-sex.png")
 
     sex_canvas = getCanvas(driver.find_element_by_xpath('//*[@id="tabZoneId3"]/div/div/div/div[1]/div[5]/div[1]/canvas'), driver, False).replace(",", "")
@@ -186,13 +186,13 @@ def run_ME(args):
         out["Total Recovered: " + sex] = sex_vals[sex][5]
 
     # Race/Ethnicity
-    driver.get('https://public.tableau.com/profile/maine.cdc.covid.19.response#!/vizhome/case-tables-and-summaries/cases-by-race-and-ethnicity')
+    driver.get('https://analytics.maine.gov/t/CDCExternal/views/case-tables-and-summaries/cases-by-race-and-ethnicity?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fanalytics.maine.gov%2F&:embed_code_version=3&:tabs=no&:toolbar=no&:showAppBanner=false&:display_spinner=no&:loadOrderID=6')
     time.sleep(5)
-    driver.switch_to.frame(driver.find_element_by_xpath('//*[@id="ng-app"]/body/div[1]/div[2]/section/div/div[2]/section[2]/figure/js-api-viz/div/iframe'))
+    # driver.switch_to.frame(driver.find_element_by_xpath('//*[@id="ng-app"]/body/div[1]/div[2]/section/div/div[2]/section[2]/figure/js-api-viz/div/iframe'))
     exp_races = ['American Indian or Alaska Native', 'Asian', 'Black or African American', 'White', 'Two or more', 'Other Race', 'Native Hawaiian or Other Pacific Islander', 'Not disclosed']
     driver.save_screenshot(raw_name + "/" + now + "_cases-by-race-and-ethnicity.png")
     driver.close()
-    print("Please open: https://public.tableau.com/profile/maine.cdc.covid.19.response#!/vizhome/case-tables-and-summaries/cases-by-race-and-ethnicity")
+    print("Please open:https://analytics.maine.gov/t/CDCExternal/views/case-tables-and-summaries/cases-by-race-and-ethnicity?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fanalytics.maine.gov%2F&:embed_code_version=3&:tabs=no&:toolbar=no&:showAppBanner=false&:display_spinner=no&:loadOrderID=6")
     ans = input("Look at the race-ethnicity table. Are there 8 races? y or n ")
     if ans.strip() == 'y':
         print("Please fill in the values manually:")
